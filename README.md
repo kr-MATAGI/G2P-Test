@@ -19,6 +19,9 @@ G2P-Test
   3. [PORORO](https://github.com/kakaobrain/pororo)
   4. [KoG2Padvanced](https://github.com/seongmin-mun/KoG2Padvanced)
   5. [sigmorphon](https://github.com/sigmorphon/2021-task1)
+  6. [g2pk] (https://github.com/Kyubyong/g2pK)
+  7. [phonemizer](https://github.com/bootphon/phonemizer)
+  8. [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer)
 
 
 ### Datasets
