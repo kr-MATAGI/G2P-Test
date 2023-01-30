@@ -19,3 +19,16 @@ G2P-Test
   3. [PORORO](https://github.com/kakaobrain/pororo)
   4. [KoG2Padvanced](https://github.com/seongmin-mun/KoG2Padvanced)
   5. [sigmorphon](https://github.com/sigmorphon/2021-task1)
+
+
+### Datasets
+  
+  | 언어 | 이름 |설명|
+  |----|--------|----|
+  | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words|
+  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train/val/test=8:1:1)|
+
+### Dictionary
+  
+  1. CMU Pronouncing Dictionary
+  2. UniMorph
