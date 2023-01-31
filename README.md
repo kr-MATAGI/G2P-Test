@@ -19,7 +19,7 @@ G2P-Test
 ### 논문
 1. [SIGMORPHON 2020](https://aclanthology.org/2020.sigmorphon-1.2.pdf)
 2. [SIGMORPHON 2021](https://aclanthology.org/2021.sigmorphon-1.13.pdf)
-3. [한국어 발음 변환기(G2P)의 현황과 성능 향상에 대한 언어학적 제안](https://preview.kstudy.com/W_files/kiss61/1m500921_pv.pdf): 한국어 G2P 라이브러리 개선
+3. [한국어 발음 변환기(G2P)의 현황과 성능 향상에 대한 언어학적 제안](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160): 한국어 G2P 라이브러리 개선
 4. [Korean speech recognition based on grapheme](https://www.jask.or.kr/articles/xml/bQA1/): 문자소 기반
 5. [GRAPHEME-TO-PHONEME CONVERSION USING LONG SHORT-TERM MEMORY RECURRENT NEURAL NETWORKS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178767): LSTM-RNN 이용
 6. [Massively Multilingual Pronunciation Mining with WikiPron](https://aclanthology.org/2020.lrec-1.521.pdf): WikiPron 논문
