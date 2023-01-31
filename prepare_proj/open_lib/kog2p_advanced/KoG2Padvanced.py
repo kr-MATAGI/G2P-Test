@@ -270,7 +270,7 @@ def join_jamos(s, ignore_err=True):
 def KoG2Padvanced(Sentence):
 
     # 알고리즘 선행 규칙 추가
-    from G2P.KoG2P import KoG2P
+    from .KoG2P import KoG2P
     import os
     import json
     import re
@@ -504,17 +504,3 @@ def KoG2Padvanced(Sentence):
     totalSentence = totalSentence.strip()
 
     return totalSentence
-
-
-
-
-
-
-
-
-
-
-
-
-
-
