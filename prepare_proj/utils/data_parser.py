@@ -35,7 +35,7 @@ class SIG_parser:
             for line in f.readlines():
                 word, pron = line.strip().split('\t')
                 words.append(word)
-                prons.append(pron)
+                prons.append(pron.replace(" ", ""))
 
         data = pd.DataFrame()
         data['word'] = words
