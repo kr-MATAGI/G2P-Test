@@ -35,27 +35,32 @@ G2P-Test
   
   | 언어 | 이름 |설명|총|
   |:----:|:--------:|:----:|:----:|
-  | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words 
-  (train : 8,000 / val : 1,000 / test : 1,000)|16,714|
+  | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words (train:8,000/ val: 1,000/ test: 1,000)|16,714|
   |    |CMUDict         |   6,714        |
-  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words 
-  (train : 33,344 / val : 4,168 / test : 4,168)|143,405|
+  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|143,405|
   |    |CMUDict          | 102,405       |
   
 ### Eval
-#### Kr
+#### - Kr
 | model | dataset | WER | PER|
 |:----:|:----:|:----:|:----:|
 | [CLUZH-4](https://aclanthology.org/2021.sigmorphon-1.17.pdf)| SIGMORPHON 2021| 16.2 | - |
 | [GBERT attention](https://arxiv.org/pdf/2201.10716.pdf) | SIGMORPHON 2021 | 17.94 | 3.16 |
+| [SMART-G2p](https://github.com/SMART-TTS/SMART-G2P?fbclid=IwAR2EyuFnFOekhGn_LmVn8kW-QytRMRfwTVCq9pMQquF9ggQLDPvYxZRiwdM) | ? | ? | ? |
+| [KoG2Padvanced]( https://github.com/seongmin-mun/KoG2Padvanced)| ? | ? | ? |
+| [KoG2P](https://github.com/scarletcho/KoG2P) | ? | ? | ? |
 
-#### En
+
+#### - En
 | model | dataset | WER | PER|
 |:----:|:----:|:----:|:----:|
 | [Duakoad-1](https://aclanthology.org/2021.sigmorphon-1.16v2.pdf) | SIGMORPHON 2021 | 37.43 | - |
 | [Transformer + Bi-LSTM + CNN](https://arxiv.org/pdf/1904.03446.pdf) | CMUDict + their internal dataset | 19.88 | 4.6 |
 | [Transformer](https://arxiv.org/ftp/arxiv/papers/2004/2004.06338.pdf) | CMUDict | 22.1 | 5.23 |
+| [g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) | CMUDict | 30.2 | - |
 | [T5](https://github.com/lingjzhu/CharsiuG2P) | [ipa-dict](https://raw.githubusercontent.com/open-dict-data/ipa-dict/master/data/en_US.txt) | 25.9 | 8.8 |
+| [G2pE](https://github.com/Kyubyong/g2p) | CMUDict | ? | ? |
+| [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) | CMUDict, wikipron | ? | ? |
 
 ### Dictionary
   
