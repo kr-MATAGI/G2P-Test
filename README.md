@@ -24,7 +24,7 @@ G2P-Test
   8. [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer)
   9. [KoG2P](https://github.com/scarletcho/KoG2P)
   10. [G2PE](https://github.com/Kyubyong/g2p)
-  11. [G2P-seq2seq)(https://github.com/cmusphinx/g2p-seq2seq)
+  11. [G2P-seq2seq](https://github.com/cmusphinx/g2p-seq2seq)
 
 ### Datasets
   
