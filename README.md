@@ -17,8 +17,8 @@ G2P-Test
 
 
 ### 논문
-| 구분 | 언어 | 논문명 | 설명 | Open Source |
-|:----:|:----:|:------|:---|:-----------|
+| 구분    | 언어 | 논문명 | 설명 | Open Source |
+|:------:|:----:|:------|:---|:-----------|
 |1     | Muti | [SIGMORPHON 2020](https://aclanthology.org/2020.sigmorphon-1.2.pdf) | - | [SIGMORPHON](https://github.com/sigmorphon) |
 |2     | Muti | [SIGMORPHON 2021](https://aclanthology.org/2021.sigmorphon-1.13.pdf) | - | [SIGMORPHON](https://github.com/sigmorphon) |
 |3     | KR | [한국어 발음 변환기(G2P)의 현황과 성능 향상에 대한 언어학적 제안](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160) | 한국어 G2P 라이브러리 개선 | [KoG2Padvanced](https://github.com/seongmin-mun/KoG2Padvanced) |
