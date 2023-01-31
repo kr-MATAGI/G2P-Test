@@ -1,5 +1,6 @@
 {
   "model": "byt5",
+  "language": "en-us",
   "model_name": "google/byt5-small",
   "output_dir": "./results/byt5",
   "train": true,
