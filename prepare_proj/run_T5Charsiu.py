@@ -64,12 +64,10 @@ def compute_metrics(pred):
 
 ### Main ###
 if __name__ == '__main__':
-    '''
-    !python src/train.py --output_dir path_to_output --language dsb --pretrained_model True --train --train_batch_size 32  --gradient_accumulation 1 --eval_batch_size 64 --train_data data/low_resource/train/dsb.tsv --dev_data data/low_resource/dev/dsb.tsv --model_name pretrained_model_path --learning_rate 1e-4 --save_steps 100 --logging_steps 50 --eval_steps 100 --epochs 50
-    '''
-
     with open("./config/t5_config.json") as config_file:
         args = AttrDict(json.load(config_file))
+        for k, v in args.items():
+            print(f"[run_T5Charsiu] {k} - {v}")
 
     # setting the evaluation metrics
     cer_metric = load_metric("cer")
