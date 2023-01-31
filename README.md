@@ -29,7 +29,7 @@ G2P-Test
   | 언어 | 이름 |설명|
   |----|--------|----|
   | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words|
-       |ipa-dict         | 62,676
+  |    |ipa-dict         | 62,676
   | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train/val/test=8:1:1)|
 
 ### Dictionary
