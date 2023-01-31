@@ -17,8 +17,8 @@ G2P-Test
 
 
 ### 논문
-| 구분 | 언어 | 논문명 | 설명 | Open Source |
-|:----:|:----:|:------|:---|:-----------|
+| 구분    | 언어 | 논문명 | 설명 | Open Source |
+|:------:|:----:|:------|:---|:-----------|
 |1     | Muti | [SIGMORPHON 2020](https://aclanthology.org/2020.sigmorphon-1.2.pdf) | - | [SIGMORPHON](https://github.com/sigmorphon) |
 |2     | Muti | [SIGMORPHON 2021](https://aclanthology.org/2021.sigmorphon-1.13.pdf) | - | [SIGMORPHON](https://github.com/sigmorphon) |
 |3     | KR | [한국어 발음 변환기(G2P)의 현황과 성능 향상에 대한 언어학적 제안](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160) | 한국어 G2P 라이브러리 개선 | [KoG2Padvanced](https://github.com/seongmin-mun/KoG2Padvanced) |
@@ -29,7 +29,7 @@ G2P-Test
 |8     | EN | [Transformer based Grapheme-to-Phoneme Conversion](https://arxiv.org/ftp/arxiv/papers/2004/2004.06338.pdf) | Transformer 이용 | [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) |
 |9     | EN | [NEURAL GRAPHEME-TO-PHONEME CONVERSION WITH PRE-TRAINED GRAPHEME MODELS](https://arxiv.org/abs/2201.10716) | BERT, BERT-fused 이용 | [GraphemeBERT](https://github.com/ldong1111/GraphemeBERT) |
 |10     | EN | [ByT5 model for massively multilingual grapheme-to-phoneme conversion](https://arxiv.org/pdf/2204.03067.pdf) | T5 이용 | [CharsiuG2P](https://github.com/lingjzhu/CharsiuG2P#) |
-|11     | EN | [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf) | 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation  | ? |
+|11     | EN | [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf) | 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation  | [g2p_kd](https://github.com/sigmeta/g2p-kd) |
 
 ### Datasets
   
