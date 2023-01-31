@@ -1,0 +1,129 @@
+from transformers import T5ForConditionalGeneration, AutoTokenizer
+from utils.data_parser import SIG_parser
+
+import argparse
+import torch
+import os
+import json
+
+from dataclasses import dataclass
+from attrdict import AttrDict
+
+from datasets import load_metric
+from typing import Union, Dict, List
+
+from transformers import (
+    Seq2SeqTrainer,
+    Seq2SeqTrainingArguments
+)
+
+#==========================================
+def prepare_dataset(batch):
+#==========================================
+    batch['input_ids'] = batch['word']
+    batch['labels'] = batch['pron']
+
+    return batch
+
+@dataclass
+#==========================================
+class DataCollatorWithPadding:
+#==========================================
+    tokenizer: AutoTokenizer
+    padding: Union[bool, str] = True
+
+    def __call__(self, features: List[Dict[str, Union[List[int], torch.Tensor]]]) -> Dict[str, torch.Tensor]:
+        # split inputs and labels since they have to be of different lenghts and need
+        # different padding methods
+        words = [feature["input_ids"] for feature in features]
+        prons = [feature["labels"] for feature in features]
+
+        batch = self.tokenizer(words, padding=self.padding, add_special_tokens=False,
+                               return_attention_mask=True, return_tensors='pt')
+        pron_batch = self.tokenizer(prons, padding=self.padding, add_special_tokens=True,
+                                    return_attention_mask=True, return_tensors='pt')
+
+        # replace padding with -100 to ignore loss correctly
+        batch['labels'] = pron_batch['input_ids'].masked_fill(pron_batch.attention_mask.ne(1), -100)
+
+        return batch
+
+#==========================================
+def compute_metrics(pred):
+#==========================================
+    labels_ids = pred.label_ids
+    pred_ids = pred.predictions
+
+    pred_str = tokenizer.batch_decode(pred_ids, skip_special_tokens=True)
+    labels_ids[labels_ids == -100] = tokenizer.pad_token_id
+    label_str = tokenizer.batch_decode(labels_ids, skip_special_tokens=True)
+
+    cer = cer_metric.compute(predictions=pred_str, references=label_str)
+    wer = wer_metric.compute(predictions=pred_str, references=label_str)
+    return {"cer": cer, 'wer': wer}
+
+### Main ###
+if __name__ == '__main__':
+    '''
+    !python src/train.py --output_dir path_to_output --language dsb --pretrained_model True --train --train_batch_size 32  --gradient_accumulation 1 --eval_batch_size 64 --train_data data/low_resource/train/dsb.tsv --dev_data data/low_resource/dev/dsb.tsv --model_name pretrained_model_path --learning_rate 1e-4 --save_steps 100 --logging_steps 50 --eval_steps 100 --epochs 50
+    '''
+
+    with open("./config/t5_config.json") as config_file:
+        args = AttrDict(json.load(config_file))
+
+    # setting the evaluation metrics
+    cer_metric = load_metric("cer")
+    wer_metric = load_metric("wer")
+
+    if args.train == True:
+        sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
+        train_data = sig_parser.sig_data_load(target_lang="eng_us", mode="train")
+        train_dataset = train_data.map(prepare_dataset)
+
+        dev_data = sig_parser.sig_data_load(target_lang="eng_us", mode="dev")
+        dev_dataset = dev_data.map(prepare_dataset)
+
+        test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
+        test_dataset = test_data.map(prepare_dataset)
+
+        tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+        data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
+
+        # intitalizing the model
+        print('Loading pretrained model...')
+        model = T5ForConditionalGeneration.from_pretrained(args.model_name)
+
+        training_args = Seq2SeqTrainingArguments(
+            predict_with_generate=True,
+            generation_num_beams=5,
+            evaluation_strategy="steps",
+            per_device_train_batch_size=args.train_batch_size,
+            per_device_eval_batch_size=args.eval_batch_size,
+            num_train_epochs=args.epochs,
+            gradient_accumulation_steps=args.gradient_accumulation,
+            learning_rate=args.learning_rate,
+            warmup_steps=args.warmup_steps,
+            lr_scheduler_type="cosine",
+            fp16=args.fp16,
+            output_dir=args.output_dir,
+            logging_steps=args.logging_steps,
+            save_steps=args.save_steps,
+            eval_steps=args.eval_steps,
+            save_total_limit=2,
+            load_best_model_at_end=True
+        )
+
+        trainer = Seq2SeqTrainer(
+            model=model,
+            tokenizer=tokenizer,
+            args=training_args,
+            compute_metrics=compute_metrics,
+            train_dataset=train_dataset,
+            eval_dataset=dev_dataset,
+            data_collator=data_collator,
+        )
+
+        eval_results = trainer.evaluate(eval_dataset=test_dataset, num_beams=5)
+        print(eval_results)
+        with open(os.path.join(args.output_dir, 'results'),'w') as out:
+            out.write('%s\t%s\t%s\n'%(args.language,eval_results['eval_cer'],eval_results['eval_wer']))
