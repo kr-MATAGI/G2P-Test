@@ -81,7 +81,7 @@ if __name__ == '__main__':
         dev_data = sig_parser.sig_data_load(target_lang="eng_us", mode="dev")
         dev_dataset = dev_data.map(prepare_dataset)
 
-        tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+        tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
         # intitalizing the model
@@ -126,7 +126,7 @@ if __name__ == '__main__':
         test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
         test_dataset = test_data.map(prepare_dataset)
 
-        tokenizer = AutoTokenizer.from_pretrained(args.checkpoint)
+        tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
         model = T5ForConditionalGeneration.from_pretrained(args.checkpoint)
