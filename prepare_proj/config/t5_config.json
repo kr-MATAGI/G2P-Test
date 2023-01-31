@@ -1,7 +1,7 @@
 {
   "model": "byt5",
   "language": "en-us",
-  "model_name": "google/byt5-small",
+  "model_name": "charsiu/g2p_multilingual_byT5_tiny_16_layers_100",
   "output_dir": "./results/byt5",
   "train": true,
   "evaluate": true,
