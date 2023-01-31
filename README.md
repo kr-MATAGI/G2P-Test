@@ -35,9 +35,9 @@ G2P-Test
   
   | 언어 | 이름 |설명|
   |:----:|:--------:|:----:|
-  | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words (train:8,000/val:1,000/test:1,000)=8:1:1|
+  | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words (train:8,000/val:1,000/test:1,000)|
   |    |CMUDict         |   6,714        |
-  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train:33,344/val:4,168/test:4,168=8:1:1)|
+  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train:33,344/val:4,168/test:4,168)|
   |    |CMUDict          | 102,405       |
 
 ### Dictionary
