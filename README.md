@@ -27,10 +27,11 @@ G2P-Test
 ### Datasets
   
   | 언어 | 이름 |설명|
-  |----|--------|----|
+  |:----:|:--------:|:----:|
   | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words|
-  |    |ipa-dict         | 62,676
+  |    |ipa-dict         | 62,676 (중복 제거 해야 함)               |
   | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train/val/test=8:1:1)|
+  |    |ipa-dict         | 125,927 (중복 제거 해야 함)              |
 
 ### Dictionary
   
