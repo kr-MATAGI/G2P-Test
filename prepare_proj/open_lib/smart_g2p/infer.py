@@ -12,7 +12,7 @@ import hgtk
 #torch.cuda.manual_seed(1488)
 
 graphemes = ['PAD', 'SOS'] + list('abcdefghijklmnopqrstuvwxyz.\'-') + ['EOS']
-with open('symbols.txt', 'r', encoding='UTF8') as f:
+with open('./symbols.txt', 'r', encoding='UTF8') as f:
     phonemes = ['PAD', 'SOS'] + f.read().strip().split('\n') + ['EOS']
 
 g2idx = {g: idx for idx, g in enumerate(graphemes)}
