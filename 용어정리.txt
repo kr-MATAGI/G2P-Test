@@ -11,5 +11,5 @@
  
 ### 평가 지표
   
-  1. WER
-  2. PER
+  1. WER (Word Error Rate)
+  2. PER (Phoneme Error Rate)
