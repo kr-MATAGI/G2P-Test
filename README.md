@@ -23,7 +23,7 @@ G2P-Test
   7. [phonemizer](https://github.com/bootphon/phonemizer)
   8. [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer)
   9. [KoG2P](https://github.com/scarletcho/KoG2P)
-  10.[G2PE](https://github.com/Kyubyong/g2p)
+  10. [G2PE](https://github.com/Kyubyong/g2p)
 
 ### Datasets
   
