@@ -102,12 +102,12 @@ OUTPUT_DIM = len(phonemes)
 
 import os
 os.environ["CUDA_VISIBLE_DEVICES"]='0'
-#device = torch.device('cpu')
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cpu')
+#device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print("[infer.py] curr device: ", device)
 model = TransformerModel(INPUT_DIM, OUTPUT_DIM, hidden=128, enc_layers=3, dec_layers=1).to(device)
 model.load_state_dict(torch.load("./smart_g2p/transliteration.pt"))
-#model.to(device)
+model.to(device)
 #model.eval()
 
 #random.seed(1488)
@@ -115,7 +115,7 @@ model.load_state_dict(torch.load("./smart_g2p/transliteration.pt"))
 #torch.cuda.manual_seed(1488)
 
 def transformer_transliteration(text):
-    src = torch.tensor(g2seq(text)).unsqueeze(1).cuda()
+    src = torch.tensor(g2seq(text)).unsqueeze(1)#.cuda()
     memory = model.transformer.encoder(model.pos_encoder(model.encoder(src)))
 
     out_indexes = [p2idx['SOS'], ]
