@@ -7,3 +7,9 @@
   5. 유음
   6. 불파음
   7. 급여하다 (feeding)
+ 
+ 
+### 평가 지표
+  
+  1. WER (Word Error Rate)
+  2. PER (Phoneme Error Rate)

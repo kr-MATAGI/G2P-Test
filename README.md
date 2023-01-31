@@ -17,17 +17,19 @@ G2P-Test
 
 
 ### 논문
-1. [SIGMORPHON 2020](https://aclanthology.org/2020.sigmorphon-1.2.pdf)
-2. [SIGMORPHON 2021](https://aclanthology.org/2021.sigmorphon-1.13.pdf)
-3. [한국어 발음 변환기(G2P)의 현황과 성능 향상에 대한 언어학적 제안](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160): 한국어 G2P 라이브러리 개선
-4. [Korean speech recognition based on grapheme](https://www.jask.or.kr/articles/xml/bQA1/): 문자소 기반
-5. [GRAPHEME-TO-PHONEME CONVERSION USING LONG SHORT-TERM MEMORY RECURRENT NEURAL NETWORKS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178767): LSTM-RNN 이용
-6. [Massively Multilingual Pronunciation Mining with WikiPron](https://aclanthology.org/2020.lrec-1.521.pdf): WikiPron 논문
-7. [Neural Transition-based String Transduction for Limited-Resource Setting in Morphology](https://web.archive.org/web/20200213235925id_/https://www.zora.uzh.ch/id/eprint/162579/1/MakarovClematide2018.pdf): 2018년 transduction
-8. [Transformer based Grapheme-to-Phoneme Conversion](https://arxiv.org/ftp/arxiv/papers/2004/2004.06338.pdf): Transformer 이용
-9. [NEURAL GRAPHEME-TO-PHONEME CONVERSION WITH PRE-TRAINED GRAPHEME MODELS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746447): BERT, BERT-fused 이용
-10. [ByT5 model for massively multilingual grapheme-to-phoneme conversion](https://arxiv.org/pdf/2204.03067.pdf): T5 이용
-11. [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf): 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation 
+| 구분 | 언어 | 논문명 | 설명 | Open Source |
+|:----:|:----:|:------|:---|:-----------|
+|1     | Muti | [SIGMORPHON 2020](https://aclanthology.org/2020.sigmorphon-1.2.pdf) | - | [SIGMORPHON](https://github.com/sigmorphon) |
+|2     | Muti | [SIGMORPHON 2021](https://aclanthology.org/2021.sigmorphon-1.13.pdf) | - | [SIGMORPHON](https://github.com/sigmorphon) |
+|3     | KR | [한국어 발음 변환기(G2P)의 현황과 성능 향상에 대한 언어학적 제안](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160) | 한국어 G2P 라이브러리 개선 | [KoG2Padvanced](https://github.com/seongmin-mun/KoG2Padvanced) |
+|4     | KR | [Korean speech recognition based on grapheme](https://www.jask.or.kr/articles/xml/bQA1/) | 문자소 기반 | ? |
+|5     | KR | [GRAPHEME-TO-PHONEME CONVERSION USING LONG SHORT-TERM MEMORY RECURRENT NEURAL NETWORKS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178767) | LSTM-RNN 이용, [Review](https://changjinhan.github.io/paper%20review/LSTM-G2P/) | ? |
+|6     | EN | [Massively Multilingual Pronunciation Mining with WikiPron](https://aclanthology.org/2020.lrec-1.521.pdf) | WikiPron 논문 | [wikipron](https://github.com/kylebgorman/wikipron), [wikipron-modeling](https://github.com/CUNY-CL/wikipron-modeling) |
+|7     | EN | [Neural Transition-based String Transduction for Limited-Resource Setting in Morphology](https://web.archive.org/web/20200213235925id_/https://www.zora.uzh.ch/id/eprint/162579/1/MakarovClematide2018.pdf) | 2018년 transduction | ? |
+|8     | EN | [Transformer based Grapheme-to-Phoneme Conversion](https://arxiv.org/ftp/arxiv/papers/2004/2004.06338.pdf) | Transformer 이용 | [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) |
+|9     | EN | [NEURAL GRAPHEME-TO-PHONEME CONVERSION WITH PRE-TRAINED GRAPHEME MODELS](https://arxiv.org/abs/2201.10716) | BERT, BERT-fused 이용 | [GraphemeBERT](https://github.com/ldong1111/GraphemeBERT) |
+|10     | EN | [ByT5 model for massively multilingual grapheme-to-phoneme conversion](https://arxiv.org/pdf/2204.03067.pdf) | T5 이용 | [CharsiuG2P](https://github.com/lingjzhu/CharsiuG2P#) |
+|11     | EN | [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf) | 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation  | ? |
 
 ### Datasets
   
