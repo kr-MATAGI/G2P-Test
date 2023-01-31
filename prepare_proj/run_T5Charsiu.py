@@ -75,16 +75,13 @@ if __name__ == '__main__':
     cer_metric = load_metric("cer")
     wer_metric = load_metric("wer")
 
-    if args.train == True:
+    if args.train:
         sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
         train_data = sig_parser.sig_data_load(target_lang="eng_us", mode="train")
         train_dataset = train_data.map(prepare_dataset)
 
         dev_data = sig_parser.sig_data_load(target_lang="eng_us", mode="dev")
         dev_dataset = dev_data.map(prepare_dataset)
-
-        test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
-        test_dataset = test_data.map(prepare_dataset)
 
         tokenizer = AutoTokenizer.from_pretrained(args.model_name)
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
@@ -123,7 +120,41 @@ if __name__ == '__main__':
             data_collator=data_collator,
         )
 
+        trainer.train()
+        trainer.save_model(args.output_dir)
+
+    elif args.evaluate:
+        sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
+        test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
+        test_dataset = test_data.map(prepare_dataset)
+
+        tokenizer = AutoTokenizer.from_pretrained(args.checkpoint)
+        data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
+
+        model = T5ForConditionalGeneration.from_pretrained(args.checkpoint)
+
+        training_args = Seq2SeqTrainingArguments(
+            predict_with_generate=True,
+            generation_num_beams=5,
+            evaluation_strategy="steps",
+            per_device_train_batch_size=args.train_batch_size,
+            per_device_eval_batch_size=args.eval_batch_size,
+            output_dir=args.output_dir,
+            logging_steps=args.logging_steps,
+            save_steps=args.save_steps,
+            eval_steps=args.eval_steps,
+            save_total_limit=2
+        )
+
+        trainer = Seq2SeqTrainer(
+            model=model,
+            tokenizer=tokenizer,
+            args=training_args,
+            compute_metrics=compute_metrics,
+            data_collator=data_collator
+        )
+
         eval_results = trainer.evaluate(eval_dataset=test_dataset, num_beams=5)
         print(eval_results)
-        with open(os.path.join(args.output_dir, 'results'),'w') as out:
-            out.write('%s\t%s\t%s\n'%(args.language,eval_results['eval_cer'],eval_results['eval_wer']))
+        with open(os.path.join(args.output_dir, 'results'), 'w') as out:
+            out.write('%s\t%s\t%s\n'%(args.language,eval_results['eval_cer'], eval_results['eval_wer']))
