@@ -12,7 +12,7 @@ import hgtk
 #torch.cuda.manual_seed(1488)
 
 graphemes = ['PAD', 'SOS'] + list('abcdefghijklmnopqrstuvwxyz.\'-') + ['EOS']
-with open('prepare_proj/open_lib/smart_g2p/symbols.txt', 'r', encoding='UTF8') as f:
+with open('./smart_g2p/symbols.txt', 'r', encoding='UTF8') as f:
     phonemes = ['PAD', 'SOS'] + f.read().strip().split('\n') + ['EOS']
 
 g2idx = {g: idx for idx, g in enumerate(graphemes)}
@@ -101,11 +101,12 @@ INPUT_DIM = len(graphemes)
 OUTPUT_DIM = len(phonemes)
 
 import os
-os.environ["CUDA_VISIBLE_DEVICES"]='1'
+os.environ["CUDA_VISIBLE_DEVICES"]='0'
 #device = torch.device('cpu')
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+print("[infer.py] curr device: ", device)
 model = TransformerModel(INPUT_DIM, OUTPUT_DIM, hidden=128, enc_layers=3, dec_layers=1).to(device)
-model.load_state_dict(torch.load("transliteration.pt"))
+model.load_state_dict(torch.load("./smart_g2p/transliteration.pt"))
 #model.to(device)
 #model.eval()
 
