@@ -49,7 +49,7 @@ G2P-Test
 | [SMART-G2p](https://github.com/SMART-TTS/SMART-G2P?fbclid=IwAR2EyuFnFOekhGn_LmVn8kW-QytRMRfwTVCq9pMQquF9ggQLDPvYxZRiwdM) | ? | ? | ? |
 | [KoG2Padvanced]( https://github.com/seongmin-mun/KoG2Padvanced)| ? | ? | ? |
 | [KoG2P](https://github.com/scarletcho/KoG2P) | ? | ? | ? |
-
+| [T5](https://github.com/lingjzhu/CharsiuG2P) | SIGMORPHON 2020 + ipa-dict | ? | ? |
 
 #### - En
 | model | dataset | WER | PER|
@@ -58,7 +58,7 @@ G2P-Test
 | [Transformer + Bi-LSTM + CNN](https://arxiv.org/pdf/1904.03446.pdf) | CMUDict + their internal dataset | 19.88 | 4.6 |
 | [Transformer](https://arxiv.org/ftp/arxiv/papers/2004/2004.06338.pdf) | CMUDict | 22.1 | 5.23 |
 | [g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) | CMUDict | 30.2 | - |
-| [T5](https://github.com/lingjzhu/CharsiuG2P) | [ipa-dict](https://github.com/lingjzhu/CharsiuG2P/tree/main/data) | 25.9 | 8.8 |
+| [T5](https://github.com/lingjzhu/CharsiuG2P) | [ipa-dict](https://github.com/lingjzhu/CharsiuG2P/tree/main/data) + wikipron | 25.9 | 8.8 |
 | [G2pE](https://github.com/Kyubyong/g2p) | CMUDict | ? | ? |
 | [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) | CMUDict, wikipron | ? | ? |
 
