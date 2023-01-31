@@ -32,6 +32,7 @@ G2P-Test
   |    |ipa-dict         | 62,676 (중복 제거 해야 함)               |
   | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train/val/test=8:1:1)|
   |    |ipa-dict         | 125,927 (중복 제거 해야 함)              |
+  |    |CMUDict          | 125,074 (중복 제거, 대문자->소문자)       |
 
 ### Dictionary
   
