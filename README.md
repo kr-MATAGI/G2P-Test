@@ -16,6 +16,9 @@ G2P-Test
   11. [G2P-seq2seq](https://github.com/cmusphinx/g2p-seq2seq)
   12. [Zeroth](https://github.com/goodatlas/zeroth)
   13. [kospeech](https://github.com/sooftware/kospeech)
+  
+  * [IPA-to-Kr](https://ko.wiktionary.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84:%EA%B5%AD%EC%A0%9C_%EC%9D%8C%EC%84%B1_%EA%B8%B0%ED%98%B8)
+  
 
 
 ### 논문
