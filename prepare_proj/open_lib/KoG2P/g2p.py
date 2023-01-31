@@ -77,7 +77,7 @@ def readRules(pver, rule_book):
     if pver == 2:
         f = open(rule_book, 'r')
     elif pver == 3:
-         f = open(rule_book, 'r',encoding="utf-8")
+        f = open(rule_book, 'r',encoding="utf-8")
          
     rule_in = []
     rule_out = []
@@ -311,6 +311,7 @@ def runKoG2P(graph, rulebook):
     print(prono)
 
 
+
 def runTest(rulebook, testset):
     print('[ G2P Performance Test ]')
     beg = dt.datetime.now()
@@ -325,7 +326,6 @@ def runTest(rulebook, testset):
 
 # Usage:
 if __name__ == '__main__':
-
     if args[0] == 'test':   # G2P Performance Test
         runTest('rulebook.txt', 'testset.txt')
 

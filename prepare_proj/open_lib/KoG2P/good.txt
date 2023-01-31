@@ -1,0 +1,475 @@
+[result] mm uu ll kk oo k0 ii			[ans] ¹°°í±â [¹°²¿±â] mm uu ll kk oo k0 ii
+[result] p0 uu ll k0 oo k0 ii			[ans] ºÒ°í±â [ºÒ°í±â] p0 uu ll k0 oo k0 ii
+[result] yv t0 vv ll cc qq			[ans] ¿©´üÂ° [¿©´úÂ°] yv t0 vv ll cc qq
+[result] s0 uu tf kk aa rr aa kf			[ans] ¼ù°¡¶ô [¼ù±î¶ô] s0 uu tf kk aa rr aa kf
+[result] c0 vv tf kk aa rr aa kf			[ans] Á£°¡¶ô [ Š±î¶ô] c0 vv tf kk aa rr aa kf
+[result] t0 aa kf tt aa			[ans] ´Û´Ù [´Úµû] t0 aa kf tt aa
+[result] kh ii xx kf			[ans] Å°ÀÃ [Å°À¹] kh ii xx kf
+[result] kh ii xx kf kk wa			[ans] Å°ÀÃ°ú [Å°À¹²Ê] kh ii xx kf kk wa
+[result] oo tf			[ans] ¿Ê [ª] oo tf
+[result] uu tf tt aa			[ans] ¿ô´Ù [ŸLµû] uu tf tt aa
+[result] ii tf tt aa			[ans] ÀÖ´Ù [ŸŞµû] ii tf tt aa
+[result] c0 vv tf			[ans] Á¥ [ Š] c0 vv tf
+[result] p0 ii tf tt aa			[ans] ºú´Ù [•±µû] p0 ii tf tt aa
+[result] kk oo tf			[ans] ²É [„Œ] kk oo tf
+[result] cc oo tf tt aa			[ans] ÂÑ´Ù [¦Yµû] cc oo tf tt aa
+[result] s0 oo tf			[ans] ¼Ü [™“] s0 oo tf
+[result] p0 qq tf tt aa			[ans] ¹ñ´Ù [“bµû] p0 qq tf tt aa
+[result] aa pf			[ans] ¾Õ [¾Ğ] aa pf
+[result] t0 vv pf tt aa			[ans] µ¤´Ù [´şµû] t0 vv pf tt aa
+[result] p0 aa kf			[ans] ¹Ú [¹Ú] p0 aa kf
+[result] p0 aa kf			[ans] ¹Û [¹Ú] p0 aa kf
+[result] p0 uu vv kf			[ans] ºÎ¾ı [ºÎ¾ï] p0 uu vv kf
+[result] kk vv kf tt aa			[ans] ²ª´Ù [²©µû] kk vv kf tt aa
+[result] t0 aa kf tt aa			[ans] ´Û´Ù [´Úµû] t0 aa kf tt aa
+[result] nn aa tf			[ans] ³´ [³®] nn aa tf
+[result] nn aa tf			[ans] ³· [³®] nn aa tf
+[result] nn aa tf			[ans] ³¸ [³®] nn aa tf
+[result] nn aa tf tt aa			[ans] ³´´Ù [³®µû] nn aa tf tt aa
+[result] nn aa tf tt aa			[ans] ³·´Ù [³®µû] nn aa tf tt aa
+[result] ii ss vv tf tt aa			[ans] ÀÖ¾ú´Ù [ÀÌ›Ÿµû] ii ss vv tf tt aa
+[result] nn aa tf			[ans] ³¹ [³®] nn aa tf
+[result] p0 aa tf			[ans] ¹ç [¹Ş] p0 aa tf
+[result] p0 aa tf tt aa			[ans] ¹Ş´Ù [¹Şµû] p0 aa tf tt aa
+[result] mm aa tf tt aa			[ans] ¸Ã´Ù [¸ºµû] mm aa tf tt aa
+[result] p0 qq tf tt aa			[ans] ¹ñ´Ù [“bµû] p0 qq tf tt aa
+[result] c0 ii pf			[ans] Áı [Áı] c0 ii pf
+[result] c0 ii pf			[ans] Â¤ [Áı] c0 ii pf
+[result] c0 ii pf tt aa			[ans] Áı´Ù [Áıµû] c0 ii pf tt aa
+[result] k0 oo pf tt aa			[ans] °ö´Ù [°öµû] k0 oo pf tt aa
+[result] c0 ii pf tt aa			[ans] Â¤´Ù [Áıµû] c0 ii pf tt aa
+[result] nn vv kf			[ans] ³Ì [³Ë] nn vv kf
+[result] nn vv kf kk wa			[ans] ³Ì°ú [³Ë²Ê] nn vv kf kk wa
+[result] aa nf tt aa			[ans] ¾É´Ù [¾Èµû] aa nf tt aa
+[result] yv t0 vv ll			[ans] ¿©´ü [¿©´ú] yv t0 vv ll
+[result] nn vv ll tt aa			[ans] ³Ğ´Ù [³Îµû] nn vv ll tt aa
+[result] wo k0 oo ll			[ans] ¿Ü°ó [¿Ü°ñ] wo k0 oo ll
+[result] h0 aa ll tt aa			[ans] ÇÓ´Ù [ÇÒµû] h0 aa ll tt aa
+[result] k0 aa pf			[ans] °ª [°©] k0 aa pf
+[result] vv pf tt aa			[ans] ¾ø´Ù [¾÷µû] vv pf tt aa
+[result] p0 aa mf nn xx nf			[ans] ¹â´Â [¹ã´Â] p0 aa mf nn xx nf
+[result] nn vv pf cc uu kh aa t0 aa			[ans] ³ĞÁ×ÇÏ´Ù [³ÒÂŞÄ«´Ù] nn vv pf cc uu kh aa t0 aa
+[result] nn vv pf tt uu ng k0 xx ll t0 aa			[ans] ³ĞµÕ±Û´Ù [³Ò¶×±Û´Ù] nn vv pf tt uu ng k0 xx ll t0 aa
+[result] mm oo kf			[ans] ¸ò [¸ñ] mm oo kf
+[result] mm oo kf tt oo			[ans] ¸òµµ [¸ñ¶Ç] mm oo kf tt oo
+[result] mm oo kf kk aa c0 ii			[ans] ¸ò±îÁö [¸ñ±îÁö] mm oo kf kk aa c0 ii
+[result] vv nf tt aa			[ans] ¾ñ´Ù [¾ğµû] vv nf tt aa
+[result] vv nf cc ii			[ans] ¾ñÁö [¾ğÂî] vv nf cc ii
+[result] vv nf kk oo			[ans] ¾ñ°í [¾ğ²¿] vv nf kk oo
+[result] ya ll tt aa			[ans] ¾ã´Ù [¾âµû] ya ll tt aa
+[result] ya ll cc ii			[ans] ¾ãÁö [¾âÂî] ya ll cc ii
+[result] ya ll kk oo			[ans] ¾ã°í [¾â²¿] ya ll kk oo
+[result] h0 uu ll tt aa			[ans] ÈÈ´Ù [ÈÇµû] h0 uu ll tt aa
+[result] h0 uu ll cc ii			[ans] ÈÈÁö [ÈÇÂî] h0 uu ll cc ii
+[result] h0 uu ll kk oo			[ans] ÈÈ°í [ÈÇ²¿] h0 uu ll kk oo
+[result] t0 aa kf			[ans] ´ß [´Ú] t0 aa kf
+[result] h0 xx kf kk wa			[ans] Èë°ú [Èæ²Ê] h0 xx kf kk wa
+[result] mm aa kf tt aa			[ans] ¸¼´Ù [¸·µû] mm aa kf tt aa
+[result] nn xx kf cc ii			[ans] ´ÄÁö [´ÁÂî] nn xx kf cc ii
+[result] s0 aa mf			[ans] »î [»ï] s0 aa mf
+[result] c0 vv mf tt aa			[ans] Àş´Ù [Á¡µû] c0 vv mf tt aa
+[result] xx pf kk oo			[ans] À¼°í [À¾²¿] xx pf kk oo
+[result] xx pf tt aa			[ans] À¼´Ù [À¾µû] xx pf tt aa
+[result] mm aa ll kk ee			[ans] ¸¼°Ô [¸»²²] mm aa ll kk ee
+[result] mm uu ll kk oo			[ans] ¹±°í [¹°²¿] mm uu ll kk oo
+[result] vv ll kk vv nn aa			[ans] ¾ô°Å³ª [¾ó²¨³ª] vv ll kk vv nn aa
+[result] ch ii kf			[ans] Ä¦ [Ä¢] ch ii kf
+[result] ch ii kf tt oo			[ans] Ä¦µµ [Ä¢¶Ç] ch ii kf tt oo
+[result] ch ii kf kk aa c0 ii			[ans] Ä¦±îÁö [Ä¢±îÁö] ch ii kf kk aa c0 ii
+[result] aa mf			[ans] ¾Í [¾Ï] aa mf
+[result] aa mf t0 oo			[ans] ¾Íµµ [¾Ïµµ] aa mf t0 oo
+[result] aa mf k0 wa			[ans] ¾Í°ú [¾Ï°ú] aa mf k0 wa
+[result] t0 aa mf tt aa			[ans] ´à´Ù [´ãµû] t0 aa mf tt aa
+[result] t0 aa mf cc ii			[ans] ´àÁö [´ãÂî] t0 aa mf cc ii
+[result] t0 aa mf kk oo			[ans] ´à°í [´ã²¿] t0 aa mf kk oo
+[result] xx pf tt aa			[ans] À¼´Ù [À¾µû] xx pf tt aa
+[result] xx pf cc ii			[ans] À¼Áö [À¾Âî] xx pf cc ii
+[result] xx pf kk oo			[ans] À¼°í [À¾²¿] xx pf kk oo
+[result] mm aa kf cc ii			[ans] ¸¼Áö [¸·Âî] mm aa kf cc ii
+[result] mm aa kf ss xx mf nn ii t0 aa			[ans] ¸¼½À´Ï´Ù [¸·¾¸´Ï´Ù] mm aa kf ss xx mf nn ii t0 aa
+[result] nn xx kf tt aa			[ans] ´Ä´Ù [´Áµû] nn xx kf tt aa
+[result] nn xx kf ss xx mf nn ii t0 aa			[ans] ´Ä½À´Ï´Ù [´Á¾¸´Ï´Ù] nn xx kf ss xx mf nn ii t0 aa
+[result] mm aa ll kk oo			[ans] ¸¼°í [¸»²¿] mm aa ll kk oo
+[result] mm aa ll kk vv nn aa			[ans] ¸¼°Å³ª [¸»²¨³ª] mm aa ll kk vv nn aa
+[result] nn xx ll kk ee			[ans] ´Ä°Ô [´Ã²²] nn xx ll kk ee
+[result] nn xx ll kk oo			[ans] ´Ä°í [´Ã²¿] nn xx ll kk oo
+[result] nn xx ll kk vv nn aa			[ans] ´Ä°Å³ª [´Ã²¨³ª] nn xx ll kk vv nn aa
+[result] nn oo kh oo			[ans] ³õ°í [³ëÄÚ] nn oo kh oo
+[result] c0 oo th vv nf			[ans] ÁÁ´ø [Á¶ÅÏ] c0 oo th vv nf
+[result] ss aa ch ii			[ans] ½×Áö [½ÎÄ¡] ss aa ch ii
+[result] mm aa nf kh oo			[ans] ¸¹°í [¸¸ÄÚ] mm aa nf kh oo
+[result] aa nf th vv nf			[ans] ¾Ê´ø [¾ÈÅÏ] aa nf th vv nf
+[result] t0 aa ll ch ii			[ans] ´âÁö [´ŞÄ¡] t0 aa ll ch ii
+[result] k0 aa kh aa			[ans] °¢ÇÏ [°¡Ä«] k0 aa kh aa
+[result] mm vv kh ii t0 aa			[ans] ¸ÔÈ÷´Ù [¸ÓÅ°´Ù] mm vv kh ii t0 aa
+[result] p0 aa ll kh ii t0 aa			[ans] ¹àÈ÷´Ù [¹ßÅ°´Ù] p0 aa ll kh ii t0 aa
+[result] mm aa th yv ng			[ans] ¸ºÇü [¸¶·O] mm aa th yv ng
+[result] c0 oo ph ii t0 aa			[ans] Á¼È÷´Ù [Á¶ÇÇ´Ù] c0 oo ph ii t0 aa
+[result] nn vv ll ph ii t0 aa			[ans] ³ĞÈ÷´Ù [³ÎÇÇ´Ù] nn vv ll ph ii t0 aa
+[result] kk oo ch ii t0 aa			[ans] ²ÈÈ÷´Ù [²¿Ä¡´Ù] kk oo ch ii t0 aa
+[result] aa nf ch ii t0 aa			[ans] ¾ÉÈ÷´Ù [¾ÈÄ¡´Ù] aa nf ch ii t0 aa
+[result] oo th aa nf p0 vv ll			[ans] ¿Ê ÇÑ ¹ú [¿ÀÅº¹ú] oo th aa nf p0 vv ll
+[result] nn aa th aa nf tt qq			[ans] ³· ÇÑ¶§ [³ªÅº¶§] nn aa th aa nf tt qq
+[result] kk oo th aa nf s0 oo ng ii			[ans] ²É ÇÑ ¼ÛÀÌ [²¿Åº¼ÛÀÌ] kk oo th aa nf s0 oo ng ii
+[result] s0 uu th aa t0 aa			[ans] ½¢ÇÏ´Ù [¼öÅ¸´Ù] s0 uu th aa t0 aa
+[result] t0 aa ss oo			[ans] ´ê¼Ò [´Ù½î] t0 aa ss oo
+[result] mm aa nf ss oo			[ans] ¸¹¼Ò [¸¸½î] mm aa nf ss oo
+[result] s0 ii ll ss oo			[ans] ½È¼Ò [½Ç½î] s0 ii ll ss oo
+[result] nn oo nf nn xx nf			[ans] ³õ´Â [³í´Â] nn oo nf nn xx nf
+[result] ss aa nf nn ee			[ans] ½×³× [½Ñ³×] ss aa nf nn ee
+[result] aa nf nn ee			[ans] ¾Ê³× [¾È³×] aa nf nn ee
+[result] aa nf nn xx nf			[ans] ¾Ê´Â [¾È´Â] aa nf nn xx nf
+[result] tt uu ll rr ee			[ans] ¶Õ³× [¶Ô·¹] tt uu ll rr ee
+[result] tt uu ll rr xx nf			[ans] ¶Õ´Â [¶Ô¸¥] tt uu ll rr xx nf
+[result] nn aa xx nf			[ans] ³ºÀº [³ªÀº] nn aa xx nf
+[result] nn oo aa			[ans] ³õ¾Æ [³ë¾Æ] nn oo aa
+[result] ss aa ii t0 aa			[ans] ½×ÀÌ´Ù [½ÎÀÌ´Ù] ss aa ii t0 aa
+[result] mm aa nn aa			[ans] ¸¹¾Æ [¸¶³ª] mm aa nn aa
+[result] aa nn xx nf			[ans] ¾ÊÀº [¾Æ´Â] aa nn xx nf
+[result] t0 aa rr aa			[ans] ´â¾Æ [´Ù¶ó] t0 aa rr aa
+[result] s0 ii rr vv t0 oo			[ans] ½È¾îµµ [½Ã·¯µµ] s0 ii rr vv t0 oo
+[result] nn oo kh oo			[ans] ³õ°í [³ëÄÚ] nn oo kh oo
+[result] nn oo th vv nf			[ans] ³õ´ø [³ëÅÏ] nn oo th vv nf
+[result] nn oo ch ii			[ans] ³õÁö [³ëÄ¡] nn oo ch ii
+[result] mm aa nf kh oo			[ans] ¸¹°í [¸¸ÄÚ] mm aa nf kh oo
+[result] mm aa nf th vv nf			[ans] ¸¹´ø [¸¸ÅÏ] mm aa nf th vv nf
+[result] mm aa nf ch ii			[ans] ¸¹Áö [¸¸Ä¡] mm aa nf ch ii
+[result] aa ll kh oo			[ans] ¾Î°í [¾ËÄÚ] aa ll kh oo
+[result] aa ll th vv nf			[ans] ¾Î´ø [¾ËÅÏ] aa ll th vv nf
+[result] aa ll ch ii			[ans] ¾ÎÁö [¾ËÄ¡] aa ll ch ii
+[result] k0 uu kh wa			[ans] ±¹È­ [±¸Äâ] k0 uu kh wa
+[result] c0 vv ng c0 ii kh aa t0 aa			[ans] Á¤Á÷ÇÏ´Ù [Á¤ÁöÄ«´Ù] c0 vv ng c0 ii kh aa t0 aa
+[result] p0 aa kh aa t0 aa			[ans] ¹ÚÇÏ´Ù [¹ÙÄ«´Ù] p0 aa kh aa t0 aa
+[result] p0 aa kh ii t0 aa			[ans] ¹ÚÈ÷´Ù [¹ÙÅ°´Ù] p0 aa kh ii t0 aa
+[result] ii ll kh ii t0 aa			[ans] ÀĞÈ÷´Ù [ÀÏÅ°´Ù] ii ll kh ii t0 aa
+[result] mm aa th yv ng			[ans] ¸ºÇü [¸¶·O] mm aa th yv ng
+[result] s0 uu th aa t0 aa			[ans] ½¢ÇÏ´Ù [¼öÅ¸´Ù] s0 uu th aa t0 aa
+[result] k0 uu th aa t0 aa			[ans] ±ÂÇÏ´Ù [±¸Å¸´Ù] k0 uu th aa t0 aa
+[result] ii ch ii t0 aa			[ans] ÀØÈ÷´Ù [ÀÌÄ¡´Ù] ii ch ii t0 aa
+[result] vv nf ch ii t0 aa			[ans] ¾ñÈ÷´Ù [¾ğÄ¡´Ù] vv nf ch ii t0 aa
+[result] ii ph aa kf			[ans] ÀÔÇĞ [ÀÌÆÅ] ii ph aa kf
+[result] k0 xx ph aa t0 aa			[ans] ±ŞÇÏ´Ù [±×ÆÄ´Ù] k0 xx ph aa t0 aa
+[result] ii ph ii t0 aa			[ans] ÀÔÈ÷´Ù [ÀÌÇÇ´Ù] ii ph ii t0 aa
+[result] p0 aa ll ph ii t0 aa			[ans] ¹âÈ÷´Ù [¹ßÇÇ´Ù] p0 aa ll ph ii t0 aa
+[result] oo nf k0 aa th ii mf			[ans] ¿Â°® Èû [¿Â°¡ÆÀ] oo nf k0 aa th ii mf
+[result] mm uu th yv ng p0 vv ll			[ans] ¹µ Çü¹ú [¹«·O¹ú] mm uu th yv ng p0 vv ll
+[result] mm yv th aa ll			[ans] ¸î ÇÒ [¸çÅ»] mm yv th aa ll
+[result] p0 aa ph aa nf s0 aa p0 aa ll			[ans] ¹ä ÇÑ »ç¹ß [¹ÙÆÇ»ç¹ß] p0 aa ph aa nf s0 aa p0 aa ll
+[result] k0 uu kh aa nf t0 qq c0 vv pf			[ans] ±¹ ÇÑ ´ëÁ¢ [±¸Ä­´ëÁ¢] k0 uu kh aa nf t0 qq c0 vv pf
+[result] kk xx nf ss xx mf nn ii t0 aa			[ans] ²÷½À´Ï´Ù [²ö¾¸´Ï´Ù] kk xx nf ss xx mf nn ii t0 aa
+[result] kk xx nf ss aa oo nn ii			[ans] ²÷»ç¿À´Ï [²ö½Î¿À´Ï] kk xx nf ss aa oo nn ii
+[result] nn oo nf nn ee			[ans] ³õ³× [³í³×] nn oo nf nn ee
+[result] nn oo nf nn aa			[ans] ³õ³ª [³í³ª] nn oo nf nn aa
+[result] kk xx nf nn xx nf			[ans] ²÷´Â [²ö´Â] kk xx nf nn xx nf
+[result] kk xx nf nn ee			[ans] ²÷³× [²ö³×] kk xx nf nn ee
+[result] kk xx nf nn aa			[ans] ²÷³ª [²ö³ª] kk xx nf nn aa
+[result] kk xx ll rr xx nf			[ans] ²ú´Â [²ø¸¥] kk xx ll rr xx nf
+[result] kk xx ll rr ee			[ans] ²ú³× [²ø·¹] kk xx ll rr ee
+[result] kk xx ll rr aa			[ans] ²ú³ª [²ø¶ó] kk xx ll rr aa
+[result] nn vv xx nf			[ans] ³ÖÀº [³ÊÀº] nn vv xx nf
+[result] ss aa xx ll			[ans] ½×À» [½ÎÀ»] ss aa xx ll
+[result] cc ii xx nn ii kk aa			[ans] ÂöÀ¸´Ï±î [ÂîÀ¸´Ï±î] cc ii xx nn ii kk aa
+[result] kk xx nn xx nf			[ans] ²÷Àº [²ô´Â] kk xx nn xx nf
+[result] mm aa nn xx ll			[ans] ¸¹À» [¸¶´Ã] mm aa nn xx ll
+[result] aa nn xx nn ii kk aa			[ans] ¾ÊÀ¸´Ï±î [¾Æ´À´Ï±î] aa nn xx nn ii kk aa
+[result] oo rr xx nf			[ans] ¿ÇÀº [¿À¸¥] oo rr xx nf
+[result] s0 ii rr xx ll			[ans] ½ÈÀ» [½Ã¸¦] s0 ii rr xx ll
+[result] k0 oo rr xx nn ii kk aa			[ans] °ôÀ¸´Ï±î [°í¸£´Ï±î] k0 oo rr xx nn ii kk aa
+[result] ss aa ii nf			[ans] ½×ÀÎ [½ÎÀÎ] ss aa ii nf
+[result] kk xx nn ii ll			[ans] ²÷ÀÏ [²ô´Ò] kk xx nn ii ll
+[result] kk xx rr ii nn ii kk aa			[ans] ²úÀÌ´Ï±î [²ô¸®´Ï±î] kk xx rr ii nn ii kk aa
+[result] kk aa kk aa			[ans] ±ğ¾Æ [±î±î] kk aa kk aa
+[result] oo s0 ii			[ans] ¿ÊÀÌ [¿À½Ã] oo s0 ii
+[result] ii ss vv			[ans] ÀÖ¾î [ÀÌ½á] ii ss vv
+[result] nn aa c0 ii			[ans] ³·ÀÌ [³ªÁö] nn aa c0 ii
+[result] kk oo c0 aa			[ans] ²È¾Æ [²¿ÀÚ] kk oo c0 aa
+[result] kk oo ch xx ll			[ans] ²ÉÀ» [²¿Ãú] kk oo ch xx ll
+[result] cc oo ch aa			[ans] ÂÑ¾Æ [ÂÉÂ÷] cc oo ch aa
+[result] p0 aa th ee			[ans] ¹ç¿¡ [¹ÙÅ×] p0 aa th ee
+[result] aa ph xx rr oo			[ans] ¾ÕÀ¸·Î [¾ÆÇÁ·Î] aa ph xx rr oo
+[result] t0 vv ph ii t0 aa			[ans] µ¤ÀÌ´Ù [´õÇÇ´Ù] t0 vv ph ii t0 aa
+[result] p0 uu vv kh ii			[ans] ºÎ¾ıÀÌ [ºÎ¾îÅ°] p0 uu vv kh ii
+[result] nn aa ch xx ll			[ans] ³¸À» [³ªÃú] nn aa ch xx ll
+[result] p0 aa th xi			[ans] ¹çÀÇ [¹ÙÆ·] p0 aa th xi
+[result] mm uu rr xx ph ee			[ans] ¹«¸­¿¡ [¹«¸£Æä] mm uu rr xx ph ee
+[result] kk vv kk vv			[ans] ²ª¾î [²¨²¨] kk vv kk vv
+[result] cc oo ch xx ll			[ans] ÂÑÀ» [ÂÉÃú] cc oo ch xx ll
+[result] k0 aa th xx nf			[ans] °°Àº [°¡Æ°] k0 aa th xx nf
+[result] c0 ii ph xx mm yv nf			[ans] Â¤À¸¸é [ÁöÇÁ¸é] c0 ii ph xx mm yv nf
+[result] s0 vv kk yv			[ans] ¼¯¿© [¼­²¸] s0 vv kk yv
+[result] nn oo ph yv			[ans] ³ô¿© [³ëÆì] nn oo ph yv
+[result] nn vv kf ss ii			[ans] ³ÌÀÌ [³Ë¾¾] nn vv kf ss ii
+[result] aa nf c0 aa			[ans] ¾É¾Æ [¾ÈÀÚ] aa nf c0 aa
+[result] c0 vv ll mm vv			[ans] Àş¾î [Àı¸Ó] c0 vv ll mm vv
+[result] h0 aa ll th aa			[ans] ÇÓ¾Æ [ÇÒÅ¸] h0 aa ll th aa
+[result] xx ll ph vv			[ans] À¼¾î [À»ÆÛ] xx ll ph vv
+[result] k0 aa pf ss xx ll			[ans] °ªÀ» [°©¾µ] k0 aa pf ss xx ll
+[result] vv pf ss vv			[ans] ¾ø¾î [¾÷½á] vv pf ss vv
+[result] yv t0 vv ll p0 xx ll			[ans] ¿©´üÀ» [¿©´úºí] yv t0 vv ll p0 xx ll
+[result] s0 aa ll mm ee			[ans] »î¿¡ [»ì¸Ş] s0 aa ll mm ee
+[result] ii ll k0 vv			[ans] ÀĞ¾î [ÀÏ°Å] ii ll k0 vv
+[result] p0 aa ll p0 xx ll			[ans] ¹âÀ» [¹ßºí] p0 aa ll p0 xx ll
+[result] oo ll mm xx nf			[ans] ¿ÅÀº [¿Ã¹È] oo ll mm xx nf
+[result] mm oo kf ss ii			[ans] ¸òÀÌ [¸ñ¾¾] mm oo kf ss ii
+[result] nn vv kf ss xx ll			[ans] ³ÌÀ» [³Ë¾µ] nn vv kf ss xx ll
+[result] k0 oo ll ss ii			[ans] °óÀÌ [°ñ¾¾] k0 oo ll ss ii
+[result] wo k0 oo ll ss xx rr oo			[ans] ¿Ü°óÀ¸·Î [¿Ü°ñ¾²·Î] wo k0 oo ll ss xx rr oo
+[result] k0 aa pf ss ii			[ans] °ªÀÌ [°©¾¾] k0 aa pf ss ii
+[result] k0 aa pf ss ee			[ans] °ª¿¡ [°©½ê] k0 aa pf ss ee
+[result] vv pf ss ii			[ans] ¾øÀÌ [¾÷¾¾] vv pf ss ii
+[result] vv pf ss xx mm yv nf			[ans] ¾øÀ¸¸é [¾÷¾²¸é] vv pf ss xx mm yv nf
+[result] p0 aa t0 aa rr qq			[ans] ¹ç ¾Æ·¡ [¹Ù´Ù·¡] p0 aa t0 aa rr qq
+[result] nn xx p0 aa pf			[ans] ´Ë ¾Õ [´À¹ä] nn xx p0 aa pf
+[result] c0 vv t0 vv mm ii			[ans] Á¥¾î¹Ì [Àú´õ¹Ì] c0 vv t0 vv mm ii
+[result] mm aa t0 vv pf tt aa			[ans] ¸À¾ø´Ù [¸¶´şµû] mm aa t0 vv pf tt aa
+[result] k0 vv t0 oo tf			[ans] °Ñ¿Ê [°Åµ¸] k0 vv t0 oo tf
+[result] h0 vv t0 uu s0 xx mf			[ans] Çê¿ôÀ½ [ÇãµÎ½¿] h0 vv t0 uu s0 xx mf
+[result] kk oo t0 wi			[ans] ²É À§ [²¿µÚ] kk oo t0 wi
+[result] nn vv k0 vv pf tt aa			[ans] ³Ì ¾ø´Ù [³Ê°Ìµû] nn vv k0 vv pf tt aa
+[result] t0 aa k0 aa ph ee			[ans] ´ß ¾Õ¿¡ [´Ù°¡Æä] t0 aa k0 aa ph ee
+[result] k0 aa p0 vv ch ii			[ans] °ª¾îÄ¡ [°¡¹öÄ¡] k0 aa p0 vv ch ii
+[result] k0 aa p0 ii nf nn xx nf			[ans] °ªÀÖ´Â [°¡ºó´Â] k0 aa p0 ii nf nn xx nf
+[result] t0 ii k0 xx s0 ii			[ans] µğ±ÚÀÌ [µğ±×½Ã] t0 ii k0 xx s0 ii
+[result] t0 ii k0 xx s0 xx ll			[ans] µğ±ÚÀ» [µğ±×½½] t0 ii k0 xx s0 xx ll
+[result] t0 ii k0 xx s0 ee			[ans] µğ±Ú¿¡ [µğ±×¼¼] t0 ii k0 xx s0 ee
+[result] c0 ii xx s0 ii			[ans] ÁöÀÁÀÌ [ÁöÀ¸½Ã] c0 ii xx s0 ii
+[result] c0 ii xx s0 xx ll			[ans] ÁöÀÁÀ» [ÁöÀ¸½½] c0 ii xx s0 xx ll
+[result] c0 ii xx s0 ee			[ans] ÁöÀÁ¿¡ [ÁöÀ¸¼¼] c0 ii xx s0 ee
+[result] ch ii xx s0 ii			[ans] Ä¡ÀÂÀÌ [Ä¡À¸½Ã] ch ii xx s0 ii
+[result] ch ii xx s0 xx ll			[ans] Ä¡ÀÂÀ» [Ä¡À¸½½] ch ii xx s0 xx ll
+[result] ch ii xx s0 ee			[ans] Ä¡ÀÂ¿¡ [Ä¡À¸¼¼] ch ii xx s0 ee
+[result] kh ii xx k0 ii			[ans] Å°ÀÃÀÌ [Å°À¸±â] kh ii xx k0 ii
+[result] kh ii xx k0 xx ll			[ans] Å°ÀÃÀ» [Å°À¸±Û] kh ii xx k0 xx ll
+[result] kh ii xx k0 ee			[ans] Å°ÀÃ¿¡ [Å°À¸°Ô] kh ii xx k0 ee
+[result] th ii xx s0 ii			[ans] Æ¼ÀÄÀÌ [Æ¼À¸½Ã] th ii xx s0 ii
+[result] th ii xx s0 xx ll			[ans] Æ¼ÀÄÀ» [Æ¼À¸½½] th ii xx s0 xx ll
+[result] th ii xx s0 ee			[ans] Æ¼ÀÄ¿¡ [Æ¼À¸¼¼] th ii xx s0 ee
+[result] ph ii xx p0 ii			[ans] ÇÇÀÅÀÌ [ÇÇÀ¸ºñ] ph ii xx p0 ii
+[result] ph ii xx p0 xx ll			[ans] ÇÇÀÅÀ» [ÇÇÀ¸ºí] ph ii xx p0 xx ll
+[result] ph ii xx p0 ee			[ans] ÇÇÀÅ¿¡ [ÇÇÀ¸º£] ph ii xx p0 ee
+[result] h0 ii xx s0 ii			[ans] È÷ÀÆÀÌ [È÷À¸½Ã] h0 ii xx s0 ii
+[result] h0 ii xx s0 xx ll			[ans] È÷ÀÆÀ» [È÷À¸½½] h0 ii xx s0 xx ll
+[result] h0 ii xx s0 ee			[ans] È÷ÀÆ¿¡ [È÷À¸¼¼] h0 ii xx s0 ee
+[result] k0 oo c0 ii t0 xx tf tt aa			[ans] °ğÀÌµè´Ù [°íÁöµèµû] k0 oo c0 ii t0 xx tf tt aa
+[result] k0 uu c0 ii			[ans] ±»ÀÌ [±¸Áö] k0 uu c0 ii
+[result] mm ii t0 aa c0 ii			[ans] ¹Ì´İÀÌ [¹Ì´ÙÁö] mm ii t0 aa c0 ii
+[result] tt aa mf p0 aa c0 ii			[ans] ¶¡¹ŞÀÌ [¶¡¹ÙÁö] tt aa mf p0 aa c0 ii
+[result] p0 aa ch ii			[ans] ¹çÀÌ [¹ÙÄ¡] p0 aa ch ii
+[result] p0 yv h0 uu ll ch ii			[ans] º­ÈÈÀÌ [º­ÈÇÄ¡] p0 yv h0 uu ll ch ii
+[result] k0 uu ch ii t0 aa			[ans] ±»È÷´Ù [±¸Ä¡´Ù] k0 uu ch ii t0 aa
+[result] t0 aa ch ii t0 aa			[ans] ´İÈ÷´Ù [´ÙÄ¡´Ù] t0 aa ch ii t0 aa
+[result] mm uu ch ii t0 aa			[ans] ¹¯È÷´Ù [¹«Ä¡´Ù] mm uu ch ii t0 aa
+[result] mm vv ng nn xx nf			[ans] ¸Ô´Â [¸Û´Â] mm vv ng nn xx nf
+[result] k0 uu ng mm uu ll			[ans] ±¹¹° [±Ã¹°] k0 uu ng mm uu ll
+[result] kk aa ng nn xx nf			[ans] ±ğ´Â [±ø´Â] kk aa ng nn xx nf
+[result] kh ii xx ng mm aa nf			[ans] Å°ÀÃ¸¸ [Å°ÀÀ¸¸] kh ii xx ng mm aa nf
+[result] mm oo ng mm oo kf ss ii			[ans] ¸ò¸òÀÌ [¸ù¸ñ¾¾] mm oo ng mm oo kf ss ii
+[result] k0 xx ng nn xx nf			[ans] ±Ü´Â [±à´Â] k0 xx ng nn xx nf
+[result] h0 xx ng mm aa nf			[ans] Èë¸¸ [Èï¸¸] h0 xx ng mm aa nf
+[result] t0 aa nf nn xx nf			[ans] ´İ´Â [´Ü´Â] t0 aa nf nn xx nf
+[result] c0 ii nf nn xx nf			[ans] Áş´Â [Áø´Â] c0 ii nf nn xx nf
+[result] oo nf mm qq pf ss ii			[ans] ¿Ê¸Ê½Ã [¿Â¸Ê¾¾] oo nf mm qq pf ss ii
+[result] ii nf nn xx nf			[ans] ÀÖ´Â [ÀÎ´Â] ii nf nn xx nf
+[result] mm aa nf nn xx nf			[ans] ¸Â´Â [¸¸´Â] mm aa nf nn xx nf
+[result] c0 vv nf mm vv ng uu ll			[ans] Á¥¸Û¿ï [Àü¸Û¿ï] c0 vv nf mm vv ng uu ll
+[result] cc oo nf nn xx nf			[ans] ÂÑ´Â [ÂË´Â] cc oo nf nn xx nf
+[result] kk oo nf mm aa ng uu ll			[ans] ²É¸Á¿ï [²Á¸Á¿ï] kk oo nf mm aa ng uu ll
+[result] p0 uu nf nn xx nf			[ans] ºÙ´Â [ºĞ´Â] p0 uu nf nn xx nf
+[result] nn oo nf nn xx nf			[ans] ³õ´Â [³í´Â] nn oo nf nn xx nf
+[result] c0 aa mf nn xx nf			[ans] Àâ´Â [Àá´Â] c0 aa mf nn xx nf
+[result] p0 aa mf mm uu ll			[ans] ¹ä¹° [¹ã¹°] p0 aa mf mm uu ll
+[result] aa mf mm aa t0 aa ng			[ans] ¾Õ¸¶´ç [¾Ï¸¶´ç] aa mf mm aa t0 aa ng
+[result] p0 aa mf nn xx nf			[ans] ¹â´Â [¹ã´Â] p0 aa mf nn xx nf
+[result] xx mf nn xx nf			[ans] À¼´Â [À½´Â] xx mf nn xx nf
+[result] vv mf nn xx nf			[ans] ¾ø´Â [¾ö´Â] vv mf nn xx nf
+[result] k0 aa mf mm qq t0 aa			[ans] °ª¸Å´Ù [°¨¸Å´Ù] k0 aa mf mm qq t0 aa
+[result] ch qq ng nn vv nf nn xx nf t0 aa			[ans] Ã¥ ³Ö´Â´Ù [Ã¬³Í´Â´Ù] ch qq ng nn vv nf nn xx nf t0 aa
+[result] h0 xx ng mm aa ll rr ii t0 aa			[ans] Èë ¸»¸®´Ù [Èï¸»¸®´Ù] h0 xx ng mm aa ll rr ii t0 aa
+[result] oo nf mm aa tf ch uu t0 aa			[ans] ¿Ê ¸ÂÃß´Ù [¿Â¸ºÃß´Ù] oo nf mm aa tf ch uu t0 aa
+[result] p0 aa mf mm vv ng nn xx nf t0 aa			[ans] ¹ä ¸Ô´Â´Ù [¹ã¸Û´Â´Ù] p0 aa mf mm vv ng nn xx nf t0 aa
+[result] k0 aa mf mm qq k0 ii t0 aa			[ans] °ª ¸Å±â´Ù [°¨¸Å±â´Ù] k0 aa mf mm qq k0 ii t0 aa
+[result] k0 uu ng mm aa s0 ii t0 aa			[ans] ±¹ ¸¶½Ã´Ù [±Ã¸¶½Ã´Ù] k0 uu ng mm aa s0 ii t0 aa
+[result] oo nf mm aa rr xx t0 aa			[ans] ¿Ê ¸¶¸£´Ù [¿Â¸¶¸£´Ù] oo nf mm aa rr xx t0 aa
+[result] ii mf nn oo ll rr ii t0 aa			[ans] ÀÔ ³î¸®´Ù [ÀÓ³î¸®´Ù] ii mf nn oo ll rr ii t0 aa
+[result] t0 aa mf nn yv kf			[ans] ´ã·Â [´ã³á] t0 aa mf nn yv kf
+[result] ch ii mf nn ya kf			[ans] Ä§·« [Ä§³Å] ch ii mf nn ya kf
+[result] k0 aa ng nn xx ng			[ans] °­¸ª [°­´É] k0 aa ng nn xx ng
+[result] h0 aa ng nn oo			[ans] Ç×·Î [Ç×³ë] h0 aa ng nn oo
+[result] t0 qq th oo ng nn yv ng			[ans] ´ëÅë·É [´ëÅë³ç] t0 qq th oo ng nn yv ng
+[result] mm aa ng nn oo nf			[ans] ¸··Ğ [¸Á³í] mm aa ng nn oo nf
+[result] p0 qq ng nn ii			[ans] ¹é¸® [¹ğ´Ï] p0 qq ng nn ii
+[result] h0 yv mf nn yv kf			[ans] Çù·Â [Çø³á] h0 yv mf nn yv kf
+[result] s0 ii mf nn ii			[ans] ½Ê¸® [½É´Ï] s0 ii mf nn ii
+[result] nn aa ll rr oo			[ans] ³­·Î [³¯·Î] nn aa ll rr oo
+[result] s0 ii ll rr aa			[ans] ½Å¶ó [½Ç¶ó] s0 ii ll rr aa
+[result] ch vv ll rr ii			[ans] Ãµ¸® [Ã¶¸®] ch vv ll rr ii
+[result] k0 wa ng h0 aa ll rr uu			[ans] ±¤ÇÑ·ç [±¤ÇÒ·ç] k0 wa ng h0 aa ll rr uu
+[result] t0 qq k0 wa ll rr yv ng			[ans] ´ë°ü·É [´ë°ı·É] t0 qq k0 wa ll rr yv ng
+[result] kh aa ll rr aa ll			[ans] Ä®³¯ [Ä®¶ö] kh aa ll rr aa ll
+[result] mm uu ll rr aa ll rr ii			[ans] ¹°³­¸® [¹°¶ö¸®] mm uu ll rr aa ll rr ii
+[result] c0 uu ll rr vv mf kk ii			[ans] ÁÙ³Ñ±â [ÁÙ·³³¢] c0 uu ll rr vv mf kk ii
+[result] h0 aa ll rr xx nf c0 ii			[ans] ÇÒ´ÂÁö [ÇÒ¸¥Áö] h0 aa ll rr xx nf c0 ii
+[result] t0 aa ll rr xx nf			[ans] ´â´Â [´Ş¸¥] t0 aa ll rr xx nf
+[result] tt uu ll rr xx nf			[ans] ¶Õ´Â [¶Ô¸¥] tt uu ll rr xx nf
+[result] h0 aa ll rr ee			[ans] ÇÓ³× [ÇÒ·¹] h0 aa ll rr ee
+[result] k0 aa ll rr oo mf			[ans] °¥ ³ğ [°¥·Ò] k0 aa ll rr oo mf
+[result] p0 aa rr aa mf c0 aa c0 xx ll rr aa ll			[ans] ¹Ù¶÷ ÀæÀ» ³¯ [¹Ù¶÷ÀÚÁñ¶ö] p0 aa rr aa mf c0 aa c0 xx ll rr aa ll
+[result] k0 aa mf k0 ii			[ans] °¨±â [°¨±â] k0 aa mf k0 ii
+[result] oo tf kk aa mf			[ans] ¿Ê°¨ [ª±ô] oo tf kk aa mf
+[result] ii tf kk oo			[ans] ÀÖ°í [ŸŞ²¿] ii tf kk oo
+[result] kk oo tf kk ii ll			[ans] ²É±æ [„Œ³¥] kk oo tf kk ii ll
+[result] c0 vv nf mm vv k0 ii			[ans] Á¥¸ÔÀÌ [Àü¸Ó±â] c0 vv nf mm vv k0 ii
+[result] mm uu nf pp vv pf			[ans] ¹®¹ı [¹®–j] mm uu nf pp vv pf
+[result] kk oo tf pp aa tf			[ans] ²É¹ç [„Œ•Â] kk oo tf pp aa tf
+[result] k0 uu kf pp aa pf			[ans] ±¹¹ä [±¹»¤] k0 uu kf pp aa pf
+[result] kk aa kf tt aa			[ans] ±ğ´Ù [±ïµû] kk aa kf tt aa
+[result] nn vv kf pp aa c0 ii			[ans] ³Ì¹ŞÀÌ [³ËºüÁö] nn vv kf pp aa c0 ii
+[result] s0 aa kf tt oo nf			[ans] »éµ· [»è¶É] s0 aa kf tt oo nf
+[result] t0 aa kf cc aa ng			[ans] ´ßÀå [´ÚÂ¯] t0 aa kf cc aa ng
+[result] ch ii kf pp vv mf			[ans] Ä¦¹ü [Ä¢»º] ch ii kf pp vv mf
+[result] pp vv tf tt qq t0 aa			[ans] »¸´ë´Ù [»¸¶§´Ù] pp vv tf tt qq t0 aa
+[result] oo tf kk oo rr xx mf			[ans] ¿Ê°í¸§ [ª²¿¸§] oo tf kk oo rr xx mf
+[result] ii tf tt vv nf			[ans] ÀÖ´ø [ŸŞ¶²] ii tf tt vv nf
+[result] kk oo tf kk oo			[ans] ²È°í [„Œ²¿] kk oo tf kk oo
+[result] kk oo tf tt aa p0 aa ll			[ans] ²É´Ù¹ß [„Œµû¹ß] kk oo tf tt aa p0 aa ll
+[result] nn aa tf ss vv ll t0 aa			[ans] ³¸¼³´Ù [³®½ä´Ù] nn aa tf ss vv ll t0 aa
+[result] p0 aa tf kk aa rr ii			[ans] ¹ç°¥ÀÌ [¹Ş±î¸®] p0 aa tf kk aa rr ii
+[result] s0 oo tf cc vv nf			[ans] ¼ÜÀü [™“Â¾] s0 oo tf cc vv nf
+[result] k0 oo pf tt oo ll			[ans] °öµ¹ [°ö¶Ê] k0 oo pf tt oo ll
+[result] t0 vv pf kk qq			[ans] µ¤°³ [´ş±ú] t0 vv pf kk qq
+[result] yv pf cc ii pf			[ans] ¿·Áı [¿±Âó] yv pf cc ii pf
+[result] nn vv pf cc uu kh aa t0 aa			[ans] ³ĞÁ×ÇÏ´Ù [³ÒÂŞÄ«´Ù] nn vv pf cc uu kh aa t0 aa
+[result] xx pf cc oo rr ii t0 aa			[ans] À¼Á¶¸®´Ù [À¾ÂÉ¸®´Ù] xx pf cc oo rr ii t0 aa
+[result] k0 aa pf cc ii t0 aa			[ans] °ªÁö´Ù [°©Âî´Ù] k0 aa pf cc ii t0 aa
+[result] s0 ii nf kk oo			[ans] ½Å°í [½Å²¿] s0 ii nf kk oo
+[result] s0 ii nf tt aa			[ans] ½Å´Ù [½Åµû] s0 ii nf tt aa
+[result] kk yv aa nf tt aa			[ans] ²¸¾È´Ù [²¸¾Èµû] kk yv aa nf tt aa
+[result] aa nf kk oo			[ans] ¾É°í [¾È²¿] aa nf kk oo
+[result] t0 aa mf kk oo			[ans] ´à°í [´ã²¿] t0 aa mf kk oo
+[result] s0 aa mf kk oo			[ans] »ï°í [»ï²¿] s0 aa mf kk oo
+[result] t0 vv t0 xx mf cc ii			[ans] ´õµëÁö [´õµëÂî] t0 vv t0 xx mf cc ii
+[result] vv nf tt aa			[ans] ¾ñ´Ù [¾ğµû] vv nf tt aa
+[result] c0 vv mf cc ii			[ans] ÀşÁö [Á¡Âî] c0 vv mf cc ii
+[result] aa nf k0 ii t0 aa			[ans] ¾È±â´Ù [¾È±â´Ù] aa nf k0 ii t0 aa
+[result] k0 aa mf k0 ii t0 aa			[ans] °¨±â´Ù [°¨±â´Ù] k0 aa mf k0 ii t0 aa
+[result] k0 uu mf k0 ii t0 aa			[ans] ±¾±â´Ù [±À±â´Ù] k0 uu mf k0 ii t0 aa
+[result] oo mf k0 ii t0 aa			[ans] ¿Å±â´Ù [¿È±â´Ù] oo mf k0 ii t0 aa
+[result] nn vv ll kk ee			[ans] ³Ğ°Ô [³Î²²] nn vv ll kk ee
+[result] h0 aa ll tt aa			[ans] ÇÓ´Ù [ÇÒµû] h0 aa ll tt aa
+[result] h0 uu ll ss oo			[ans] ÈÈ¼Ò [ÈÇ½î] h0 uu ll ss oo
+[result] tt vv ll cc ii			[ans] ¶µÁö [¶³Âî] tt vv ll cc ii
+[result] k0 aa ll tt xx ng			[ans] °¥µî [°¥¸] k0 aa ll tt xx ng
+[result] p0 aa ll tt oo ng			[ans] ¹ßµ¿ [¹ß¶Ë] p0 aa ll tt oo ng
+[result] c0 vv ll tt oo			[ans] Àıµµ [Àı¶Ç] c0 vv ll tt oo
+[result] mm aa ll ss aa ll			[ans] ¸»»ì [¸»½Ò] mm aa ll ss aa ll
+[result] p0 uu ll ss oo			[ans] ºÒ¼Ò [ºÒ½î] p0 uu ll ss oo
+[result] ii ll ss ii			[ans] ÀÏ½Ã [ÀÏ¾¾] ii ll ss ii
+[result] k0 aa ll cc xx ng			[ans] °¥Áõ [°¥Âí] k0 aa ll cc xx ng
+[result] mm uu ll cc ii ll			[ans] ¹°Áú [¹°Âñ] mm uu ll cc ii ll
+[result] p0 aa ll cc vv nf			[ans] ¹ßÀü [¹ßÂ¾] p0 aa ll cc vv nf
+[result] mm oo ll ss aa ng s0 ii kf			[ans] ¸ô»ó½Ä [¸ô½Ö½Ä] mm oo ll ss aa ng s0 ii kf
+[result] p0 uu ll ss ee ch uu ll			[ans] ºÒ¼¼Ãâ [ºÒ½êÃâ] p0 uu ll ss ee ch uu ll
+[result] h0 vv h0 vv s0 ii ll s0 ii ll			[ans] ÇãÇã½Ç½Ç [ÇãÇã½Ç½Ç] h0 vv h0 vv s0 ii ll s0 ii ll
+[result] c0 vv ll c0 vv ll h0 aa t0 aa			[ans] ÀıÀıÇÏ´Ù [ÀıÀıÇÏ´Ù] c0 vv ll c0 vv ll h0 aa t0 aa
+[result] k0 yv ll k0 yv ll			[ans] °á°á [°á°á] k0 yv ll k0 yv ll
+[result] p0 yv ll p0 yv ll			[ans] º°º° [º°º°] p0 yv ll p0 yv ll
+[result] h0 aa ll kk vv s0 xx ll			[ans] ÇÒ °ÍÀ» [ÇÒ²¨½½] h0 aa ll kk vv s0 xx ll
+[result] k0 aa ll tt ee k0 aa			[ans] °¥ µ¥°¡ [°¥¶¼°¡] k0 aa ll tt ee k0 aa
+[result] h0 aa ll pp aa rr xx ll			[ans] ÇÒ ¹Ù¸¦ [ÇÒºü¸¦] h0 aa ll pp aa rr xx ll
+[result] h0 aa ll ss uu nn xx nf			[ans] ÇÒ ¼ö´Â [ÇÒ¾¥´Â] h0 aa ll ss uu nn xx nf
+[result] h0 aa ll cc vv k0 ee			[ans] ÇÒ Àû¿¡ [ÇÒÂ¼°Ô] h0 aa ll cc vv k0 ee
+[result] k0 aa ll kk oo tf			[ans] °¥ °÷ [°¥„Œ] k0 aa ll kk oo tf
+[result] h0 aa ll tt oo rr ii			[ans] ÇÒ µµ¸® [ÇÒ¶Ç¸®] h0 aa ll tt oo rr ii
+[result] mm aa nf nn aa ll ss aa rr aa mf			[ans] ¸¸³¯ »ç¶÷ [¸¸³¯½Î¶÷] mm aa nf nn aa ll ss aa rr aa mf
+[result] h0 aa ll kk vv ll			[ans] ÇÒ°É [ÇÒ²¬] h0 aa ll kk vv ll
+[result] h0 aa ll pp aa kk ee			[ans] ÇÒ¹Û¿¡ [ÇÒºü²²] h0 aa ll pp aa kk ee
+[result] h0 aa ll ss ee rr aa			[ans] ÇÒ¼¼¶ó [ÇÒ½ê¶ó] h0 aa ll ss ee rr aa
+[result] h0 aa ll ss uu rr oo kf			[ans] ÇÒ¼ö·Ï [ÇÒ¾¥·Ï] h0 aa ll ss uu rr oo kf
+[result] h0 aa ll cc ii rr aa t0 oo			[ans] ÇÒÁö¶óµµ [ÇÒÂî¶óµµ] h0 aa ll cc ii rr aa t0 oo
+[result] h0 aa ll cc ii vv nf c0 vv ng			[ans] ÇÒÁö¾ğÁ¤ [ÇÒÂî¾ğÁ¤] h0 aa ll cc ii vv nf c0 vv ng
+[result] h0 aa ll cc ii nf t0 qq			[ans] ÇÒÁø´ë [ÇÒÂğ´ë] h0 aa ll cc ii nf t0 qq
+[result] h0 aa ll tt xx th aa t0 aa			[ans] ÇÒ µíÇÏ´Ù [ÇÒ¶ßÅ¸´Ù] h0 aa ll tt xx th aa t0 aa
+[result] h0 aa ll pp vv ph aa t0 aa			[ans] ÇÒ ¹ıÇÏ´Ù [ÇÒ»µÆÄ´Ù] h0 aa ll pp vv ph aa t0 aa
+[result] h0 aa ll ss vv ng s0 ii pf tt aa			[ans] ÇÒ ¼º½Í´Ù [ÇÒ½é½Êµû] h0 aa ll ss vv ng s0 ii pf tt aa
+[result] k0 aa nf s0 aa rr aa mf			[ans] °£ »ç¶÷ [°£»ç¶÷] k0 aa nf s0 aa rr aa mf
+[result] k0 aa nn xx nf s0 aa rr aa mf			[ans] °¡´Â »ç¶÷ [°¡´Â»ç¶÷] k0 aa nn xx nf s0 aa rr aa mf
+[result] k0 aa t0 vv nf s0 aa rr aa mf			[ans] °¡´ø »ç¶÷ [°¡´ø»ç¶÷] k0 aa t0 vv nf s0 aa rr aa mf
+[result] ii mf nn xx nf t0 aa			[ans] ÀÔ´Â´Ù [ÀÓ´Â´Ù] ii mf nn xx nf t0 aa
+[result] ii mf nn xx nf t0 ee			[ans] ÀÔ´Âµ¥ [ÀÓ´Âµ¥] ii mf nn xx nf t0 ee
+[result] ii mf nn xx nf c0 ii			[ans] ÀÔ´ÂÁö [ÀÓ´ÂÁö] ii mf nn xx nf c0 ii
+[result] mm uu nf kk oo rr ii			[ans] ¹®°í¸® [¹®²¿¸®] mm uu nf kk oo rr ii
+[result] nn uu nf tt oo ng c0 aa			[ans] ´«µ¿ÀÚ [´«¶ËÀÚ] nn uu nf tt oo ng c0 aa
+[result] s0 ii nf pp aa rr aa mf			[ans] ½Å¹Ù¶÷ [½Åºü¶÷] s0 ii nf pp aa rr aa mf
+[result] s0 aa nf ss qq			[ans] »ê»õ [»ê½Ø] s0 aa nf ss qq
+[result] s0 oo nf cc qq c0 uu			[ans] ¼ÕÀçÁÖ [¼ÕÂ°ÁÖ] s0 oo nf cc qq c0 uu
+[result] k0 ii ll kk aa			[ans] ±æ°¡ [±æ±î] k0 ii ll kk aa
+[result] mm uu ll tt oo ng ii			[ans] ¹°µ¿ÀÌ [¹°¶ËÀÌ] mm uu ll tt oo ng ii
+[result] p0 aa ll pp aa t0 aa kf			[ans] ¹ß¹Ù´Ú [¹ßºü´Ú] p0 aa ll pp aa t0 aa kf
+[result] k0 uu ll ss oo kf			[ans] ±¼¼Ó [±¼½ï] k0 uu ll ss oo kf
+[result] s0 uu ll cc aa nf			[ans] ¼úÀÜ [¼úÂ§] s0 uu ll cc aa nf
+[result] p0 aa rr aa mf kk yv ll			[ans] ¹Ù¶÷°á [¹Ù¶÷²º] p0 aa rr aa mf kk yv ll
+[result] k0 xx mm xx mf tt aa ll			[ans] ±×¹Ê´Ş [±×¹Êµş] k0 xx mm xx mf tt aa ll
+[result] aa ch ii mf pp aa pf			[ans] ¾ÆÄ§¹ä [¾ÆÄ§»¤] aa ch ii mf pp aa pf
+[result] c0 aa mf cc aa rr ii			[ans] ÀáÀÚ¸® [ÀáÂ¥¸®] c0 aa mf cc aa rr ii
+[result] k0 aa ng kk aa			[ans] °­°¡ [°­±î] k0 aa ng kk aa
+[result] ch oo s0 xx ng tt aa ll			[ans] ÃÊ½Â´Ş [ÃÊ½Âµş] ch oo s0 xx ng tt aa ll
+[result] t0 xx ng pp uu ll			[ans] µîºÒ [µî»Ô] t0 xx ng pp uu ll
+[result] ch aa ng ss aa ll			[ans] Ã¢»ì [Ã¢½Ò] ch aa ng ss aa ll
+[result] k0 aa ng cc uu ll k0 ii			[ans] °­ÁÙ±â [°­Âá±â] k0 aa ng cc uu ll k0 ii
+[result] s0 oo mf nn ii p0 uu ll			[ans] ¼ØÀÌºÒ [¼Ø´ÏºÒ] s0 oo mf nn ii p0 uu ll
+[result] h0 oo nf nn ii p0 uu ll			[ans] È¬ÀÌºÒ [È¥´ÏºÒ] h0 oo nf nn ii p0 uu ll
+[result] mm aa ng nn ii ll			[ans] ¸·ÀÏ [¸Á´Ò] mm aa ng nn ii ll
+[result] s0 aa ng nn ii ll			[ans] »éÀÏ [»ó´Ò] s0 aa ng nn ii ll
+[result] mm qq nf nn ii pf			[ans] ¸ÇÀÔ [¸Ç´Õ] mm qq nf nn ii pf
+[result] kk oo nf nn ii pf			[ans] ²ÉÀÙ [²Á´Õ] kk oo nf nn ii pf
+[result] nn qq p0 oo ng nn ya kf			[ans] ³»º¹¾à [³»ºÀ³Å] nn qq p0 oo ng nn ya kf
+[result] h0 aa nf nn yv rr xx mf			[ans] ÇÑ¿©¸§ [ÇÑ³à¸§] h0 aa nf nn yv rr xx mf
+[result] nn aa mf c0 oo nf nn yv p0 ii			[ans] ³²Á¸¿©ºñ [³²Á¸³àºñ] nn aa mf c0 oo nf nn yv p0 ii
+[result] s0 ii nf nn yv s0 vv ng			[ans] ½Å¿©¼º [½Å³à¼º] s0 ii nf nn yv s0 vv ng
+[result] s0 qq ng nn yv nf ph ii ll			[ans] »ö¿¬ÇÊ [»ı³âÇÊ] s0 qq ng nn yv nf ph ii ll
+[result] c0 ii kh qq ng nn yv ll ch aa			[ans] Á÷Çà¿­Â÷ [ÁöÄ»³ãÂ÷] c0 ii kh qq ng nn yv ll ch aa
+[result] nn xx ng mm aa ng nn yv mf			[ans] ´Á¸·¿° [´É¸Á³ä] nn xx ng mm aa ng nn yv mf
+[result] kh oo ng nn yv tf			[ans] Äá¿³ [Äá†¾] kh oo ng nn yv tf
+[result] t0 aa mf nn yo			[ans] ´ã¿ä [´ã´¢] t0 aa mf nn yo
+[result] nn uu nf nn yo k0 ii			[ans] ´«¿ä±â [´«´¢±â] nn uu nf nn yo k0 ii
+[result] yv ng vv mf nn yo ng			[ans] ¿µ¾÷¿ë [¿µ¾ö´¨] yv ng vv mf nn yo ng
+[result] s0 ii k0 yo ng nn yu			[ans] ½Ä¿ëÀ¯ [½Ã‚‹´º] s0 ii k0 yo ng nn yu
+[result] k0 uu ng mm ii nf nn yu ll rr ii			[ans] ±¹¹ÎÀ±¸® [±Ã¹Î´¼¸®] k0 uu ng mm ii nf nn yu ll rr ii
+[result] p0 aa mf nn yu tf			[ans] ¹ãÀ· [¹ãˆK] p0 aa mf nn yu tf
+[result] t0 xx ll rr ii ll			[ans] µéÀÏ [µé¸±] t0 xx ll rr ii ll
+[result] s0 oo ll rr ii pf			[ans] ¼ÖÀÙ [¼Ö¸³] s0 oo ll rr ii pf
+[result] s0 vv ll rr ii kf tt aa			[ans] ¼³ÀÍ´Ù [¼³¸¯µû] s0 vv ll rr ii kf tt aa
+[result] mm uu ll rr ya kf			[ans] ¹°¾à [¹°·«] mm uu ll rr ya kf
+[result] p0 uu ll rr yv uu			[ans] ºÒ¿©¿ì [ºÒ·Á¿ì] p0 uu ll rr yv uu
+[result] s0 vv uu ll rr yv kf			[ans] ¼­¿ï¿ª [¼­¿ï·Â] s0 vv uu ll rr yv kf
+[result] mm uu ll rr yv tf			[ans] ¹°¿³ [¹°¹] mm uu ll rr yv tf
+[result] h0 wi p0 aa ll rr yu			[ans] ÈÖ¹ßÀ¯ [ÈÖ¹ß·ù] h0 wi p0 aa ll rr yu
+[result] yu t0 xx ll rr yu t0 xx ll			[ans] À¯µéÀ¯µé [À¯µé·ùµé] yu t0 xx ll rr yu t0 xx ll
+[result] h0 aa nf nn ii ll			[ans] ÇÑ ÀÏ [ÇÑ´Ò] h0 aa nf nn ii ll
+[result] h0 aa ll rr ii ll			[ans] ÇÒ ÀÏ [ÇÒ¸±] h0 aa ll rr ii ll
+[result] oo nf nn ii pf tt aa			[ans] ¿Ê ÀÔ´Ù [¿Â´Õµû] oo nf nn ii pf tt aa
+[result] c0 aa ll rr ii pf tt aa			[ans] Àß ÀÔ´Ù [Àß¸³µû] c0 aa ll rr ii pf tt aa
+[result] s0 vv rr xx nf nn yv s0 vv tf			[ans] ¼­¸¥¿©¼¸ [¼­¸¥³à¼²] s0 vv rr xx nf nn yv s0 vv tf
+[result] s0 xx mm uu ll rr yv s0 vv tf			[ans] ½º¹°¿©¼¸ [½º¹°·Á¼²] s0 xx mm uu ll rr yv s0 vv tf
+[result] s0 aa mf nn yv nf t0 qq			[ans] »ï ¿¬´ë [»ï³â´ë] s0 aa mf nn yv nf t0 qq
+[result] ii ll rr yv nf t0 qq			[ans] ÀÏ ¿¬´ë [ÀÏ·Ã´ë] ii ll rr yv nf t0 qq
+[result] mm vv k0 xx nf nn yv tf			[ans] ¸ÔÀº ¿³ [¸Ó±Ù†¾] mm vv k0 xx nf nn yv tf
+[result] mm vv k0 xx ll rr yv tf			[ans] ¸ÔÀ» ¿³ [¸Ó±Û¹] mm vv k0 xx ll rr yv tf
+[result] yu k0 ii oo			[ans] À°ÀÌ¿À [À¯±â¿À] yu k0 ii oo
+[result] ph aa rr ii rr oo			[ans] ÆÈÀÏ¿À [ÆÄ¸®·Î] ph aa rr ii rr oo
+[result] s0 aa mm ii ll cc vv ll			[ans] »ïÀÏÀı [»ç¹ĞÂ¿] s0 aa mm ii ll cc vv ll
+[result] c0 vv rr ya kf			[ans] Àı¾à [Àú·«] c0 vv rr ya kf
+[result] wv rr yo ii ll			[ans] ¿ù¿äÀÏ [¿ö·áÀÏ] wv rr yo ii ll
+[result] mm oo k0 yo ii ll			[ans] ¸ñ¿äÀÏ [¸ğ±³ÀÏ] mm oo k0 yo ii ll
+[result] k0 xx mm yo ii ll			[ans] ±İ¿äÀÏ [±×¹¦ÀÏ] k0 xx mm yo ii ll
+[result] kh oo nf nn aa ll			[ans] Äà³¯ [ÄÜ³¯] kh oo nf nn aa ll
+[result] aa rr qq nf nn ii			[ans] ¾Æ·§´Ï [¾Æ·£´Ï] aa rr qq nf nn ii
+[result] th wo nf mm aa rr uu			[ans] Åò¸¶·ç [Åñ¸¶·ç] th wo nf mm aa rr uu
+[result] p0 qq nf mm vv rr ii			[ans] ¹î¸Ó¸® [¹ê¸Ó¸®] p0 qq nf mm vv rr ii
+[result] p0 ee k0 qq nf nn ii tf			[ans] º£°¹ÀÕ [º£°µˆ•] p0 ee k0 qq nf nn ii tf
+[result] kk qq nf nn ii pf			[ans] ²¢ÀÙ [±ü´Õ] kk qq nf nn ii pf
+[result] nn aa mm uu nf nn ii pf			[ans] ³ª¹µÀÙ [³ª¹®´Õ] nn aa mm uu nf nn ii pf
+[result] t0 oo rr ii kk qq nf nn yv ll			[ans] µµ¸®²¢¿­ [µµ¸®±ü³ã] t0 oo rr ii kk qq nf nn yv ll
+[result] t0 wi nf nn yu tf			[ans] µŞÀ· [µÛˆK] t0 wi nf nn yu tf
+[result] t0 wi nf nn ii ll			[ans] µŞÀÏ [µÛ´Ò] t0 wi nf nn ii ll
+[result] kk qq nf nn ii pf			[ans] ²¢ÀÙ [±ü´Õ] kk qq nf nn ii pf
