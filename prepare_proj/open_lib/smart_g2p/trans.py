@@ -4,11 +4,11 @@ import hanja
 import mecab
 mecab = mecab.MeCab()
 
-from infer import transformer_transliteration as tft
-from utils import decide_acronym, read_acronym
-from utils import readNumberKor, readNumberEng, readNumber, readBigNum, readOnlyNum
-from utils import dataset, small, big, real_latin
-from utils import puncs, symbols, sym_han, sym_pro, count_symbols, count_sym_han
+from .infer import transformer_transliteration as tft
+from .utils import decide_acronym, read_acronym
+from .utils import readNumberKor, readNumberEng, readNumber, readBigNum, readOnlyNum
+from .utils import dataset, small, big, real_latin
+from .utils import puncs, symbols, sym_han, sym_pro, count_symbols, count_sym_han
 
 ## Dictionary from https://github.com/muik/transliteration/tree/master/data/source
 dataset = dataset()
