@@ -1,0 +1,20 @@
+EN-US
+
+charsiu/g2p_multilingual_byT5_tiny_16_layers_100 - en_us
+'eval_loss': 0.17419186234474182, 'eval_cer': 0.11114459848637064, 'eval_wer': 0.3833973128598848
+
+deepPhonemizer
+wer 0.5336 per 0.1462 (epoch 10)
+wer ? per ? (epoch 50)
+
+GBERT attetnion
+wer: 23.36 ± 0.82, per: 4.76 ± 0.25
+
+
+
+KR
+charsiu/g2p_multilingual_byT5_tiny_16_layers_100 - kr
+{'eval_loss': 0.0369819737970829, 'eval_cer': 0.09332131771302693, 'eval_wer': 0.341, 'eval_runtime': 16.9384, 'eval_samples_per_second': 59.037, 'eval_steps_per_second': 0.945}
+
+GBERT Attention
+wer:  17.94 ± 0.71, per:  3.16 ± 0.13

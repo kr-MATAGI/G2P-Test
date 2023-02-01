@@ -70,7 +70,7 @@ if __name__ == '__main__':
             print(f"[run_T5Charsiu] {k} - {v}")
 
     # setting the evaluation metrics
-    cer_metric = load_metric("cer")
+    cer_metric = load_metric("cer") # character error rate
     wer_metric = load_metric("wer")
 
     if args.train:
