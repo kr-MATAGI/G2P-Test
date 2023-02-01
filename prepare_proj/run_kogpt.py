@@ -90,7 +90,11 @@ if __name__ == "__main__":
 
         # intitalizing the model
         print('Loading pretrained model...')
-        model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name)
+        model = AutoModelForSeq2SeqLM.from_pretrained(
+            args.model_name, revision=args.revision,
+            pad_token_id=tokenizer.eos_token_id,
+            torch_dtype='auto', low_cpu_mem_usage=True
+        ).to(device='cuda', non_blocking=True)
 
         training_args = Seq2SeqTrainingArguments(
             predict_with_generate=True,
