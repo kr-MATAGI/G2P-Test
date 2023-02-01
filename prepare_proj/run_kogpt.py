@@ -14,7 +14,9 @@ from typing import Union, Dict, List
 
 from transformers import (
     Seq2SeqTrainer,
-    Seq2SeqTrainingArguments
+    Seq2SeqTrainingArguments,
+    TrainingArguments,
+    Trainer
 )
 
 
@@ -45,6 +47,7 @@ class DataCollatorWithPadding:
                                     return_attention_mask=True, return_tensors='pt')
 
         # replace padding with -100 to ignore loss correctly
+        # batch['labels'].shape : (32, 35)
         batch['labels'] = pron_batch['input_ids'].masked_fill(pron_batch.attention_mask.ne(1), -100)
 
         return batch
@@ -95,10 +98,16 @@ if __name__ == "__main__":
             pad_token_id=tokenizer.eos_token_id,
             torch_dtype='auto', low_cpu_mem_usage=True
         ).to(device='cuda', non_blocking=True)
+        prompt = 'youtube ipa:'
+        with torch.no_grad():
+            tokens = tokenizer.encode(prompt, return_tensors='pt').to(device='cuda', non_blocking=True)
+            gen_tokens = model.generate(tokens, do_sample=True, temperature=0.8, max_length=64)
+            generated = tokenizer.batch_decode(gen_tokens)[0]
+            print(generated)
 
-        training_args = Seq2SeqTrainingArguments(
-            predict_with_generate=True,
-            generation_num_beams=5,
+        training_args = TrainingArguments(
+            # predict_with_generate=True,
+            # generation_num_beams=5,
             evaluation_strategy="steps",
             per_device_train_batch_size=args.train_batch_size,
             per_device_eval_batch_size=args.eval_batch_size,
@@ -106,7 +115,7 @@ if __name__ == "__main__":
             gradient_accumulation_steps=args.gradient_accumulation,
             learning_rate=args.learning_rate,
             warmup_steps=args.warmup_steps,
-            lr_scheduler_type="cosine",
+            # lr_scheduler_type="cosine",
             fp16=args.fp16,
             output_dir=args.output_dir,
             logging_steps=args.logging_steps,
@@ -116,7 +125,7 @@ if __name__ == "__main__":
             load_best_model_at_end=True
         )
 
-        trainer = Seq2SeqTrainer(
+        trainer = Trainer(
             model=model,
             tokenizer=tokenizer,
             args=training_args,
