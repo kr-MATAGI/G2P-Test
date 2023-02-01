@@ -1,4 +1,4 @@
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+from transformers import AutoModelForCausalLM , AutoTokenizer
 from utils.data_parser import SIG_parser
 
 import argparse
@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
         # intitalizing the model
         print('Loading pretrained model...')
-        model = AutoModelForSeq2SeqLM.from_pretrained(
+        model = AutoModelForCausalLM.from_pretrained(
             args.model_name, revision=args.revision,
             pad_token_id=tokenizer.eos_token_id,
             torch_dtype='auto', low_cpu_mem_usage=True
@@ -140,7 +140,7 @@ if __name__ == "__main__":
         )
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
-        model = AutoModelForSeq2SeqLM.from_pretrained(args.checkpoint)
+        model = AutoModelForCausalLM.from_pretrained(args.checkpoint)
 
         training_args = Seq2SeqTrainingArguments(
             predict_with_generate=True,
