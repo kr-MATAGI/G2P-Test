@@ -1,4 +1,4 @@
-from transformers import AutoModelForCausalLM , AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer
 from utils.data_parser import SIG_parser
 
 import argparse
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     with open("./config/kogpt_config.json") as config_file:
         args = AttrDict(json.load(config_file))
         for k, v in args.items():
-            print(f"[run_T5Charsiu] {k} - {v}")
+            print(f"[run_kogpt] {k} - {v}")
 
     # setting the evaluation metrics
     cer_metric = load_metric("cer")  # character error rate
