@@ -1,4 +1,4 @@
-from transformers import T5ForConditionalGeneration, AutoTokenizer
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from utils.data_parser import SIG_parser
 
 import argparse
@@ -16,6 +16,7 @@ from transformers import (
     Seq2SeqTrainer,
     Seq2SeqTrainingArguments
 )
+
 
 #==========================================
 def prepare_dataset(batch):
@@ -62,31 +63,34 @@ def compute_metrics(pred):
     wer = wer_metric.compute(predictions=pred_str, references=label_str)
     return {"cer": cer, 'wer': wer}
 
-### Main ###
-if __name__ == '__main__':
-    with open("./config/t5_config.json") as config_file:
+### MAIN ##
+if __name__ == "__main__":
+    with open("./config/kogpt_config.json") as config_file:
         args = AttrDict(json.load(config_file))
         for k, v in args.items():
             print(f"[run_T5Charsiu] {k} - {v}")
 
     # setting the evaluation metrics
-    cer_metric = load_metric("cer") # character error rate
+    cer_metric = load_metric("cer")  # character error rate
     wer_metric = load_metric("wer")
 
     if args.train:
-        sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
-        train_data = sig_parser.sig_data_load(target_lang="eng_us", mode="train")
+        sig_parser = SIG_parser(src_dir='./data/kr/sigmorphon')
+        train_data = sig_parser.sig_data_load(target_lang="kor", mode="train")
         train_dataset = train_data.map(prepare_dataset)
 
-        dev_data = sig_parser.sig_data_load(target_lang="eng_us", mode="dev")
+        dev_data = sig_parser.sig_data_load(target_lang="kor", mode="dev")
         dev_dataset = dev_data.map(prepare_dataset)
 
-        tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
+        tokenizer = AutoTokenizer.from_pretrained(
+            args.model_name, revision=args.revision,
+            bos_token='[BOS]', eos_token='[EOS]', unk_token='[UNK]', pad_token='[PAD]', mask_token='[MASK]'
+        )
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
         # intitalizing the model
         print('Loading pretrained model...')
-        model = T5ForConditionalGeneration.from_pretrained(args.model_name)
+        model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name)
 
         training_args = Seq2SeqTrainingArguments(
             predict_with_generate=True,
@@ -122,14 +126,17 @@ if __name__ == '__main__':
         trainer.save_model(args.output_dir)
 
     if args.evaluate:
-        sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
-        test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
+        sig_parser = SIG_parser(src_dir='./data/kr/sigmorphon')
+        test_data = sig_parser.sig_data_load(target_lang="kor", mode="test")
         test_dataset = test_data.map(prepare_dataset)
 
-        tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
+        tokenizer = AutoTokenizer.from_pretrained(
+            args.model_name, revision=args.revision,
+            bos_token='[BOS]', eos_token='[EOS]', unk_token='[UNK]', pad_token='[PAD]', mask_token='[MASK]'
+        )
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
-        model = T5ForConditionalGeneration.from_pretrained(args.checkpoint)
+        model = AutoModelForSeq2SeqLM.from_pretrained(args.checkpoint)
 
         training_args = Seq2SeqTrainingArguments(
             predict_with_generate=True,
@@ -155,4 +162,4 @@ if __name__ == '__main__':
         eval_results = trainer.evaluate(eval_dataset=test_dataset, num_beams=5)
         print(eval_results)
         with open(os.path.join(args.output_dir, 'results'), 'w') as out:
-            out.write('%s\t%s\t%s\n'%(args.language,eval_results['eval_cer'], eval_results['eval_wer']))
+            out.write('%s\t%s\t%s\n' % (args.language, eval_results['eval_cer'], eval_results['eval_wer']))

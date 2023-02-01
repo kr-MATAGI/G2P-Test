@@ -1,0 +1,20 @@
+{
+  "model": "kogpt",
+  "language": "kor",
+  "model_name": "kakaobrain/kogpt",
+  "revision": "KoGPT6B-ryan1.5b-float16",
+  "output_dir": "./results/kogpt",
+  "train": true,
+  "evaluate": true,
+  "train_batch_size": 32,
+  "eval_batch_size": 64,
+  "learning_rate": 1e-4,
+  "save_steps": 10420,
+  "logging_steps": 10420,
+  "eval_steps": 10420,
+  "epochs": 10,
+  "gradient_accumulation": 1,
+  "warmup_steps": 1000,
+  "unk_prob": 0.85,
+  "fp16": false
+}
