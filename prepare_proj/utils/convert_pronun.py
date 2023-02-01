@@ -75,7 +75,7 @@ class ConvertPronun():
                     index += 1
                 else:
                 # 전 글자가 이응으로 시작하거나 모음만 있는 경우 이응 추가
-                    if (word[i] in vowel and word[i-1] == "d") or (word[i] in vowel and word[i-1] in vowel):
+                    if (word[i] in vowel and word[i-1] == "ㅇ") or (word[i] in vowel and word[i-1] in vowel):
                         word_list.insert(index, "ㅇ")
                         index += 1
                 index += 1
