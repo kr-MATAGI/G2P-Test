@@ -5,11 +5,10 @@ charsiu/g2p_multilingual_byT5_tiny_16_layers_100 - en_us
 
 deepPhonemizer
 wer 0.5336 per 0.1462 (epoch 10)
-wer ? per ? (epoch 50)
+wer 0.4585 per 0.1192 (epoch 50)
 
 GBERT attetnion
 wer: 23.36 ± 0.82, per: 4.76 ± 0.25
-
 
 
 KR
