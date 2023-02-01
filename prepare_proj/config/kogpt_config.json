@@ -16,5 +16,5 @@
   "gradient_accumulation": 1,
   "warmup_steps": 1000,
   "unk_prob": 0.85,
-  "fp16": false
+  "fp16": true
 }
