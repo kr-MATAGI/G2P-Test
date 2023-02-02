@@ -51,9 +51,9 @@ G2P-Test
 |                               [CLUZH-4](https://aclanthology.org/2021.sigmorphon-1.17.pdf)                               |            SIGMORPHON 2021             | 16.2  |  -   |
 |                                 [GBERT attention](https://arxiv.org/pdf/2201.10716.pdf)                                  |            SIGMORPHON 2021             | 17.94 | 3.16 |
 | [SMART-G2p](https://github.com/SMART-TTS/SMART-G2P?fbclid=IwAR2EyuFnFOekhGn_LmVn8kW-QytRMRfwTVCq9pMQquF9ggQLDPvYxZRiwdM) |                   ?                    |   ?   |  ?   |
-|                             [KoG2Padvanced]( https://github.com/seongmin-mun/KoG2Padvanced)                              |            SIGMORPHON 2021             | 22.5  | 10.8 |
+|                             [KoG2Padvanced]( https://github.com/seongmin-mun/KoG2Padvanced)                              |            SIGMORPHON 2021             | 22.5  | 3.91 |
 |                                       [KoG2P](https://github.com/scarletcho/KoG2P)                                       |                   ?                    |   ?   |  ?   |
-|                                         [g2pk](https://github.com/Kyubyong/g2pK)                                         |            SIGMORPHON 2021             |  4.7  | 1.8  |
+|                                         [g2pk](https://github.com/Kyubyong/g2pK)                                         |            SIGMORPHON 2021             |  4.7  | 0.74 |
 |                                       [T5](https://github.com/lingjzhu/CharsiuG2P)                                       |       SIGMORPHON 2020 + ipa-dict       |   ?   |  ?   |
 
 #### - En
