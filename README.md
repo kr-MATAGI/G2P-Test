@@ -56,6 +56,7 @@ G2P-Test
 |                                       [KoG2P](https://github.com/scarletcho/KoG2P)                                       | SIGMORPHON 2021 | 35.2  | 6.75 |
 |                                         [g2pk](https://github.com/Kyubyong/g2pK)                                         | SIGMORPHON 2021 |  4.7  | 0.74  |
 |                                       [T5](https://github.com/lingjzhu/CharsiuG2P)                                       | SIGMORPHON 2021 | 34.1  | 9.33  |
+|                                       [KoGPT](https://github.com/kakaobrain/kogpt)                                       | SIGMORPHON 2021 | ?  | ?  |
 
 #### - En
 | model | dataset | WER | PER|
