@@ -52,6 +52,7 @@ def run_test_g2pk(target_dataset: Dataset):
             correct_list.append(item)
         else:
             in_correct_list.append(item)
+
     print(f"[run_test_g2pk] total_cnt : {len(correct_list) + len(in_correct_list)}")
     print(f"[run_test_g2pk] result: correct_cnt: {len(correct_list)}, in_correct_cnt: {len(in_correct_list)}")
 
@@ -217,7 +218,7 @@ if "__main__" == __name__:
           f"dev: {len(dev_dataset)}, test: {len(test_dataset)}")
 
     results = {}
-    running_method = ["g2pk", "KoG2Padvanced", "SMART-G2P", "G2P"]
+    running_method = ["g2pk"]#, "KoG2Padvanced", "SMART-G2P", "G2P"]
     # Run g2pk
     if "g2pk" in running_method:
         g2pk_score = run_test_g2pk(target_dataset=test_dataset)
