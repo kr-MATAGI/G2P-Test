@@ -308,7 +308,8 @@ def runKoG2P(graph, rulebook):
     elif ver_info[0] == 3:
         prono = graph2prono(graph, rule_in, rule_out)
 
-    print(prono)
+    # print(prono)
+    return prono
 
 
 
@@ -326,6 +327,9 @@ def runTest(rulebook, testset):
 
 # Usage:
 if __name__ == '__main__':
+    runKoG2P("흙더미", 'rulebook.txt')
+    exit()
+
     if args[0] == 'test':   # G2P Performance Test
         runTest('rulebook.txt', 'testset.txt')
 

@@ -6,7 +6,9 @@ import evaluate
 from g2pk.g2pk import G2p
 from open_lib.smart_g2p.trans import sentranslit as trans
 from open_lib.kog2p_advanced.KoG2Padvanced import KoG2Padvanced
+from open_lib.KoG2P.g2p import runKoG2P
 
+from hangul_utils import join_jamos
 from utils.data_parser import SIG_parser
 from jamo import h2j, j2hcj
 
@@ -142,6 +144,66 @@ def run_test_smart_g2p(target_dataset: Dataset):
 
     return {"wer": wer_score, "per": per_score}
 
+#===================================
+def load_g2p_jamo_dict():
+#===================================
+    g2p_jamo_dict = {}
+    with open("./data/kr/g2p_dictionary.txt", mode="r", encoding="utf-8") as f:
+        lines = f.readlines()
+    for line in lines:
+        han_sym, g2p_sym = line.replace("\n", "").split("|")
+        han_sym = han_sym.strip()
+        g2p_sym = g2p_sym.strip()
+        g2p_jamo_dict[g2p_sym] = han_sym
+
+    return g2p_jamo_dict
+
+#===================================
+def run_test_g2p(target_dataset: Dataset, rule_book_path: str):
+#===================================
+    print(f"[run_test_g2p] dataset.size: {len(target_dataset)}")
+    print(f"[run_test_g2p] {target_dataset[:5]}")
+
+    sym_jamo_dict = load_g2p_jamo_dict()
+
+    correct_list = []
+    in_correct_list = []
+    wer_ans_list = []
+    wer_pred_list = []
+    per_ans_list = []
+    per_pred_list = []
+    for idx, item in enumerate(target_dataset):
+        word = item["word"]
+        ipa = item["ipa"]
+        pron = item["pron"]
+
+        res_smart_g2p = runKoG2P(word, rule_book_path)
+        res_smart_g2p = res_smart_g2p.split(" ")
+        res_smart_g2p = "".join([sym_jamo_dict[x] for x in res_smart_g2p])
+        res_smart_g2p = join_jamos(res_smart_g2p)
+        print(f"[run_test_g2p] {idx}, {res_smart_g2p}, {ipa}, {pron}")
+
+        wer_ans_list.append(pron)
+        wer_pred_list.append(res_smart_g2p)
+
+        jamo_ans = j2hcj(h2j(pron))
+        jamo_pred = j2hcj(h2j(res_smart_g2p))
+        per_ans_list.append(jamo_ans)
+        per_pred_list.append(jamo_pred)
+
+        if res_smart_g2p == pron:
+            correct_list.append(item)
+        else:
+            in_correct_list.append(item)
+    print(f"[run_test_g2p] total_cnt : {len(correct_list) + len(in_correct_list)}")
+    print(f"[run_test_g2p] result: correct_cnt: {len(correct_list)}, in_correct_cnt: {len(in_correct_list)}")
+
+    wer_score = wer_metric.compute(predictions=wer_pred_list, references=wer_ans_list)
+    per_score = per_metric.compute(predictions=per_ans_list, references=per_pred_list)
+    print(f"[run_test_g2p] wer: {wer_score}, per: {per_score}")
+
+    return {"wer": wer_score, "per": per_score}
+
 ### MAIN ###
 if "__main__" == __name__:
     print("[run_kr_g2p_test][__main__]")
@@ -155,7 +217,7 @@ if "__main__" == __name__:
           f"dev: {len(dev_dataset)}, test: {len(test_dataset)}")
 
     results = {}
-    running_method = ["SMART-G2P"]
+    running_method = ["G2P"]
     # Run g2pk
     if "g2pk" in running_method:
         g2pk_score = run_test_g2pk(target_dataset=test_dataset)
@@ -170,6 +232,12 @@ if "__main__" == __name__:
     if "SMART-G2P" in running_method:
         smart_g2p_score = run_test_smart_g2p(target_dataset=test_dataset)
         results.update({"smart_g2p": smart_g2p_score})
+
+    # Run G2P
+    if "G2P" in running_method:
+        g2p_score = run_test_g2p(target_dataset=test_dataset,
+                                 rule_book_path="/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt")
+        results.update({"g2p": g2p_score})
 
     print("---------------------------------")
     print("[run_kr_g2p_test][__main__] Total Results: ")
