@@ -289,7 +289,7 @@ def KoG2P(graph):
 
         return prono
 
-    sentenceG2P = runKoG2P(graph, './kog2p_advanced/Dic/rulebook.txt')
+    sentenceG2P = runKoG2P(graph, '/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/kog2p_advanced/Dic/rulebook.txt')
 
     return sentenceG2P
 

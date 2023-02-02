@@ -28,20 +28,47 @@ class SIG_parser:
             raise Exception("Plz Check target_file_name: ", target_file_name)
 
         words = []
-        prons = []
+        ipa_list = []
 
         full_path = self.src_dir + "/" + target_file_name
         with open(full_path, mode="r", encoding="utf-8") as f:
             for line in f.readlines():
                 word, pron = line.strip().split('\t')
                 words.append(word)
-                prons.append(pron.replace(" ", ""))
+                ipa_list.append(pron.replace(" ", ""))
 
         data = pd.DataFrame()
         data['word'] = words
+        data['pron'] = ipa_list
+
+        return Dataset.from_pandas(data)
+
+    def sig_proun_data_load(self, target_lang: str, mode: str):
+        print(f"[SIGMORPHON_Parser][sig_data_load] target_lang: {target_lang}, mode: {mode}")
+
+        target_file_name = "pronunciation_" + target_lang + "_" + mode + ".tsv"
+        if target_file_name not in self.data_list:
+            raise Exception("Plz Check target_file_name: ", target_file_name)
+
+        words = []
+        ipa_list = []
+        prons = []
+
+        full_path = self.src_dir + "/" + target_file_name
+        with open(full_path, mode="r", encoding="utf-8") as f:
+            for line in f.readlines():
+                word, ipa, pron = line.strip().split('\t')
+                words.append(word)
+                ipa_list.append(ipa.replace(" ", ""))
+                prons.append(pron)
+
+        data = pd.DataFrame()
+        data['word'] = words
+        data['ipa'] = ipa_list
         data['pron'] = prons
 
         return Dataset.from_pandas(data)
+
 
 ### MAIN ###
 if __name__ == '__main__':
