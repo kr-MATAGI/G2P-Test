@@ -155,7 +155,7 @@ if "__main__" == __name__:
           f"dev: {len(dev_dataset)}, test: {len(test_dataset)}")
 
     results = {}
-    running_method = ["g2pk", "KoG2Padvanced", "SMART-G2P"]
+    running_method = ["SMART-G2P"]
     # Run g2pk
     if "g2pk" in running_method:
         g2pk_score = run_test_g2pk(target_dataset=test_dataset)
@@ -168,7 +168,8 @@ if "__main__" == __name__:
 
     # Run SMART-G2P
     if "SMART-G2P" in running_method:
-        run_test_smart_g2p(target_dataset=test_dataset)
+        smart_g2p_score = run_test_smart_g2p(target_dataset=test_dataset)
+        results.update({"smart_g2p": smart_g2p_score})
 
     print("---------------------------------")
     print("[run_kr_g2p_test][__main__] Total Results: ")
