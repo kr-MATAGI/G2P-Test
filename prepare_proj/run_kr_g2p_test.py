@@ -217,7 +217,7 @@ if "__main__" == __name__:
           f"dev: {len(dev_dataset)}, test: {len(test_dataset)}")
 
     results = {}
-    running_method = ["g2pk"]
+    running_method = ["g2pk", "KoG2Padvanced", "SMART-G2P", "G2P"]
     # Run g2pk
     if "g2pk" in running_method:
         g2pk_score = run_test_g2pk(target_dataset=test_dataset)
