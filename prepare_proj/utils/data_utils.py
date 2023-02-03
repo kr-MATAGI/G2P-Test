@@ -1,5 +1,7 @@
 import os
 
+from typing import List
+
 #================================================
 class SigMorphonConveter:
 #================================================
@@ -40,6 +42,12 @@ class SigMorphonConveter:
 
         return ret_hangul
 
+
+#================================================
+def modify_pnu_err_case(index_list: List[int], fixed_label: List[str]):
+#================================================
+    print(f"[modify_pnu_err_case] index_list: {len(index_list)}, fix_label: {len(fixed_label)}")
+    assert len(index_list) == len(fixed_label), "ERR - plz check length"
 
 ### MAIN ###
 if "__main__" == __name__:
