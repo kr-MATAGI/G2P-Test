@@ -52,7 +52,7 @@ G2P-Test
   
 - 문장
 [huggingface ljspeech](https://huggingface.co/datasets/w11wo/ljspeech_phonemes/viewer/w11wo--ljspeech_phonemes/train)
-[github-jaywalnut310](https://github.com/jaywalnut310/vits/tree/main/filelists)
+[github-jaywalnut310](https://github.com/jaywalnut310/vits/tree/main/filelists) - phonemizer
   
 ### Eval
 #### - Kr
