@@ -37,7 +37,7 @@ G2P-Test
 |9     | EN | [NEURAL GRAPHEME-TO-PHONEME CONVERSION WITH PRE-TRAINED GRAPHEME MODELS](https://arxiv.org/abs/2201.10716) | BERT, BERT-fused 이용 | [GraphemeBERT](https://github.com/ldong1111/GraphemeBERT) |
 |10     | EN | [ByT5 model for massively multilingual grapheme-to-phoneme conversion](https://arxiv.org/pdf/2204.03067.pdf) | T5 이용 | [CharsiuG2P](https://github.com/lingjzhu/CharsiuG2P#) |
 |11     | EN | [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf) | 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation  | [g2p_kd](https://github.com/sigmeta/g2p-kd) |
-|12     | EN | [NN-KOG2P: A NOVEL GRAPHEME-TO-PHONEME MODEL FOR KOREAN LANGUAGE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414653) | 네이버에서 FFNN기반 sentence G2P||
+|12     | Kr | [NN-KOG2P: A NOVEL GRAPHEME-TO-PHONEME MODEL FOR KOREAN LANGUAGE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414653) | 네이버에서 FFNN기반 sentence G2P||
 |13     | Kr | [Fast Bilingual Grapheme-To-Phoneme Conversion](https://aclanthology.org/2022.naacl-industry.32.pdf#page=7&zoom=100,401,668)| 네이버 12번 후속 논문 빠르게 학습 가능||
 |14     | Kr | [Towards an Efficient Code-Mixed Grapheme-to-Phoneme Conversion in an Agglutinative Language: A Case Study on To-Korean Transliteration](https://aclanthology.org/2020.calcs-1.9.pdf)| korean/non-korean code mixed sequence G2P||
 
@@ -46,12 +46,13 @@ G2P-Test
   | 언어 | 이름 |설명|총|
   |:----:|:--------:|:----:|:----:|
   | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words (train:8,000/ val: 1,000/ test: 1,000)|16,714|
-  |    |CMUDict         |   6,714        |
-  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|143,405|
-  |    |CMUDict          | 102,405       |
+  |    |wikipron         | 6,714        |
+  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|166,074|
+  |    |CMUDict          | 125,074       |
   
 - 문장
 [huggingface ljspeech](https://huggingface.co/datasets/w11wo/ljspeech_phonemes/viewer/w11wo--ljspeech_phonemes/train)
+
 [github-jaywalnut310](https://github.com/jaywalnut310/vits/tree/main/filelists) - phonemizer
   
 ### Eval
