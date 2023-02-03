@@ -18,6 +18,7 @@ G2P-Test
   13. [kospeech](https://github.com/sooftware/kospeech)
   14. [How to build a G2P model using pytorch](https://fehiepsi.github.io/blog/grapheme-to-phoneme/)
   15. [speechbrain](https://github.com/speechbrain/speechbrain) - 음성인식 관련 툴들
+  16. [github 음성 관련 자료 모음](https://github.com/espnet/espnet/tree/master/egs2/TEMPLATE/tts1)
   
   * [IPA-to-Kr](https://ko.wiktionary.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84:%EA%B5%AD%EC%A0%9C_%EC%9D%8C%EC%84%B1_%EA%B8%B0%ED%98%B8)
   
