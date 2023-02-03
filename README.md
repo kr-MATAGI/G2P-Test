@@ -67,7 +67,7 @@ G2P-Test
 | [g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) | CMUDict | 30.2 | - |
 | [T5](https://github.com/lingjzhu/CharsiuG2P) | [ipa-dict](https://github.com/lingjzhu/CharsiuG2P/tree/main/data) + wikipron | 25.9 | 8.8 |
 | [G2pE](https://github.com/Kyubyong/g2p) | CMUDict | ? | ? |
-| [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) | CMUDict, wikipron | 44.88 | - |
+| [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) | CMUDict, wikipron | 34.32 | - |
 
 ### Dictionary
   
