@@ -17,7 +17,7 @@ wer_metric = evaluate.load("wer")
 per_metric = evaluate.load("cer")
 
 #====================================
-def run_test_g2pk(target_dataset: Dataset):
+def run_test_g2pk(target_dataset: Dataset, debug_mode: bool = False):
 #====================================
     print(f"[run_test_g2pk] dataset.size: {len(target_dataset)}")
     print(f"[run_test_g2pk] {target_dataset[:5]}")
@@ -51,7 +51,7 @@ def run_test_g2pk(target_dataset: Dataset):
         if res_g2pk == pron:
             correct_list.append(item)
         else:
-            in_correct_list.append(item)
+            in_correct_list.append((str(idx), word, ipa, pron, res_g2pk))
 
     print(f"[run_test_g2pk] total_cnt : {len(correct_list) + len(in_correct_list)}")
     print(f"[run_test_g2pk] result: correct_cnt: {len(correct_list)}, in_correct_cnt: {len(in_correct_list)}")
@@ -59,6 +59,14 @@ def run_test_g2pk(target_dataset: Dataset):
     wer_score = wer_metric.compute(predictions=wer_pred_list, references=wer_ans_list)
     per_score = per_metric.compute(predictions=per_pred_list, references=per_ans_list)
     print(f"[run_test_kr_g2pk] wer: {wer_score}, per: {per_score}")
+
+    # Debug mode
+    if debug_mode:
+        with open("./g2pk_debug.txt", mode="w", encoding="utf-8") as f:
+            f.write("Index\tword\tipa\tpron\tpred\n")
+            for item in in_correct_list:
+                f.write(item[0]+"\t"+item[1]+"\t"+item[2]+"\t"+item[3]+"\t"+item[4]+"\n")
+        print(f"[run_Test_kr_g2pk] Debug mode complete!")
 
     return {"wer": wer_score, "per": per_score}
 
@@ -207,33 +215,44 @@ def run_test_g2p(target_dataset: Dataset, rule_book_path: str):
     return {"wer": wer_score, "per": per_score}
 
 #===================================
-def run_pnu_pron(target_dataset: Dataset):
+def run_pnu_pron(target_dataset: Dataset, debug_mode: bool = False):
 #===================================
     print(f"[run_pnu_pron] dataset.size: {len(test_dataset)}")
 
     # open preds
     all_words = []
-    with open("./save_preds_1.txt", mode="r", encoding="utf-8") as f:
+    with open("data/kr/save_pnu_preds_1.txt", mode="r", encoding="utf-8") as f:
         read_words = f.readlines()
         read_words = [x.replace("\n", "").split("\t")[-1] for x in read_words]
         print(f"[run_pnu_pron] preds_1.size {len(read_words)}")
         all_words.extend(read_words)
-    with open("./save_preds_2.txt", mode="r", encoding="utf-8") as f:
+    with open("data/kr/save_pnu_preds_2.txt", mode="r", encoding="utf-8") as f:
         read_words = f.readlines()
         read_words = [x.replace("\n", "").split("\t")[-1] for x in read_words]
         print(f"[run_pnu_pron] preds_2.size: {len(read_words)}")
         all_words.extend(read_words)
     print(f"[run_pnu_pron] all_words.size: {len(all_words)}")
 
+    # remove space
+    all_words = [x.replace(" ", "") for x in all_words]
+
     # make ans
     wer_ans_list = []
     per_ans_list = []
-    for ans, pred in zip(target_dataset, all_words):
+
+    in_correct_word = []
+    for idx, (ans, pred) in enumerate(zip(target_dataset, all_words)):
+        word = ans["word"]
+        ipa = ans["ipa"]
         pron = ans["pron"]
+
         wer_ans_list.append(pron)
 
         jamo_ans = j2hcj(h2j(pron))
         per_ans_list.append(jamo_ans)
+
+        if pron != pred:
+            in_correct_word.append((str(idx), word, ipa, pron, pred))
 
     per_pred_list = []
     for pred in all_words:
@@ -243,6 +262,14 @@ def run_pnu_pron(target_dataset: Dataset):
     wer_score = wer_metric.compute(predictions=all_words, references=wer_ans_list)
     per_score = per_metric.compute(predictions=per_pred_list, references=per_ans_list)
     print(f"[run_test_g2p] wer: {wer_score}, per: {per_score}")
+
+    # Debug mode
+    if debug_mode:
+        with open("./pnu_debug.txt", mode="w", encoding="utf-8") as f:
+            f.write("Index\tword\tipa\tpron\tpred\n")
+            for item in in_correct_word:
+                f.write(item[0]+"\t"+item[1]+"\t"+item[2]+"\t"+item[3]+"\t"+item[4]+"\n")
+        print(f"[run_test_g2p] Complete debug mode !")
 
     return {"wer": wer_score, "per": per_score}
 
@@ -293,7 +320,7 @@ if "__main__" == __name__:
 
     # Run g2pk
     if "g2pk" in running_method:
-        g2pk_score = run_test_g2pk(target_dataset=test_dataset)
+        g2pk_score = run_test_g2pk(target_dataset=test_dataset, debug_mode=True)
         results.update({"g2pk": g2pk_score})
 
     # Run KoG2Padvanced
@@ -313,7 +340,7 @@ if "__main__" == __name__:
         results.update({"g2p": g2p_score})
 
     if "PNU" in running_method:
-        pnu_score = run_pnu_pron(test_dataset)
+        pnu_score = run_pnu_pron(test_dataset, debug_mode=True)
 
     print("---------------------------------")
     print("[run_kr_g2p_test][__main__] Total Results: ")
