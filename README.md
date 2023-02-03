@@ -16,6 +16,9 @@ G2P-Test
   11. [G2P-seq2seq](https://github.com/cmusphinx/g2p-seq2seq)
   12. [Zeroth](https://github.com/goodatlas/zeroth)
   13. [kospeech](https://github.com/sooftware/kospeech)
+  14. [How to build a G2P model using pytorch](https://fehiepsi.github.io/blog/grapheme-to-phoneme/)
+  15. [speechbrain](https://github.com/speechbrain/speechbrain) - 음성인식 관련 툴들
+  16. [github 음성 관련 자료 모음](https://github.com/espnet/espnet/tree/master/egs2/TEMPLATE/tts1)
   
   * [IPA-to-Kr](https://ko.wiktionary.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84:%EA%B5%AD%EC%A0%9C_%EC%9D%8C%EC%84%B1_%EA%B8%B0%ED%98%B8)
   
@@ -34,7 +37,8 @@ G2P-Test
 |9     | EN | [NEURAL GRAPHEME-TO-PHONEME CONVERSION WITH PRE-TRAINED GRAPHEME MODELS](https://arxiv.org/abs/2201.10716) | BERT, BERT-fused 이용 | [GraphemeBERT](https://github.com/ldong1111/GraphemeBERT) |
 |10     | EN | [ByT5 model for massively multilingual grapheme-to-phoneme conversion](https://arxiv.org/pdf/2204.03067.pdf) | T5 이용 | [CharsiuG2P](https://github.com/lingjzhu/CharsiuG2P#) |
 |11     | EN | [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf) | 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation  | [g2p_kd](https://github.com/sigmeta/g2p-kd) |
-|12     | EN | [NN-KOG2P: A NOVEL GRAPHEME-TO-PHONEME MODEL FOR KOREAN LANGUAGE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414653) | 네이버에서 FFNN기반 sentence G2P|
+|12     | EN | [NN-KOG2P: A NOVEL GRAPHEME-TO-PHONEME MODEL FOR KOREAN LANGUAGE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414653) | 네이버에서 FFNN기반 sentence G2P||
+|13     | Kr | [한국어 연속음성인식을 위한 sequence-to-sequence 학습 기반 phoneme-to-text conversion](https://dcollection.sogang.ac.kr/dcollection/public_resource/pdf/000000063009_20230203150113.pdf)|서강대 한국어 phoneme-to-text||
 
 ### Datasets
   
@@ -44,6 +48,10 @@ G2P-Test
   |    |CMUDict         |   6,714        |
   | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|143,405|
   |    |CMUDict          | 102,405       |
+  
+- 문장
+[huggingface ljspeech](https://huggingface.co/datasets/w11wo/ljspeech_phonemes/viewer/w11wo--ljspeech_phonemes/train)
+[github-jaywalnut310](https://github.com/jaywalnut310/vits/tree/main/filelists)
   
 ### Eval
 #### - Kr
@@ -67,7 +75,7 @@ G2P-Test
 | [g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) | CMUDict | 30.2 | - |
 | [T5](https://github.com/lingjzhu/CharsiuG2P) | [ipa-dict](https://github.com/lingjzhu/CharsiuG2P/tree/main/data) + wikipron | 25.9 | 8.8 |
 | [G2pE](https://github.com/Kyubyong/g2p) | CMUDict | ? | ? |
-| [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) | CMUDict, wikipron | 44.88 | - |
+| [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) | CMUDict, wikipron | 34.32 | - |
 
 ### Dictionary
   
