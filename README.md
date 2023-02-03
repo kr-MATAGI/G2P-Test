@@ -37,7 +37,7 @@ G2P-Test
 |10     | EN | [ByT5 model for massively multilingual grapheme-to-phoneme conversion](https://arxiv.org/pdf/2204.03067.pdf) | T5 이용 | [CharsiuG2P](https://github.com/lingjzhu/CharsiuG2P#) |
 |11     | EN | [Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/pdf/1904.03446.pdf) | 최근 MS 음성인식 모델에서 사용한 G2P, token-level ensemble distillation  | [g2p_kd](https://github.com/sigmeta/g2p-kd) |
 |12     | EN | [NN-KOG2P: A NOVEL GRAPHEME-TO-PHONEME MODEL FOR KOREAN LANGUAGE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414653) | 네이버에서 FFNN기반 sentence G2P||
-|13     | KO | [한국어 연속음성인식을 위한 sequence-to-sequence 학습 기반 phoneme-to-text conversion](https://dcollection.sogang.ac.kr/dcollection/public_resource/pdf/000000063009_20230203150113.pdf)||
+|13     | Kr | [한국어 연속음성인식을 위한 sequence-to-sequence 학습 기반 phoneme-to-text conversion](https://dcollection.sogang.ac.kr/dcollection/public_resource/pdf/000000063009_20230203150113.pdf)|서강대 한국어 phoneme-to-text||
 
 ### Datasets
   
