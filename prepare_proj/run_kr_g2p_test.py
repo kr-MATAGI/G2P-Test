@@ -215,7 +215,8 @@ def run_test_g2p(target_dataset: Dataset, rule_book_path: str):
     return {"wer": wer_score, "per": per_score}
 
 #===================================
-def run_pnu_pron(target_dataset: Dataset, debug_mode: bool = False):
+def run_pnu_pron(target_dataset: Dataset, compare_target: str = "ipa",
+                 debug_mode: bool = False):
 #===================================
     print(f"[run_pnu_pron] dataset.size: {len(test_dataset)}")
 
@@ -223,12 +224,12 @@ def run_pnu_pron(target_dataset: Dataset, debug_mode: bool = False):
     all_words = []
     with open("data/kr/save_pnu_preds_1.txt", mode="r", encoding="utf-8") as f:
         read_words = f.readlines()
-        read_words = [x.replace("\n", "").split("\t")[-1] for x in read_words]
+        read_words = [x.replace("\n", "") for x in read_words]
         print(f"[run_pnu_pron] preds_1.size {len(read_words)}")
         all_words.extend(read_words)
     with open("data/kr/save_pnu_preds_2.txt", mode="r", encoding="utf-8") as f:
         read_words = f.readlines()
-        read_words = [x.replace("\n", "").split("\t")[-1] for x in read_words]
+        read_words = [x.replace("\n", "") for x in read_words]
         print(f"[run_pnu_pron] preds_2.size: {len(read_words)}")
         all_words.extend(read_words)
     print(f"[run_pnu_pron] all_words.size: {len(all_words)}")
@@ -236,9 +237,18 @@ def run_pnu_pron(target_dataset: Dataset, debug_mode: bool = False):
     # remove space
     all_words = [x.replace(" ", "") for x in all_words]
 
+    print(all_words)
+    if "ipa" == compare_target:
+        all_words = [x.split("\t")[-1] for x in all_words]
+    else:
+        all_words = [x.split("\t")[-2] for x in all_words]
+
     # make ans
     wer_ans_list = []
     per_ans_list = []
+
+    wer_pred_list = []
+    per_pred_list = []
 
     in_correct_word = []
     for idx, (ans, pred) in enumerate(zip(target_dataset, all_words)):
@@ -246,20 +256,37 @@ def run_pnu_pron(target_dataset: Dataset, debug_mode: bool = False):
         ipa = ans["ipa"]
         pron = ans["pron"]
 
-        wer_ans_list.append(pron)
+        if "ipa" == compare_target:
+            pred = pred.split(", ")
+            print(ipa, pred)
+            input()
+            if ipa in pred:
+                wer_pred_list.append(ipa)
+                per_pred_list.append(ipa)
+            else:
+                wer_pred_list.append(pred[0])
+                per_pred_list.append(pred[0])
+            wer_ans_list.append(ipa)
+            per_ans_list.append(ipa)
+        else:
+            wer_ans_list.append(pron)
+            jamo_ans = j2hcj(h2j(pron))
+            per_ans_list.append(jamo_ans)
 
-        jamo_ans = j2hcj(h2j(pron))
-        per_ans_list.append(jamo_ans)
+        if "ipa" == compare_target:
+            if ipa != pred:
+                in_correct_word.append((str(idx), word, ipa, pron, pred))
+        else:
+            if pron != pred:
+                in_correct_word.append((str(idx), word, ipa, pron, pred))
 
-        if pron != pred:
-            in_correct_word.append((str(idx), word, ipa, pron, pred))
+    if "ipa" != compare_target:
+        per_pred_list = []
+        for pred in all_words:
+            jamo_pred = j2hcj(h2j(pred))
+            per_pred_list.append(jamo_pred)
 
-    per_pred_list = []
-    for pred in all_words:
-        jamo_pred = j2hcj(h2j(pred))
-        per_pred_list.append(jamo_pred)
-
-    wer_score = wer_metric.compute(predictions=all_words, references=wer_ans_list)
+    wer_score = wer_metric.compute(predictions=wer_pred_list, references=wer_ans_list)
     per_score = per_metric.compute(predictions=per_pred_list, references=per_ans_list)
     print(f"[run_test_g2p] wer: {wer_score}, per: {per_score}")
 
@@ -316,7 +343,7 @@ if "__main__" == __name__:
     results = {}
     running_method = ["PNU"]
 
-    compare_sentence_results("신을 신고 동사무소에서 혼인 신고를 하자", rule_book_path=rule_book_path)
+    compare_sentence_results("이상한 신을 신고 가는 특이한 사람을 신고했다.", rule_book_path=rule_book_path)
 
     # Run g2pk
     if "g2pk" in running_method:
@@ -340,7 +367,7 @@ if "__main__" == __name__:
         results.update({"g2p": g2p_score})
 
     if "PNU" in running_method:
-        pnu_score = run_pnu_pron(test_dataset, debug_mode=True)
+        pnu_score = run_pnu_pron(test_dataset, debug_mode=True, compare_target="ipa")
 
     print("---------------------------------")
     print("[run_kr_g2p_test][__main__] Total Results: ")
