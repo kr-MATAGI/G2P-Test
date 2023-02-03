@@ -246,11 +246,37 @@ def run_pnu_pron(target_dataset: Dataset):
 
     return {"wer": wer_score, "per": per_score}
 
+#===================================
+def compare_sentence_results(sentence: str, rule_book_path: str):
+#===================================
+    print(f"[compare_sentence_results] sentence: {sentence}")
 
+    results = {}
+
+    g2pk = G2p()
+    res_g2pk = g2pk(sentence)
+    res_kog2p_adv = KoG2Padvanced(sentence)
+    res_smart_g2p = g2pk(trans(sentence))
+    res_kog2p = runKoG2P(sentence, rule_book_path)
+    sym_jamo_dict = load_g2p_jamo_dict()
+    res_kog2p = "".join([sym_jamo_dict[x] for x in res_kog2p.split(" ")])
+    res_kog2p = join_jamos(res_kog2p)
+
+    # update results
+    results.update({"g2pk": res_g2pk})
+    results.update({"KoG2P_adv": res_kog2p_adv})
+    results.update({"smart_g2p": res_smart_g2p})
+    results.update({"koG2P": res_kog2p})
+
+    # Print
+    for k, v in results.items():
+        print(f"[compare_sentence_results] {k} : {v}")
 
 ### MAIN ###
 if "__main__" == __name__:
     print("[run_kr_g2p_test][__main__]")
+
+    rule_book_path = "/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt"
 
     sig_parser = SIG_parser(src_dir="./data/kr/pronunciation")
     train_dataset = sig_parser.sig_proun_data_load(target_lang="kor", mode="train")
@@ -263,20 +289,7 @@ if "__main__" == __name__:
     results = {}
     running_method = ["PNU"]
 
-    test_str = "신을 신고 얼른 동사무소에 가서 혼인 신고 해라"
-    g2pk = G2p()
-    a = g2pk(test_str)
-    b = KoG2Padvanced(test_str)
-    c = g2pk(trans(test_str))
-    d = runKoG2P(test_str, "/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt")
-    sym_jamo_dict = load_g2p_jamo_dict()
-    d = "".join([sym_jamo_dict[x] for x in d.split(" ")])
-    d = join_jamos(d)
-    print("g2pk:", a)
-    print("KoG2Padvanced: ", b)
-    print("Smakt-G2P: ", c)
-    print("KoG2P: ", d)
-    exit()
+    compare_sentence_results("신을 신고 동사무소에서 혼인 신고를 하자", rule_book_path=rule_book_path)
 
     # Run g2pk
     if "g2pk" in running_method:
@@ -296,7 +309,7 @@ if "__main__" == __name__:
     # Run G2P
     if "G2P" in running_method:
         g2p_score = run_test_g2p(target_dataset=test_dataset,
-                                 rule_book_path="/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt")
+                                 rule_book_path=rule_book_path)
         results.update({"g2p": g2p_score})
 
     if "PNU" in running_method:
