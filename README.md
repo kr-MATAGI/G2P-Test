@@ -48,6 +48,9 @@ G2P-Test
   | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|143,405|
   |    |CMUDict          | 102,405       |
   
+- 문장
+[huggingface ljspeech](https://huggingface.co/datasets/w11wo/ljspeech_phonemes/viewer/w11wo--ljspeech_phonemes/train)
+  
 ### Eval
 #### - Kr
 |                                                          model                                                           |     dataset     |  WER  |  PER  |
