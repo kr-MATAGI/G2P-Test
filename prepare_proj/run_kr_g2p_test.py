@@ -110,6 +110,7 @@ def run_test_smart_g2p(target_dataset: Dataset):
     print(f"[run_test_smart_g2p] dataset.size: {len(target_dataset)}")
     print(f"[run_test_smart_g2p] {target_dataset[:5]}")
 
+    g2pk = G2p()
     correct_list = []
     in_correct_list = []
     wer_ans_list = []
@@ -121,7 +122,7 @@ def run_test_smart_g2p(target_dataset: Dataset):
         ipa = item["ipa"]
         pron = item["pron"]
 
-        res_smart_g2p = trans(word)
+        res_smart_g2p = g2pk(trans(word))
         print(f"[run_test_smart_g2p] {idx}, {res_smart_g2p}, {ipa}, {pron}")
 
         wer_ans_list.append(pron)
@@ -200,10 +201,52 @@ def run_test_g2p(target_dataset: Dataset, rule_book_path: str):
     print(f"[run_test_g2p] result: correct_cnt: {len(correct_list)}, in_correct_cnt: {len(in_correct_list)}")
 
     wer_score = wer_metric.compute(predictions=wer_pred_list, references=wer_ans_list)
-    per_score = per_metric.compute(predictions=per_ans_list, references=per_pred_list)
+    per_score = per_metric.compute(predictions=per_pred_list, references=per_ans_list)
     print(f"[run_test_g2p] wer: {wer_score}, per: {per_score}")
 
     return {"wer": wer_score, "per": per_score}
+
+#===================================
+def run_pnu_pron(target_dataset: Dataset):
+#===================================
+    print(f"[run_pnu_pron] dataset.size: {len(test_dataset)}")
+
+    # open preds
+    all_words = []
+    with open("./save_preds_1.txt", mode="r", encoding="utf-8") as f:
+        read_words = f.readlines()
+        read_words = [x.replace("\n", "").split("\t")[-1] for x in read_words]
+        print(f"[run_pnu_pron] preds_1.size {len(read_words)}")
+        all_words.extend(read_words)
+    with open("./save_preds_2.txt", mode="r", encoding="utf-8") as f:
+        read_words = f.readlines()
+        read_words = [x.replace("\n", "").split("\t")[-1] for x in read_words]
+        print(f"[run_pnu_pron] preds_2.size: {len(read_words)}")
+        all_words.extend(read_words)
+    print(f"[run_pnu_pron] all_words.size: {len(all_words)}")
+
+    # make ans
+    wer_ans_list = []
+    per_ans_list = []
+    for ans, pred in zip(target_dataset, all_words):
+        pron = ans["pron"]
+        wer_ans_list.append(pron)
+
+        jamo_ans = j2hcj(h2j(pron))
+        per_ans_list.append(jamo_ans)
+
+    per_pred_list = []
+    for pred in all_words:
+        jamo_pred = j2hcj(h2j(pred))
+        per_pred_list.append(jamo_pred)
+
+    wer_score = wer_metric.compute(predictions=all_words, references=wer_ans_list)
+    per_score = per_metric.compute(predictions=per_pred_list, references=per_ans_list)
+    print(f"[run_test_g2p] wer: {wer_score}, per: {per_score}")
+
+    return {"wer": wer_score, "per": per_score}
+
+
 
 ### MAIN ###
 if "__main__" == __name__:
@@ -218,7 +261,23 @@ if "__main__" == __name__:
           f"dev: {len(dev_dataset)}, test: {len(test_dataset)}")
 
     results = {}
-    running_method = ["g2pk"]#, "KoG2Padvanced", "SMART-G2P", "G2P"]
+    running_method = ["PNU"]
+
+    test_str = "신을 신고 얼른 동사무소에 가서 혼인 신고 해라"
+    g2pk = G2p()
+    a = g2pk(test_str)
+    b = KoG2Padvanced(test_str)
+    c = g2pk(trans(test_str))
+    d = runKoG2P(test_str, "/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt")
+    sym_jamo_dict = load_g2p_jamo_dict()
+    d = "".join([sym_jamo_dict[x] for x in d.split(" ")])
+    d = join_jamos(d)
+    print("g2pk:", a)
+    print("KoG2Padvanced: ", b)
+    print("Smakt-G2P: ", c)
+    print("KoG2P: ", d)
+    exit()
+
     # Run g2pk
     if "g2pk" in running_method:
         g2pk_score = run_test_g2pk(target_dataset=test_dataset)
@@ -239,6 +298,9 @@ if "__main__" == __name__:
         g2p_score = run_test_g2p(target_dataset=test_dataset,
                                  rule_book_path="/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt")
         results.update({"g2p": g2p_score})
+
+    if "PNU" in running_method:
+        pnu_score = run_pnu_pron(test_dataset)
 
     print("---------------------------------")
     print("[run_kr_g2p_test][__main__] Total Results: ")

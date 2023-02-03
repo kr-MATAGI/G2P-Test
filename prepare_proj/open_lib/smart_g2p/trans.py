@@ -272,5 +272,5 @@ def mixed_g2p(sentence,
     if out_type == 'kor':
         return g2p(trans(sentence))
     else:
-        return runKoG2P(sentence,'KoG2P/rulebook.txt')
+        return runKoG2P(sentence,'/home/ailab/바탕화면/KT_IPA/G2P-Test/prepare_proj/open_lib/KoG2P/rulebook.txt')
 
