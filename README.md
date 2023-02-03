@@ -45,12 +45,15 @@ G2P-Test
   
   | 언어 | 이름 |설명|총|
   |:----:|:--------:|:----:|:----:|
-  | KR | SIGMORPHON 2021 | Subtask 2(midium-resource), 10,000 words (train:8,000/ val: 1,000/ test: 1,000)|16,714|
-  |    |wikipron         | 6,714        |
-  | EN | SIGMORPHON 2021 | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|166,074|
-  |    |CMUDict          | 125,074       |
+  | KR | SIGMORPHON 2021 - wikipron data | Subtask 2(midium-resource), 10,000 words (train:8,000/ val: 1,000/ test: 1,000)|79,390|
+  |    | wikipron 나머지   | 6,714        |
+  |    | ipa-dict         | 62,676        |
+  | EN | SIGMORPHON 2021 - wikipron data | Subtask 1(high-resource), 41,000 words (train: 33,344/ val:4,168/ test:4,168)|292,001|
+  |    | CMUDict          | 125,074       |
+  |    | ipa-dict         | 125,927       |
   
 - 문장
+
 [huggingface ljspeech](https://huggingface.co/datasets/w11wo/ljspeech_phonemes/viewer/w11wo--ljspeech_phonemes/train)
 
 [github-jaywalnut310](https://github.com/jaywalnut310/vits/tree/main/filelists) - phonemizer
