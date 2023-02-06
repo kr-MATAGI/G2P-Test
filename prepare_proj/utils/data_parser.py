@@ -80,8 +80,6 @@ class NiklParser:
 #============================================================
     def __init__(self, src_dir: str):
         print(f"[NiklParser][__init__] src_dir: {src_dir}")
-        if not os.path.exists(src_dir):
-            raise Exception("Not Existed")
         self.src_dir = src_dir
         self.src_file_list = os.listdir(src_dir)
         print(f"[NiklParser][__init__] src_dir - size: {len(self.src_file_list)}, list: {self.src_file_list}")

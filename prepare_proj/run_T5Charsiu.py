@@ -1,5 +1,5 @@
 from transformers import T5ForConditionalGeneration, AutoTokenizer
-from utils.data_parser import SIG_parser
+from utils.data_parser import SIG_parser, NiklParser
 
 import argparse
 import torch
@@ -18,10 +18,18 @@ from transformers import (
 )
 
 #==========================================
-def prepare_dataset(batch):
+def prepare_pron_dataset(batch):
 #==========================================
     batch['input_ids'] = batch['word']
     batch['labels'] = batch['pron']
+
+    return batch
+
+#==========================================
+def prepare_ipa_dataset(batch):
+#==========================================
+    batch['input_ids'] = batch['word']
+    batch['labels'] = batch['ipa']
 
     return batch
 
@@ -73,13 +81,22 @@ if __name__ == '__main__':
     cer_metric = load_metric("cer") # character error rate
     wer_metric = load_metric("wer")
 
+    is_nikl = True
     if args.train:
-        sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
-        train_data = sig_parser.sig_data_load(target_lang="eng_us", mode="train")
-        train_dataset = train_data.map(prepare_dataset)
+        if not is_nikl:
+            sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
+            train_data = sig_parser.sig_data_load(target_lang="eng_us", mode="train")
+            train_dataset = train_data.map(prepare_pron_dataset)
 
-        dev_data = sig_parser.sig_data_load(target_lang="eng_us", mode="dev")
-        dev_dataset = dev_data.map(prepare_dataset)
+            dev_data = sig_parser.sig_data_load(target_lang="eng_us", mode="dev")
+            dev_dataset = dev_data.map(prepare_pron_dataset)
+        else:
+            nikl_parser = NiklParser(src_dir="") # For Load Dataset
+            train_data, dev_data, test_data = nikl_parser.load_nikl_data(target_path="data/NIKL/for_byT5.txt")
+            train_dataset = train_data.map(prepare_ipa_dataset)
+            dev_dataset = dev_data.map(prepare_ipa_dataset)
+            test_dataset = test_data.map(prepare_ipa_dataset)
+
 
         tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
@@ -124,7 +141,7 @@ if __name__ == '__main__':
     if args.evaluate:
         sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
         test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
-        test_dataset = test_data.map(prepare_dataset)
+        test_dataset = test_data.map(prepare_pron_dataset)
 
         tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
