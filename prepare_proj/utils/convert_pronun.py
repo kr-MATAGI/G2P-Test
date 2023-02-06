@@ -85,8 +85,6 @@ class ConvertPronun():
             result_list.append(join_jamos(result))
         return result_list
 
-
-
 ### Main ###
 if __name__ == "__main__":
     pronun = ConvertPronun(src_dir="../data/kr/sigmorphon")
