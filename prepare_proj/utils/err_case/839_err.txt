@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	따라서	tʼarasʌ	tʼarasʌ	tʼarasʌ	True	True
+1	이~	i	i	ip̚	True	False
+2	총백을	esʌ	tsʰoŋbɛgɯɭ	tsʰoŋbɛgɯɭ	False	False
+3	먹으면	tsʰoŋbɛgɯɭ	mʌgɯmjʌn	mʌgɯmjʌn	False	False
+4	폐	mʌgɯmjʌn	pʰʲe	pʰjʌ	False	False
+5	호흡기를	pʰʲe	hohɯp̚kʼirɯɭ	hohɯp̚kʼirɯɭ	False	False
+6	도와	hohɯp̚kʼirɯɭ	dowa	dowa	False	False
+7	감기	dowa	gamgi	gamgi	False	False
+8	바이러스나	gamgi	bairʌsɯna	pairʌsɯna	False	False
+9	세균이	bairʌsɯna	segjuɲi	segjuɲi	False	False
+10	우리	segjuɲi	uri	uri	False	False
+11	몸에	uri	mome	mome	False	False
+12	들어왔을	mome	dɯrʌwasʼɯɭ	dɯrʌwasʼɯɭ	False	False
+13	때	dɯrʌwasʼɯɭ	tʼɛ	tʼɛ	False	False

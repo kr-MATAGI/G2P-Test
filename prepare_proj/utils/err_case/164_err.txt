@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	전망	t͡ɕʌnmaŋ	ʣʌnmaŋ	.tzʌnmaŋ	False	False
+1	좋은	ʣoɯn	ʣoɯn	.tzoɯn	True	False
+2	방은	baŋɯn	baŋɯn	baŋɯn	True	True
+3	피렌체를	pʰirentsʰerɯɭ	pʰirentsʰerɯɭ	pʰirentsʰerɯɭ	True	True
+4	여행하는	jʌhɛŋhanɯn	jʌhɛŋhanɯn	jʌhɛŋhanɯn	True	True
+5	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+6	영국인들에	jʌŋgugindɯre	jʌŋgugindɯre	jʌŋgugindɯre	True	True
+7	대한	dɛhan	dɛhan	dɛhan	True	True
+8	이야기거든요.	i.jagigʌdɯɲjo̞	i.jagigʌdɯɲjo̞	i.jagigʌdɯɲjo̞	True	True

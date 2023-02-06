@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그거에	kɯgʌe	kɯgʌe	gɯgʌe	True	False
+1	비해서	bihɛsʌ	bihɛsʌ	bihɛsʌ	True	True
+2	눈에	nune	nune	nune	True	True
+3	보이는	boinɯn	boinɯn	boinɯn	True	True
+4	그대로를	gɯdɛrorɯɭ	gɯdɛrorɯɭ	kɯdɛrorɯɭ	True	False
+5	아주	aʣu	aʣu	aʣu	True	True
+6	정확하게	ʣʌŋhwakʰage	ʣʌŋhwakʰage	.tzʌŋhwakʰage	True	False
+7	옮기려는	omgirjʌnɯn	omgirjʌnɯn	omgirjʌnɯn	True	True
+8	그런	gɯrʌ	gɯrʌn	gɯrʌn	False	False
+9	으~	nɯ	ɯ	ɯk̚	False	False
+10	입장이	esʌ	ip̚.tzaŋi	ip̚.tzaŋi	False	False
+11	에	ip̚.tzaŋi	e	e	False	False
+12	단원이라고	e	danwʌɲirago	danwʌɲirago	False	False
+13	할	danwʌɲirago	haɭ	haɭ	False	False
+14	수	haɭ	su	su	False	False
+15	있습니다.	su	it̚sʼɯmɲida	it̚sʼɯmɲida	False	False

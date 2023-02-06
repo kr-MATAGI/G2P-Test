@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이런	irʌn	irʌn	irʌn	True	True
+1	부분에	bubune	bubune	bubune	True	True
+2	초점을	tsʰo.tzʌmɯɭ	tsʰo.tzʌmɯɭ	tsʰoʣʌmɯɭ	True	False
+3	맞췄습니다.	mat̚tsʰwʌt̚sʼɯmɲida	mat̚tsʰwʌt̚sʼ	mat̚tsʰwinsɯmɲi	False	False

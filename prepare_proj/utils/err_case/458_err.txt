@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네루다가	nerudaga	nerudaga	nerudaga	True	True
+1	아~그런	a	agɯrʌn	ap̚kʼɯrʌn	False	False
+2	역할만	esʌ	jʌkʰaɭman	jʌkʰaɭman	False	False
+3	하는	gɯrʌn	hanɯn	hanɯn	False	False
+4	게	ɲjʌkʰaɭman	ge	ge	False	False
+5	아니라	hanɯn	aɲira	aɲira	False	False
+6	아~	ge	a	ak̚	False	False
+7	나중	aɲira	naʣuŋ	naʣuŋ	False	False
+8	에	a	e	e	False	False
+9	그	esʌ	gɯ	gɯ	False	False
+10	아옌데에	naʣuŋ	ajendee	ajʌndee	False	False
+11	정부가	e	ʣʌŋbuga	ʣʌŋbuga	False	False
+12	그	gɯ	gɯ	gɯ	True	True
+13	피노체투에	ajendee	pʰinotsʰetʰue	pʰinotsʰetʰue	False	False
+14	쿠데타로	ʣʌŋbuga	kʰudetʰaro	kʰudetʰaro	False	False
+15	몰락하게	gɯ	moɭlakʰage	moɭlakʰage	False	False
+16	되잖아요.	pʰi	dweʣanajo̞	dweʣanajo̞	False	False

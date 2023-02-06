@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	책에	tsʰɛge	tsʰɛge	tsʰɛge	True	True
+1	대한	dɛhan	dɛhan	dɛhan	True	True
+2	서점에	sʌ.tzʌme	sʌ.tzʌme	sʌʣʌme	True	False
+3	대한	dɛhan	dɛhan	dɛhan	True	True
+4	우리	uri	uri	uri	True	True
+5	시민들에	ɕimindɯre	ɕimindɯre	ɕimindɯre	True	True
+6	생각으로	sɛŋgagɯro	sɛŋgagɯro	sɛŋgagɯro	True	True
+7	문을	munɯɭ	munɯɭ	munɯɭ	True	True
+8	열어봤습니다.	jʌrʌbwat̚sʼɯmɲida	jʌrʌbwat̚sʼɯm	jʌrʌbwat̚sʼɯm	False	False

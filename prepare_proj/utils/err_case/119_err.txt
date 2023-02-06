@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	원래	wʌɭlɛ	wʌɭlɛ	wʌɭlɛ	True	True
+2	옛날	jennaɭ	jennaɭ	jennaɭ	True	True
+3	만화	manhwa	manhwa	manhwa	True	True
+4	영화에서	jʌŋhwaesʌ	jʌŋhwaesʌ	jʌŋhwaesʌ	True	True

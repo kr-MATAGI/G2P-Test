@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	만약에	maɲ.jage	maɲ.jage	maɲ.jage	True	True
+2	로봇이	roboɕi	noboɕi	roboɕi	False	True
+3	있는데	innɯnde	innɯnde	innɯnde	True	True
+4	그	gɯ	gɯ	gɯ	True	True
+5	로봇이	roboɕi	noboɕi	roboɕi	False	True
+6	뭐	mwʌ	mwʌ	mwʌ	True	True
+7	어떠한	ʌtʼʌhan	ʌtʼʌhan	ʌtʼʌhan	True	True
+8	기계적인	gigʲeʣʌgin	gigʲeʣʌgin	kigʲeʣʌgin	True	False
+9	과정을	gwaʣʌŋɯɭ	gwaʣʌŋɯɭ	kwaʣʌŋɯɭ	True	False
+10	통해서든지	tʰoŋhɛsʌdɯnʣi	tʰoŋhɛsʌdɯnʣi	tʰoŋhɛsʌdɯnʣi	True	True
+11	자기랑	ʣagiraŋ	ʣagiraŋ	ʣagiraŋ	True	True
+12	비슷한	bisɯtʰan	bisɯtʰan	bisɯtʰan	True	True
+13	것을	gʌsɯɭ	gʌsɯɭ	gʌsɯɭ	True	True
+14	만들어낼	mandɯrʌnɛɭ	mandɯrʌnɛɭ	mandɯrʌnɛɭ	True	True
+15	수	su	su	su	True	True
+16	있다고	it̚tʼago	it̚tʼago	it̚tʼago	True	True
+17	한다면	handamjʌn	handamjʌn	handamjʌn	True	True
+18	그거는	gɯgʌnɯn	gɯgʌnɯn	gɯgʌnɯn	True	True
+19	복제인	bok̚.tzein	bok̚.tzein	bok̚.tzein	True	True
+20	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

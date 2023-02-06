@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	가산	gasan	gasan	gasan	True	True
+2	카나파니의	kʰana	kʰanapʰaɲie	kʰanapʰaɲie	False	False
+3	그	pʰaɲii	gɯ	gɯ	False	False
+4	대표작인	gɯ	dɛpʰjo̞ʣagin	dɛpʰjo̞ʣagin	False	False
+5	그	dɛpʰjo̞ʣagin	gɯ	gɯ	False	False
+6	불볕	gɯ	buɭbjʌt̚	buɭbjʌt̚	False	False
+7	속의	buɭbjʌt̚	soge	soge	False	False
+8	남자들	soge	namʣadɯɭ	namʣadɯɭ	False	False
+9	같은	namʣadɯɭ	gatʰɯn	gatʰɯn	False	False
+10	작품이	gatʰɯn	ʣak̚pʰumi	ʣak̚pʰumi	False	False
+11	나와	ʣak̚pʰumi	nawa	nawa	False	False
+12	있습니다.	nawa	it̚sʼɯmɲida	it̚sʼɯmɲida	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	천문학자들이	tsʰʌnmunhak̚.tzadɯri	tsʰʌnmunhak̚.tza	tsʰʌnmunhak̚.tza	False	False
+1	세트에	setʰɯe	setʰɯe	setʰɯe	True	True
+2	가서	gasʌ	gasʌ	gasʌ	True	True
+3	답을	dabɯɭ	dabɯɭ	dabɯɭ	True	True
+4	달라고	daɭlago	daɭlago	taɭlago	True	False

@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	이제	iʣe	iʣe	iʣe	True	True
+2	오장육부에	oʣaŋ.juk̚pʼue	oʣaŋ.juk̚pʼue	oʣaŋɲjuk̚pʼue	True	False
+3	해당하는	hɛdaŋhanɯn	hɛdaŋhanɯn	hɛdaŋhanɯn	True	True
+4	장부들이	ʣaŋbudɯri	ʣaŋbudɯri	ʣaŋbudɯri	True	True
+5	이제	iʣe	iʣe	iʣe	True	True
+6	얼굴에	ʌɭgure	ʌɭgure	ʌɭgure	True	True
+7	경락을	gjʌŋnagɯɭ	gjʌŋnagɯɭ	kjʌŋnagɯɭ	True	False
+8	통해서	tʰoŋhɛsʌ	tʰoŋhɛsʌ	tʰoŋhɛsʌ	True	True
+9	연결되어	jʌngjʌɭdweʌ	jʌngjʌɭdweʌ	jʌngjʌɭdweʌ	True	True
+10	있다라는	it̚tʼaranɯn	it̚tʼaranɯn	it̚tʼaranɯn	True	True
+11	이론으로	ironɯro	ɲironɯro	ironɯro	False	True
+12	알	aɭ	aɭ	aɭ	True	True
+13	수	su	su	su	True	True
+14	있는	innɯn	innɯn	innɯn	True	True
+15	것들이거든요.	gʌt̚tʼɯrigʌdɯɲjo̞	gʌt̚tʼɯrigʌdɯ	kʌt̚tʼɯrigʌdɯ	False	False

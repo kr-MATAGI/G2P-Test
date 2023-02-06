@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+2	소박한	sobakʰan	sobakʰan	sobakʰan	True	True
+3	삶	sam	sam	saɭ	True	False
+4	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+5	행복한	hɛŋbokʰan	hɛŋbokʰan	hɛŋbokʰan	True	True
+6	삶의	saɭme	saɭme	saɭme	True	True
+7	모습의	mosɯbe	mosɯbe	mosɯbe	True	True
+8	이상적인	isaŋʣʌgin	isaŋʣʌgin	isaŋʣʌgin	True	True
+9	상징으로서	saŋʣiŋɯrosʌ	saŋʣiŋɯrosʌ	saŋʣiŋɯrosʌ	True	True
+10	그림	gɯrim	gɯrim	gɯrim	True	True
+11	속에서	sogesʌ	sogesʌ	sogesʌ	True	True
+12	소재로	soʣɛro	soʣɛro	soʣɛro	True	True
+13	사용하고	sajo̞ŋhago	sajo̞ŋhago	sajo̞ŋhago	True	True
+14	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

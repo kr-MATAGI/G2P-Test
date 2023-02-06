@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	그것도	esʌ	gɯgʌt̚tʼo	gɯgʌt̚tʼo	False	False
+2	쉬운	gɯgʌt̚tʼo	ʃwiun	ʃwiun	False	False
+3	일이	ʃwiun	iri	iri	False	False
+4	아닌	iri	aɲin	aɲin	False	False
+5	거	aɲin	gʌ	gʌ	False	False
+6	같아요.	gʌ	gatʰajo̞	gatʰajo̞	False	False

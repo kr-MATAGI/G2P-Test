@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	봉준호	poŋʣunho	boŋʣunho	boŋʣunho	False	False
+1	감독님하고	gamdoŋɲimhago	gamdoŋɲimhago	kamdoŋɲimhago	True	False
+2	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+3	설국열차	sʌɭgugjʌɭtsʰa	sʌɭgugjʌɭtsʰa	sʌɭgugjʌɭtsʰa	True	True
+4	관련된	gwaɭʎ̟jʌndwen	gwaɭʎ̟jʌndwen	kwaɭʎ̟jʌndwen	True	False
+5	과학	gwahak̚	gwahak̚	kwahak̚	True	False
+6	토크를	tʰokʰɯrɯɭ	tʰokʰɯrɯɭ	tʰokʰɯrɯɭ	True	True
+7	했어요.	hɛsʼʌjo̞	hɛsʼʌjo̞	hɛsʼʌjo̞	True	True

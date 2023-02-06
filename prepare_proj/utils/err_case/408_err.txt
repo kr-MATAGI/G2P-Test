@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어머	ʌmʌ	ʌmʌ	ʌmʌ	True	True
+1	나	na	na	na	True	True
+2	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+3	해야돼	hɛ.ja	hɛ.jadwɛ	hɛ.jadwɛ	False	False
+4	지금	dwɛ	ʣigɯm	ʣigɯm	False	False
+5	나	ʣigɯm	na	na	False	False
+6	해야	na	hɛ.ja	hɛ.ja	False	False
+7	돼	hɛ.ja	dwɛ	twɛ	False	False
+8	어우	dwɛ	ʌu	ʌu	False	False
+9	증말	ʌu	ʣɯŋmaɭ	.tzɯŋmaɭ	False	False

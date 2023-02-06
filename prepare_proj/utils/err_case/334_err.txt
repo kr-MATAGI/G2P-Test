@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그것은	kɯgʌsɯn	gɯgʌsɯn	gɯgʌsɯn	False	False
+1	쉽게	ʃwip̚kʼe	ʃwip̚kʼe	ʃwip̚kʼe	True	True
+2	말하면	maɭhamjʌn	maɭhamjʌn	maɭhamjʌn	True	True
+3	경험적으로	gjʌŋhʌmʣʌgɯro	gjʌŋhʌmʣʌgɯro	kjʌŋhʌmʣʌgɯro	True	False
+4	검증	gʌmʣɯŋ	gʌmʣɯŋ	gʌm.tzɯŋ	True	False
+5	가능하지	ganɯŋhaʣi	ganɯŋhaʣi	kanɯŋhaʣi	True	False
+6	않은	anɯn	anɯn	anɯn	True	True
+7	진술들은	ʣinsuɭdɯrɯn	ʣinsuɭdɯrɯn	.tzinsuɭdɯrɯn	True	False
+8	아무런	amurʌn	amurʌn	amurʌn	True	True
+9	의미가	ɰimiga	ɰimiga	ɰimiga	True	True
+10	없다.	ʌp̚tʼa	ʌp̚tʼa	ʌp̚tʼa	True	True

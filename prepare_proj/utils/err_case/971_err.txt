@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+1	함께해	hamkʼehɛ	hamkʼehɛ	hamkʼehɛ	True	True
+2	주신	ʣuɕin	ʣuɕin	ʣuɕin	True	True
+3	호원숙	ho	howʌnsuk̚	howʌnsuk̚	False	False
+4	작가님	wʌnsuk̚	ʣak̚kʼaɲim	ʣak̚kʼaɲim	False	False
+5	감사드립니다.	ʣak̚kʼaɲim	gamsadɯrimɲida	kamsadɯrimɲida	False	False

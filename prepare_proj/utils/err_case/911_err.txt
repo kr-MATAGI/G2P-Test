@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리가	uriga	uriga	uriga	True	True
+1	새하면	sɛ	sɛhamjʌn	sɛhamjʌn	False	False
+2	흔히	hamjʌn	hɯnhi	hɯnhi	False	False
+3	떠오르는	hɯnhi	tʼʌorɯnɯn	tʼʌorɯnɯn	False	False
+4	참새나	tʼʌorɯnɯn	tsʰamsɛna	tsʰamsɛna	False	False
+5	이런	tsʰamsɛna	irʌn	irʌn	False	False
+6	새들	irʌn	sɛdɯɭ	sɛdɯɭ	False	False
+7	너무	sɛdɯɭ	nʌmu	nʌmu	False	False
+8	익숙하지만	nʌmu	ik̚sʼukʰaʣiman	ik̚sʼukʰaʣiman	False	False
+9	엠이오	ik̚sʼukʰaʣiman	emio	emio	False	False
+10	그	emio	gɯ	gɯ	False	False
+11	새랑도	gɯ	sɛraŋdo	sɛraŋdo	False	False
+12	엄청	sɛraŋdo	ʌmtsʰʌŋ	ʌmtsʰʌŋ	False	False
+13	다르잖아요.	ʌmtsʰʌŋ	darɯʣanajo̞	tarɯʣanajo̞	False	False

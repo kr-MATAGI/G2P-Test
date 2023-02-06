@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	매튜	mɛtʰju	mɛtʰju	mɛtʰju	True	True
+2	맥커너히도	mɛk̚kʰʌnʌhido	mɛk̚	mɛk̚kʰʌnʌhido	False	True
+3	텍사스	tʰek̚sʼasɯ	tʰek̚sʼasɯ	tʰek̚sʼasɯ	True	True
+4	출신이고	tsʰuɭɕʼiɲigo	tsʰuɭɕʼiɲigo	tsʰuɭɕʼiɲigo	True	True

@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	요	jo̞daɯm	jo̞	jo̞	False	False
+2	다음	ʣigɯm	daɯm	daɯm	False	False
+3	지금	hantsʰam	ʣigɯm	ʣigɯm	False	False
+4	한참	jo̞gʌ	hantsʰam	hantsʰam	False	False
+5	요거	mamuri	jo̞gʌ	jo̞gʌ	False	False
+6	마무리	hamjʌnsʌ	mamuri	mamuri	False	False
+7	하면서	iʣe	hamjʌnsʌ	hamjʌnsʌ	False	False
+8	이제	ʣagʌbe	iʣe	iʣe	False	False
+9	작업에	dɯrʌgago	ʣagʌbe	ʣagʌbe	False	False
+10	들어가고	innɯn	dɯrʌgago	dɯrʌgago	False	False
+11	있는	gʌndejo̞	innɯn	innɯn	False	False

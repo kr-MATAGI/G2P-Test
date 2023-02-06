@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	한	han	han	han	True	True
+2	번에	bʌne	bʌne	bʌne	True	True
+3	어~	ʌ	ʌ	ʌp̚	True	False
+4	한	esʌ	han	han	False	False
+5	평생에	han	pʰjʌŋsɛŋe	pʰjʌŋsɛŋe	False	False
+6	한	pʰjʌŋsɛŋe	han	han	False	False
+7	사람을	han	saramɯɭ	saramɯɭ	False	False
+8	생각하는	saramɯɭ	sɛŋgakʰanɯn	sɛŋgakʰanɯn	False	False
+9	걸	sɛŋgakʰanɯn	gʌɭ	gʌɭ	False	False
+10	아주	gʌɭ	aʣu	aʣu	False	False
+11	선호하는데요.	aʣu	sʌnhohanɯndejo̞	sʌnhohanɯndejo̞	False	False

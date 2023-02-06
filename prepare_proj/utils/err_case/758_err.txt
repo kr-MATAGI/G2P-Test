@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	광속에	gwaŋsoge	gwaŋsoge	gwaŋsoge	True	True
+3	구십	guɕip̚	guɕip̚	guɕip̚	True	True
+4	프로로	pʰɯroro	pʰɯroro	pʰɯroro	True	True
+5	서로	sʌro	sʌro	sʌro	True	True
+6	반대로	bandɛro	bandɛro	pandɛro	True	False
+7	간다.	ganda	ganda	ganda	True	True

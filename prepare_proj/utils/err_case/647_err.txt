@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	투자를	tʰuʣarɯɭ	tʰuʣarɯɭ	tʰuʣarɯɭ	True	True
+1	하고	hago	hago	hago	True	True
+2	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+3	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+4	들어서	dɯrʌsʌ	dɯrʌsʌ	dɯrʌsʌ	True	True
+5	미국	miguk̚	miguk̚	miguk̚	True	True
+6	같은	gatʰɯn	gatʰɯn	gatʰɯn	True	True
+7	경우가	gjʌŋuga	gjʌŋuga	kjʌŋuga	True	False
+8	아주	aʣu	aʣu	aʣu	True	True
+9	대표적인데요.	dɛpʰjo̞ʣʌgindejo̞	dɛpʰjo̞ʣʌginde	tɛpʰjo̞ʣʌginde	False	False

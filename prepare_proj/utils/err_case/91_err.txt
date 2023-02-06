@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	쓸데없이	sʼɯɭtʼeʌp̚ɕʼi	sʼɯɭtʼeʌp̚ɕ	sʼɯɭdeʌp̚ɕʼi	False	False
+1	많은	manɯn	manɯn	manɯn	True	True
+2	얘길	jɛgiɭ	jɛgiɭ	jɛgiɭ	True	True
+3	하면	hamjʌn	hamjʌn	hamjʌn	True	True
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	태그를	tʰɛgɯrɯɭ	tʰɛgɯrɯɭ	tʰɛgɯrɯɭ	True	True
+6	붙이더라고요.	butsʰidʌragojo̞	butsʰidʌragojo̞	putsʰidʌragojo̞	True	False

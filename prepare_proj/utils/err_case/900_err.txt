@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	천문학	esʌ	tsʰʌnmunhak̚	tsʰʌnmunhak̚	False	False
+2	책을	tsʰʌnmunhak̚	tsʰɛgɯɭ	tsʰɛgɯɭ	False	False
+3	빼면은	tsʰɛgɯɭ	pʼɛmjʌnɯn	pʼɛmjʌnɯn	False	False
+4	우주로	pʼɛmjʌnɯ	uʣuro	uʣuro	False	False
+5	가는	nuʣuro	ganɯn	ganɯn	False	False
+6	여행이고	ganɯn	jʌhɛŋigo	jʌhɛŋigo	False	False

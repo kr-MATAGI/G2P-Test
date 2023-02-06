@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	또	tʼo	tʼo	tʼo	True	True
+2	기계가	gigʲega	gigʲega	kigʲega	True	False
+3	우리를	urirɯɭ	urirɯɭ	urirɯɭ	True	True
+4	지배할까	.tzibɛhaɭkʼa	ʣibɛhaɭkʼa	ʣibɛhaɭkʼa	False	False
+5	봐	bwa	bwa	pwa	True	False
+6	공포감이	goŋpʰogami	goŋpʰogami	goŋpʰogami	True	True
+7	조성이	ʣosʌŋi	ʣosʌŋi	ʣosʌŋi	True	True
+8	돼서	dwɛsʌ	dwɛsʌ	dwɛsʌ	True	True

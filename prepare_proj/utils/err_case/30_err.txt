@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	식후에	ɕikʰue	ɕikʰue	ɕikʰue	True	True
+1	바로	baro	baro	pʼaro	True	False
+2	인슐린	insjuɭʎ̟in	insjuɭʎ̟in	insjumɲin	True	False
+3	분비가	bunbiga	bunbiga	bunbiga	True	True
+4	많아	manaʣinɯnde	mana	mana	False	False
+5	지는데	itʼɛ	ʣinɯnde	.tzinɯnde	False	False
+6	이때	hʌbʌk̚.tzirɯɭ	itʼɛ	itʼɛ	False	False
+7	허벅지를	sʼɯnɯ	hʌbʌk̚.tzirɯɭ	hʌbʌk̚.tzirɯɭ	False	False
+8	쓰는	nundoŋɯɭ	sʼɯnɯn	sʼɯnɯn	False	False
+9	운동을	hɛʣumjʌn	undoŋɯɭ	undoŋɯɭ	False	False
+10	해주면	insjuɭʎ̟ine	hɛʣumjʌn	hɛʣumjʌn	False	False
+11	인슐린의	hjo̞gwado	insjuɭʎ̟ine	insjuɭʎ̟ine	False	False
+12	효과도	dʌ	hjo̞gwado	hjo̞gwado	False	False
+13	더	nopʰaʣigo	dʌ	dʌ	False	False
+14	높아지고	uri	nopʰaʣigo	nopʰaʣigo	False	False
+15	우리	gɯɲjuk̚	uri	uri	False	False
+16	근육	sʼutsʰuge	gɯɲjuk̚	gɯɲjuk̚	False	False
+17	수축의	hjo̞gwaga	sutsʰuge	sutsʰuge	False	False
+18	효과가	saŋsɯŋhamjʌnsʌ	hjo̞gwaga	hjo̞gwaga	False	False
+19	상승하면서	gɯɲjugi	saŋsɯŋhamjʌnsʌ	saŋsɯŋhamjʌnsʌ	False	False
+20	근육이	hjʌɭtʼaŋɯɭ	gɯɲjugi	gɯɲjugi	False	False
+21	혈당을	dʌ	hjʌɭtʼaŋɯɭ	hjʌɭtʼaŋɯɭ	False	False
+22	더	ʣaɭ	dʌ	dʌ	False	False
+23	잘	ijo̞ŋhage	ʣaɭ	ʣaɭ	False	False
+24	이용하게	dwemɲida	ijo̞ŋhage	ijo̞ŋhage	False	False

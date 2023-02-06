@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	행성을	hɛŋsʌŋɯɭ	hɛŋsʌŋɯɭ	hɛŋsʌŋɯɭ	True	True
+2	찾는	tsʰannɯn	tsʰannɯn	tsʰannɯn	True	True
+3	게	ge	ge	ge	True	True
+4	별을	bjʌrɯɭ	bjʌrɯɭ	bjʌrɯɭ	True	True
+5	가만히	gamanhi	gamanhi	gamanhi	True	True
+6	보고	bogo	bogo	bogo	True	True
+7	있다가	it̚tʼaga	it̚tʼaga	it̚tʼaga	True	True

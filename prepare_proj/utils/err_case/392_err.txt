@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	옛날부터	jennaɭbutʰʌ	jennaɭbutʰʌ	jennaɭbutʰʌ	True	True
+2	안	an	an	an	True	True
+3	한	han	han	han	True	True
+4	게	ge	ge	ge	True	True
+5	아니고	aɲigo	aɲigo	aɲigo	True	True

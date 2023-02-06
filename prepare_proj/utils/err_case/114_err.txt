@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거의	kʌe	gʌe	gʌe	False	False
+1	다	da	da	ta	True	False
+2	비어있는데	biʌinnɯnde	biʌinnɯnde	biʌinnɯnde	True	True
+3	전자기력	ʣʌnʣagirjʌk̚	ʣʌnʣagirjʌk̚	ʣʌnʣagirjʌk̚	True	True
+4	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+5	가시광선이	gaɕigwaŋsʌɲi	gaɕigwaŋsʌɲi	gaɕigwaŋsʌɲi	True	True
+6	얘를	jɛrɯɭ	jɛrɯɭ	jɛrɯɭ	True	True
+7	통과	tʰoŋgwa	tʰoŋgwa	tʰoŋgwa	True	True
+8	못할	motʰaɭ	motʰaɭ	motʰaɭ	True	True
+9	뿐입니다.	pʼuɲimɲida	pʼuɲimɲida	pʼuɲimɲida	True	True

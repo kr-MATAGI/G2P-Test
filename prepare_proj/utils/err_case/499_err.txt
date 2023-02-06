@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래갖고	kɯrɛgat̚kʼo	gɯrɛgat̚kʼo	gɯrɛgat̚kʼo	False	False
+1	다	da	da	ta	True	False
+2	이유가	i.juga	i.juga	i.juga	True	True
+3	있거든요.	it̚kʼʌdɯɲjo̞	it̚kʼʌdɯɲjo̞	it̚kʼʌdɯɲjo̞	True	True

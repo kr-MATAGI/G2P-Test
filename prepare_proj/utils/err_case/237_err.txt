@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	물론	muɭlon	muɭlon	muɭlon	True	True
+1	몸의	mome	mome	mome	True	True
+2	팽창은	pʰɛŋtsʰaŋɯn	pʰɛŋtsʰaŋɯn	pʰɛŋtsʰaŋɯn	True	True
+3	그~	gɯ	gɯ	gɯp̚	True	False
+4	어~	esʌ	ʌ	ʌp̚	False	False
+5	공간의	ʌ	goŋgane	goŋgane	False	False
+6	팽창이	esʌ	pʰɛŋtsʰaŋi	pʰɛŋtsʰaŋi	False	False
+7	아니라	goŋgane	aɲira	aɲira	False	False

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	특히	tʰɯkʰi	tʰɯkʰi	tʰɯkʰi	True	True
+1	응용측면에서	ɯŋjo̞ŋ	ɯŋjo̞ŋ	ɯŋjo̞ŋtsʰɯŋm	True	False
+2	우리	tsʰɯŋmjʌnesʌ	uri	uri	False	False
+3	눈에	uri	nune	nune	False	False
+4	딱	nune	tʼak̚	tʼak̚	False	False
+5	보이는	tʼak̚	boinɯn	boinɯn	False	False
+6	거	pʼoinɯn	gʌ	gʌ	False	False
+7	있잖아요.	gʌ	it̚.tzanajo̞	it̚.tzanajo̞	False	False

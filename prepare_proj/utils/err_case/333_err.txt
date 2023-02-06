@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐~	mwʌ	mwʌ	mwʌ	True	True
+1	그런	esʌ	gɯrʌn	gɯrʌn	False	False
+2	아주	gɯrʌ	aʣu	aʣu	False	False
+3	아름답고	naʣu	arɯmdap̚kʼo	arɯmdap̚kʼo	False	False
+4	깨끗하고	arɯmdap̚kʼo	kʼɛkʼɯtʰago	kʼɛkʼɯtʰago	False	False
+5	조용하고	kʼɛkʼɯtʰago	ʣojo̞ŋhago	ʣojo̞ŋhago	False	False

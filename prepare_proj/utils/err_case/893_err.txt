@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	간단한	kandanhan	gandanhan	gandanhan	False	False
+1	세균	segjun	segjun	segjun	True	True
+2	같은	gatʰɯ	gatʰɯn	gatʰɯn	False	False
+3	원액	nwʌnɛk̚	wʌnɛk̚	wʌnɛk̚	False	False
+4	세포가	sepʰoga	sepʰoga	sepʰoga	True	True
+5	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+6	진액	ʣinɛk̚	ʣinɛk̚	ʣinɛk̚	True	True
+7	세포가	sepʰoga	sepʰoga	sepʰoga	True	True
+8	될	dweɭ	dweɭ	dweɭ	True	True
+9	수	su	su	su	True	True
+10	있겠느냐	it̚kʼennɯɲ.ja	it̚kʼennɯɲ.ja	it̚kʼennɯɲ.ja	True	True
+11	라는데	ranɯnde	ranɯnde	ranɯnde	True	True
+12	대해서는	dɛhɛsʌnɯn	dɛhɛsʌnɯn	tɛhɛsʌnɯn	True	False
+13	정말	ʣʌŋmaɭ	ʣʌŋmaɭ	.tzʌŋmaɭ	True	False
+14	풀리지	pʰuɭʎ̟iʣi	pʰuɭʎ̟iʣi	pʰuɭʎ̟iʣi	True	True
+15	않은	anɯn	anɯn	anɯn	True	True
+16	수수께끼	susukʼekʼi	susukʼekʼi	susukʼekʼi	True	True
+17	중에	ʣuŋe	ʣuŋe	ʣuŋe	True	True
+18	하나였습니다.	hanajʌt̚sʼɯmɲida	hanajʌt̚sʼɯmɲi	hanajʌt̚sʼɯmɲi	False	False

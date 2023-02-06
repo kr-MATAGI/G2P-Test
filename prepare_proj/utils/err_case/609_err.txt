@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	요	jo̞	jo̞	jo̞	True	True
+2	손가락만	sonkʼaraŋman	sonkʼaraŋman	songaraŋman	True	False
+3	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+4	안	an.tzogɯro	an	an	False	False
+5	쪽으로	doɭʎ̟jʌʣwʌdo	.tzogɯro	.tzogɯro	False	False

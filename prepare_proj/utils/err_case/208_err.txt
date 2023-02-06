@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	출제	tsʰuɭ.tze	tsʰuɭ.tze	tsʰuɭ.tze	True	True
+2	유형이	.juhjʌŋi	.juhjʌŋi	.juhjʌŋi	True	True
+3	생활	sɛŋhwaɭ	sɛŋhwaɭ	sɛŋhwaɭ	True	True
+4	과학	gwahak̚	gwahak̚	kwahak̚	True	False
+5	물리	muɭʎ̟i	muɭʎ̟i	muɭʎ̟i	True	True
+6	화학	hwahak̚	hwahak̚	hwahak̚	True	True
+7	생물	sʼɛŋmuɭ	sɛŋmuɭ	sɛŋmuɭ	False	False
+8	지구과학	.tzigugwahak̚	ʣigugwahak̚	ʣigugwahak̚	False	False
+9	이런	irʌn	irʌn	irʌn	True	True
+10	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+11	약간	.jak̚kʼan	.jak̚kʼan	.jak̚kʼan	True	True
+12	그~	gɯ	gɯ	gɯp̚	True	False
+13	구체적으로	esʌ	gutsʰeʣʌgɯro	kutsʰeʣʌgɯro	False	False
+14	나와	gutsʰeʣʌgɯro	nawa	nawa	False	False
+15	있는데	nawa	innɯnde	innɯnde	False	False

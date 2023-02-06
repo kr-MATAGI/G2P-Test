@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	과거에	kwagʌe	gwagʌe	kwagʌe	False	True
+1	한	han	han	han	True	True
+2	번쯤은	bʌn.tzɯmɯn	bʌn.tzɯmɯn	pʌn.tzɯmɯn	True	False
+3	느껴봤던	nɯkʼjʌbwat̚tʼʌn	nɯkʼjʌbwat̚tʼ	nɯkʼjʌbwat̚tʼ	False	False
+4	것들을	gʌt̚tʼɯrɯɭ	gʌt̚tʼɯrɯɭ	kʌt̚tʼɯrɯɭ	True	False

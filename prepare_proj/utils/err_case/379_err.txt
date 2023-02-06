@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	회원이	hwewʌɲi	hwewʌɲi	hwewʌɲi	True	True
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	천육십	esʌ	tsʰʌɲjuk̚ɕʼip	tsʰʌɲjuk̚ɕʼip	False	False
+3	명이구요.	tsʰʌɲjuk̚ɕʼip̚	mjʌŋigujo̞	mjʌŋigujo̞	False	False

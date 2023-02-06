@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그건	kɯgʌn	gɯgʌn	gɯgʌn	False	False
+1	다름	darɯm	darɯm	darɯm	True	True
+2	아닌	aɲin	aɲin	aɲin	True	True
+3	이	i	i	i	True	True
+4	한반도에서	hanbandoesʌ	hanbandoesʌ	hanbandoesʌ	True	True
+5	전쟁의	ʣʌnʣɛŋe	ʣʌnʣɛŋe	ʣʌnʣɛŋe	True	True
+6	위험을	wihʌmɯɭ	wihʌmɯɭ	wihʌmɯɭ	True	True
+7	걷어내는	gʌdʌnɛnɯn	gʌdʌnɛnɯn	kʌdʌnɛnɯn	True	False
+8	것입니다.	gʌɕimɲida	gʌɕimɲida	kʌɕimɲida	True	False

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	현재를	hjʌnʣɛrɯɭ	hjʌnʣɛrɯɭ	hjʌnʣɛrɯɭ	True	True
+1	읽고	iɭkʼo	iɭkʼo	ik̚kʼo	True	False
+2	미래를	mirɛrɯɭ	mirɛrɯɭ	mirɛrɯɭ	True	True
+3	대처하는	dɛtsʰʌhanɯ	dɛtsʰʌhanɯn	tɛtsʰʌhanɯn	False	False
+4	안내서	nannɛsʌ	annɛsʌ	annɛsʌ	False	False
+5	대변동입니다.	dɛbjʌndoŋimɲida	dɛbjʌndoŋimɲida	tɛbjʌndoŋimɲida	True	False

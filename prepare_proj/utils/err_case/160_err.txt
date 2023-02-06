@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러나	kɯrʌna	kɯrʌna	gɯrʌna	True	False
+1	그의	gɯe	gɯe	gɯi	True	False
+2	한	han	han	han	True	True
+3	편	pʰjʌn	pʰjʌn	pʰjʌn	True	True
+4	한	han	han	han	True	True
+5	편	pʰjʌn	pʰjʌn	pʰjʌn	True	True
+6	읽고	iɭkʼo	iɭkʼo	ik̚kʼo	True	False
+7	나서	nasʌ	nasʌ	nasʌ	True	True
+8	어설피	ʌsʌɭpʰi	ʌsʌɭpʰi	ʌsʌɭpʰi	True	True
+9	말했던	maɭhɛt̚tʼʌn	maɭhɛt̚tʼʌn	maɭhɛt̚tʼʌn	True	True
+10	내	nɛ	nɛ	nɛ	True	True
+11	시늉이	ɕiɲjuŋi	ɕiɲjuŋi	ɕiɲjuŋi	True	True
+12	남세스러워졌다.	namsesɯrʌwʌʣʌt̚tʼa	namsesɯrʌwʌʣʌt	namsesɯrʌwʌʣʌt	False	False

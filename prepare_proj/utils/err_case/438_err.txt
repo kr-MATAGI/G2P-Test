@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	다음	taɯm	daɯm	daɯm	False	False
+1	이	i	i	i	True	True
+2	시간에	ɕigane	ɕigane	ɕigane	True	True
+3	다시	daɕi	daɕi	daɕi	True	True
+4	만나요.	mannajo̞	mannajo̞	mannajo̞	True	True

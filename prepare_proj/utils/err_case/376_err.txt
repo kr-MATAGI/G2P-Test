@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	그이유는	gɯ	gɯ	kɯi.junɯn	True	False
+2	우리에	i.junɯn	urie	urie	False	False
+3	혈당을	urie	hjʌɭtʼaŋɯɭ	hjʌɭtʼaŋɯɭ	False	False
+4	조절하는	hjʌɭtʼaŋɯɭ	ʣoʣʌɭhanɯn	ʣoʣʌɭhanɯn	False	False
+5	핵심적인	ʣoʣʌɭhanɯn	hɛk̚ɕʼimʣʌgin	hɛk̚ɕʼimʣʌgin	False	False
+6	호르몬	hɛk̚ɕʼimʣʌgin	horɯmon	horɯmon	False	False
+7	알고	horɯmon	aɭgo	aɭgo	False	False
+8	계시죠.	aɭgo	gʲeɕiʣjo̞	gʲeɕiʣjo̞	False	False

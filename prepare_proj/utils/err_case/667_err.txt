@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그밖에	kɯbakʼe	kɯbakʼe	gɯbakʼe	True	False
+1	가볼	gaboɭ	gaboɭ	gaboɭ	True	True
+2	만한	manhan	manhan	manhan	True	True
+3	문화현장도	munhwa	munhwa	munhwahjʌnʣaŋdo	True	False
+4	함께	hjʌnʣaŋdo	hamkʼe	hamkʼe	False	False
+5	챙겨보시죠.	hamkʼe	tsʰɛŋgjʌboɕiʣ	tsʰɛŋgjʌboɕiʣ	False	False

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그럼	kɯrʌm	kɯrʌm	gɯrʌm	True	False
+1	여중생	jʌʣuŋsɛŋ	jʌʣuŋsɛŋ	jʌʣuŋsɛŋ	True	True
+2	에이가	eiga	eiga	eiga	True	True
+3	원작은	wʌnʣagɯn	wʌnʣagɯn	wʌnʣagɯn	True	True
+4	영화에	jʌŋhwae	jʌŋhwae	jʌŋhwae	True	True
+5	비해서	bihɛsʌ	bihɛsʌ	bihɛsʌ	True	True
+6	훨씬	hwʌɭɕʼi	hwʌɭɕʼin	hwʌɭɕʼin	False	False
+7	어두워요.	nʌduwʌjo̞	ʌduwʌjo̞	ʌduwʌjo̞	False	False

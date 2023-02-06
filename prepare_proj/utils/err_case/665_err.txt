@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그거를	kɯgʌrɯɭ	gɯgʌrɯɭ	gɯgʌrɯɭ	False	False
+1	꼭	kʼok̚	kʼok̚	kʼok̚	True	True
+2	재현하고	ʣɛhjʌnhago	ʣɛhjʌnhago	ʣɛhjʌnhago	True	True
+3	싶었던	ɕipʰʌt̚tʼʌn	ɕipʰʌt̚tʼʌn	ɕipʰʌt̚tʼʌn	True	True
+4	게	ge	ge	ge	True	True
+5	대나무	dɛnamu	dɛnamu	tɛnamu	True	False
+6	시리즈입니다.	ɕiriʣɯimɲida	ɕiriʣɯimɲida	ɕiriʣɯimɲida	True	True

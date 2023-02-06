@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	굉장히	kweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+1	가난하게	gananhage	gananhage	kananhage	True	False
+2	살았다고	sarat̚tʼago	sarat̚tʼago	sarat̚tʼago	True	True
+3	하고	hago	hago	hago	True	True

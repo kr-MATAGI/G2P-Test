@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오늘의	onɯre	onɯre	onɯre	True	True
+1	강의가	gaŋiga	gaŋiga	gaŋiga	True	True
+2	또	tʼo	tʼo	tʼo	True	True
+3	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+4	거를	gʌrɯɭ	gʌrɯɭ	gʌrɯɭ	True	True
+5	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+6	말씀해주시는	maɭsʼɯmhɛʣuɕinɯn	maɭsʼɯmhɛʣuɕi	maɭsʼɯmhɛʣuɕi	False	False
+7	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+8	내용이	nɛjo̞ŋi	nɛjo̞ŋi	nɛjo̞ŋi	True	True
+9	아니였나	aɲijʌnna	aɲijʌnna	aɲijʌnna	True	True
+10	생각이	sɛŋgagi	sɛŋgagi	sɛŋgagi	True	True
+11	됩니다.	dwemɲida	dwemɲida	dwemɲida	True	True

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거	kʌ	gʌ	gʌ	False	False
+1	그	gɯ	gɯ	gɯ	True	True
+2	얘기도	jɛgido	jɛgido	jɛgido	True	True
+3	다	da	da	ta	True	False
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	거잖아요.	gʌʣanajo̞	gʌʣanajo̞	kʌʣanajo̞	True	False

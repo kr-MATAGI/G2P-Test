@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	저도	ʣʌdo	ʣʌdo	ʣʌdo	True	True
+2	이게	ige	ige	ige	True	True
+3	도서관으로	dosʌgwanɯro	dosʌgwanɯro	dosʌgwanɯro	True	True
+4	한다은	handaɯn	handaɯn	handaɯn	True	True
+5	소식을	soɕigɯɭ	soɕigɯɭ	soɕigɯɭ	True	True
+6	듣고	dɯt̚kʼo	dɯt̚kʼo	dɯt̚kʼo	True	True
+7	도서관계	dosʌ	dosʌgwangʲe	dosʌgwangʲe	False	False
+8	한	gwangʲe	han	han	False	False
+9	사람으로	han	saramɯro	saramɯro	False	False
+10	깜짝	saramɯro	kʼam.tzak̚	kʼam.tzak̚	False	False
+11	놀랬습니다.	kʼam.tzak̚	noɭlɛt̚sʼɯmɲi	noɭlɛt̚sʼɯmɲi	False	False

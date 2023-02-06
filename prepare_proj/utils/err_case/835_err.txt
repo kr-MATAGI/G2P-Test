@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	이게	ige	ige	ige	True	True
+2	이런	irʌn	irʌn	irʌn	True	True
+3	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+4	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+5	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+6	간에	gane	gane	gane	True	True
+7	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True
+8	게르마늄에	gerɯmaɲjume	gerɯmaɲjum	kerɯmaɲjume	False	False
+9	비해서	bihɛsʌ	bihɛsʌ	bihɛsʌ	True	True
+10	훨씬	hwʌɭɕʼin	hwʌɭɕʼin	hwʌɭɕʼin	True	True
+11	더	dʌ	dʌ	dʌ	True	True
+12	진짜	ʣin.tza	ʣin.tza	ʣin.tza	True	True
+13	같잖아요.	gat̚.tzanajo̞	gat̚.tzanajo̞	gat̚.tzanajo̞	True	True

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	린디합	rindihap̚	rindihap̚	mindihap̚	True	False
+2	스윙	sɯwiŋ	sɯwik̚	sɯwik̚	False	False
+3	댄스	dɛnsɯ	dɛnsɯ	tɛnsɯ	True	False
+4	저도	ʣʌdo	ʣʌdo	ʣʌdo	True	True
+5	한번	hanbʌn	hanbʌn	hanbʌn	True	True
+6	배워보고	bɛwʌbogo	bɛwʌbogo	pɛwʌbogo	True	False
+7	싶은데요.	ɕipʰɯndejo̞	ɕipʰɯndejo̞	ɕipʰɯndejo̞	True	True

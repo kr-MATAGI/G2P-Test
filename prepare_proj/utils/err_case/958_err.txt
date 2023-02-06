@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	우리에게	uriege	uriege	uriege	True	True
+2	있어서	isʼʌsʌ	isʼʌsʌ	isʼʌsʌ	True	True
+3	정말	ʣʌŋmaɭ	ʣʌŋmaɭ	.tzʌŋmaɭ	True	False
+4	좀	ʣom	ʣom	ʣom	True	True
+5	다르고	darɯgo	darɯgo	darɯgo	True	True
+6	좀	ʣom	ʣom	ʣom	True	True
+7	특이한	tʰɯgihan	tʰɯgihan	tʰɯgihan	True	True
+8	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+9	많은	manɯn	manɯn	manɯn	True	True
+10	사람들에게	saramdɯrege	saramdɯrege	saramdɯrege	True	True
+11	영향을	jʌŋh.jaŋɯɭ	jʌŋh.jaŋɯɭ	jʌŋh.jaŋɯɭ	True	True
+12	끼칠	kʼitsʰiɭ	kʼitsʰiɭ	kʼitsʰiɭ	True	True
+13	수	su	su	su	True	True
+14	있는	innɯn	innɯn	innɯn	True	True
+15	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+16	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+17	뭐	mwʌ	mwʌ	mwʌ	True	True
+18	위인전기에서	wiinʣʌngiesʌ	wiinʣʌngiesʌ	wiinʣʌngiesʌ	True	True
+19	볼	boɭ	boɭ	boɭ	True	True
+20	수	su	su	su	True	True
+21	있는	innɯn	innɯn	innɯn	True	True

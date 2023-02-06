@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	하긴	hagin	hagin	hagin	True	True
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	파토님	pʰatʰo	pʰatʰo	pʰatʰoɲim	True	False
+3	연주도	ɲim	jʌnʣudo	jʌnʣudo	False	False
+4	가짜	jʌnʣudo	ga.tza	ga.tza	False	False
+5	음악	ga.tza	ɯmak̚	ɯmak̚	False	False
+6	공연은	ɯmak̚	goŋjʌnɯn	goŋjʌnɯn	False	False
+7	아니죠.	kʼoŋjʌnɯn	aɲiʣjo̞	aɲiʣjo̞	False	False

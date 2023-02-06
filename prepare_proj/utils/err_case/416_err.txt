@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+1	저	ʣʌ	ʣʌ	ʣʌ	True	True
+2	두	du	du	du	True	True
+3	분과	bunkʼwa	bungwa	bungwa	False	False
+4	함께	hamkʼe	hamkʼe	hamkʼe	True	True
+5	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+6	에~	e	e	eepʼa	True	False
+7	대화를	esʌ	dɛhwarɯɭ	dɛhwarɯɭ	False	False
+8	나누다	dɛhwarɯɭ	nanuda	nanuda	False	False
+9	보니까	nanuda	boɲikʼa	boɲikʼa	False	False
+10	삼	boɲikʼa	sam	sam	False	False
+11	년	sam	ɲjʌn	ɲjʌn	False	False
+12	전에	ɲjʌn	ʣʌne	ʣʌne	False	False
+13	그	ʣʌne	gɯ	gɯ	False	False
+14	시간으로	gɯ	ɕiganɯro	ɕiganɯro	False	False
+15	다시	ɕiganɯro	daɕi	daɕi	False	False
+16	돌아가서	daɕi	doragasʌ	doragasʌ	False	False

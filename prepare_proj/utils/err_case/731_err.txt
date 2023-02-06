@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예측	jetsʰɯk̚	jetsʰɯk̚	jetsʰɯk̚	True	True
+1	정보가	.tzʌŋboga	ʣʌŋboga	ʣʌŋboga	False	False
+2	없어도	ʌp̚sʼʌdo	ʌp̚sʼʌdo	ʌp̚sʼʌdo	True	True
+3	과거	gwagʌ	gwagʌ	gwagʌ	True	True
+4	정보만	ʣʌŋboman	ʣʌŋboman	.tzʌŋboman	True	False
+5	분석을	bunsʌgɯɭ	bunsʌgɯɭ	bunsʌgɯɭ	True	True
+6	해도	hɛdo	hɛdo	hɛdo	True	True

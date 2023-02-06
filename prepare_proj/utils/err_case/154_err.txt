@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저희는	t͡ɕʌhinɯn	ʣʌhinɯn	ʣʌhinɯn	False	False
+1	왜	wɛ	wɛ	wɛ	True	True
+2	쌍둥이냐면	sʼaŋduŋiɲ.jamjʌn	sʼaŋduŋiɲ.jamj	sʼaŋduŋiɲ.jamj	False	False
+3	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+4	번째가	pʼʌn.tzɛga	bʌn.tzɛga	pʌn.tzɛga	False	False
+5	올해	oɭhɛ	oɭhɛ	oɭhɛ	True	True
+6	연말에	jʌnmare	jʌnmare	jʌnmare	True	True
+7	우주로	uʣuro	uʣuro	uʣuro	True	True
+8	인제	inʣe	inʣe	inʣe	True	True
+9	올라가게	oɭlagage	oɭlagage	oɭlagage	True	True
+10	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이십오	iɕibo	iɕibo	iɕibo	True	True
+1	그람	gɯram	gɯram	gɯram	True	True
+2	미만을	mimanɯɭ	mimanɯɭ	mimanɯɭ	True	True
+3	섭취하도록	sʌp̚tsʰwihadorok̚	sʌp̚tsʰwihadorok	sʌp̚tsʰwihadorok	False	False
+4	권고하는	gwʌngohanɯn	gwʌngohanɯn	kwʌngohanɯn	True	False
+5	있는	innɯn	innɯn	innɯn	True	True
+6	실정이거든요.	ɕiɭ.tzʌŋigʌdɯɲjo̞	ɕiɭ.tzʌŋigʌdɯ	ɕiɭ.tzʌŋigʌdɯ	False	False

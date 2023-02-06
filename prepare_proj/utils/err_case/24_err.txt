@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	외계인이	wegʲeiɲi	wegʲeiɲi	wegʲeiɲi	True	True
+2	발견되고	baɭgjʌndwego	baɭgjʌndwego	paɭgjʌndwego	True	False
+3	일단	iɭtʼan	iɭtʼan	iɭtʼan	True	True
+4	머니니까	mʌɲiɲikʼa	mʌɲiɲikʼa	mʌɲiɲikʼa	True	True
+5	흔적이	hɯnʣʌgi	hɯnʣʌgi	hɯnʣʌgi	True	True
+6	그걸	gɯgʌɭ	gɯgʌɭ	gɯgʌɭ	True	True
+7	발견했다해도	baɭgjʌnhɛt̚tʼa	baɭgjʌnhɛt̚tʼa	paɭgjʌnhɛt̚tʼa	True	False
+8	머니까	hɛdo	mʌɲikʼa	mʌɲikʼa	False	False
+9	얘들이	mʌɲikʼa	jɛdɯri	jɛdɯri	False	False
+10	쳐들어	jɛdɯri	tsʰʌdɯrʌ	tsʰʌdɯrʌ	False	False
+11	오는	tsʰʌdɯrʌonɯn	onɯn	onɯn	False	False
+12	올려면	oɭʎ̟jʌmjʌn	oɭʎ̟jʌmjʌn	oɭʎ̟jʌmjʌn	True	True
+13	시간이	ɕigaɲi	ɕigaɲi	ɕigaɲi	True	True
+14	걸리잖아요.	gʌɭʎ̟iʣanajo̞	gʌɭʎ̟iʣanajo̞	kʌɭʎ̟iʣanajo̞	True	False

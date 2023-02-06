@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	요런	jo̞rʌn	jo̞rʌn	jo̞rʌn	True	True
+2	문제들이	munʣedɯri	munʣedɯri	munʣedɯri	True	True
+3	발생을	baɭsʼɛŋɯɭ	baɭsʼɛŋɯɭ	paɭsʼɛŋɯɭ	True	False
+4	하고	hago	hago	hago	True	True
+5	이제	iʣe	iʣe	iʣe	True	True
+6	나중에	naʣuŋe	naʣuŋe	naʣuŋe	True	True
+7	그	gɯ	gɯ	gɯ	True	True
+8	로봇권이	robot̚	robot̚	robot̚kʼwʌɲi	True	False
+9	생기면	gwʌɲi	sɛŋgimjʌn	sɛŋgimjʌn	False	False
+10	그	sɛŋgimjʌn	gɯ	gɯ	False	False
+11	논쟁도	gɯ	nonʣɛŋdo	nonʣɛŋdo	False	False
+12	생겨날	nonʣɛŋdo	sɛŋgjʌnaɭ	sɛŋgjʌnaɭ	False	False
+13	거예요.	sɛŋgjʌnaɭ	gʌjejo̞	gʌjejo̞	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	고야라는	ko.jaranɯn	go.jaranɯn	ko.jaranɯn	False	True
+1	것을	gʌsɯɭ	gʌsɯɭ	gʌsɯɭ	True	True
+2	손꼽기도	sonkʼop̚kʼido	sonkʼop̚kʼido	sonkʼop̚kʼido	True	True
+3	하고	hago	hago	hago	True	True
+4	있는데요.	innɯndejo̞	innɯndejo̞	innɯndejo̞	True	True

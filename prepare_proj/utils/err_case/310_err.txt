@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	대신	tɛɕin	dɛɕin	dɛɕin	False	False
+1	그	gɯ	gɯ	gɯ	True	True
+2	만큼	mankʰɯm	mankʰɯm	mankʰɯm	True	True
+3	윤곽이나	.jungwagina	.jungwagina	.jungwagina	True	True
+4	얼굴의	ʌɭgure	ʌɭgure	ʌɭguri	True	False
+5	이목구비	imok̚kʼubi	imok̚kʼubi	imok̚kʼubi	True	True
+6	묘사는	mjo̞sanɯn	mjo̞sanɯn	mjo̞sanɯn	True	True
+7	훨씬	hwʌɭɕʼin	hwʌɭɕʼin	hwʌɭɕʼin	True	True
+8	더	dʌ	dʌ	dʌ	True	True
+9	공을	goŋɯɭ	goŋɯɭ	goŋɯɭ	True	True
+10	들여서	dɯrjʌsʌ	dɯrjʌsʌ	dɯrjʌsʌ	True	True
+11	표현을	pʰjo̞hjʌnɯɭ	pʰjo̞hjʌnɯɭ	pʰjo̞hjʌnɯɭ	True	True
+12	했다	hɛt̚tʼa	hɛt̚tʼa	hɛt̚tʼa	True	True
+13	라고	rago	rago	rago	True	True
+14	아마	ama	ama	ama	True	True
+15	느끼실	nɯkʼiɕiɭ	nɯkʼiɕiɭ	nɯkʼiɕiɭ	True	True
+16	수	su	su	su	True	True
+17	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+18	겁니다.	gʌmɲida	gʌmɲida	gʌmɲida	True	True

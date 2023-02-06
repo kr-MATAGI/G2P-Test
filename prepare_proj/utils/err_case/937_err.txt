@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	음~	ɯm	ɯm	ɯm	True	True
+2	저는	esʌ	ʣʌnɯn	ʣʌnɯn	False	False
+3	또	ʣʌnɯn	tʼo	tʼo	False	False
+4	이~	tʼo	i	ip̚	False	False
+5	좀~	i	ʣom	ʣom	False	False
+6	에스에프적인	esʌ	esɯepʰɯʣʌgin	esɯepʰɯʣʌgin	False	False
+7	얘기지만	ʣom	jɛgiʣiman	jɛgiʣiman	False	False
+8	하는	esʌ	hanɯn	hanɯn	False	False
+9	게	esɯepʰɯʣʌgin	ge	ge	False	False
+10	방금	jɛgiʣiman	baŋgɯm	baŋgɯm	False	False
+11	나온	hanɯn	naon	naon	False	False
+12	이엠	ge	iem	iem	False	False
+13	드라이브나	baŋgɯm	dɯraibɯna	dɯraibɯna	False	False
+14	혹은	naon	hogɯn	hogɯn	False	False
+15	워프	iem	wʌpʰɯ	wʌpʰɯ	False	False
+16	드라이브	dɯraibɯna	dɯraibɯ	dɯraibɯ	False	False

@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	이런	esʌ	irʌn	irʌn	False	False
+2	거보다는	irʌn	gʌbodanɯn	gʌbodanɯn	False	False
+3	내가	gʌbodanɯn	nɛga	nɛga	False	False
+4	하고	nɛga	hago	hago	False	False
+5	싶은	hago	ɕipʰɯn	ɕipʰɯn	False	False
+6	거만	ɕipʰɯn	gʌman	gʌman	False	False
+7	할	gʌman	haɭ	haɭ	False	False
+8	수	haɭ	su	su	False	False
+9	없을까	su	ʌp̚sʼɯɭkʼa	ʌp̚sʼɯɭkʼa	False	False
+10	하는	ʌp̚sʼɯɭkʼa	hanɯn	hanɯn	False	False
+11	이기적인	hanɯn	igiʣʌgin	igiʣʌgin	False	False
+12	생각들이	ɲigiʣʌgin	sɛŋgak̚tʼɯri	sɛŋgak̚tʼɯri	False	False
+13	좀	sɛŋgak̚tʼɯri	ʣom	ʣom	False	False
+14	있었어요.	ʣom	isʼʌsʼʌjo̞	isʼʌsʼʌjo̞	False	False

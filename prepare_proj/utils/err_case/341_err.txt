@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	김연아	kimjʌna	gimjʌna	kimjʌna	False	True
+1	선수의	sʌnsue	sʌnsue	sʌnsui	True	False
+2	지젤은	ʣiʣerɯn	ʣiʣerɯn	ʣiʣerɯn	True	True
+3	기술적으로도	gisuɭ.tzʌgɯrodo	gisuɭ.tzʌgɯrodo	kisuɭ.tzʌgɯrodo	True	False
+4	훌륭했지만	huɭʎ̟juŋhɛt̚.tziman	huɭʎ̟juŋhɛt̚.	huɭʎ̟juŋhɛt̚.	False	False
+5	발레	baɭle	baɭle	pʼaɭle	True	False
+6	동작을	doŋʣagɯɭ	doŋʣagɯɭ	toŋʣagɯɭ	True	False
+7	피겨	pʰigjʌ	pʰigjʌ	pʰigjʌ	True	True
+8	안무로	anmuro	anmuro	anmuro	True	True
+9	소화하면서	sohwahamjʌnsʌ	sohwahamjʌnsʌ	sohwahamjʌnsʌ	True	True
+10	마치	matsʰi	matsʰi	matsʰi	True	True
+11	무용	mujo̞ŋ	mujo̞ŋ	mujo̞ŋ	True	True
+12	공연을	goŋjʌnɯɭ	goŋjʌnɯɭ	goŋjʌnɯɭ	True	True
+13	보는	bonɯn	bonɯn	bonɯn	True	True
+14	듯한	dɯtʰan	dɯtʰan	dɯtʰan	True	True
+15	착각을	tsʰak̚kʼagɯɭ	tsʰak̚kʼagɯɭ	tsʰak̚kʼagɯɭ	True	True
+16	일으켰죠.	irɯkʰjʌt̚.tzjo̞	irɯkʰjʌnʣjo̞	irɯkʰjʌʣjo̞	False	False

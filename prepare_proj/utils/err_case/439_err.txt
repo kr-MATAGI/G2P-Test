@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+1	번째	pʼʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	False	False
+2	일급	iɭgɯp̚pʼimiɭ	iɭgɯp̚	iɭgɯp̚	False	False
+3	비밀	hʌri	bimiɭ	bimiɭ	False	False
+4	허리	pʼikʼɯtʰɛsʼɯɭ	hʌri	hʌri	False	False
+5	삐끗했을	tʼɛ	pʼikʼɯtʰɛsʼɯ	pʼikʼɯtʰɛsʼɯ	False	False
+6	때	muʣokʼʌn	tʼɛ	tʼɛ	False	False
+7	무조건	tsʰim	muʣokʼʌn	muʣokʼʌn	False	False
+8	침	mat̚.tzi	tsʰim	tsʰim	False	False
+9	맞지	mara	mat̚.tzi	mat̚.tzi	False	False

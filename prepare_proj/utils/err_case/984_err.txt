@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	이~	i	i	ip̚	True	False
+2	구조물하고	esʌ	guʣomuɭhago	kuʣomuɭhago	False	False
+3	만나는	guʣomuɭhago	mannanɯn	mannanɯn	False	False
+4	건데	mannanɯn	gʌnde	gʌnde	False	False
+5	우리나라는	gʌnde	urinaranɯn	urinaranɯn	False	False
+6	지금	urinaranɯn	ʣigɯm	ʣigɯm	False	False
+7	구조물	ʣigɯm	guʣomuɭ	kuʣomuɭ	False	False
+8	그러면	guʣomuɭ	kɯrʌmjʌn	gɯrʌmjʌn	False	False
+9	뭐	gɯrʌmjʌn	mwʌ	mwʌ	False	False
+10	이렇게	mwʌ	irʌkʰe	irʌkʰe	False	False
+11	낮춰봐요.	irʌkʰe	nat̚tsʰwʌbwajo̞	nat̚tsʰwʌbwajo̞	False	False

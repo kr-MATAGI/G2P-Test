@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+2	보시면서	boɕimjʌnsʌ	boɕimjʌnsʌ	boɕimjʌnsʌ	True	True
+3	자신만의	ʣaɕinmane	ʣaɕinmane	.tzaɕinmane	True	False
+4	화양연화를	hwa.jaŋjʌnhwarɯɭ	hwa.jaŋjʌnhwarɯ	hwa.jaŋjʌnhwarɯ	False	False
+5	떠올리시면	tʼʌoɭʎ̟iɕimjʌn	tʼʌoɭʎ̟iɕimj	tʼʌoɭʎ̟iɕimj	False	False
+6	어떨까	ʌtʼʌɭkʼa	ʌtʼʌɭkʼa	ʌtʼʌɭkʼa	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그담에	kɯdame	kɯdame	gɯdame	True	False
+1	끼우고	kʼiugo	kʼiugo	kʼiugo	True	True
+2	나서	nasʌ	nasʌ	nasʌ	True	True
+3	쭉	.tzuŋ	.tzuk̚	.tzuk̚	False	False
+4	늘리고	nɯɭʎ̟igo	nɯɭʎ̟igo	nɯɭʎ̟igo	True	True

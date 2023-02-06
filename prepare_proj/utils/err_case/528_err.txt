@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	지느는이라는	esʌ	ʣinɯnɯɲiranɯn	.tzinɯnɯɲiranɯn	False	False
+2	것이	ʣi	gʌɕi	gʌɕi	False	False
+3	반드시	nɯnɯn	bandɯɕi	pandɯɕi	False	False
+4	인간의	iranɯn	ingane	ingane	False	False
+5	방식으로	gʌɕi	baŋɕigɯro	baŋɕigɯro	False	False
+6	만들어지지	bandɯɕi	mandɯrʌʣiʣi	mandɯrʌʣiʣi	False	False
+7	않아도	ingane	anado	anado	False	False
+8	상관없다라는	baŋɕigɯro	saŋgwanʌp̚tʼara	saŋgwanʌp̚tʼara	False	False

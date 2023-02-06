@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	저한테도	ʣʌhantʰedo	ʣʌhantʰedo	t͡ɕʌhantʰedo	True	False
+2	질문이	ʣiɭmuɲi	ʣiɭmuɲi	.tziɭmuɲi	True	False
+3	될	dweɭ	dweɭ	dweɭ	True	True
+4	수	su	su	su	True	True
+5	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+6	것	gʌt̚	gʌt̚	gʌt̚	True	True
+7	같애	gatʰɛ	gatʰɛ	gatʰɛ	True	True
+8	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+9	골라	goɭla	goɭla	goɭla	True	True
+10	온	on	on	on	True	True
+11	부분이	bubuɲi	bubuɲi	bubuɲi	True	True
+12	있는데요.	innɯndejo̞	innɯndejo̞	innɯndejo̞	True	True

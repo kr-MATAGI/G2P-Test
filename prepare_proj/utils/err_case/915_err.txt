@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	세종대왕이	seʣoŋdɛwaŋɲi	seʣoŋdɛwaŋŋi	seʣoŋdɛwaŋi	False	False
+1	보급한	bogɯpʰan	bogɯpʰan	bogɯpʰan	True	True
+2	한글로	hangɯɭlo	hangɯɭlo	hangɯɭlo	True	True
+3	인해	inhɛ	inhɛ	inhɛ	True	True
+4	읽고	iɭkʼo	iɭkʼo	ik̚kʼo	True	False
+5	쓰는	sʼɯnɯn	sʼɯnɯn	sʼɯnɯn	True	True
+6	즐거움에	ʣɯɭgʌume	ʣɯɭgʌume	.tzɯɭgʌume	True	False
+7	눈	nun	nun	nun	True	True
+8	뜨고	tʼɯgo	tʼɯgo	tʼɯgo	True	True
+9	독서의	dok̚sʼʌe	dok̚sʼʌe	dok̚sʼʌe	True	True
+10	세계에	segʲee	segʲee	segʲee	True	True
+11	빠지게	pʼaʣige	pʼaʣige	pʼaʣige	True	True
+12	됐죠.	dwɛt̚.tzjo̞	dwɛt̚.tzjo̞	twɛt̚.tzjo̞	True	False

@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	아까	akʼa	akʼa	akʼa	True	True
+2	얘기했던	jɛgihɛt̚tʼʌn	jɛgihɛt̚tʼʌn	jɛgihɛt̚tʼʌn	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	맥락을	mɛŋnagɯɭ	mɛŋnagɯɭ	mɛŋnagɯɭ	True	True
+5	그대로	gɯdɛro	gɯdɛro	gɯdɛro	True	True
+6	가져오자면	gaʣʌoʣamjʌn	gaʣʌoʣamjʌn	kaʣʌoʣamjʌn	True	False
+7	입장을	ip̚.tzaŋɯɭ	ip̚.tzaŋɯɭ	ip̚.tzaŋɯɭ	True	True
+8	얘기하는	jɛgihanɯn	jɛgihanɯn	jɛgihanɯn	True	True
+9	순간	sungan	sungan	sungan	True	True
+10	반드시	bandɯɕi	bandɯɕi	pandɯɕi	True	False
+11	누군가는	nugunganɯn	nugunganɯn	nugunganɯn	True	True
+12	반대하게	bandɛhage	bandɛhage	pandɛhage	True	False
+13	되기	dwegi	dwegi	dwegi	True	True
+14	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+15	작가들은	ʣak̚kʼadɯrɯn	ʣak̚kʼadɯrɯn	ʣak̚kʼadɯrɯn	True	True
+16	보통	botʰoŋ	botʰoŋ	botʰoŋ	True	True
+17	그	gɯ	gɯ	gɯ	True	True
+18	입장을	ip̚.tzaŋɯɭ	ip̚.tzaŋɯɭ	ip̚.tzaŋɯɭ	True	True
+19	작품을	ʣak̚pʰumɯɭ	ʣak̚pʰumɯɭ	ʣak̚pʰumɯɭ	True	True
+20	통해서	tʰoŋhɛsʌ	tʰoŋhɛsʌ	tʰoŋhɛsʌ	True	True
+21	얘기합니다.	jɛgihamɲida	jɛgihamɲida	jɛgihamɲida	True	True

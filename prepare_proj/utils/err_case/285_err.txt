@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	재밌는	t͡ɕɛminnɯn	ʣɛminnɯn	ʣɛminnɯn	False	False
+1	게	ge	ge	ge	True	True
+2	뭐냐	mwʌɲ.ja	mwʌɲ.ja	mwʌɲ.ja	True	True
+3	하면	hamjʌn	hamjʌn	hamjʌn	True	True
+4	학교를	hak̚kʼjo̞rɯɭ	hak̚kʼjo̞rɯɭ	hak̚kʼjo̞rɯɭ	True	True
+5	한	han	han	han	True	True
+6	이년	iɲjʌn	iɲjʌn	iɲjʌn	True	True
+7	삼년	samɲjʌn	samɲjʌn	samɲjʌn	True	True
+8	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True
+9	다니다가	daɲidaga	daɲidaga	daɲidaga	True	True
+10	하이델베르크	haideɭberɯkʰɯ	haideɭberɯkʰɯ	haideɭberɯkʰɯ	True	True
+11	대학을	dɛhagɯɭ	dɛhagɯɭ	dɛhagɯɭ	True	True
+12	이년	iɲjʌn	iɲjʌn	iɲjʌn	True	True
+13	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True
+14	삼년	samɲjʌn	samɲjʌn	samɲjʌn	True	True
+15	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True
+16	다니다가	daɲidaga	daɲidaga	daɲidaga	True	True

@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거는	kʌnɯn	gʌnɯn	gʌnɯn	False	False
+1	이들의	idɯre	idɯre	idɯre	True	True
+2	삶이	saɭmi	saɭmi	saɭmi	True	True
+3	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+4	현실과	hjʌnɕiɭgwa	hjʌnɕiɭgwa	hjʌnɕiɭgwa	True	True
+5	가상이	gasaŋi	gasaŋi	gasaŋi	True	True
+6	거의	gʌe	gʌe	gʌe	True	True
+7	구분되지	gubundweʣi	gubundweʣi	kubundweʣi	True	False
+8	않는	annɯ	annɯn	annɯn	False	False
+9	악몽	naŋmoŋ	aŋmoŋ	aŋmoŋ	False	False
+10	같은	gatʰɯn	gatʰɯn	gatʰɯn	True	True
+11	께임의	kʼeime	kʼeime	kʼeime	True	True
+12	연속이었다는	jʌnsogiʌt̚tʼanɯn	jʌnsogiʌt̚tʼan	jʌnsogiʌt̚tʼan	False	False
+13	것을	gʌsɯɭ	gʌsɯɭ	gʌsɯɭ	True	True
+14	말해	maɭhɛ	maɭhɛ	maɭhɛ	True	True
+15	주고	ʣugo	ʣugo	ʣugo	True	True
+16	있죠.	it̚.tzjo̞	it̚.tzjo̞	it̚.tzjo̞	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그저	kɯʣʌ	kɯʣʌ	gɯʣʌ	True	False
+1	음~	ɯm	ɯm	ɯm	True	True
+2	미국	esʌ	miguk̚	miguk̚	False	False
+3	뉴욕대	miguk̚	ɲjujo̞k̚tʼɛ	ɲjujo̞k̚tʼɛ	False	False
+4	교수시네요.	ɲjujo̞k̚tʼɛ	gjo̞suɕinejo̞	kjo̞suɕinejo̞	False	False

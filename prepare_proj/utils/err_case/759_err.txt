@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그건	kɯgʌn	gɯgʌn	gɯgʌn	False	False
+1	저절로	ʣʌʣʌɭlo	ʣʌʣʌɭlo	ʣʌʣʌɭlo	True	True
+2	세월이	sewʌri	sewʌri	sewʌri	True	True
+3	지나면	ʣinamjʌn	ʣinamjʌn	.tzinamjʌn	True	False
+4	해결될	hɛgjʌɭdweɭ	hɛgjʌɭdweɭ	hɛgjʌɭdweɭ	True	True
+5	일이	iri	iri	iri	True	True
+6	절대로	ʣʌɭtʼɛro	ʣʌɭtʼɛro	.tzʌɭdɛro	True	False
+7	아니었기	aɲiʌt̚kʼi	aɲiʌt̚kʼi	aɲiʌt̚kʼi	True	True
+8	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+9	누군가	nugunga	nugunga	nugunga	True	True
+10	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+11	세력이	serjʌgi	serjʌgi	serjʌgi	True	True
+12	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+13	문제를	munʣerɯɭ	munʣerɯɭ	munʣerɯɭ	True	True
+14	해결했어야	hɛgjʌɭhɛsʼʌ.ja	hɛgjʌɭhɛsʼʌ.j	hɛgjʌɭhɛsʼʌ.j	False	False
+15	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True
+16	이미	imi	imi	imi	True	True
+17	우리는	urinɯn	urinɯn	urinɯn	True	True
+18	오백	obɛk̚	obɛk̚	obɛk̚	True	True
+19	년	ɲjʌn	ɲjʌn	ɲjʌn	True	True
+20	전에	ʣʌne	ʣʌne	ʣʌne	True	True
+21	한번	hanbʌn	hanbʌn	hanbʌn	True	True
+22	크게	kʰɯge	kʰɯge	kʰɯge	True	True
+23	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+24	문제를	munʣerɯɭ	munʣerɯɭ	munʣerɯɭ	True	True

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지난번처럼	t͡ɕinanbʌntsʰʌrʌm	ʣinanbʌntsʰʌrʌ	.tzinanbʌntsʰʌr	False	False
+1	영상이	jʌŋsaŋi	jʌŋsaŋi	jʌŋsaŋi	True	True
+2	뭐	mwʌ	mwʌ	mwʌ	True	True
+3	문제가	munʣega	munʣega	munʣega	True	True
+4	있으면	isʼɯmjʌn	isʼɯmjʌn	isʼɯmjʌn	True	True
+5	제가	ʣega	ʣega	ʣega	True	True
+6	항상	haŋsaŋ	haŋsaŋ	haŋsaŋ	True	True
+7	중간에	ʣuŋgane	ʣuŋgane	ʣuŋgane	True	True
+8	나옵니다.	naomɲida	naomɲida	naomɲida	True	True

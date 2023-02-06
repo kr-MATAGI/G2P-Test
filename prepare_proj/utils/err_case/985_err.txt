@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	정보를	t͡ɕʌŋborɯɭ	ʣʌŋborɯɭ	.tzʌŋborɯɭ	False	False
+1	활용하신	hwarjo̞ŋhaɕin	hwarjo̞ŋhaɕin	hwarjo̞ŋhaɕin	True	True
+2	분들일수록	bundɯriɭsʼurok̚	bundɯriɭsurok̚	bundɯriɭsʼurok̚	False	True
+3	만족도가	manʣok̚tʼoga	manʣok̚tʼoga	manʣok̚tʼoga	True	True
+4	높아져요.	nopʰaʣʌjo̞	nopʰaʣʌjo̞	nopʰaʣʌjo̞	True	True

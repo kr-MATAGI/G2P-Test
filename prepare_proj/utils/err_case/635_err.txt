@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	암호	esʌ	amho	amho	False	False
+2	기기	amho	gigi	gigi	False	False
+3	기계	gigi	gigʲe	kigʲe	False	False
+4	장치가	gigʲe	ʣaŋtsʰiga	ʣaŋtsʰiga	False	False
+5	있었는데	ʣaŋtsʰiga	isʼʌnnɯnde	isʼʌnnɯnde	False	False
+6	암호화	isʼʌnnɯnde	amhohwa	amhohwa	False	False
+7	기계	amhohwa	gigʲe	kigʲe	False	False
+8	장치가	gigʲe	ʣaŋtsʰiga	ʣaŋtsʰiga	False	False
+9	있었는데	ʣaŋtsʰiga	isʼʌnnɯnde	isʼʌnnɯnde	False	False

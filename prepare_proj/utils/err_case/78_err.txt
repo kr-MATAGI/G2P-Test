@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그렇기	kɯrʌkʰi	kɯrʌkʰi	gɯrʌkʰi	True	False
+1	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+2	이것은	igʌsɯn	igʌsɯn	igʌsɯn	True	True
+3	새로운	sɛroun	sɛroun	sɛroun	True	True
+4	창작기법이	tsʰaŋʣak̚kʼibʌbi	tsʰaŋʣak̚kʼib	tsʰaŋʣak̚kʼib	False	False
+5	됩니다.	dwemɲida	dwemɲida	dwemɲida	True	True

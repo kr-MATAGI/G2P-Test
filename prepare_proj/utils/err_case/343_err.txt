@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	러시아	rʌɕia	rʌɕia	rʌɕia	True	True
+1	문단에는	mundanenɯn	mundanenɯn	mundanenɯn	True	True
+2	인제	inʣe	inʣe	inʣe	True	True
+3	둘이	duri	duri	duri	True	True
+4	있다고	it̚tʼago	it̚tʼago	it̚tʼago	True	True
+5	생각했어요.	sɛŋgakʰɛsʼʌjo̞	sɛŋgakʰɛsʼʌjo	sɛŋgakʰɛsʼʌjo	False	False

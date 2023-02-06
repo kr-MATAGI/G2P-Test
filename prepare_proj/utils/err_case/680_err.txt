@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	내	nɛ	nɛ	nɛ	True	True
+1	나의	nae	nae	nae	True	True
+2	신분은	ɕinbunɯn	ɕinbunɯn	ɕinbunɯn	True	True
+3	분명히	bunmjʌŋhi	bunmjʌŋhi	bunmjʌŋhi	True	True
+4	순결할	sungjʌɭhaɭ	sungjʌɭhaɭ	sungjʌɭhaɭ	True	True
+5	것이다라는	gʌɕidaranɯn	gʌɕidaranɯn	kʌɕidaranɯn	True	False
+6	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+7	너무나	nʌmuna	nʌmuna	nʌmuna	True	True
+8	움직일	umʣigiɭ	umʣigiɭ	umʣigiɭ	True	True
+9	수	su	su	su	True	True
+10	없는	ʌmnɯn	ʌmnɯn	ʌmnɯn	True	True
+11	전제였던	ʣʌnʣejʌt̚tʼʌn	ʣʌnʣejʌt̚tʼʌ	ʣʌnʣejʌt̚tʼʌ	False	False
+12	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	슥	sɯk̚	sɯk̚	sɯk̚	True	True
+1	사가지고	sagaʣigo	sagaʣigo	sagaʣigo	True	True
+2	올	oɭ	oɭ	oɭ	True	True
+3	수	su	su	su	True	True
+4	있는	innɯn	innɯn	innɯn	True	True
+5	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+6	것은	gʌsɯn	gʌsɯn	gʌsɯn	True	True
+7	아니겠습니다마는	aɲiget̚sʼɯmɲidamanɯn	aɲiget̚sʼɯmɲid	aɲiget̚sʼɯmɲid	False	False

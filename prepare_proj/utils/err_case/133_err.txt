@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	태초에	tʰɛtsʰoe	tʰɛtsʰoe	tʰɛtsʰoe	True	True
+1	생명력을	sɛŋmjʌŋɲjʌgɯɭ	sɛŋmjʌŋɲjʌgɯ	sɛŋmjʌŋɲjʌgɯ	False	False
+2	간직한	ganʣikʰan	ganʣikʰan	ganʣikʰan	True	True
+3	원시림	wʌnɕirim	wʌnɕirim	wʌnɕirim	True	True
+4	지구의	ʣigui	ʣigui	ʣigui	True	True
+5	허파라	hʌpʰara	hʌpʰara	hʌpʰara	True	True
+6	불리는	buɭʎ̟inɯ	buɭʎ̟inɯn	buɭʎ̟inɯn	False	False
+7	아마존입니다.	namaʣoɲimɲida	amaʣoɲimɲida	amaʣoɲimɲida	False	False

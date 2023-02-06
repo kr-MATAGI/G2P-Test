@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	전통매체와	t͡ɕʌntʰoŋmɛtsʰewa	ʣʌntʰoŋmɛtsʰe	t͡ɕʌntʰoŋmɛts	False	False
+1	표현의	pʰjo̞hjʌne	pʰjo̞hjʌne	pʰjo̞hjʌne	True	True
+2	한계를	hangʲerɯɭ	hangʲerɯɭ	hangʲerɯɭ	True	True
+3	뛰어넘기	tʼwiʌnʌmgi	tʼwiʌnʌmgi	tʼwiʌnʌmgi	True	True
+4	위한	wihan	wihan	wihan	True	True
+5	젊은	ʣʌɭmɯn	ʣʌɭmɯn	.tzʌɭmɯn	True	False
+6	작가들의	ʣak̚kʼadɯre	ʣak̚kʼadɯre	ʣak̚kʼadɯre	True	True
+7	고민이	gomiɲi	gomiɲi	komiɲi	True	False
+8	묻어나는	mudʌnanɯn	mudʌnanɯn	mudʌnanɯn	True	True
+9	작품들	ʣak̚pʰumdɯɭ	ʣak̚pʰumdɯɭ	ʣak̚pʰumdɯɭ	True	True

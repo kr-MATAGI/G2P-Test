@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+1	제가	ʣega	ʣega	ʣega	True	True
+2	작가님한테	ʣak̚kʼaɲimhantʰe	ʣak̚kʼaɲimhant	ʣak̚kʼaɲimhant	False	False
+3	꼭	kʼoŋ	kʼok̚	kʼok̚	False	False
+4	물어보거든요.	murʌbogʌdɯɲjo̞	murʌbogʌdɯɲjo̞	murʌbogʌdɯɲjo̞	True	True

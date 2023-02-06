@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어	ʌ	ʌ	ʌ	True	True
+1	그	gɯ	gɯ	gɯ	True	True
+2	위에	wie	wie	wie	True	True
+3	걸어가는	gʌrʌganɯn	gʌrʌganɯn	kʌrʌganɯn	True	False
+4	것도	gʌt̚tʼo	gʌt̚tʼo	gʌt̚tʼo	True	True
+5	힘들고	himdɯɭgo	himdɯɭgo	himdɯɭgo	True	True
+6	뒤돌아서는	dwidorasʌnɯn	dwidorasʌnɯn	twidorasʌnɯn	True	False
+7	것은	gʌsɯn	gʌsɯn	gʌsɯn	True	True
+8	더더욱	dʌdʌu	dʌdʌuk̚	dʌdʌuk̚	False	False
+9	힘들고	kʰimdɯɭgo	himdɯɭgo	himdɯɭgo	False	False
+10	서	sʌ	sʌ	sʌ	True	True
+11	있는	innɯn	innɯn	innɯn	True	True
+12	것도	gʌt̚tʼo	gʌt̚tʼo	gʌt̚tʼo	True	True
+13	힘들다.	himdɯɭda	himdɯɭda	himdɯɭda	True	True

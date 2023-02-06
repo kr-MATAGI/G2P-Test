@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	실제로는	ɕiɭ.tzeronɯn	ɕiɭ.tzeronɯn	ɕiɭ.tzeronɯn	True	True
+2	컴퓨터가	kʰʌmpʰjutʰʌga	kʰʌmpʰjutʰʌga	kʰʌmpʰjutʰʌga	True	True
+3	하는	hanɯ	hanɯn	hanɯn	False	False
+4	일이라는	ɲiriranɯn	iriranɯn	iriranɯn	False	False
+5	건	gʌn	gʌn	gʌn	True	True
+6	결국은	gjʌɭgugɯn	gjʌɭgugɯn	kjʌɭgugɯn	True	False
+7	더하기나	dʌhagina	dʌhagina	dʌhagina	True	True
+8	곱하기나	gopʰagina	gopʰagina	kopʰagina	True	False
+9	이걸	igʌɭ	igʌɭ	igʌɭ	True	True
+10	여러	jʌrʌ	jʌrʌ	jʌrʌ	True	True
+11	번	bʌn	bʌn	bʌn	True	True
+12	할	haɭ	haɭ	haɭ	True	True
+13	뿐이에요.	pʼuɲiejo̞	pʼuɲiejo̞	pʼuɲiejo̞	True	True

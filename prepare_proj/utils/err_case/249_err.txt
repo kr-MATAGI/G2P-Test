@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	현재	hjʌnʣɛ	hjʌnʣɛ	hjʌnʣɛ	True	True
+1	소속작가	sosok̚	sosok̚.tzak̚kʼa	sosok̚.tzak̚kʼa	False	False
+2	팔십	.tzak̚kʼa	pʰaɭɕʼip̚	pʰaɭɕʼip̚	False	False
+3	여	pʰaɭɕʼim	jʌ	jʌ	False	False
+4	명	ɲjʌ	mjʌŋ	mjʌŋ	False	False
+5	중	mjʌŋ	ʣuŋ	ʣuŋ	False	False
+6	구	ʣuŋ	gu	gu	False	False
+7	인의	gu	ine	ine	False	False
+8	작가들이	ine	ʣak̚kʼadɯri	ʣak̚kʼadɯri	False	False
+9	한국을	ʣak̚kʼadɯri	hangugɯɭ	hangugɯɭ	False	False
+10	찾았습니다.	hangugɯɭ	tsʰaʣat̚sʼɯmɲ	tsʰaʣat̚sʼɯmɲ	False	False

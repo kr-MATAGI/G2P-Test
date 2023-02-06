@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그까	kɯkʼa	kɯkʼa	gɯkʼa	True	False
+1	그런	gɯrʌ	gɯrʌn	gɯrʌn	False	False
+2	얘기도	njɛgido	jɛgido	jɛgido	False	False
+3	나오고	naogo	naogo	naogo	True	True
+4	있고	it̚kʼo	it̚kʼo	it̚kʼo	True	True
+5	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True
+6	우리가	uriga	uriga	uriga	True	True
+7	빨리	pʼaɭʎ̟i	pʼaɭʎ̟i	pʼaɭʎ̟i	True	True
+8	달에	dare	dare	dare	True	True
+9	가야	ga.ja	ga.ja	ga.ja	True	True
+10	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+11	건	gʌn	gʌn	gʌn	True	True
+12	맞죠.	mat̚.tzjo̞	mat̚.tzjo̞	mat̚.tzjo̞	True	True

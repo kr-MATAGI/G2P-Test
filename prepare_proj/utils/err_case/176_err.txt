@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	실험을	ɕiɭhʌmɯɭ	ɕiɭhʌmɯɭ	ɕiɭhʌmɯɭ	True	True
+1	할	haɭ	haɭ	haɭ	True	True
+2	수가	suga	suga	suga	True	True
+3	없을	ʌp̚sʼɯɭ	ʌp̚sʼɯɭ	ʌp̚sʼɯɭ	True	True
+4	정도가	ʣʌŋdoga	ʣʌŋdoga	ʣʌŋdoga	True	True
+5	됐고	dwɛt̚kʼo	dwɛt̚kʼo	twɛt̚kʼo	True	False
+6	이	i	i	i	True	True
+7	웨버가	webʌga	webʌga	webʌga	True	True
+8	메를랜드에서	merɯɭ	merɯɭlɛndɯesʌ	merɯɭlɛndɯesʌ	False	False
+9	성공을	lɛndɯesʌ	sʌŋgoŋɯɭ	sʌŋgoŋɯɭ	False	False
+10	한	sʌŋgoŋɯɭ	han	han	False	False
+11	이후에	han	ihue	ihue	False	False
+12	이	ɲihue	i	i	False	False
+13	전	i	ʣʌn	ʣʌn	False	False
+14	세계	ʣʌn	segʲe	segʲe	False	False
+15	이렇게	segʲe	irʌkʰe	irʌkʰe	False	False
+16	많은	irʌkʰe	manɯn	manɯn	False	False
+17	중력파	manɯn	ʣuŋɲjʌk̚pʰa	ʣuŋɲjʌk̚pʰa	False	False
+18	검출	ʣuŋɲjʌk̚pʰa	gʌmtsʰuɭ	gʌmtsʰuɭ	False	False
+19	실험팀이	gʌmtsʰuɭ	ɕiɭhʌmtʰimi	ɕiɭhʌmtʰimi	False	False
+20	생겨났어요.	ɕʼiɭhʌmtʰimi	sɛŋgjʌnasʼʌjo	sɛŋgjʌnasʼʌjo	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	디지털	esʌ	diʣitʰʌɭ	diʣitʰʌɭ	False	False
+2	세계가	diʣitʰʌɭ	segʲega	segʲega	False	False
+3	아~	segʲega	a	ak̚	False	False
+4	그러게요.	a	gɯrʌgejo̞	kɯrʌgejo̞	False	False

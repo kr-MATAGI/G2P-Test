@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	근데	esʌ	kɯnde	gɯnde	False	False
+2	모든	gɯnde	modɯn	modɯn	False	False
+3	질병에	modɯn	ʣiɭbjʌŋe	.tziɭbjʌŋe	False	False
+4	씨앗이면	ʣiɭbjʌŋe	ɕʼiaɕimjʌn	ɕʼiaɕimjʌn	False	False
+5	그게	ɕʼiaɕimjʌn	gɯge	gɯge	False	False
+6	나무가	gɯge	namuga	namuga	False	False
+7	되기전에	namuga	dwegiʣʌne	dwegiʣʌne	False	False
+8	그씨앗만	dwegi	gɯɕʼianman	kɯɕʼianman	False	False
+9	이렇게	ʣʌne	irʌkʰe	irʌkʰe	False	False
+10	쏙쏙	gɯ	sʼok̚sʼok̚	sʼok̚sʼok̚	False	False
+11	뽑아냈으면	ɕʼianman	pʼobanɛsʼɯmjʌn	pʼobanɛsʼɯmjʌn	False	False

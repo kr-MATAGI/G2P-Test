@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	털어넣어서	tʰʌrʌ	tʰʌrʌnʌʌsʌ	tʰʌrʌnʌʌsʌ	False	False
+1	주변을	nʌʌsʌ	ʣubjʌnɯɭ	ʣubjʌnɯɭ	False	False
+2	이제	ʣubjʌnɯɭ	iʣe	iʣe	False	False
+3	또	iʣe	tʼo	tʼo	False	False
+4	보호해주고	tʼo	bohohɛʣugo	bohohɛʣugo	False	False

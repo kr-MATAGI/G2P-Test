@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	새싹보리는	sɛsʼak̚	sɛsʼak̚pʼorinɯ	sɛsʼak̚pʼorinɯ	False	False
+2	이런	borinɯn	irʌn	irʌn	False	False
+3	어린	irʌn	ʌrin	ʌrin	False	False
+4	뿌리	ʌrinpʼuri	pʼuri	pʼuri	False	False
+5	채소인	tsʰɛsoin	tsʰɛsoin	tsʰɛsoin	True	True
+6	만큼	mankʰɯm	mankʰɯm	mankʰɯm	True	True
+7	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+8	환경에서	hwangjʌŋesʌ	hwangjʌŋesʌ	hwangjʌŋesʌ	True	True
+9	자랐는지가	ʣarannɯnʣiga	ʣarannɯnʣiga	.tzarannɯnʣiga	True	False
+10	중요합니다.	ʣuŋjo̞hamɲida	ʣuŋjo̞hamɲida	ʣuŋjo̞hamɲida	True	True

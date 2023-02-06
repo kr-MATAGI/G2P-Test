@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	막	mak̚	mak̚	mak̚	True	True
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	제가	esʌ	ʣega	ʣega	False	False
+4	나이가	ʣega	naiga	naiga	False	False
+5	그랬던	naiga	gɯrɛt̚tʼʌn	gɯrɛt̚tʼʌn	False	False
+6	거	gɯrɛt̚tʼʌn	gʌ	gʌ	False	False
+7	같애요.	gʌ	gatʰɛjo̞	gatʰɛjo̞	False	False

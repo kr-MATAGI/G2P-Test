@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	몇	mjʌt̚	mjʌt̚	mjʌt̚	True	True
+1	가지	kʼaʣi	gaʣi	gaʣi	False	False
+2	제한된	ʣehandwen	ʣehandwen	ʣehandwen	True	True
+3	용도로는	jo̞ŋdoronɯn	jo̞ŋdoronɯn	jo̞ŋdoronɯn	True	True
+4	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+5	쓸	sʼɯɭ	sʼɯɭ	sʼɯɭ	True	True
+6	수	su	su	su	True	True
+7	있지	it̚.tzi	it̚.tzi	it̚.tzi	True	True
+8	않을까라고까지	an	anɯɭkʼaragokʼa	anɯɭkʼaragokʼa	False	False
+9	생각을	ɯɭ	sɛŋgagɯɭ	sɛŋgagɯɭ	False	False
+10	한	kʼaragokʼaʣi	han	han	False	False
+11	거예요.	sɛŋgagɯɭ	gʌjejo̞	gʌjejo̞	False	False

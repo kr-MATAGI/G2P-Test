@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	문화가	munhwaga	munhwaga	munhwaga	True	True
+1	소식도	soɕik̚tʼo	soɕik̚tʼo	soɕik̚tʼo	True	True
+2	꼼꼼히	kʼomkʼomhi	kʼomkʼomhi	kʼomkʼomhi	True	True
+3	챙겨보시죠.	tsʰɛŋgjʌboɕiʣjo̞	tsʰɛŋgjʌboɕiʣ	tsʰɛŋgjʌboɕiʣ	False	False

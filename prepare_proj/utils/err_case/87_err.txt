@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	거에도	gʌedo	gʌedo	gʌedo	True	True
+2	휘말리고	hwimaɭʎ̟igo	hwimaɭʎ̟igo	hwimaɭʎ̟igo	True	True
+3	좀	ʣom	ʣom	ʣom	True	True
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	거를	gʌrɯɭ	gʌrɯɭ	gʌrɯɭ	True	True
+6	보면	bomjʌn	bomjʌn	bomjʌn	True	True
+7	좀	ʣom	ʣom	ʣom	True	True
+8	순박하면서도	sunbakʰamjʌnsʌdo	sunbakʰamjʌnsʌdo	sunbakʰamjʌnsʌdo	True	True
+9	좀	ʣom	ʣom	ʣom	True	True
+10	되게	dwege	dwege	dwege	True	True
+11	낙천적이면서도	nak̚tsʰʌnʣʌgimjʌnsʌdo	nak̚tsʰʌnʣʌgim	nak̚tsʰʌnʣʌgim	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그것도	kɯgʌt̚tʼo	gɯgʌt̚tʼo	gɯgʌt̚tʼo	False	False
+1	자기	ʣagi	ʣagi	ʣagi	True	True
+2	나름대로	narɯmdɛro	narɯmdɛro	narɯmdɛro	True	True
+3	해석을	hɛsʌgɯɭ	hɛsʌgɯɭ	hɛsʌgɯɭ	True	True
+4	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True

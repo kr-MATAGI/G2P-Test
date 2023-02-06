@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+2	인문학과의	inmunhak̚kʼwae	inmunhak̚kʼwae	inmunhak̚kʼwai	True	False
+3	인문와	inmun	inmun	inmunwa	True	False
+4	스포츠가	wa	sɯpʰotsʰɯga	sɯpʰotsʰɯga	False	False
+5	연관이	sɯpʰotsʰɯga	jʌngwaɲi	jʌngwaɲi	False	False
+6	별로	jʌngwaɲi	bjʌɭlo	bjʌɭlo	False	False
+7	없다고	bjʌɭlo	ʌp̚tʼago	ʌp̚tʼago	False	False
+8	생각하시는	ʌp̚tʼago	sɛŋgakʰaɕinɯn	sɛŋgakʰaɕinɯn	False	False
+9	분들이	sɛŋgakʰaɕinɯn	bundɯri	bundɯri	False	False
+10	굉장히	bundɯri	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+11	많은데	gweŋʣaŋhi	manɯnde	manɯnde	False	False
+12	모든	manɯnde	modɯn	modɯn	False	False
+13	분야에서	modɯn	buɲ.jaesʌ	buɲ.jaesʌ	False	False
+14	지금	buɲ.jaesʌ	ʣigɯm	ʣigɯm	False	False
+15	인문학적	ʣigɯm	inmunhak̚.tzʌk̚	inmunhak̚.tzʌk̚	False	False
+16	이런	inmunhak̚.tzʌk̚	irʌn	irʌn	False	False
+17	지식이	irʌn	ʣiɕigi	ʣiɕigi	False	False
+18	필요한	ʣiɕigi	pʰirjo̞han	pʰirjo̞han	False	False
+19	것더라고요.	pʰirjo̞han	gʌt̚tʼʌragojo̞	kʌt̚tʼʌragojo̞	False	False

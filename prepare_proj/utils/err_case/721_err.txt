@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이번에	ibʌne	ibʌne	ibʌne	True	True
+1	아~	a	a	ak̚	True	False
+2	블랙홀들이	esʌ	bɯɭlɛk̚hoɭdɯr	pɯɭlɛk̚hoɭdɯr	False	False
+3	정말	bɯɭlɛk̚hoɭdɯri	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+4	부딪치면서	ʣʌŋmaɭ	budit̚tsʰimjʌns	budit̚tsʰimjʌns	False	False
+5	은하가	budit̚tsʰimjʌnsʌ	ɯnhaga	ɯnhaga	False	False
+6	부딪치면서	ɯnhaga	budit̚tsʰimjʌns	budit̚tsʰimjʌns	False	False
+7	덩달아	budit̚tsʰimjʌnsʌ	dʌŋdara	dʌŋdara	False	False
+8	같이	dʌŋdara	gatsʰi	gatsʰi	False	False
+9	부딪치고	gatsʰi	budit̚tsʰigo	budit̚tsʰigo	False	False
+10	훨씬	budit̚tsʰigo	hwʌɭɕʼin	hwʌɭɕʼin	False	False
+11	더	hwʌɭɕʼin	dʌ	dʌ	False	False
+12	큰	dʌ	kʰɯn	kʰɯn	False	False
+13	블랙홀이	kʰɯn	bɯɭlɛk̚hori	pɯɭlɛk̚hori	False	False
+14	될지도	bɯɭlɛk̚hori	dweɭ.tzido	dweɭʣido	False	False
+15	모르겠다	dweɭ.tzido	morɯget̚tʼa	morɯget̚tʼa	False	False
+16	뭐~	morɯget̚tʼa	mwʌ	mwʌ	False	False
+17	이런	mwʌ	irʌn	irʌn	False	False
+18	게	esʌ	ge	ge	False	False
+19	지금	irʌn	ʣigɯm	ʣigɯm	False	False
+20	발견이	ge	baɭgjʌɲi	paɭgjʌɲi	False	False
+21	됐단	ʣigɯm	dwɛt̚tʼan	twɛt̚tʼan	False	False
+22	얘기죠.	baɭgjʌɲi	jɛgiʣjo̞	jɛgiʣjo̞	False	False

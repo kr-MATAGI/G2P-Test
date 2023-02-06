@@ -1,0 +1,4 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	동영상	toŋɲjʌŋsaŋ	doŋɲjʌŋsaŋ	toŋjʌŋsaŋ	False	False
+1	사이트	saitʰɯ	saitʰɯ	saitʰɯ	True	True
+2	띄워놓으시구요.	tʼiwʌnoɯɕigujo̞	tʼiwʌnoɯɕigujo	tʼiwʌnoɯɕigujo	False	False

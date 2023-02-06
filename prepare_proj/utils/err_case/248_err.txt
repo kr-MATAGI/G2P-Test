@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	전과를	t͡ɕʌngwarɯɭ	ʣʌngwarɯɭ	ʣʌngwarɯɭ	False	False
+1	원래	wʌɭlɛ	wʌɭlɛ	wʌɭlɛ	True	True
+2	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+3	안	an	an	an	True	True
+4	지켜줘요.	ʣikʰjʌʣwʌjo̞	ʣikʰjʌʣwʌjo̞	ʣikʰjʌʣwʌjo̞	True	True

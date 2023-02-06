@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런데	kɯrʌntʼe	kɯrʌntʼe	gɯrʌntʼe	True	False
+1	그	gɯ	gɯ	gɯ	True	True
+2	시점에서	ɕi.tzʌmesʌ	ɕi.tzʌmesʌ	ɕiʣʌmesʌ	True	False
+3	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+4	아이디어가	aidiʌga	aidiʌga	aidiʌga	True	True
+5	과학자들	gwahak̚.tzadɯɭ	gwahak̚.tzadɯɭ	kwahak̚.tzadɯɭ	True	False
+6	사이에서	saiesʌ	saiesʌ	saiesʌ	True	True
+7	되게	dwege	dwege	dwege	True	True
+8	많이	maɲi	maɲi	maɲi	True	True
+9	돌고	doɭgo	doɭgo	doɭgo	True	True
+10	있었냐면	isʼʌnɲ.jamjʌn	isʼʌnɲ.jamjʌn	isʼʌnɲ.jamjʌn	True	True
+11	어~	ʌ	ʌ	ʌp̚	True	False
+12	인공	esʌ	ingoŋ	ingoŋ	False	False
+13	방사능	ingoŋ	baŋsanɯŋ	paŋsanɯŋ	False	False
+14	이런	baŋsanɯŋ	irʌn	irʌn	False	False
+15	걸	irʌn	gʌɭ	gʌɭ	False	False
+16	만들	gʌɭ	mandɯɭ	mandɯɭ	False	False
+17	때	mandɯɭ	tʼɛ	tʼɛ	False	False
+18	중성자라는	tʼɛ	ʣuŋsʌŋʣaranɯn	ʣuŋsʌŋʣaranɯn	False	False
+19	입자를	ʣuŋsʌŋʣaranɯn	ip̚.tzarɯɭ	ip̚.tzarɯɭ	False	False
+20	이용하면	ip̚.tzarɯɭ	ijo̞ŋhamjʌn	ijo̞ŋhamjʌn	False	False

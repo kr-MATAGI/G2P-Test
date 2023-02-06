@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이런	irʌn	irʌn	irʌn	True	True
+1	사고므로	sagomɯro	sagomɯro	sagomɯro	True	True
+2	복원을	bogwʌnɯɭ	bogwʌnɯɭ	bogwʌnɯɭ	True	True
+3	했다가	hɛt̚tʼaga	hɛt̚tʼaga	hɛt̚tʼaga	True	True
+4	십구	ɕip̚kʼu	ɕip̚kʼu	ɕip̚kʼu	True	True
+5	세기	segimaɭ	segi	segi	False	False
+6	말	gɯtʼɛ	maɭ	maɭ	False	False
+7	그때	i	gɯtʼɛ	gɯtʼɛ	False	False
+8	이	goŋɲjo̞ŋe	i	i	False	False
+9	공룡에	hwasʌŋɲi	goŋɲjo̞ŋe	goŋɲjo̞ŋe	False	False
+10	화석이	nawajo̞	hwasʌŋɲi	hwasʌgi	False	False

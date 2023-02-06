@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그다음에	kɯdaɯme	kɯdaɯme	kɯdaɯme	True	True
+1	양손을	.jaŋsonɯɭ	.jaŋsonɯɭ	.jaŋsonɯɭ	True	True
+2	주먹을	ʣumʌgɯɭ	ʣumʌgɯɭ	ʣumʌgɯɭ	True	True
+3	쥐어서	ʣwiʌsʌ	ʣwiʌsʌ	.tzwiʌsʌ	True	False
+4	명치	mjʌŋtsʰi	mjʌŋtsʰi	mjʌŋtsʰi	True	True
+5	쪽에	.tzoge	.tzoge	.tzoge	True	True
+6	갖다	gat̚tʼa	gat̚tʼa	gat̚tʼa	True	True
+7	대시고	dɛɕigo	dɛɕigo	dɛɕigo	True	True
+8	옆구리쪽으로	jʌp̚kʼuri	jʌp̚kʼuri	jʌp̚kʼuri.tzogɯ	True	False
+9	이렇게	.tzogɯro	irʌkʰe	irʌkʰe	False	False
+10	쓸어내리듯이	irʌkʰe	sʼɯrʌnɛridɯnɲ	sʼɯrʌnɛridɯɕi	False	False
+11	조금씩	sʼɯrʌnɛridɯnɲi	ʣogɯmɕʼik̚	ʣogɯmɕʼik̚	False	False
+12	마사지를	ʣogɯmɕʼik̚	masaʣirɯɭ	masaʣirɯɭ	False	False
+13	해주시면	masaʣirɯɭ	hɛʣuɕimjʌn	hɛʣuɕimjʌn	False	False
+14	되시고요.	hɛʣuɕimjʌn	dweɕigojo̞	dweɕigojo̞	False	False

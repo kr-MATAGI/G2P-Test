@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	아주	esʌ	aʣu	aʣu	False	False
+2	오래된	aʣu	orɛdwen	orɛdwen	False	False
+3	그~	orɛdwen	gɯ	gɯp̚	False	False
+4	서점이고	gɯ	sʌ.tzʌmigo	sʌʣʌmigo	False	False
+5	그~	esʌ	gɯ	gɯp̚	False	False
+6	이상적이었던	sʌ.tzʌmigo	isaŋʣʌgiʌt̚tʼ	isaŋʣʌgiʌt̚tʼ	False	False
+7	것이	gɯ	gʌɕi	gʌɕi	False	False
+8	이	esʌ	i	i	False	False
+9	세익스피어앤	isaŋʣʌgiʌt̚tʼʌn	seik̚sɯpʰiʌɛn	seik̚sʼɯpʰiʌɛ	False	False
+10	그~	gʌɕi	gɯ	gɯp̚	False	False
+11	컴퍼니	i	kʰʌmpʰʌɲi	kʰʌmpʰʌɲi	False	False
+12	서점에	seik̚sʼɯpʰiʌ	sʌ.tzʌme	sʌʣʌme	False	False
+13	위기가	ɛn	wigiga	wigiga	False	False
+14	경영	gɯ	gjʌŋjʌŋ	kjʌŋjʌŋ	False	False
+15	위기가	esʌ	wigiga	wigiga	False	False
+16	닥쳤는데	kʰʌmpʰʌɲi	dak̚tsʰʌnnɯnde	dak̚tsʰʌnnɯnde	False	False

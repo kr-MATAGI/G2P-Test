@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	볼츠만이	poɭtsʰɯmaɲi	boɭtsʰɯmaɲi	boɭtsʰɯmaɲi	False	False
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	당시에는	esʌ	daŋɕienɯn	daŋɕienɯn	False	False
+3	명망이	daŋɕienɯn	mjʌŋmaŋi	mjʌŋmaŋi	False	False
+4	굉장히	mjʌŋmaŋi	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+5	많았어요.	gweŋʣaŋhi	manasʼʌjo̞	manasʼʌjo̞	False	False

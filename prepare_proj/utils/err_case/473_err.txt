@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	공룡에	esʌ	goŋɲjo̞ŋe	goŋɲjo̞ŋe	False	False
+3	후손들이	goŋɲjo̞ŋe	husondɯri	husondɯri	False	False
+4	있잖아요.	husondɯri	it̚.tzanajo̞	it̚.tzanajo̞	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+3	수	su	su	su	True	True
+4	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+5	일이라고	irirago	irirago	irirago	True	True
+6	생각해요.	sɛŋgakʰɛjo̞	sɛŋgakʰɛjo̞	sɛŋgakʰɛjo̞	True	True

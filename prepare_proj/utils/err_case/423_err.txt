@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	전자렌지에서	esʌ	ʣʌnʣarenʣiesʌ	t͡ɕʌnʣarenʣies	False	False
+4	나오는	ʣʌnʣarenʣiesʌ	naonɯn	naonɯn	False	False
+5	거냐	naonɯn	gʌɲ.ja	gʌɲ.ja	False	False

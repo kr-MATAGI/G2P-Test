@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	굉장히	kweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+1	열심히	jʌɭɕʼimhi	jʌɭɕʼimhi	jʌɭɕʼimhi	True	True
+2	준비를	ʣunbirɯɭ	ʣunbirɯɭ	ʣunbirɯɭ	True	True
+3	해가지고	hɛga	hɛga	hɛgaʣigo	True	False
+4	뭐	ʣigo	mwʌ	mwʌ	False	False
+5	이때는	mwʌ	itʼɛnɯn	itʼɛnɯn	False	False
+6	요쪽을	itʼɛnɯn	jo̞.tzogɯɭ	jo̞.tzogɯɭ	False	False
+7	보면서	jo̞.tzogɯɭ	bomjʌnsʌ	bomjʌnsʌ	False	False
+8	얘길하자	bomjʌnsʌ	jɛgiɭhaʣa	jɛgiɭhaʣa	False	False
+9	이때는	jɛgiɭ	itʼɛnɯn	itʼɛnɯn	False	False
+10	요런	haʣa	jo̞rʌn	jo̞rʌn	False	False
+11	거를	itʼɛnɯn	gʌrɯɭ	gʌrɯɭ	False	False
+12	사람들한테	jo̞rʌn	saramdɯɭhantʰe	saramdɯɭhantʰe	False	False
+13	보여주면서	gʌrɯɭ	bojʌʣumjʌnsʌ	bojʌʣumjʌnsʌ	False	False
+14	얘기를	saramdɯɭhantʰe	jɛgirɯɭ	jɛgirɯɭ	False	False
+15	하자	bojʌʣumjʌnsʌ	haʣa	haʣa	False	False

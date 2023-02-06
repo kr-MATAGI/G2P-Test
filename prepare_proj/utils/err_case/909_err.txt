@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	그러한	gɯrʌhan	gɯrʌhan	gɯrʌhan	True	True
+2	인물들이	ɲinmuɭdɯri	inmuɭdɯri	inmuɭdɯri	False	False
+3	바로	baro	baro	pʼaro	True	False
+4	어~	ʌ	ʌ	ʌp̚	True	False
+5	일제	esʌ	iɭ.tze	iɭ.tze	False	False
+6	강점기	iɭ.tze	gaŋ.tzʌmgi	gaŋʣʌmgi	False	False

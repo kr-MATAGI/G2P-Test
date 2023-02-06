@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	집에서	t͡ɕibesʌ	ʣibesʌ	.tzibesʌ	False	False
+1	피자를	pʰiʣarɯɭ	pʰiʣarɯɭ	pʰiʣarɯɭ	True	True
+2	먹으면서	mʌgɯmjʌnsʌ	mʌgɯmjʌnsʌ	mʌgɯmjʌnsʌ	True	True
+3	티비를	tʰibirɯɭ	tʰibirɯɭ	tʰibirɯɭ	True	True
+4	보고	bogo	bogo	bogo	True	True
+5	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+6	때	tʼɛ	tʼɛ	tʼɛ	True	True
+7	티비에서	tʰibiesʌ	tʰibiesʌ	tʰibiesʌ	True	True
+8	갑자기	gap̚.tzagi	gap̚.tzagi	gap̚.tzagi	True	True
+9	외계인들이	wegʲeindɯri	wegʲeindɯri	wegʲeindɯri	True	True
+10	나타나서	natʰanasʌ	natʰanasʌ	natʰanasʌ	True	True
+11	어	ʌ	ʌ	ʌ	True	True
+12	그녀를	gɯɲjʌrɯɭ	gɯɲjʌrɯɭ	kɯɲjʌrɯɭ	True	False
+13	우주로	uʣuro	uʣuro	uʣuro	True	True
+14	초대하게	tsʰodɛhage	tsʰodɛhage	tsʰodɛhage	True	True
+15	됩니다.	dwemɲida	dwemɲida	dwemɲida	True	True

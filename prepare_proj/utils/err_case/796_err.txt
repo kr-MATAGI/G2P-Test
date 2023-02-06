@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	여러	jʌrʌ	jʌrʌ	jʌrʌ	True	True
+1	레벨이	reberi	reberi	reberi	True	True
+2	있는데	innɯnde	innɯnde	innɯnde	True	True
+3	좀	ʣom	ʣom	ʣom	True	True
+4	제일	ʣeiɭ	ʣeiɭ	ʣeiɭ	True	True
+5	쉬운	ʃwiun	ʃwiun	ʃwiun	True	True
+6	찾아서	tsʰaʣasʌ	tsʰaʣasʌ	tsʰaʣasʌ	True	True
+7	한번	hanbʌn	hanbʌn	hanbʌn	True	True
+8	도전해	doʣʌnhɛ	doʣʌnhɛ	doʣʌnhɛ	True	True
+9	볼까	boɭkʼa	boɭkʼa	boɭkʼa	True	True
+10	수업을	suʌbɯɭ	suʌbɯɭ	suʌbɯɭ	True	True
+11	진행하면서	ʣinhɛŋhamjʌnsʌ	ʣinhɛŋhamjʌnsʌ	ʣinhɛŋhamjʌns	True	False
+12	그다음에	gɯdaɯme	kɯdaɯme	kɯdaɯme	False	False
+13	그	gɯ	gɯ	gɯ	True	True
+14	면적속도	mjʌnʣʌk̚sʼok̚tʼo	mjʌnʣʌk̚sʼok̚	mjʌnʣʌk̚sʼok̚	False	False
+15	일정은	iɭ.tzʌŋɯn	iɭ.tzʌŋɯn	iɭ.tzʌŋɯn	True	True
+16	오히려	ohirjʌ	ohirjʌ	ohirjʌ	True	True
+17	더	dʌ	dʌ	dʌ	True	True
+18	간단해요.	gandanhɛjo̞	gandanhɛjo̞	gandanhɛjo̞	True	True

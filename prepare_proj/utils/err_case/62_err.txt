@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	우라늄이	uraɲjumi	uraɲjumi	uraɲjumi	True	True
+2	꽤	kʼwɛ	kʼwɛ	kʼwɛ	True	True
+3	이제	iʣe	iʣe	iʣe	True	True
+4	무겁게	mugʌp̚kʼe	mugʌp̚kʼe	mugʌp̚kʼe	True	True
+5	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+6	질량이	ʣiɭʎ̟.jaŋi	ʣiɭʎ̟.jaŋi	.tziɭʎ̟.jaŋi	True	False
+7	크면은	kʰɯmjʌnɯn	kʰɯmjʌnɯn	kʰɯmjʌnɯn	True	True
+8	자기	ʣagi	ʣagi	ʣagi	True	True
+9	질량에	ʣiɭʎ̟.jaŋe	ʣiɭʎ̟.jaŋe	.tziɭʎ̟.jaŋe	True	False
+10	비해서	bihɛsʌ	bihɛsʌ	bihɛsʌ	True	True
+11	표면적이	pʰjo̞mjʌnʣʌgi	pʰjo̞mjʌnʣʌgi	pʰjo̞mjʌnʣʌgi	True	True
+12	상대적으로	saŋdɛʣʌgɯro	saŋdɛʣʌgɯro	saŋdɛʣʌgɯro	True	True
+13	작아지니까	ʣagaʣiɲikʼa	ʣagaʣiɲikʼa	ʣagaʣiɲikʼa	True	True
+14	질량은	ʣiɭʎ̟.jaŋɯn	ʣiɭʎ̟.jaŋɯn	.tziɭʎ̟.jaŋɯn	True	False
+15	이제	iʣe	iʣe	iʣe	True	True
+16	세	se	se	se	True	True
+17	제곱에	ʣegobe	ʣegobe	ʣegobe	True	True
+18	비례하는데	birʲehanɯnde	birʲehanɯnde	pirʲehanɯnde	True	False
+19	표면적은	pʰjo̞mjʌnʣʌgɯn	pʰjo̞mjʌnʣʌgɯ	pʰjo̞mjʌnʣʌgɯ	False	False
+20	제곱에	ʣegobe	ʣegobe	ʣegobe	True	True
+21	비례하잖아요.	birʲehaʣanajo̞	birʲehaʣanajo̞	pirʲehaʣanajo̞	True	False

@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	음~	ɯm	ɯm	ɯm	True	True
+1	예.	esʌ	je	je	False	False
+2	그런	je	gɯrʌn	gɯrʌn	False	False
+3	의미에서	gɯrʌ	ɰimiesʌ	ɰimiesʌ	False	False
+4	그럼	nɰimiesʌ	kɯrʌm	gɯrʌm	False	False
+5	반대로	gɯrʌm	bandɛro	pandɛro	False	False
+6	언제	bandɛro	ʌnʣe	ʌnʣe	False	False
+7	가장	ʌnʣe	gaʣaŋ	gaʣaŋ	False	False
+8	많이	gaʣaŋ	maɲi	maɲi	False	False
+9	책을	maɲi	tsʰɛgɯɭ	tsʰɛgɯɭ	False	False
+10	읽느냐라고	tsʰɛgɯɭ	iŋnɯɲ.jarago	iŋnɯɲ.jarago	False	False
+11	있을	iŋnɯɲ.jarago	isʼɯɭ	isʼɯɭ	False	False
+12	때	isʼɯɭ	tʼɛ	tʼɛ	False	False
+13	여름철	tʼɛ	jʌrɯmtsʰʌɭ	jʌrɯmtsʰʌɭ	False	False
+14	휴가	jʌrɯmtsʰʌɭ	hjuga	hjuga	False	False
+15	기간에	hjuga	gigane	kigane	False	False

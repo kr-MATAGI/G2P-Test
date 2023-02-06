@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	왜냐하면	wɛɲ.jahamjʌn	wɛɲ.jahamjʌn	wɛɲ.jahamjʌn	True	True
+1	만약	maɲ.jak̚	maɲ.jak̚	maɲ.jak̚	True	True
+2	전자가	ʣʌnʣaga	ʣʌnʣaga	ʣʌnʣaga	True	True
+3	한	han	han	han	True	True
+4	번에	bʌne	bʌne	bʌne	True	True
+5	한	han	han	han	True	True
+6	개의	gɛi	gɛi	kɛi	True	False
+7	구멍을	gumʌŋɯɭ	gumʌŋɯɭ	kumʌŋɯɭ	True	False
+8	분명히	bunmjʌŋhi	bunmjʌŋhi	bunmjʌŋhi	True	True
+9	지나갔다면은	ʣinagat̚tʼamjʌnɯn	ʣinagat̚tʼamjʌn	.tzinagat̚tʼamjʌ	False	False
+10	줄이	ʣuri	ʣuri	ʣuri	True	True
+11	두	du	du	du	True	True
+12	개	gɛ	gɛ	gɛ	True	True
+13	밖에	bakʼe	bakʼe	pakʼe	True	False
+14	안나와야	annawa.ja	annawa.ja	annawa.ja	True	True
+15	돼요.	dwɛjo̞	dwɛjo̞	twɛjo̞	True	False

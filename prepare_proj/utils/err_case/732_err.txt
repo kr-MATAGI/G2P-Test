@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	굉장히	kweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+1	굿	gut̚	gut̚	gut̚	True	True
+2	뉴스인	ɲjusɯin	ɲjusɯin	ɲjusɯin	True	True
+3	거	gʌ	gʌ	gʌ	True	True
+4	같애요.	gatʰɛjo̞	gatʰɛjo̞	gatʰɛjo̞	True	True

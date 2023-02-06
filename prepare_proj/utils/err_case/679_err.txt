@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+1	들어서	dɯrʌsʌ	dɯrʌsʌ	dɯrʌsʌ	True	True
+2	아까	akʼa	akʼa	akʼa	True	True
+3	그~	gɯ	gɯ	gɯp̚	True	False
+4	말	esʌ	maɭ	maɭ	False	False
+5	타고	maɭ	tʰago	tʰago	False	False
+6	뭐	tʰago	mwʌ	mwʌ	False	False
+7	사냥하러	mwʌ	saɲ.jaŋharʌ	saɲ.jaŋharʌ	False	False
+8	다니고	saɲ.jaŋharʌ	daɲigo	daɲigo	False	False
+9	하다가	daɲigo	hadaga	hadaga	False	False
+10	잘못해가꼬	hadaga	ʣaɭmotʰɛgakʼo	t͡ɕaɭmotʰɛgak	False	False
+11	사람을	ʣaɭmotʰɛgakʼo	saramɯɭ	saramɯɭ	False	False
+12	때린	saramɯɭ	tʼɛrin	tʼɛrin	False	False
+13	사건	tʼɛrin	sakʼʌn	sakʼʌn	False	False
+14	이	sakʼʌn	i	i	False	False
+15	사건에서는	i	sakʼʌnesʌnɯn	sakʼʌnesʌnɯn	False	False
+16	어~	sakʼʌnesʌnɯn	ʌ	ʌp̚	False	False
+17	뭐~	ʌ	mwʌ	mwʌ	False	False
+18	어떤	esʌ	ʌtʼʌn	ʌtʼʌn	False	False
+19	사람은	mwʌ	saramɯn	saramɯn	False	False
+20	뭐~	esʌ	mwʌ	mwʌ	False	False
+21	곤장을	ʌtʼʌn	gonʣaŋɯɭ	gonʣaŋɯɭ	False	False
+22	때려라.	saramɯn	tʼɛrjʌra	tʼɛrjʌra	False	False

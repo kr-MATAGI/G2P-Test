@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이~	i	i	ip̚	True	False
+1	xxxx	esʌ	xxxx	xxx	False	False
+2	파이팅이라든지	xxxx	pʰaitʰiŋiradɯn	pʰaitʰiŋiradɯn	False	False
+3	이런	pʰaitʰiŋiradɯnʣi	irʌn	irʌn	False	False
+4	게	irʌn	ge	ge	False	False
+5	쪼끔	ge	.tzokʼɯm	.tzokʼɯm	False	False

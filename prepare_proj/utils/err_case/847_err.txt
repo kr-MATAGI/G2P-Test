@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+2	관점에서	gwanʣʌmesʌ	gwanʣʌmesʌ	kwanʣʌmesʌ	True	False
+3	이	i	i	i	True	True
+4	책에	tsʰɛge	tsʰɛge	tsʰɛge	True	True
+5	접근하면	ʣʌp̚kʼɯnhamjʌn	ʣʌp̚kʼɯnhamjʌ	t͡ɕʌp̚kʼɯnham	False	False
+6	또	tʼo	tʼo	tʼo	True	True
+7	아~	a	a	ak̚	True	False
+8	지금	esʌ	ʣigɯm	ʣigɯm	False	False
+9	예.	ʣigɯm	je	je	False	False
+10	저희가	je	ʣʌhiga	ʣʌhiga	False	False
+11	한	ʣʌhiga	han	han	False	False
+12	시간	han	ɕigan	ɕigan	False	False
+13	이상	ɕigan	isaŋ	isaŋ	False	False
+14	얘기한	isaŋ	jɛgihan	jɛgihan	False	False
+15	그런	jɛgihan	gɯrʌn	gɯrʌn	False	False
+16	부분들과	gɯrʌn	bubundɯɭgwa	bubundɯɭgwa	False	False
+17	함께	bubundɯɭgwa	hamkʼe	hamkʼe	False	False
+18	또	hamkʼe	tʼo	tʼo	False	False
+19	이책이	tʼo	itsʰɛgi	itsʰɛgi	False	False
+20	과거에	i	gwagʌe	kwagʌe	False	False
+21	어렵게	tsʰɛgi	ʌrjʌp̚kʼe	ʌrjʌp̚kʼe	False	False
+22	느껴지셨던가	gwagʌe	nɯkʼjʌʣisjʌt̚	nɯkʼjʌʣisjʌt̚	False	False

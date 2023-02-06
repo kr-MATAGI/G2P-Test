@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	크기가	kʰɯgiga	kʰɯgiga	kʰɯgiga	True	True
+1	좀	ʣom	ʣom	ʣom	True	True
+2	작으면	ʣagɯmjʌn	ʣagɯmjʌn	ʣagɯmjʌn	True	True
+3	막	mak̚	mak̚	mak̚	True	True
+4	그~	gɯ	gɯ	gɯp̚	True	False
+5	다보탑	esʌ	dabotʰap̚	dabotʰap̚	False	False
+6	이런	dabotʰap̚	irʌn	irʌn	False	False
+7	거	irʌn	gʌ	gʌ	False	False
+8	분해해서	gʌ	bunhɛhɛsʌ	bunhɛhɛsʌ	False	False

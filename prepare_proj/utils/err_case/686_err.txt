@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	꼭	kʼok̚	kʼok̚	kʼok̚	True	True
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	진화론에	ʣinhwarone	ʣinhwarone	ʣinhwarone	True	True
+3	반대하는	bandɛhanɯn	bandɛhanɯn	pandɛhanɯn	True	False
+4	입장이	ɲip̚.tzaŋi	ip̚.tzaŋi	ip̚.tzaŋi	False	False
+5	아니라	aɲira	aɲira	aɲira	True	True
+6	진화론을	ʣinhwaronɯɭ	ʣinhwaronɯɭ	ʣinhwaronɯɭ	True	True
+7	알고	aɭgo	aɭgo	aɭgo	True	True
+8	있다고	it̚tʼago	it̚tʼago	it̚tʼago	True	True
+9	생각하는	sɛŋgakʰanɯn	sɛŋgakʰanɯn	sɛŋgakʰanɯn	True	True
+10	분들	bundɯɭ	bundɯɭ	bundɯɭ	True	True
+11	조차도	ʣotsʰado	ʣotsʰado	ʣotsʰado	True	True

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어디에서	ʌdiesʌ	ʌdiesʌ	ʌdiesʌ	True	True
+1	생명이	sɛŋmjʌŋi	sɛŋmjʌŋi	sɛŋmjʌŋi	True	True
+2	살만	saɭ	saɭman	saɭman	False	False
+3	하고	manhago	hago	hago	False	False
+4	어디선	ʌdisʌn	ʌdisʌn	ʌdisʌn	True	True
+5	절대	ʣʌɭtʼɛ	ʣʌɭtʼɛ	.tzʌɭdɛ	True	False
+6	못사냐	mot̚sʼaɲ.ja	mot̚sʼaɲ.ja	mot̚sʼaɲ.ja	True	True

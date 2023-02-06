@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	최종	esʌ	tsʰweʣoŋ	tsʰweʣoŋ	False	False
+2	진화가	tsʰweʣoŋ	ʣinhwaga	ʣinhwaga	False	False
+3	우리다	ʣinhwaga	urida	urida	False	False
+4	뭐	urida	mwʌ	mwʌ	False	False
+5	이런	mwʌ	irʌn	irʌn	False	False
+6	식으로	irʌn	ɕigɯro	ɕigɯro	False	False
+7	믿고	ɕigɯro	mit̚kʼo	mit̚kʼo	False	False
+8	있는군요.	mit̚kʼo	innɯnguɲjo̞	innɯnguɲjo̞	False	False

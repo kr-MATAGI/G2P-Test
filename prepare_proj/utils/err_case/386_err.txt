@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+2	시월에	ɕiwʌre	ɕiwʌre	ɕiwʌre	True	True
+3	요거	jo̞gʌ	jo̞gʌ	jo̞gʌ	True	True
+4	세	se	se	se	True	True
+5	번을	bʌnɯɭ	bʌnɯɭ	pʌnɯɭ	True	False
+6	하고	hago	hago	hago	True	True
+7	십일월에	ɕibirwʌre	ɕibirwʌre	ɕibirwʌre	True	True
+8	그	gɯ	gɯ	gɯ	True	True
+9	큰톡	kʰɯn	kʰɯn	kʰɯntʰok̚	True	False
+10	콘서트	tʰok̚	kʰonsʌtʰɯ	kʰonsʌtʰɯ	False	False
+11	한번	kʰonsʌtʰɯ	hanbʌn	hanbʌn	False	False
+12	해서	hanbʌn	hɛsʌ	hɛsʌ	False	False
+13	기상청과	hɛsʌ	gisaŋtsʰʌŋgwa	kisaŋtsʰʌŋgwa	False	False
+14	함께	gisaŋtsʰʌŋgwa	hamkʼe	hamkʼe	False	False
+15	하는	hamkʼe	hanɯn	hanɯn	False	False

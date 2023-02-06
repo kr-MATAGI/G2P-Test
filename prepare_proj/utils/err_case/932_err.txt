@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	있는데	innɯnde	innɯnde	innɯnde	True	True
+1	이거야말로	igʌ.jamaɭlo	igʌ.jamaɭlo	igʌ.jamaɭlo	True	True
+2	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+3	말씀하신	maɭsʼɯmhaɕin	maɭsʼɯmhaɕin	maɭsʼɯmhaɕin	True	True
+4	초끈이론보다도	tsʰokʼɯɲironbodado	tsʰokʼɯɲironbod	tsʰokʼɯɲironbod	False	False
+5	훨씬	hwʌɭɕʼin	hwʌɭɕʼin	hwʌɭɕʼin	True	True
+6	더	dʌ	dʌ	dʌ	True	True
+7	가정과	gaʣʌŋgwa	gaʣʌŋgwa	gaʣʌŋgwa	True	True
+8	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+9	부분들이	bubundɯri	bubundɯri	bubundɯri	True	True
+10	많이	maɲi	maɲi	maɲi	True	True
+11	결합된	gjʌɭhap̚tʼwen	gjʌɭhap̚tʼwen	kjʌɭhap̚tʼwen	True	False
+12	거라	gʌra	gʌra	gʌra	True	True
+13	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+14	타임머신이라는	tʰaimmʌɕiɲiranɯn	tʰaimmʌɕiɲiran	tʰaimmʌɕiɲiran	False	False
+15	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+16	뭐	mwʌ	mwʌ	mwʌ	True	True
+17	미래로	mirɛro	mirɛro	mirɛro	True	True
+18	가는	ganɯn	ganɯn	ganɯn	True	True
+19	건	gʌn	gʌn	gʌn	True	True
+20	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+21	얼마든지	ʌɭmadɯnʣi	ʌɭmadɯnʣi	ʌɭmadɯnʣi	True	True
+22	가능하죠.	ganɯŋhaʣjo̞	ganɯŋhaʣjo̞	kanɯŋhaʣjo̞	True	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거기까지	kʌgikʼaʣi	gʌgikʼaʣi	gʌgikʼaʣi	False	False
+1	오는	onɯn	onɯn	onɯn	True	True
+2	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+3	뭐~	mwʌ	mwʌ	mwʌ	True	True
+4	괜찮은	esʌ	gwɛntsʰanɯn	kwɛntsʰanɯn	False	False
+5	거	gwɛntsʰanɯn	gʌ	gʌ	False	False
+6	같다.	gʌ	gat̚tʼa	gat̚tʼa	False	False

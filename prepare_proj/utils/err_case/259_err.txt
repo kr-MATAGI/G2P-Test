@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	이제	iʣe	iʣe	iʣe	True	True
+2	콩쿠르	kʰoŋkʰurɯ	kʰoŋkʰurɯ	kʰoŋkʰurɯ	True	True
+3	끝나자마자	kʼɯnnaʣamaʣa	kʼɯnnaʣamaʣa	kʼɯnnaʣamaʣa	True	True
+4	이	i	i	i	True	True
+5	이	i	i	i	True	True
+6	사람	saram	saram	saram	True	True
+7	이	i	i	i	True	True
+8	사람	saram	saram	saram	True	True
+9	와주세요	waʣusejo̞	waʣusejo̞	waʣusejo̞	True	True
+10	딱	tʼak̚	tʼak̚	tʼak̚	True	True
+11	거기서	gʌgisʌ	gʌgisʌ	gʌgisʌ	True	True
+12	아주	aʣu	aʣu	aʣu	True	True
+13	다	da	da	ta	True	False
+14	답을	dabɯɭ	dabɯɭ	dabɯɭ	True	True
+15	받았어요.	badasʼʌjo̞	badasʼʌjo̞	padasʼʌjo̞	True	False

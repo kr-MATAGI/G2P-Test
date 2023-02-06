@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	적게	ʣʌk̚kʼe	ʣʌk̚kʼe	ʣʌk̚kʼe	True	True
+2	하는	hanɯn	hanɯn	hanɯn	True	True
+3	사람도	saramdo	saramdo	saramdo	True	True
+4	오십	oɕim	oɕip̚	oɕip̚	False	False
+5	억개	nʌk̚kʼɛ	ʌk̚kʼɛ	ʌk̚kʼɛ	False	False
+6	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+7	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+8	엄청	ʌmtsʰʌŋ	ʌmtsʰʌŋ	ʌmtsʰʌŋ	True	True
+9	우리가	uriga	uriga	uriga	True	True
+10	생각했던거	sɛŋgakʰɛt̚tʼʌn	sɛŋgakʰɛt̚tʼ	sɛŋgakʰɛt̚tʼ	False	False
+11	보다	gʌ	boda	boda	False	False
+12	많다는	boda	mantʰanɯn	mat̚tʼanɯn	False	False
+13	거구요.	mantʰanɯn	gʌgujo̞	gʌgujo̞	False	False

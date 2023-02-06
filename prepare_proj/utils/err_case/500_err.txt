@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	이런	esʌ	irʌn	irʌn	False	False
+2	형식을	irʌn	hjʌŋɕigɯɭ	hjʌŋɕigɯɭ	False	False
+3	취하거든요.	hjʌŋɕigɯɭ	tsʰwihagʌdɯɲjo	tsʰwihagʌdɯɲjo	False	False

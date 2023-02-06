@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거	kʌ	gʌ	gʌ	False	False
+1	좀	ʣom	ʣom	ʣom	True	True
+2	약간	.jak̚kʼan	.jak̚kʼan	.jak̚kʼan	True	True
+3	그~	gɯ	gɯ	gɯp̚	True	False
+4	요새	esʌ	jo̞sɛ	jo̞sɛ	False	False
+5	세계경제가	jo̞sɛ	segʲegjʌŋʣega	segʲegjʌŋʣega	False	False
+6	돌아가는	segʲegjʌŋʣega	doraganɯn	toraganɯn	False	False
+7	거보면	doraganɯn	gʌbomjʌn	gʌbomjʌn	False	False
+8	그냥	gʌ	gɯɲ.jaŋ	gɯɲ.jaŋ	False	False
+9	완전히	bomjʌn	wanʣʌnhi	wanʣʌnhi	False	False
+10	사람들	gɯɲ.jaŋ	saramdɯɭ	saramdɯɭ	False	False
+11	막	wanʣʌnhi	mak̚	mak̚	False	False
+12	인건비	saramdɯɭ	ingʌnbi	ingʌnbi	False	False
+13	싸게	mak̚	sʼage	sʼage	False	False
+14	하고	inkʼʌnbi	hago	hago	False	False
+15	막	sʼage	mak̚	mak̚	False	False
+16	그런	hago	gɯrʌn	gɯrʌn	False	False
+17	인건비	mak̚	ingʌnbi	ingʌnbi	False	False
+18	싼	gɯrʌn	sʼan	sʼan	False	False
+19	나라를	ɲinkʼʌnbi	nararɯɭ	nararɯɭ	False	False

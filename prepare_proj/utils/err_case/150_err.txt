@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	보통	potʰoŋ	botʰoŋ	botʰoŋ	False	False
+1	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+2	하시는	haɕinɯn	haɕinɯn	haɕinɯn	True	True
+3	분들이	bundɯri	bundɯri	bundɯri	True	True
+4	꽤	kʼwɛ	kʼwɛ	kʼwɛ	True	True
+5	계시	gʲeɕi	gʲeɕi	gʲeɕi	True	True
+6	계실	gʲeɕiɭ	gʲeɕiɭ	gʲeɕiɭ	True	True
+7	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

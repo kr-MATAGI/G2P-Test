@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	방향이	paŋh.jaŋi	baŋh.jaŋi	paŋh.jaŋi	False	True
+1	전팔되면서도	ʣʌn	ʣʌnpʰaɭdwemjʌn	t͡ɕʌnpʰaɭdwemj	False	False
+2	윗방향	pʰaɭ	wipʼaŋh.jaŋ	wit̚pʼaŋh.jaŋ	False	False
+3	그다음에	dwemjʌnsʌdo	kɯdaɯme	kɯdaɯme	False	False
+4	옆방향으로	wit̚pʼaŋh.jaŋ	jʌp̚pʼaŋh.jaŋ	jʌp̚pʼaŋh.jaŋ	False	False
+5	또	gɯdaɯme	tʼo	tʼo	False	False
+6	구분할	jʌp̚	gubunhaɭ	gubunhaɭ	False	False
+7	수가	baŋh.jaŋɯro	suga	suga	False	False
+8	있겠죠.	tʼo	it̚kʼet̚.tzjo̞	it̚kʼet̚.tzjo̞	False	False

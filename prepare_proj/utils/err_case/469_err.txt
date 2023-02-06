@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+1	번째는	pʼʌn.tzɛnɯn	bʌn.tzɛnɯn	pʌn.tzɛnɯn	False	False
+2	제가	ʣega	ʣega	ʣega	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	거위발건이	gʌwibaɭgʌɲi	gʌwibaɭkʼʌɲi	kʌwibaɭkʼʌɲi	False	False
+5	붙는	bunnɯn	bunnɯn	bunnɯn	True	True
+6	자리	ʣari	ʣari	ʣari	True	True
+7	무릎의	murɯpʰe	murɯpʰe	murɯpʰe	True	True
+8	안쪽을	an.tzogɯɭ	an.tzogɯɭ	an.tzogɯɭ	True	True
+9	한번	hanbʌn	hanbʌn	hanbʌn	True	True
+10	만져볼	manʣʌboɭ	manʣʌboɭ	manʣʌboɭ	True	True
+11	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

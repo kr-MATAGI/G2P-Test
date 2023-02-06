@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이해가	ihɛga	ihɛga	ihɛga	True	True
+1	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+2	모습이지만	mosɯbiʣiman	mosɯbiʣiman	mosɯbiʣiman	True	True
+3	한편으로는	hanpʰjʌnɯronɯn	hanpʰjʌnɯronɯn	hanpʰjʌnɯronɯn	True	True
+4	그거는	gɯgʌnɯn	gɯgʌnɯn	gɯgʌnɯn	True	True
+5	내	nɛ	nɛ	nɛ	True	True
+6	세상을	sesaŋɯɭ	sesaŋɯɭ	sesaŋɯɭ	True	True
+7	외면하겠다는	wemjʌnhaget̚tʼanɯn	wemjʌnhaget̚tʼan	wemjʌnhaget̚tʼa	False	False
+8	얘기거든요.	jɛgigʌdɯɲjo̞	jɛgigʌdɯɲjo̞	jɛgigʌdɯɲjo̞	True	True

@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	부품이	bupʰumi	bupʰumi	bupʰumi	True	True
+2	한	han	han	han	True	True
+3	삼천오백	samtsʰʌnobɛk̚	samtsʰʌnobɛk̚	samtsʰʌnobɛk̚	True	True
+4	개	kʼɛ	gɛ	gɛ	False	False
+5	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True
+6	붙어있는	butʰʌinnɯn	butʰʌinnɯn	butʰʌinnɯn	True	True
+7	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+8	장치였다고	ʣaŋtsʰijʌt̚tʼago	ʣaŋtsʰijʌt̚tʼ	ʣaŋtsʰijʌt̚tʼ	False	False
+9	해요.	hɛjo̞	hɛjo̞	hɛjo̞	True	True

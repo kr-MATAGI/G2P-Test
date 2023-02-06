@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	바로	paro	baro	pʼaro	False	False
+1	잡혀가고	ʣapʰjʌgago	ʣapʰjʌgago	ʣapʰjʌgago	True	True
+2	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+3	나선	nasʌn	nasʌn	nasʌn	True	True
+4	뭐~	mwʌ	mwʌ	mwʌ	True	True
+5	어떻게	esʌ	ʌtʼʌkʰe	ʌtʼʌkʰe	False	False
+6	됐는지	ʌtʼʌkʰe	dwɛnnɯnʣi	twɛnnɯnʣi	False	False
+7	모르고	dwɛnnɯnʣi	morɯgo	morɯgo	False	False

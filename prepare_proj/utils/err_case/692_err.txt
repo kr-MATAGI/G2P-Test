@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	본래	poɭlɛ	boɭlɛ	boɭlɛ	False	False
+1	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+2	액체	ɛk̚tsʰe	ɛk̚tsʰe	ɛk̚tsʰe	True	True
+3	상태인	saŋtʰɛin	saŋtʰɛin	saŋtʰɛin	True	True
+4	기름을	girɯmɯɭ	girɯmɯɭ	kirɯmɯɭ	True	False
+5	우리가	uriga	uriga	uriga	True	True
+6	좀	ʣom	ʣom	ʣom	True	True
+7	사용하기	sajo̞ŋhagi	sajo̞ŋhagi	sajo̞ŋhagi	True	True
+8	쉽도록	ʃwip̚tʼorok̚	ʃwip̚tʼorok̚	ʃwip̚tʼorok̚	True	True
+9	어~	ʌ	ʌ	ʌp̚	True	False
+10	고체	esʌ	gotsʰe	gotsʰe	False	False
+11	상태로	gotsʰe	saŋtʰɛro	saŋtʰɛro	False	False
+12	가공을	saŋtʰɛro	gagoŋɯɭ	gagoŋɯɭ	False	False
+13	한	gagoŋɯɭ	han	han	False	False
+14	기름을	han	girɯmɯɭ	kirɯmɯɭ	False	False
+15	말하는데요.	girɯmɯɭ	maɭhanɯndejo̞	maɭhanɯndejo̞	False	False

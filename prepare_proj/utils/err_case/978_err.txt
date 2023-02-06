@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러니까	kɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	True	False
+1	조르다노	ʣorɯdano	ʣorɯdano	.tzorɯdano	True	False
+2	부르노가	burɯno	burɯno	burɯnoga	True	False
+3	화형	ga	hwahjʌŋ	hwahjʌŋ	False	False
+4	당한	hwahjʌŋ	daŋhan	daŋhan	False	False
+5	지	daŋhan	ʣi	ʣi	False	False
+6	십년도	ʣi	ɕim	ɕimɲjʌndo	False	False
+7	안돼서	ɕim	an	andwɛsʌ	False	False

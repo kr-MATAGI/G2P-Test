@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+2	우주에서	uʣuesʌ	uʣuesʌ	uʣuesʌ	True	True
+3	오는	onɯn	onɯn	onɯn	True	True
+4	거냐	gʌɲ.ja	gʌɲ.ja	gʌɲ.ja	True	True
+5	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+6	에프	epʰɯ	epʰɯ	epʰɯ	True	True
+7	알	aɭ	aɭ	aɭ	True	True
+8	비는	binɯn	binɯn	binɯn	True	True
+9	예스	jesɯ	jesɯ	jesɯ	True	True
+10	전체	ʣʌntsʰe	ʣʌntsʰe	ʣʌntsʰe	True	True
+11	는	nɯn	nɯn	nɯn	True	True
+12	노	no	no	no	True	True

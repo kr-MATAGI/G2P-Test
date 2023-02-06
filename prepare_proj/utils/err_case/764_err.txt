@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	대표작이	dɛpʰjo̞ʣagi	dɛpʰjo̞ʣagi	dɛpʰjo̞ʣagi	True	True
+2	바로	baro	baro	pʼaro	True	False
+3	평생	pʰjʌŋsɛŋ	pʰjʌŋsɛŋ	pʰjʌŋsɛŋ	True	True
+4	숱하게	sutʰage	sutʰage	sutʰage	True	True
+5	오르내리며	orɯnɛrimjʌ	orɯnɛrimjʌ	orɯnɛrimjʌ	True	True
+6	탐구했던	tʰamguhɛt̚tʼʌn	tʰamguhɛt̚tʼʌn	tʰamguhɛt̚tʼʌn	True	True
+7	생	sɛŋ	sɛŋ	sɛŋ	True	True
+8	뷔트아루산입니다.	bwitʰɯ	bwitʰɯ	bwitʰɯarusaɲim	True	False

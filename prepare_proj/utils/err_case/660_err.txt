@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	당시에	daŋɕie	daŋɕie	daŋɕie	True	True
+2	현실적인	hjʌnɕiɭ.tzʌgin	hjʌnɕiɭ.tzʌgin	hjʌnɕiɭ.tzʌgin	True	True
+3	한계를	hangʲerɯɭ	hangʲerɯɭ	hangʲerɯɭ	True	True
+4	뛰어넘는	tʼwiʌnʌmnɯn	tʼwiʌnʌmnɯn	tʼwiʌnʌmnɯn	True	True
+5	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

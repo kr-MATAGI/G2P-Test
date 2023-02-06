@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	하지만	haʣiman	haʣiman	haʣiman	True	True
+1	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+2	혈관	hjʌɭgwan	hjʌɭgwan	hjʌɭgwan	True	True
+3	건강에	gʌngaŋe	gʌngaŋe	kʌngaŋe	True	False
+4	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+5	핵심은	hɛk̚ɕʼimɯn	hɛk̚ɕʼimɯn	hɛk̚ɕʼimɯn	True	True
+6	바로	baro	baro	pʼaro	True	False
+7	혈관	hjʌɭgwan	hjʌɭgwan	hjʌɭgwan	True	True
+8	안쪽을	an.tzogɯɭ	an.tzogɯɭ	an.tzogɯɭ	True	True
+9	구성하고	gusʌŋhago	gusʌŋhago	gusʌŋhago	True	True
+10	있는	innɯn	innɯn	innɯn	True	True
+11	혈관	hjʌɭgwan	hjʌɭgwan	hjʌɭgwan	True	True
+12	내피	nɛpʰisepʰoimɲida	nɛpʰi	nɛpʰi	False	False

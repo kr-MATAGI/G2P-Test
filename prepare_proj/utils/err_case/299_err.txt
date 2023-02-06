@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리가	uriga	uriga	uriga	True	True
+1	요즘에	jo̞ʣɯme	jo̞ʣɯme	jo̞ʣɯme	True	True
+2	많이	maɲi	maɲi	maɲi	True	True
+3	스는	sɯnɯn	sɯnɯn	sɯnɯn	True	True
+4	컴퓨터	kʰʌmpʰjutʰʌ	kʰʌmpʰjutʰʌ	kʰʌmpʰjutʰʌ	True	True
+5	씨피유는	ɕʼipʰi.junɯn	ɕʼipʰi.junɯn	ɕʼipʰi.junɯn	True	True
+6	흔히	hɯnhi	hɯnhi	hɯnhi	True	True
+7	말하는	maɭhanɯn	maɭhanɯn	maɭhanɯn	True	True
+8	엑스에이티식스라는	ek̚sɯe	ek̚sɯeitʰiɕik̚	ek̚sɯeitʰiɕik̚	False	False
+9	인텔에서	itʰi	intʰeresʌ	intʰeresʌ	False	False
+10	나온	ɕik̚sʼɯranɯn	naon	naon	False	False
+11	그	intʰeresʌ	gɯ	gɯ	False	False
+12	씨피유를	naon	ɕʼipʰi.jurɯɭ	ɕʼipʰi.jurɯɭ	False	False
+13	많이	gɯ	maɲi	maɲi	False	False
+14	사용하죠.	ɕʼipʰi.jurɯɭ	sajo̞ŋhaʣjo̞	sajo̞ŋhaʣjo̞	False	False

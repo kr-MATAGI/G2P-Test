@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	또	tʼo	tʼo	tʼo	True	True
+2	하나	hana	hana	hana	True	True
+3	뉴스는	ɲjusɯnɯn	ɲjusɯnɯn	ɲjusɯnɯn	True	True
+4	일본에	iɭbone	iɭbone	iɭbone	True	True
+5	하야부사	ha.jabusahoranɯn	ha.jabusa	ha.jabusa	False	False
+6	호라는	gʌɭ	horanɯn	horanɯn	False	False
+7	걸	dɯrʌbosjʌnnɯnʣi	gʌɭ	gʌɭ	False	False
+8	들어보셨는지	morɯgesʼʌjo̞	dɯrʌbosjʌnnɯnʣ	dɯrʌbosjʌnnɯnʣ	False	False
+9	모르겠어요.	jʌrʌbun	morɯgesʼʌjo̞	morɯgesʼʌjo̞	False	False

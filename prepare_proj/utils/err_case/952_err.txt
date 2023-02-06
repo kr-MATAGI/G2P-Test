@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러면	kɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	True	False
+1	이제	iʣe	iʣe	iʣe	True	True
+2	저희는	ʣʌhinɯn	ʣʌhinɯn	ʣʌhinɯn	True	True
+3	방송에서	baŋsoŋesʌ	baŋsoŋesʌ	baŋsoŋesʌ	True	True
+4	나오는	naonɯ	naonɯn	naonɯn	False	False
+5	얘기뿐만	njɛgipʼunman	jɛgipʼunman	jɛgipʼunman	False	False
+6	아니라	aɲira	aɲira	aɲira	True	True
+7	이제	iʣe	iʣe	iʣe	True	True
+8	이것저것을	igʌt̚.tzʌgʌsɯɭ	igʌt̚.tzʌgʌsɯ	igʌt̚.tzʌgʌsɯ	False	False
+9	리서치를	risʌtsʰirɯɭ	risʌtsʰirɯɭ	risʌtsʰirɯɭ	True	True
+10	하게	hage	hage	hage	True	True
+11	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True
+12	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+13	참신하고	tsʰamɕinhago	tsʰamɕinhago	tsʰamɕinhago	True	True
+14	재밌는	ʣɛminnɯ	ʣɛminnɯn	ʣɛminnɯn	False	False
+15	얘기를	njɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	False	False
+16	하는	hanɯn	hanɯn	hanɯn	True	True
+17	분들이	bundɯri	bundɯri	bundɯri	True	True
+18	있는	innɯn	innɯn	innɯn	True	True
+19	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

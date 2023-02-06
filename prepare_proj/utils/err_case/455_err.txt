@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	뭐로	mwʌro	mwʌro	mwʌro	True	True
+2	비유를	bi.jurɯɭ	bi.jurɯɭ	bi.jurɯɭ	True	True
+3	해보고	hɛbogo	hɛbogo	hɛbogo	True	True
+4	싶냐면	ɕimɲ.jamjʌn	ɕimɲ.jamjʌn	ɕimɲ.jamjʌn	True	True
+5	아까	akʼa	akʼa	akʼa	True	True
+6	제인	ʣein	ʣein	ʣein	True	True
+7	오스틴	osɯtʰin	osɯtʰin	osɯtʰin	True	True
+8	얘기를	jɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	True	True
+9	했으니까	hɛsʼɯɲikʼa	hɛsʼɯɲikʼa	hɛsʼɯɲikʼa	True	True

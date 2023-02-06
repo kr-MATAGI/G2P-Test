@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자기들한테	t͡ɕagidɯɭhantʰe	ʣagidɯɭhantʰe	ʣagidɯɭhantʰe	False	False
+1	피해가	pʰihɛga	pʰihɛga	pʰihɛga	True	True
+2	올	oɭ	oɭ	oɭ	True	True
+3	수	su	su	su	True	True
+4	있기	it̚kʼi	it̚kʼi	it̚kʼi	True	True
+5	때문에요.	tʼɛmunejo̞	tʼɛmunejo̞	tʼɛmunejo̞	True	True

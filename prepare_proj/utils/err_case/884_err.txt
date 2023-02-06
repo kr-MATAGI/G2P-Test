@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	일	iɭ	iɭ	iɭ	True	True
+1	차	tsʰa	tsʰa	tsʰa	True	True
+2	세계대전	segʲedɛʣʌn	segʲedɛʣʌn	segʲedɛʣʌn	True	True
+3	백	bɛk̚	bɛk̚	bɛk̚	True	True
+4	주년을	.tzuɲjʌnɯɭ	ʣuɲjʌnɯɭ	ʣuɲjʌnɯɭ	False	False
+5	맞아	maʣa	maʣa	maʣa	True	True
+6	영국과	jʌŋguk̚kʼwa	jʌŋguk̚kʼwa	jʌŋguk̚kʼwa	True	True
+7	러시아가	rʌɕiaga	rʌɕiaga	rʌɕiaga	True	True
+8	공동	goŋdoŋ	goŋdoŋ	goŋdoŋ	True	True
+9	제작한	ʣeʣakʰan	ʣeʣakʰan	ʣeʣakʰan	True	True
+10	개막작	gɛmak̚.tzak̚	gɛmak̚.tzak̚	kɛmak̚.tzak̚	True	False
+11	디	di	di	di	True	True
+12	워를	wʌrɯɭ	wʌrɯɭ	wʌrɯɭ	True	True
+13	시작으로	ɕiʣagɯro	ɕiʣagɯro	ɕiʣagɯro	True	True
+14	열흘	jʌɭhɯɭ	jʌɭhɯɭ	jʌɭhɯɭ	True	True
+15	동안	doŋan	doŋan	toŋan	True	False
+16	펼쳐질	pʰjʌɭtsʰʌʣiɭ	pʰjʌɭtsʰʌʣiɭ	pʰjʌɭtsʰʌʣiɭ	True	True
+17	의정부	ɰiʣʌŋbu	ɰiʣʌŋbu	ɰiʣʌŋbu	True	True
+18	국제	guk̚.tze	guk̚.tze	guk̚.tze	True	True
+19	음악극	ɯmak̚kʼɯk̚	ɯmak̚kʼɯk̚	ɯmak̚kʼɯk̚	True	True
+20	축젭니다.	tsʰuk̚.tzemɲida	tsʰuk̚.tzemɲida	tsʰuk̚.tzʌmɲida	True	False

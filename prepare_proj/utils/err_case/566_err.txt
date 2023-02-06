@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	보시면	poɕimjʌn	boɕimjʌn	boɕimjʌn	False	False
+1	여기	jʌgi	jʌgi	jʌgi	True	True
+2	나무처럼	namutsʰʌrʌm	namutsʰʌrʌm	namutsʰʌrʌm	True	True
+3	박혀	bakʰjʌ	bakʰjʌ	pakʰjʌ	True	False
+4	있는	innɯn	innɯn	innɯn	True	True
+5	게	ge	ge	ge	True	True
+6	다	da	da	ta	True	False
+7	뼈예요.	pʼjʌjejo̞	pʼjʌjejo̞	pʼjʌjejo̞	True	True

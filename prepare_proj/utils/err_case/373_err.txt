@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그때	kɯtʼɛ	gɯtʼɛ	gɯtʼɛ	False	False
+1	설명드렸던	sʌɭmjʌŋdɯrjʌt̚tʼʌn	sʌɭmjʌŋdɯrjʌt	sʌɭmjʌŋdɯrjʌt	False	False
+2	거하고	gʌhago	gʌhago	gʌhago	True	True
+3	거의	gʌe	gʌe	gʌe	True	True
+4	똑같아요.	tʼok̚kʼatʰajo̞	tʼok̚kʼatʰajo̞	tʼok̚kʼatʰajo̞	True	True

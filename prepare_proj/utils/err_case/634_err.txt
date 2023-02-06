@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	완벽하게	esʌ	wanbjʌkʰage	wanbjʌkʰage	False	False
+2	정리를	wanbjʌkʰage	ʣʌŋɲirɯɭ	.tzʌŋɲirɯɭ	False	False
+3	해주신	ʣʌŋɲirɯɭ	hɛʣuɕin	hɛʣuɕin	False	False
+4	것	hɛʣuɕin	gʌt̚	gʌt̚	False	False
+5	같습니다.	gʌt̚	gat̚sʼɯmɲida	kat̚sʼɯmɲida	False	False

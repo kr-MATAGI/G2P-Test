@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	다른	tarɯn	darɯn	darɯn	False	False
+1	모든	modɯn	modɯn	modɯn	True	True
+2	천문학	tsʰʌnmunhak̚	tsʰʌnmunhak̚	tsʰʌnmunhak̚	True	True
+3	주제는	ʣuʣenɯn	ʣuʣenɯn	ʣuʣenɯn	True	True
+4	이게	ige	ige	ige	True	True
+5	뭐고	mwʌgo	mwʌgo	mwʌgo	True	True

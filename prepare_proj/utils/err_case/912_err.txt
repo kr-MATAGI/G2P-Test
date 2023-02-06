@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래야지	kɯrɛ.jaʣi	gɯrɛ.jaʣi	kɯrɛ.jaʣi	False	True
+1	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+2	살까	saɭkʼa	saɭkʼa	saɭkʼa	True	True
+3	말까	maɭkʼa	maɭkʼa	maɭkʼa	True	True
+4	하니까	haɲikʼa	haɲikʼa	haɲikʼa	True	True

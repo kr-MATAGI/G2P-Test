@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	제가	ʣega	ʣega	ʣega	True	True
+2	이~	i	i	ip̚	True	False
+3	목	esʌ	mok̚	mok̚	False	False
+4	토성	mok̚	tʰosʌŋ	tʰosʌŋ	False	False
+5	관련된	tʰosʌŋ	gwaɭʎ̟jʌndwen	kwaɭʎ̟jʌndwen	False	False
+6	뉴스를	gwaɭʎ̟jʌndwen	ɲjusɯrɯɭ	ɲjusɯrɯɭ	False	False
+7	보다가	ɲjusɯrɯɭ	bodaga	bodaga	False	False
+8	재밌는	bodaga	ʣɛminnɯn	ʣɛminnɯn	False	False
+9	걸	ʣɛminnɯn	gʌɭ	gʌɭ	False	False
+10	하나	gʌɭ	hana	hana	False	False
+11	찾았던	hana	tsʰaʣat̚tʼʌn	tsʰaʣat̚tʼʌn	False	False
+12	게	tsʰaʣat̚tʼʌn	ge	ge	False	False
+13	토성에	ge	tʰosʌŋe	tʰosʌŋe	False	False
+14	그~	tʰosʌŋe	gɯ	gɯp̚	False	False
+15	레아라는	gɯ	rearanɯn	rearanɯn	False	False
+16	위성이	esʌ	wisʌŋi	wisʌŋi	False	False
+17	있어요.	rearanɯn	isʼʌjo̞	isʼʌjo̞	False	False

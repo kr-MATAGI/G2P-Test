@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리구	kɯrigu	kɯrigu	gɯrigu	True	False
+1	페달도	pʰedaɭdo	pʰedaɭdo	pʰedaɭdo	True	True
+2	승용차랑	sɯŋjo̞ŋtsʰaraŋ	sɯŋjo̞ŋtsʰara	sɯŋjo̞ŋtsʰara	False	False
+3	달라서	daɭlasʌ	daɭlasʌ	taɭlasʌ	True	False
+4	이게	ige	ige	ige	True	True
+5	되게	dwege	dwege	dwege	True	True
+6	힘들고	himdɯɭgo	himdɯɭgo	himdɯɭgo	True	True

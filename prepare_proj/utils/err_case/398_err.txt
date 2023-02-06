@@ -1,0 +1,4 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	바로	paro	baro	pʼaro	False	False
+1	파주	pʰaʣu	pʰaʣu	pʰaʣu	True	True
+2	라이트페스티벌입니다.	raitʰɯ	raitʰɯpʰesɯtʰi	raitʰɯpʰesɯtʰi	False	False

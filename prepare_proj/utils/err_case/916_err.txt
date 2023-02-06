@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지금처럼	t͡ɕigɯmtsʰʌrʌm	ʣigɯmtsʰʌrʌm	ʣigɯmtsʰʌrʌm	False	False
+1	망원경이	maŋwʌngjʌŋi	maŋwʌngjʌŋi	maŋwʌngjʌŋi	True	True
+2	따라	tʼara	tʼara	tʼara	True	True
+3	움직여	umʣigjʌ	umʣigjʌ	umʣigjʌ	True	True
+4	주는	ʣunɯn	ʣunɯn	ʣunɯn	True	True
+5	것도	gʌt̚tʼo	gʌt̚tʼo	gʌt̚tʼo	True	True
+6	아니고	aɲigo	aɲigo	aɲigo	True	True

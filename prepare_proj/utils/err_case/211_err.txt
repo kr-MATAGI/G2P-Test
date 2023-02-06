@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그럴	kɯrʌɭ	gɯrʌɭ	gɯrʌɭ	False	False
+1	분이	buɲi	buɲi	buɲi	True	True
+2	계실지	gʲeɕiɭ.tzi	gʲeɕiɭ.tzi	gʲeɕiɭ.tzi	True	True
+3	모르겠지만	morɯget̚.tziman	morɯget̚.tziman	morɯget̚.tziman	True	True
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	뜻은	tʼɯsɯn	tʼɯsɯn	tʼɯsʼɯn	True	False
+6	아니라고	aɲirago	aɲirago	aɲirago	True	True
+7	생각하구요.	sɛŋgakʰagujo̞	sɛŋgakʰagujo̞	sɛŋgakʰagujo̞	True	True

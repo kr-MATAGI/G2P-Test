@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	누가	nuga	nuga	nuga	True	True
+2	만약에	maɲ.jage	maɲ.jage	maɲ.jage	True	True
+3	그런	gɯrʌ	gɯrʌn	gɯrʌn	False	False
+4	얘기	njɛgi	jɛgi	jɛgi	False	False
+5	하면	hamjʌn	hamjʌn	hamjʌn	True	True

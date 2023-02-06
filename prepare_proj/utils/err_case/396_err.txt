@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+1	과학에	gwahage	gwahage	kwahage	True	False
+2	맹목적으로	mɛŋmok̚.tzʌgɯro	mɛŋmok̚.tzʌgɯr	mɛŋmok̚.tzʌgɯr	False	False
+3	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+4	과학을	gwahagɯɭ	gwahagɯɭ	kwahagɯɭ	True	False
+5	신앙하는	ɕinaŋhanɯn	ɕinaŋhanɯn	ɕinaŋhanɯn	True	True
+6	거	gʌ	gʌ	gʌ	True	True
+7	아니냐라고	aɲiɲ.jarago	aɲiɲ.jarago	aɲiɲ.jarago	True	True

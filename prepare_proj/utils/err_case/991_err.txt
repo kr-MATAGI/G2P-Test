@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	hɛsʼɯɭ	ʌ	ʌp̚	False	False
+1	국제	tʼɛ	guk̚.tze	guk̚.tze	False	False
+2	염증	bɛk̚	jʌm.tzɯŋ	jʌm.tzɯŋ	False	False
+3	약리학	pʼune	.jaŋɲihak̚	.jaŋɲihak̚	False	False
+4	저널에	iɭ	ʣʌnʌre	t͡ɕʌnʌre	False	False
+5	실린	ʣʌŋdoro	ɕiɭʎ̟in	ɕiɭʎ̟in	False	False
+6	한	aʣu	han	han	False	False
+7	연구를	ʣʌgɯn	jʌngurɯɭ	jʌngurɯɭ	False	False
+8	보면	.jaŋman	bomjʌn	bomjʌn	False	False
+9	이	sajo̞ŋɯɭ	i	i	False	False
+10	초록입홍합에서	hɛdo	tsʰorogipʰoŋhabe	tsʰorogipʰoŋhabe	False	False
+11	추출한	jʌm.tzɯŋɯro	tsʰutsʰuɭhan	tsʰutsʰuɭhan	False	False
+12	오일은	inhan	oirɯn	oirɯn	False	False
+13	일반적으로	gwanʣʌɭ	iɭbanʣʌgɯro	iɭbanʣʌgɯro	False	False
+14	불포화지방이	buʣoŋ	buɭpʰohwaʣibaŋi	buɭpʰohwaʣibaŋi	False	False
+15	많다라고	ʌk̚.tze	mantʰarago	mat̚tʼarago	False	False
+16	하는	hjo̞gwaga	hanɯn	hanɯn	False	False
+17	다른	dʌ	darɯn	darɯn	False	False
+18	오일들과	kʰɯn	oiɭdɯɭgwa	oiɭdɯɭgwa	False	False
+19	비교를	gʌsɯro	bigjo̞rɯɭ	bigjo̞rɯɭ	False	False
+20	했을	hwagiɲi	hɛsʼɯɭ	hɛsʼɯɭ	False	False
+21	때	dwɛt̚sʼɯmɲida	tʼɛ	tʼɛ	False	False

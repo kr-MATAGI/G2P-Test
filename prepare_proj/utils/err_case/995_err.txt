@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	잘	t͡ɕaɭ	ʣaɭ	ʣaɭ	False	False
+1	넘어지는	lʌmʌʣinɯn	nʌmʌʣinɯn	nʌmʌʣinɯn	False	False
+2	연습	ɲjʌnsɯp̚	jʌnsɯp̚	jʌnsɯp̚	False	False
+3	이런	irʌn	irʌn	irʌn	True	True
+4	에쎄이를	esʼeirɯɭ	eseirɯɭ	eserirɯɭ	False	False
+5	내셨어요.	nɛsjʌsʼʌjo̞	nɛsjʌsʼʌjo̞	nɛsjʌsʼʌjo̞	True	True

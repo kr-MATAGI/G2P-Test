@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	태양예	tʰɛ.jaŋ	tʰɛ.jaŋ	tʰɛ.jaŋje	True	False
+1	태양계보다	je	tʰɛ.jaŋgʲeboda	tʰɛ.jaŋgʲeboda	False	False
+2	오히려	tʰɛ.jaŋgʲeboda	ohirjʌ	ohirjʌ	False	False
+3	더	ohirjʌ	dʌ	dʌ	False	False
+4	멀리	dʌ	mʌɭʎ̟i	mʌɭʎ̟i	False	False

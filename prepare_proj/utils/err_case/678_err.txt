@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아이	ai	ai	ai	True	True
+1	뭐~	mwʌ	mwʌ	mwʌ	True	True
+2	많은	esʌ	manɯn	manɯn	False	False
+3	분들이	manɯn	bundɯri	bundɯri	False	False
+4	너무	bundɯri	nʌmu	nʌmu	False	False
+5	좋아하시죠.	nʌmu	ʣoahaɕiʣjo̞	ʣoahaɕiʣjo̞	False	False

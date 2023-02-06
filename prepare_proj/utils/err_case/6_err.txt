@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	실록에	ɕiɭloge	ɕiɭloge	ɕiɭloge	True	True
+1	기록은	girogɯn	girogɯn	kirogɯn	True	False
+2	날짜가	naɭ.tzaga	naɭ.tzaga	naɭ.tzaga	True	True
+3	딱	tʼaŋ	tʼak̚	tʼak̚	False	False
+4	나옵니다.	naomɲida	naomɲida	naomɲida	True	True

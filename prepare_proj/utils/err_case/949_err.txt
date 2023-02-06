@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+1	계속	gʲesok̚	gʲesok̚	gʲesok̚	True	True
+2	논쟁은	nonʣɛŋɯn	nonʣɛŋɯn	nonʣɛŋɯn	True	True
+3	되고	dwego	dwego	dwego	True	True
+4	있지만	it̚.tziman	it̚.tziman	it̚.tziman	True	True
+5	현재는	hjʌnʣɛnɯn	hjʌnʣɛnɯn	hjʌnʣɛnɯn	True	True
+6	거의	gʌe	gʌe	gʌe	True	True
+7	합의가	habiga	habiga	habiga	True	True
+8	이루어진	iruʌʣin	iruʌʣin	iruʌʣin	True	True
+9	상태라	saŋtʰɛra	saŋtʰɛra	saŋtʰɛra	True	True
+10	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+11	이	i	i	i	True	True
+12	합의에	habie	habie	habee	True	False
+13	증거	ʣɯŋgʌ	ʣɯŋgʌ	.tzɯŋgʌ	True	False
+14	중에	ʣuŋe	ʣuŋe	ʣuŋe	True	True
+15	하나가	hanaga	hanaga	hanaga	True	True
+16	그~	gɯ	gɯ	gɯp̚	True	False
+17	구십칠년에	esʌ	guɕip̚tsʰiɭʎ̟	guɕip̚tsʰiɭʎ̟	False	False
+18	있었던	guɕip̚tsʰiɭ	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	False	False
+19	교토의정서	ɲjʌne	gjo̞tʰoiʣʌŋsʌ	kjo̞tʰoeʣʌŋsʌ	False	False

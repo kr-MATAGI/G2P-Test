@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	문인화가	muɲinhwaga	muɲinhwaga	muɲinhwaga	True	True
+1	대세이던	dɛseidʌn	dɛseidʌn	tɛseidʌn	True	False
+2	화단에는	hwadanenɯn	hwadanenɯn	hwadanenɯn	True	True
+3	서민의	sʌmine	sʌmine	sʌmine	True	True
+4	삶	sam	sam	saɭ	True	False
+5	생활	sɛŋhwaɭ	sɛŋhwaɭ	sɛŋhwaɭ	True	True
+6	주변	.tzubjʌn	ʣubjʌn	ʣubjʌn	False	False
+7	동물	doŋmuɭ	doŋmuɭ	toŋmuɭ	True	False
+8	과일과	gwaiɭgwa	gwaiɭgwa	kwaiɭgwa	True	False
+9	같이	gatsʰi	gatsʰi	gatsʰi	True	True
+10	일상적인	iɭsʼaŋʣʌgin	iɭsʼaŋʣʌgin	iɭsʼaŋʣʌgin	True	True
+11	그림	gɯrim	gɯrim	gɯrim	True	True
+12	풍속화가	pʰuŋsokʰwaga	pʰuŋsokʰwaga	pʰuŋsokʰwaga	True	True
+13	등장합니다.	dɯŋ.tzaŋhamɲida	dɯŋ.tzaŋhamɲida	dɯŋʣaŋhamɲida	True	False

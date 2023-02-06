@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저자는	t͡ɕʌʣanɯn	ʣʌʣanɯn	ʣʌʣanɯn	False	False
+1	이를	irɯɭ	irɯɭ	irɯɭ	True	True
+2	토대로	tʰodɛro	tʰodɛro	tʰodɛro	True	True
+3	인생	insɛŋ	insɛŋ	insɛŋ	True	True
+4	목표	mok̚pʰjo̞	mok̚pʰjo̞	mok̚pʰjo̞	True	True
+5	역산	jʌk̚sʼan	jʌk̚sʼan	jʌk̚sʼan	True	True
+6	계획	gʲehwek̚	gʲehwek̚	gʲehwek̚	True	True
+7	등	tʼɯŋ	dɯŋ	dɯŋ	False	False
+8	인생에	insɛŋe	insɛŋe	insɛŋe	True	True
+9	변화를	bjʌnhwarɯɭ	bjʌnhwarɯɭ	pjʌnhwarɯɭ	True	False
+10	일으키도록	irɯkʰidorok̚	irɯkʰidorok̚	irɯkʰidorok̚	True	True
+11	돕는	domnɯn	domnɯn	tomnɯn	True	False
+12	열다섯	jʌɭdasʌt̚	jʌɭdasʌt̚	jʌɭtʼasʌt̚	True	False
+13	가지	kʼaʣi	gaʣi	gaʣi	False	False
+14	지렛대를	ʣiretʼɛrɯɭ	ʣiretʼɛrɯɭ	.tziret̚tʼɛrɯɭ	True	False
+15	소개하고	sogɛhago	sogɛhago	sogɛhago	True	True
+16	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

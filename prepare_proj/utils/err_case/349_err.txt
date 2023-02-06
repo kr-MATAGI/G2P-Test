@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	소년이라는	soɲjʌɲiranɯn	soɲjʌɲiranɯn	soɲjʌɲiranɯn	True	True
+1	이	i	i	i	True	True
+2	열세	jʌɭsʼe	jʌɭsʼe	jʌɭsʼe	True	True
+3	살짜리	saɭ.tzari	saɭ.tzari	saɭ.tzari	True	True
+4	아이의	aie	aie	aie	True	True
+5	화석이	hwasʌŋɲi	hwasʌŋɲi	hwasʌgi	True	False
+6	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+7	최	tsʰwe	tsʰwe	tsʰwe	True	True
+8	최초	tsʰwetsʰo	tsʰwetsʰo	tsʰwetsʰo	True	True
+9	아니면	aɲimjʌn	aɲimjʌn	aɲimjʌn	True	True
+10	초기	tsʰogi	tsʰogi	tsʰogi	True	True
+11	호모	homo	homo	homo	True	True
+12	에릭투스의	erik̚	erik̚tʰusɯe	erik̚tʰusɯe	False	False
+13	화석	tʰu	hwasʌk̚	hwasʌk̚	False	False
+14	중에	sɯi	ʣuŋe	ʣuŋe	False	False
+15	하나입니다.	hwasʌk̚	hanaimɲida	hanaimɲida	False	False

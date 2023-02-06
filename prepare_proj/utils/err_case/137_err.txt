@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	왜	wɛ	wɛ	wɛ	True	True
+1	그런지에	gɯrʌnʣie	kɯrʌnʣie	gɯrʌnʣie	False	True
+2	대해서	dɛhɛsʌ	dɛhɛsʌ	dɛhɛsʌ	True	True
+3	사	sa	sa	sa	True	True
+4	아직	aʣik̚	aʣik̚	aʣik̚	True	True
+5	뭐	mwʌ	mwʌ	mwʌ	True	True
+6	대화를	dɛhwarɯɭ	dɛhwarɯɭ	dɛhwarɯɭ	True	True
+7	나눠도	nanwʌdo	nanwʌdo	nanwʌdo	True	True
+8	재밌을	ʣɛmisʼɯɭ	ʣɛmisʼɯɭ	ʣɛmisʼɯɭ	True	True
+9	겁니다.	gʌmɲida	gʌmɲida	gʌmɲida	True	True

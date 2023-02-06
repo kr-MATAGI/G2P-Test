@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	천구백십오년이니까	tsʰʌngubɛk̚ɕʼiboɲjʌɲiɲikʼa	tsʰʌngubɛk̚ɕʼ	tsʰʌngubɛk̚ɕʼ	False	False
+1	이	i	i	i	True	True
+2	내후변이면	nɛhubjʌɲimjʌn	nɛhubjʌɲimjʌn	nɛhubjʌɲimjʌn	True	True
+3	뱅	bɛŋ	bɛŋ	pɛŋ	True	False
+4	백주년입니다.	bɛk̚	bɛk̚.tzuɲjʌɲim	pɛk̚.tzuɲjʌɲim	False	False

@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	도산	tosan	dosan	dosan	False	False
+1	안창호	antsʰaŋho	antsʰaŋho	antsʰaŋho	True	True
+2	선생님이	sʌnsɛŋɲimi	sʌnsɛŋɲimi	sʌnsɛŋɲimi	True	True
+3	세상	sesaŋ	sesaŋ	sesaŋ	True	True
+4	떠나기	tʼʌnagi	tʼʌnagi	tʼʌnagi	True	True
+5	몇	mjʌt̚	mjʌt̚	mjʌt̚	True	True
+6	달	tʼaɭ	daɭ	daɭ	False	False
+7	전에	ʣʌne	ʣʌne	ʣʌne	True	True
+8	내가	nɛga	nɛga	nɛga	True	True
+9	마지막	maʣimak̚	maʣimak̚	maʣimak̚	True	True
+10	강연을	gaŋjʌnɯɭ	gaŋjʌnɯɭ	gaŋjʌnɯɭ	True	True
+11	들었다	dɯrʌt̚tʼa	dɯrʌt̚tʼa	dɯrʌt̚tʼa	True	True
+12	하면	hamjʌn	hamjʌn	hamjʌn	True	True
+13	열일곱	jʌriɭgop̚	jʌriɭgop̚	jʌriɭgop̚	True	True
+14	살	saɭ	saɭ	saɭ	True	True
+15	때라	tʼɛra	tʼɛra	tʼɛra	True	True
+16	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+17	아	a	a	a	True	True
+18	그랬구나	gɯrɛt̚kʼuna	gɯrɛt̚kʼuna	gɯrɛt̚kʼuna	True	True

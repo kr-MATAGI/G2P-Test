@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	라는	ranɯn	ranɯn	ranɯn	True	True
+1	학설이	hak̚sʼʌri	hak̚sʼʌri	hak̚sʼʌri	True	True
+2	있다라는	it̚tʼaranɯn	it̚tʼaranɯn	it̚tʼaranɯn	True	True
+3	얘기를	jɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	True	True
+4	한스리스라는	han	hansɯrisɯranɯn	hansɯrisɯranɯn	False	False
+5	사람이	sɯrisɯ	sarami	sarami	False	False
+6	얘기를	ranɯn	jɛgirɯɭ	jɛgirɯɭ	False	False
+7	해줬는데	sarami	hɛʣwʌnnɯnde	hɛʣwʌnnɯnde	False	False
+8	처음	jɛgirɯɭ	tsʰʌɯm	tsʰʌɯm	False	False
+9	그	hɛʣwʌnnɯnde	gɯ	gɯ	False	False
+10	이야기를	tsʰʌɯm	i.jagirɯɭ	i.jagirɯɭ	False	False
+11	들은	gɯ	dɯrɯn	dɯrɯn	False	False
+12	후에	i.jagirɯɭ	hue	hue	False	False
+13	거기에서	dɯrɯn	gʌgiesʌ	gʌgiesʌ	False	False
+14	빠져가지고	hue	pʼaʣʌgaʣigo	pʼaʣʌgaʣigo	False	False
+15	헤어	gʌgiesʌ	heʌ	heʌ	False	False
+16	나올	pʼaʣʌgaʣigo	naoɭ	naoɭ	False	False
+17	수	heʌ	su	su	False	False
+18	없었다라고	naoɭ	ʌp̚sʼʌt̚tʼara	ʌp̚sʼʌt̚tʼara	False	False
+19	얘기해	su	jɛgihɛ	jɛgihɛ	False	False

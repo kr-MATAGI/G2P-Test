@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	진짜	ʣin.tza	ʣin.tza	ʣin.tza	True	True
+2	코딩을	kʰodiŋɯɭ	kʰodiŋɯɭ	kʰodiŋɯɭ	True	True
+3	배우는	bɛunɯ	bɛunɯn	pɛunɯn	False	False
+4	아마	nama	ama	ama	False	False
+5	여덟	jʌdʌɭ	jʌdʌɭ	jʌdʌɭ	True	True
+6	번에	bʌne	bʌne	bʌne	True	True
+7	달하는	daɭhanɯn	daɭhanɯn	daɭhanɯn	True	True
+8	강의를	gaŋirɯɭ	gaŋirɯɭ	gaŋirɯɭ	True	True
+9	만들	mandɯɭ	mandɯɭ	mandɯɭ	True	True
+10	것이고	gʌɕigo	gʌɕigo	gʌɕigo	True	True
+11	강의는	gaŋinɯn	gaŋinɯn	gaŋinɯn	True	True
+12	물론	muɭlon	muɭlon	muɭlon	True	True
+13	박준석	bak̚.tzunsʌk̚	bak̚.tzunsʌk̚	pak̚.tzunsʌk̚	True	False
+14	선생님이	sʌnsɛŋɲimi	sʌnsɛŋɲimi	sʌnsɛŋɲimi	True	True
+15	해주십니다.	hɛʣuɕimɲida	hɛʣuɕimɲida	hɛʣuɕimɲida	True	True

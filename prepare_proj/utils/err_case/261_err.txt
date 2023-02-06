@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	에~	e	e	eepʼa	True	False
+1	물론	esʌ	muɭlon	muɭlon	False	False
+2	이~	muɭlon	i	ip̚	False	False
+3	생각의	i	sɛŋgage	sɛŋgage	False	False
+4	관점은	esʌ	gwanʣʌmɯn	kwanʣʌmɯn	False	False

@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	직접	ʣik̚.tzʌp̚	ʣik̚.tzʌp̚	ʣik̚.tzʌp̚	True	True
+2	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+3	주제를	ʣuʣerɯɭ	ʣuʣerɯɭ	ʣuʣerɯɭ	True	True
+4	정해서	ʣʌŋhɛsʌ	ʣʌŋhɛsʌ	.tzʌŋhɛsʌ	True	False
+5	특별하게	tʰɯk̚pʼjʌɭhage	tʰɯk̚pʼjʌɭhag	tʰɯk̚pʼjʌɭhag	False	False
+6	즐기시는	ʣɯɭgiɕinɯn	ʣɯɭgiɕinɯn	.tzɯɭgiɕinɯn	True	False
+7	분들도	bundɯɭdo	bundɯɭdo	bundɯɭdo	True	True
+8	계실	gʲeɕiɭ	gʲeɕiɭ	gʲeɕiɭ	True	True
+9	것	gʌt̚	gʌt̚	gʌt̚	True	True
+10	같고요.	gat̚kʼojo̞	gat̚kʼojo̞	gat̚kʼojo̞	True	True

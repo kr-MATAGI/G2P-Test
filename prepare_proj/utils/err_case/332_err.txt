@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	표제작	pʰjo̞ʣeʣak̚	pʰjo̞ʣeʣak̚	pʰjo̞ʣeʣak̚	True	True
+1	트로야의	tʰɯro.jae	tʰɯro.jae	tʰɯro.jai	True	False
+2	빌라는	biɭlanɯn	biɭlanɯn	piɭlanɯn	True	False
+3	전쟁의	ʣʌnʣɛŋe	ʣʌnʣɛŋe	ʣʌnʣɛŋe	True	True
+4	상처를	saŋtsʰʌrɯɭ	saŋtsʰʌrɯɭ	saŋtsʰʌrɯɭ	True	True
+5	에잔하게	e	e	eʣanhage	True	False
+6	그려낸	ʣanhage	gɯrjʌnɛn	gɯrjʌnɛn	False	False
+7	소설입니다.	gɯrjʌnɛn	sosʌrimɲida	sosʌrimɲida	False	False

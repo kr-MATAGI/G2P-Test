@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	관점을	gwanʣʌmɯɭ	gwanʣʌmɯɭ	kwanʣʌmɯɭ	True	False
+2	그대로	gɯdɛro	gɯdɛro	gɯdɛro	True	True
+3	우주로	uʣuro	uʣuro	uʣuro	True	True
+4	확대를	hwak̚tʼɛrɯɭ	hwak̚tʼɛrɯɭ	hwak̚tʼɛrɯɭ	True	True
+5	하자는	haʣanɯn	haʣanɯn	haʣanɯn	True	True
+6	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

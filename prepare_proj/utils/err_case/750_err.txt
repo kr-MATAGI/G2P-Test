@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+1	들어서	dɯrʌsʌ	dɯrʌsʌ	dɯrʌsʌ	True	True
+2	뭐~	mwʌ	mwʌ	mwʌ	True	True
+3	넷째가	esʌ	net̚.tzɛga	net̚.tzɛga	False	False
+4	뭐~	net̚.tzɛga	mwʌ	mwʌ	False	False
+5	상업에	mwʌ	saŋʌbe	saŋʌbe	False	False
+6	이런	esʌ	irʌn	irʌn	False	False
+7	돈	saŋʌbe	don	ton	False	False
+8	계산	irʌn	gʲesan	gʲesan	False	False
+9	하는	don	hanɯn	hanɯn	False	False
+10	이런	gʲesan	irʌn	irʌn	False	False
+11	데는	hanɯn	denɯn	tenɯn	False	False
+12	재	irʌn	ʣɛ	ʣɛ	False	False
+13	쫌	denɯn	.tzom	.tzom	False	False
+14	재능이	ʣɛ	ʣɛnɯŋi	ʣɛnɯŋi	False	False
+15	많은	.tzom	manɯn	manɯn	False	False
+16	거	ʣɛnɯŋi	gʌ	gʌ	False	False
+17	같으니까	manɯn	gatʰɯɲikʼa	gatʰɯɲikʼa	False	False
+18	경제은	gʌ	gjʌŋʣeɯn	kjʌŋʣeɯn	False	False
+19	넷째한테	gatʰɯɲikʼa	net̚.tzɛhantʰe	net̚.tzɛhantʰe	False	False
+20	물려주고	gjʌŋʣeɯn	muɭʎ̟jʌʣugo	muɭʎ̟jʌʣugo	False	False

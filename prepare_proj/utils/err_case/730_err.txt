@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	음~	ɯm	ɯm	ɯm	True	True
+2	남베트남	esʌ	nambetʰɯnam	nambetʰɯnam	False	False
+3	당시	nambetʰɯnam	daŋɕi	daŋɕi	False	False
+4	하원에	daŋɕi	hawʌne	hawʌne	False	False
+5	의	hawʌne	ɰi	ɰi	False	False
+6	의회에다가	ɰi	ɰihweedaga	ɰihweedaga	False	False
+7	아~	ɰihweedaga	a	ak̚	False	False
+8	그~	a	gɯ	gɯp̚	False	False
+9	청원서를	esʌ	tsʰʌŋwʌnsʌrɯ	tsʰʌŋwʌnsʌrɯ	False	False
+10	내기도	gɯ	nɛgido	nɛgido	False	False
+11	하고	esʌ	hago	hago	False	False
+12	왜	tsʰʌŋwʌnsʌrɯɭ	wɛ	wɛ	False	False
+13	우리	nɛgido	uri	uri	False	False
+14	동맹군이	hago	doŋmɛŋguɲi	toŋmɛŋguɲi	False	False
+15	왜	wɛ	wɛ	wɛ	True	True
+16	우리	uri	uri	uri	True	True
+17	가족들을	doŋmɛŋguɲi	gaʣok̚tʼɯrɯɭ	kaʣok̚tʼɯrɯɭ	False	False
+18	죽였느냐	wɛ	ʣugjʌnnɯɲ.ja	ʣugjʌnnɯɲ.ja	False	False
+19	라고	uri	rago	rago	False	False
+20	항의하기도	gaʣok̚tʼɯrɯɭ	haŋihagido	haŋehagido	False	False
+21	하고요.	ʣugjʌnnɯɲ.ja	hagojo̞	hagojo̞	False	False

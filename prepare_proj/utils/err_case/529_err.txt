@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	특히	tʰɯkʰi	tʰɯkʰi	tʰɯkʰi	True	True
+1	자메이카도	ʣameikʰado	ʣameikʰado	t͡ɕameikʰado	True	False
+2	그	gɯ	gɯ	gɯ	True	True
+3	노예	noje	noje	noje	True	True
+4	무역의	mujʌge	mujʌge	mujʌge	True	True
+5	거대한	gʌdɛhan	gʌdɛhan	gʌdɛhan	True	True
+6	시장이었다고	ɕiʣaŋiʌt̚tʼago	ɕiʣaŋiʌt̚tʼag	ɕiʣaŋiʌt̚tʼa	False	False
+7	합니다.	hamɲida	hamɲida	hamɲida	True	True

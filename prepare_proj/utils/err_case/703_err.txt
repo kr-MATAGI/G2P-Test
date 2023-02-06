@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	이를테면	irɯɭtʰemjʌ	irɯɭtʰemjʌn	irɯɭtʰemjʌn	False	False
+2	우리가	nuriga	uriga	uriga	False	False
+3	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+4	알고	aɭgo	aɭgo	aɭgo	True	True
+5	있는	innɯn	innɯn	innɯn	True	True
+6	자음에	ʣaɯme	ʣaɯme	.tzaɯme	True	False

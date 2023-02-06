@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	에	e	e	e	True	True
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	끝나는	esʌ	kʼɯnnanɯn	kʼɯnnanɯn	False	False
+4	지점에	kʼɯnnanɯn	ʣiʣʌme	ʣiʣʌme	False	False
+5	천구백구십구년	ʣiʣʌme	tsʰʌngubɛk̚kʼu	tsʰʌngubɛk̚kʼu	False	False

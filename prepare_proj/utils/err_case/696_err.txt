@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	상대성	saŋdɛsʼʌŋ	saŋdɛsʼʌŋ	saŋdɛsʼʌŋ	True	True
+1	이론	ɲiron	ɲiron	iron	True	False
+2	나오고	naogo	naogo	naogo	True	True
+3	직후에는	ʣikʰuenɯn	ʣikʰuenɯn	ʣikʰuenɯn	True	True
+4	세상에	sesaŋe	sesaŋe	sesaŋe	True	True
+5	상대성	saŋdɛsʼʌŋ	saŋdɛsʼʌŋ	saŋdɛsʼʌŋ	True	True
+6	이론을	ɲironɯɭ	ɲironɯɭ	ironɯɭ	True	False
+7	이해하는	ihɛhanɯn	ihɛhanɯn	ihɛhanɯn	True	True
+8	사람은	saramɯn	saramɯn	saramɯn	True	True
+9	세	se	se	se	True	True
+10	사람	saram	saram	saram	True	True
+11	밖에	bakʼe	bakʼe	pakʼe	True	False
+12	없다	ʌp̚tʼa	ʌp̚tʼa	ʌp̚tʼa	True	True
+13	이런	irʌn	irʌn	irʌn	True	True
+14	얘기도	jɛgido	jɛgido	jɛgido	True	True
+15	있었거든요.	isʼʌt̚kʼʌdɯɲjo̞	isʼʌt̚kʼʌdɯɲ	isʼʌt̚kʼʌdɯɲ	False	False

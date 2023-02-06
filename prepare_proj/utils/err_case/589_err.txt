@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	아까	akʼa	akʼa	akʼa	True	True
+2	팽팽하다는	pʰɛŋpʰɛŋhadanɯn	pʰɛŋpʰɛŋhadan	pʰɛŋpʰɛŋhadan	False	False
+3	것도	gʌt̚tʼo	gʌt̚tʼo	gʌt̚tʼo	True	True
+4	최	tsʰwe	tsʰwe	tsʰwe	True	True
+5	팀장님이	tʰimʣaŋɲimi	tʰimʣaŋɲimi	tʰimʣaŋɲimi	True	True
+6	질문하신게	ʣiɭmunhaɕin	ʣiɭmunhaɕin	.tziɭmunhaɕinge	True	False
+7	딱	ge	tʼak̚	tʼak̚	False	False
+8	그거였어요.	tʼak̚	gɯgʌjʌsʼʌjo̞	kɯgʌjʌsʼʌjo̞	False	False

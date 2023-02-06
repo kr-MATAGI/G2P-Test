@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런데	kɯrʌntʼe	kɯrʌntʼe	gɯrʌntʼe	True	False
+1	최근	tsʰwegɯn	tsʰwegɯn	tsʰwegɯn	True	True
+2	그녀가	gɯɲjʌga	gɯɲjʌga	gɯɲjʌga	True	True
+3	또	tʼo	tʼo	tʼo	True	True
+4	다른	darɯn	darɯn	darɯn	True	True
+5	동네를	doŋnerɯɭ	doŋnerɯɭ	toŋnerɯɭ	True	False
+6	주목하기	ʣumokʰagi	ʣumokʰagi	ʣumokʰagi	True	True
+7	시작했습니다.	ɕiʣakʰɛt̚sʼɯmɲida	ɕiʣakʰɛt̚sʼɯ	ɕiʣakʰɛt̚sʼɯ	False	False

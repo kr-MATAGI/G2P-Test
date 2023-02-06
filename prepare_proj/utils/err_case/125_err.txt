@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	약지가	.jak̚.tziga	.jak̚.tziga	.jak̚.tziga	True	True
+2	검지보다	gʌmʣiboda	gʌmʣiboda	gʌmʣiboda	True	True
+3	긴	gin	gin	gin	True	True
+4	분은	bunɯn	bunɯn	bunɯn	True	True
+5	남성	namsʌŋ	namsʌŋ	namsʼʌŋ	True	False
+6	호르몬	horɯmon	horɯmon	horɯmon	True	True
+7	우세	use	use	use	True	True
+8	형으로	hjʌŋɯro	hjʌŋɯro	hjʌŋɯro	True	True
+9	남성적인	namsʌŋʣʌgin	namsʌŋʣʌgin	namsʌŋʣʌgin	True	True
+10	성향이	sʌŋh.jaŋi	sʌŋh.jaŋi	sʌŋh.jaŋi	True	True
+11	좀	ʣom	ʣom	ʣom	True	True
+12	있다고도	ɲit̚tʼagodo	it̚tʼagodo	it̚tʼagodo	False	False
+13	볼	boɭ	boɭ	boɭ	True	True
+14	수	su	su	su	True	True
+15	있고	it̚kʼo	it̚kʼo	it̚kʼo	True	True
+16	질병	ʣiɭbjʌŋ	ʣiɭbjʌŋ	.tziɭbjʌŋ	True	False
+17	중에서도	ʣuŋesʌdo	ʣuŋesʌdo	ʣuŋesʌdo	True	True
+18	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+19	통풍이나	tʰoŋpʰuŋina	tʰoŋpʰuŋina	tʰoŋpʰuŋina	True	True
+20	관절염에	gwanʣʌɭʎ̟jʌme	gwanʣʌɭʎ̟jʌme	kwanʣʌrjʌme	True	False
+21	대한	dɛhan	dɛhan	dɛhan	True	True
+22	조심을	ʣoɕimɯɭ	ʣoɕimɯɭ	ʣoɕimɯɭ	True	True
+23	하셔야	hasjʌ.ja	hasjʌ.ja	hasjʌ.ja	True	True
+24	합니다.	hamɲida	hamɲida	hamɲida	True	True

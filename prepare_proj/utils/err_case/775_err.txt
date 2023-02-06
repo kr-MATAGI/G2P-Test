@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그냥	kɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	False	False
+1	과학자들이	gwahak̚.tzadɯri	gwahak̚.tzadɯri	kwahak̚.tzadɯri	True	False
+2	그렇게	gɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	True	True
+3	생각할진	sɛŋgakʰaɭ.tzin	sɛŋgakʰaɭ.tzin	sɛŋgakʰaɭʣin	True	False
+4	모르지만	morɯʣiman	morɯʣiman	morɯʣiman	True	True
+5	인제	ɲinʣe	inʣe	inʣe	False	False
+6	대중들은	dɛʣuŋdɯrɯn	dɛʣuŋdɯrɯn	tɛʣuŋdɯrɯn	True	False

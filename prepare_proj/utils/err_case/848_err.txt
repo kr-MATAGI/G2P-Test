@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+2	들어서요	dɯrʌsʌjo̞	dɯrʌsʌjo̞	dɯrʌsʌjo̞	True	True
+3	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+4	이제	iʣe	iʣe	iʣe	True	True
+5	그~	gɯ	gɯ	gɯp̚	True	False
+6	뭐	esʌ	mwʌ	mwʌ	False	False
+7	상대성	mwʌ	saŋdɛsʼʌŋ	saŋdɛsʼʌŋ	False	False
+8	이론의	saŋdɛsʼʌŋ	ɲirone	irone	False	False
+9	이	ɲirone	i	i	False	False
+10	나온후에도	i	naonhuedo	naonhuedo	False	False
+11	뉴튼	naon	ɲjutʰɯn	ɲjutʰɯn	False	False
+12	역학에	huedo	jʌkʰage	jʌkʰage	False	False
+13	움직임을	ɲjutʰɯn	umʣigimɯɭ	umʣigimɯɭ	False	False
+14	상대성	jʌkʰage	saŋdɛsʼʌŋ	saŋdɛsʼʌŋ	False	False
+15	이론으로	umʣigimɯɭ	ɲironɯro	ironɯro	False	False
+16	설명을	saŋdɛsʼʌŋ	sʌɭmjʌŋɯɭ	sʌɭmjʌŋɯɭ	False	False
+17	할	ɲironɯro	haɭ	haɭ	False	False
+18	수도	sʌɭmjʌŋɯɭ	sudo	sudo	False	False
+19	있잖아요.	haɭ	it̚.tzanajo̞	it̚.tzanajo̞	False	False

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	행복한	hɛŋbokʰan	hɛŋbokʰan	hɛŋbokʰan	True	True
+1	삶에	saɭme	saɭme	saɭme	True	True
+2	도움이	doumi	doumi	doumi	True	True
+3	되는가를	dwenɯngarɯɭ	dwenɯngarɯɭ	dwenɯngarɯɭ	True	True
+4	설명할	sʼʌɭmjʌŋhaɭ	sʌɭmjʌŋhaɭ	sʌɭmjʌŋhaɭ	False	False
+5	수	su	su	su	True	True
+6	있는	innɯn	innɯn	innɯn	True	True
+7	부분이긴	bubuɲigin	bubuɲigin	bubuɲigin	True	True
+8	하죠.	haʣjo̞	haʣjo̞	haʣjo̞	True	True

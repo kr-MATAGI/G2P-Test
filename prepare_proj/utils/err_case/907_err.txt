@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그걸	kɯgʌɭ	gɯgʌɭ	gɯgʌɭ	False	False
+1	보면서	bomjʌnsʌ	bomjʌnsʌ	bomjʌnsʌ	True	True
+2	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+3	약간	ɲ.jak̚kʼan	.jak̚kʼan	.jak̚kʼan	False	False
+4	위안도	wiando	wiando	wiando	True	True
+5	받고	bat̚kʼo	bat̚kʼo	pat̚kʼo	True	False
+6	그렇습니다.	gɯrʌsʼɯmɲida	gɯrʌsʼɯmɲida	kɯrʌtsʰɯmɲida	True	False

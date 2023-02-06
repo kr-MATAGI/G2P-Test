@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	가진	kaʣin	gaʣin	gaʣin	False	False
+1	부로	buro	buro	buro	True	True
+2	인해서	inhɛsʌ	inhɛsʌ	inhɛsʌ	True	True
+3	내	nɛ	nɛ	nɛ	True	True
+4	행복이	hɛŋbogi	hɛŋbogi	hɛŋbogi	True	True
+5	결정되는	gjʌɭ.tzʌŋdwenɯn	gjʌɭ.tzʌŋdwenɯ	kjʌɭ.tzʌŋdwenɯ	False	False
+6	아~	a	a	ak̚	True	False
+7	이러한	esʌ	irʌhan	irʌhan	False	False
+8	패배감	irʌhan	pʰɛbɛgam	pʰɛbɛgam	False	False
+9	같은	pʰɛbɛgam	gatʰɯn	gatʰɯn	False	False
+10	것들을	gatʰɯn	gʌt̚tʼɯrɯɭ	kʌt̚tʼɯrɯɭ	False	False
+11	아~	gʌt̚tʼɯrɯɭ	a	ak̚	False	False
+12	이런	a	irʌn	irʌn	False	False
+13	용어로	esʌ	jo̞ŋʌro	jo̞ŋʌro	False	False
+14	만들어낸	irʌn	mandɯrʌnɛn	mandɯrʌnɛn	False	False
+15	게	jo̞ŋʌro	ge	ge	False	False
+16	아닌가	mandɯrʌnɛn	aɲinga	aɲinga	False	False
+17	싶어요.	ge	ɕipʰʌjo̞	ɕipʰʌjo̞	False	False

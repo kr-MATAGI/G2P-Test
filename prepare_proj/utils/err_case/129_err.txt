@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	강한	gaŋhan	gaŋhan	gaŋhan	True	True
+2	전파가	ʣʌnpʰaga	ʣʌnpʰaga	ʣʌnpʰaga	True	True
+3	그~	gɯ	gɯ	gɯp̚	True	False
+4	우주선을	esʌ	uʣusʌnɯɭ	uʣusʌnɯɭ	False	False
+5	가속하기	uʣusʌnɯɭ	gasokʰagi	gasokʰagi	False	False
+6	위해서	gasokʰagi	wihɛsʌ	wihɛsʌ	False	False

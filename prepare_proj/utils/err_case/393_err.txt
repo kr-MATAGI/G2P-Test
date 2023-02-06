@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	예.	esʌ	je	je	False	False
+2	그렇게	je	gɯrʌkʰe	gɯrʌkʰe	False	False
+3	해서	gɯrʌkʰe	hɛsʌ	hɛsʌ	False	False
+4	이제	hɛsʌ	iʣe	iʣe	False	False
+5	갈	iʣe	gaɭ	gaɭ	False	False
+6	수	gaɭ	su	su	False	False
+7	있었던	su	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	False	False
+8	거	isʼʌt̚tʼʌn	gʌ	gʌ	False	False
+9	같아요.	gʌ	gatʰajo̞	gatʰajo̞	False	False

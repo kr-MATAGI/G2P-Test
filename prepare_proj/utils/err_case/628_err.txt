@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+1	이	i	i	i	True	True
+2	시를	ɕirɯɭ	ɕirɯɭ	ɕirɯɭ	True	True
+3	읽어주시는	iɭgʌʣuɕinɯn	iɭgʌʣuɕinɯn	iɭgʌʣuɕinɯn	True	True
+4	것	gʌt̚	gʌt̚	gʌt̚	True	True
+5	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+6	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+7	이	i	i	i	True	True
+8	프랑스	pʰɯraŋsɯ	pʰɯraŋsɯ	pʰɯraŋsɯ	True	True
+9	혁명사	hjʌŋmjʌŋsa	hjʌŋmjʌŋsa	hjʌŋmjʌŋsa	True	True
+10	십	ɕip̚	ɕip̚	ɕip̚	True	True
+11	부작이	pʼuʣagi	buʣagi	buʣagi	False	False
+12	주	ʣu	ʣu	ʣu	True	True
+13	교수님에	gjo̞suɲime	gjo̞suɲime	gjo̞suɲime	True	True
+14	책이	tsʰɛgi	tsʰɛgi	tsʰɛgi	True	True
+15	또	tʼo	tʼo	tʼo	True	True
+16	다른	darɯn	darɯn	darɯn	True	True
+17	각도로	gak̚tʼoro	gak̚tʼoro	gak̚tʼoro	True	True
+18	이해가	ihɛga	ihɛga	ihɛga	True	True
+19	되기도	dwegido	dwegido	dwegido	True	True
+20	했습니다.	hɛt̚sʼɯmɲida	hɛt̚sʼɯmɲida	hɛt̚sʼɯmɲida	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	가루를	karurɯɭ	garurɯɭ	karurɯɭ	False	True
+1	뿜어내서	pʼumʌnɛsʌ	pʼumʌnɛsʌ	pʼumʌnɛsʌ	True	True
+2	빚어낼	biʣʌnɛɭ	biʣʌnɛɭ	pitsʰʌnɛɭ	True	False
+3	수	su	su	su	True	True
+4	있다라는	it̚tʼaranɯn	it̚tʼaranɯn	it̚tʼaranɯn	True	True

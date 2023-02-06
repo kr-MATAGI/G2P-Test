@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐~	mwʌ	mwʌ	mwʌ	True	True
+1	디테일은	esʌ	ditʰeirɯn	ditʰeirɯn	False	False
+2	모르셔도	ditʰeirɯn	morɯsjʌdo	morɯsjʌdo	False	False
+3	되고	morɯsjʌdo	dwego	dwego	False	False
+4	그래서	dwego	kɯrɛsʌ	gɯrɛsʌ	False	False
+5	어떻게	gɯrɛsʌ	ʌtʼʌkʰe	ʌtʼʌkʰe	False	False
+6	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+7	더하든지	ʌtʼʌkʰe	dʌhadɯnʣi	dʌhadɯnʣi	False	False
+8	간에	dʌhadɯnʣi	gane	gane	False	False
+9	어떻게	gane	ʌtʼʌkʰe	ʌtʼʌkʰe	False	False
+10	조합을	ʌtʼʌkʰe	ʣohabɯɭ	ʣohabɯɭ	False	False
+11	해도	ʣohabɯɭ	hɛdo	hɛdo	False	False
+12	광속을	hɛdo	gwaŋsogɯɭ	kwaŋsogɯɭ	False	False
+13	넘어서는	gwaŋsogɯɭ	nʌmʌsʌnɯn	nʌmʌsʌnɯn	False	False
+14	속도를	nʌmʌsʌnɯn	sok̚tʼorɯɭ	sok̚tʼorɯɭ	False	False
+15	만들	sok̚tʼorɯɭ	mandɯɭ	mandɯɭ	False	False
+16	수가	mandɯɭ	suga	suga	False	False
+17	없어요.	suga	ʌp̚sʼʌjo̞	ʌp̚sʼʌjo̞	False	False

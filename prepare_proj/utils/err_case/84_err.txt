@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	게시판을	keɕipʰanɯɭ	geɕipʰanɯɭ	keɕipʰanɯɭ	False	True
+1	통해서	tʰoŋhɛsʌ	tʰoŋhɛsʌ	tʰoŋhɛsʌ	True	True
+2	고민	gomin	gomin	gomin	True	True
+3	사연을	sajʌnɯɭ	sajʌnɯɭ	sajʌnɯɭ	True	True
+4	남겨주시면	namgjʌʣuɕimjʌn	namgjʌʣuɕimjʌn	namgjʌʣuɕimjʌn	True	True
+5	됩니다.	dwemɲida	dwemɲida	dwemɲida	True	True

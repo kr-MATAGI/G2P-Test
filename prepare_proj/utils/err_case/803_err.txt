@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	티라노사우노스가	tʰirano	tʰiranosaunosɯga	tʰiranosaunosɯga	False	False
+1	확실히	sau	hwak̚ɕʼiɭhi	hwak̚ɕʼiɭhi	False	False
+2	먹은	no	mʌgɯn	mʌgɯn	False	False
+3	거죠	sɯga	gʌʣjo̞	gʌʣjo̞	False	False
+4	심지어는	hwak̚ɕʼiɭhi	ɕimʣiʌnɯn	ɕimʣiʌnɯn	False	False
+5	초식	mʌgɯn	tsʰoɕik̚	tsʰoɕik̚	False	False
+6	공룡에	gʌʣjo̞	goŋɲjo̞ŋe	goŋɲjo̞ŋe	False	False
+7	골반이	ɕimʣiʌnɯn	goɭbaɲi	koɭbaɲi	False	False
+8	발견이	tsʰoɕik̚	baɭgjʌɲi	paɭgjʌɲi	False	False
+9	됐는데요.	goŋɲjo̞ŋe	dwɛnnɯndejo̞	twɛnnɯndejo̞	False	False

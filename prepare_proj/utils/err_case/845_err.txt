@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	좀	t͡ɕom	ʣom	ʣom	False	False
+1	시원시원하고	ɕiwʌnɕiwʌnhago	ɕiwʌnɕiwʌnhago	ɕiwʌnɕiwʌnhago	True	True
+2	이케	ikʰe	ikʰe	ikʰe	True	True
+3	좀	ʣom	ʣom	ʣom	True	True
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	타입처럼	tʰaip̚tsʰʌrʌm	tʰaip̚tsʰʌrʌm	tʰaip̚tsʰʌrʌm	True	True
+6	느껴지더라구요.	nɯkʼjʌʣidʌragujo̞	nɯkʼjʌʣidʌragu	nɯkʼjʌʣidʌragu	False	False
+7	강연이나	gaŋjʌɲina	gaŋjʌɲina	gaŋjʌɲina	True	True
+8	뭐~	mwʌ	mwʌ	mwʌ	True	True
+9	그에	esʌ	gɯe	gɯe	False	False
+10	글	gɯe	gɯɭ	gɯɭ	False	False
+11	같은	gɯɭ	gatʰɯn	gatʰɯn	False	False
+12	거	gatʰɯn	gʌ	gʌ	False	False
+13	보면	gʌ	bomjʌn	bomjʌn	False	False

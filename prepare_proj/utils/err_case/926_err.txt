@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	단어의	danʌe	danʌe	danʌe	True	True
+2	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+3	뇌	nwe	nwe	nwe	True	True
+4	부분이	bubuɲi	bubuɲi	bubuɲi	True	True
+5	움직이나는	umʣiginanɯn	umʣiginanɯn	umʣiginanɯn	True	True
+6	다	da	da	ta	True	False
+7	이제	iʣe	iʣe	iʣe	True	True
+8	읽어드릴	iɭgʌdɯriɭ	iɭgʌdɯriɭ	iɭgʌdɯriɭ	True	True
+9	수가	suga	suga	suga	True	True
+10	있게	it̚kʼe	it̚kʼe	it̚kʼe	True	True
+11	됐으니까	dwɛsʼɯɲikʼa	dwɛsʼɯɲikʼa	dwɛsʼɯɲikʼa	True	True
+12	많이	maɲi	maɲi	maɲi	True	True
+13	영어의	jʌŋʌe	jʌŋʌe	jʌŋʌe	True	True
+14	경우	gjʌŋu	gjʌŋu	kjʌŋu	True	False
+15	물론	muɭlon	muɭlon	muɭlon	True	True

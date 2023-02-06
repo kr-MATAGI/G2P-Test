@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	칠월	tsʰirwʌɭ	tsʰirwʌɭ	tsʰirwʌɭ	True	True
+1	중하순경	ʣuŋhasungjʌŋ	ʣuŋhasungjʌŋ	ʣuŋhasungjʌŋ	True	True
+2	단지	danʣi	danʣi	danʣi	True	True
+3	일주일간	iɭʣuiɭgan	iɭ.tzuiɭgan	iɭ.tzuiɭgan	False	False
+4	정도만	ʣʌŋdoman	ʣʌŋdoman	.tzʌŋdoman	True	False
+5	열리는	jʌɭʎ̟inɯn	jʌɭʎ̟inɯn	jʌɭʎ̟inɯn	True	True
+6	것으로	gʌsɯro	gʌsɯro	gʌsɯro	True	True
+7	알려져	aɭʎ̟jʌʣʌ	aɭʎ̟jʌʣʌ	aɭʎ̟jʌʣʌ	True	True
+8	있는	innɯn	innɯn	innɯn	True	True
+9	귀한	gwihan	gwihan	gwihan	True	True
+10	열매입니다.	jʌɭmɛimɲida	jʌɭmɛimɲida	jʌɭmɛimɲida	True	True

@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	정말	ʣʌŋmaɭ	ʣʌŋmaɭ	.tzʌŋmaɭ	True	False
+2	일에서	iresʌ	iresʌ	iresʌ	True	True
+3	탈출할	tʰaɭtsʰuɭhaɭ	tʰaɭtsʰuɭhaɭ	tʰaɭtsʰuɭhaɭ	True	True
+4	수	su	su	su	True	True
+5	있는	innɯn	innɯn	innɯn	True	True
+6	잠깐잠깐에	ʣamkʼanʣamkʼan	ʣamkʼanʣamkʼane	ʣamkʼanʣamkʼane	False	False
+7	그	e	gɯ	gɯ	False	False
+8	여유를	gɯ	jʌ.jurɯɭ	jʌ.jurɯɭ	False	False
+9	제가	jʌ.jurɯɭ	ʣega	ʣega	False	False
+10	찾아서	ʣega	tsʰaʣasʌ	tsʰaʣasʌ	False	False
+11	예.	tsʰaʣasʌ	je	je	False	False
+12	순수한	je	sunsuhan	sunsuhan	False	False
+13	여행	sunsuhan	jʌhɛŋ	jʌhɛŋ	False	False
+14	자체를	jʌhɛŋ	ʣatsʰerɯɭ	ʣatsʰerɯɭ	False	False
+15	위한	ʣatsʰerɯɭ	wihan	wihan	False	False
+16	여행이었기	wihan	jʌhɛŋiʌt̚kʼi	jʌhɛŋiʌt̚kʼi	False	False
+17	때문에	jʌhɛŋiʌt̚kʼi	tʼɛmune	tʼɛmune	False	False
+18	즐거웠던	tʼɛmune	ʣɯɭgʌwʌt̚tʼ	.tzɯɭgʌwʌt̚tʼ	False	False
+19	거	ʣɯɭgʌwʌt̚tʼʌn	gʌ	gʌ	False	False
+20	같고	gʌ	gat̚kʼo	gat̚kʼo	False	False

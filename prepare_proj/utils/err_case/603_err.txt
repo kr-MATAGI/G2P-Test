@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+2	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+3	이	i	i	i	True	True
+4	좋았던	ʣoat̚tʼʌn	ʣoat̚tʼʌn	.tzoat̚tʼʌn	True	False
+5	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+6	소개할	sogɛhaɭ	sogɛhaɭ	sogɛhaɭ	True	True
+7	때는	tʼɛnɯ	tʼɛnɯn	tʼɛnɯn	False	False
+8	얘기	njɛgi	jɛgi	jɛgi	False	False
+9	줄이는	ʣurinɯn	ʣurinɯn	ʣurinɯn	True	True
+10	게	ge	ge	ge	True	True
+11	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+12	안	andwenɯn	an	an	False	False
+13	되는	gʌ	dwenɯn	dwenɯn	False	False
+14	거	gatʰajo̞	gʌ	gʌ	False	False

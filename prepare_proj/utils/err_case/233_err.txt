@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그걸로	kɯgʌɭlo	gɯgʌɭlo	gɯgʌɭlo	False	False
+1	이케	ikʰe	ikʰe	ikʰe	True	True
+2	아주	aʣu	aʣu	aʣu	True	True
+3	빠르게	pʼarɯge	pʼarɯge	pʼarɯge	True	True
+4	모양을	mo.jaŋɯɭ	mo.jaŋɯɭ	mo.jaŋɯɭ	True	True
+5	바꿔가면서	bakʼwʌgamjʌnsʌ	bakʼwʌgamjʌnsʌ	pakʼwʌɭgamjʌns	True	False
+6	하는	hanɯn	hanɯn	hanɯn	True	True
+7	것인데	gʌɕinde	gʌɕinde	gʌɕinde	True	True
+8	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+9	어렵겠죠.	ʌrjʌp̚kʼet̚.tzjo̞	ʌrjʌp̚kʼet̚.tz	ʌrjʌp̚kʼet̚.tz	False	False

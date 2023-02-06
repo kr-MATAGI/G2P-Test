@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어서	ʌsʌ	ʌsʌ	ʌsʌ	True	True
+1	많이	maɲi	maɲi	maɲi	True	True
+2	본듯한	bon	bondɯtʰan	bondɯtʰan	False	False
+3	이런	dɯtʰan	irʌn	irʌn	False	False
+4	멘튼데	irʌn	mentʰɯnde	mentʰɯnde	False	False

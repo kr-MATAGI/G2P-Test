@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	육십년	.juk̚ɕʼim	.juk̚ɕʼim	.juk̚ɕʼimɲjʌn	True	False
+3	대까지	ɲjʌn	dɛkʼaʣi	dɛkʼaʣi	False	False
+4	육십년	dɛkʼaʣi	.juk̚ɕʼim	.juk̚ɕʼimɲjʌn	False	False
+5	대	.juk̚ɕʼim	dɛ	dɛ	False	False
+6	초까지도	ɲjʌn	tsʰokʼaʣido	tsʰokʼaʣido	False	False
+7	우리는	dɛ	urinɯn	urinɯn	False	False
+8	금성에	tsʰokʼaʣido	gɯmsʌŋe	gɯmsʌŋe	False	False
+9	대해서	urinɯn	dɛhɛsʌ	dɛhɛsʌ	False	False
+10	그런	gɯmsʌŋe	gɯrʌn	gɯrʌn	False	False
+11	환상을	dɛhɛsʌ	hwansaŋɯɭ	hwansaŋɯɭ	False	False
+12	아마	gɯrʌn	ama	ama	False	False
+13	수백년	hwansaŋɯɭ	subɛŋɲjʌn	subɛŋɲjʌn	False	False
+14	뭐	ama	mwʌ	mwʌ	False	False
+15	말씀	subɛŋɲjʌn	maɭsʼɯm	maɭsʼɯm	False	False
+16	하신대로	mwʌ	haɕindɛro	haɕindɛro	False	False
+17	비너스	maɭsʼɯm	binʌsɯ	binʌsɯ	False	False
+18	에	haɕindɛro	e	e	False	False

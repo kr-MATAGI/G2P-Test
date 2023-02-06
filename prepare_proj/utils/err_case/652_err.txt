@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	자제를	ʣaʣerɯɭ	ʣaʣerɯɭ	ʣaʣerɯɭ	True	True
+2	갖다가	gat̚tʼaga	gat̚tʼaga	gat̚tʼaga	True	True
+3	열심히	jʌɭɕʼimhi	jʌɭɕʼimhi	jʌɭɕʼimhi	True	True
+4	실어날랐다든가	ɕirʌ	ɕirʌnaɭlat̚tʼa	ɕirʌnaɭlat̚tʼa	False	False

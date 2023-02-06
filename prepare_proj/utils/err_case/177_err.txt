@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	안타까운	antʰakʼaun	antʰakʼaun	antʰakʼaun	True	True
+2	순간에	sungane	sungane	sungane	True	True
+3	또	tʼo	tʼo	tʼo	True	True
+4	어~	ʌ	ʌ	ʌp̚	True	False
+5	그	esʌ	gɯ	gɯ	False	False
+6	무리한	gɯ	murihan	murihan	False	False
+7	요구에도	murihan	jo̞guedo	jo̞guedo	False	False
+8	아무도	jo̞guedo	amudo	amudo	False	False
+9	뭐	amudo	mwʌ	mwʌ	False	False
+10	찍소리도	mwʌ	.tzik̚sʼorido	.tzik̚sʼorido	False	False
+11	못하는	.tzik̚sʼorido	motʰanɯn	motʰanɯn	False	False
+12	또	motʰanɯn	tʼo	tʼo	False	False
+13	이런	tʼo	irʌn	irʌn	False	False
+14	이제	irʌn	iʣe	iʣe	False	False
+15	상황	iʣe	saŋhwaŋ	saŋhwaŋ	False	False
+16	묘사가	saŋhwaŋ	mjo̞saga	mjo̞saga	False	False
+17	이제	mjo̞saga	iʣe	iʣe	False	False
+18	나오고	iʣe	naogo	naogo	False	False
+19	있는데	naogo	innɯnde	innɯnde	False	False

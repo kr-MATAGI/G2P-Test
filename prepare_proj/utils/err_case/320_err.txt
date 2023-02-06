@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	여주에는	jʌʣuenɯn	jʌʣuenɯn	jʌʣuenɯn	True	True
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	사포딘의	esʌ	sapʰodine	sapʰodine	False	False
+3	일종인	sapʰo	iɭ.tzoŋin	iɭ.tzoŋin	False	False
+4	카란틴	diɲi	kʰarantʰin	kʰarantʰin	False	False
+5	성분이	iɭ.tzoŋin	sʌŋbuɲi	sʌŋbuɲi	False	False
+6	풍부하게	kʰarantʰin	pʰuŋbuhage	pʰuŋbuhage	False	False
+7	들어	sʌŋbuɲi	dɯrʌ	dɯrʌ	False	False
+8	있는데요.	pʰuŋbuhage	innɯndejo̞	innɯndejo̞	False	False

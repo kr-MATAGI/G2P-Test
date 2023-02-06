@@ -1,0 +1,25 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	정확한	t͡ɕʌŋhwakʰan	ʣʌŋhwakʰan	ʣʌŋhwakʰan	False	False
+1	사실인지	saɕirinʣi	saɕirinʣi	saɕirinʣi	True	True
+2	모르겠으나	morɯgesʼɯna	morɯgesʼɯna	morɯgesʼɯna	True	True
+3	제가	ʣega	ʣega	ʣega	True	True
+4	이걸	igʌɭ	igʌɭ	igʌɭ	True	True
+5	본	bon	bon	bon	True	True
+6	기억이	giʌgi	giʌgi	kiʌgi	True	False
+7	나고	nago	nago	nago	True	True
+8	옛날에	jennare	jennare	jennare	True	True
+9	읽은	iɭgɯn	iɭgɯn	iɭgɯn	True	True
+10	기억이	giʌgi	giʌgi	kiʌgi	True	False
+11	나고	nago	nago	nago	True	True
+12	그	gɯ	gɯ	gɯ	True	True
+13	이후로	ihuro	ihuro	ihuro	True	True
+14	이제	iʣe	iʣe	iʣe	True	True
+15	민비하고	minbihago	minbihago	minbihago	True	True
+16	대원군이	dɛwʌnguɲi	dɛwʌnguɲi	dɛwʌnguɲi	True	True
+17	사이가	saiga	saiga	saiga	True	True
+18	나빠지기	napʼaʣigi	napʼaʣigi	napʼaʣigi	True	True
+19	시작했다는	ɕiʣakʰɛt̚tʼanɯn	ɕiʣakʰɛt̚tʼan	ɕiʣakʰɛt̚tʼan	False	False
+20	뭐	mwʌ	mwʌ	mwʌ	True	True
+21	이런	irʌn	irʌn	irʌn	True	True
+22	얘기가	jɛgiga	jɛgiga	jɛgiga	True	True
+23	있었어요.	isʼʌsʼʌjo̞	isʼʌsʼʌjo̞	isʼʌsʼʌjo̞	True	True

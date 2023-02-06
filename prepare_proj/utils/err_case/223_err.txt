@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	알	aɭ	aɭ	aɭ	True	True
+2	수	su	su	su	True	True
+3	알	aɭ	aɭ	aɭ	True	True
+4	수	su	su	su	True	True
+5	없는	ʌmnɯn	ʌmnɯn	ʌmnɯn	True	True
+6	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	에~	e	e	eepʼa	True	False
+1	그	esʌ	gɯ	gɯ	False	False
+2	계산을	gɯ	gʲesanɯɭ	gʲesanɯɭ	False	False
+3	위해서	gʲesanɯɭ	wihɛsʌ	wihɛsʌ	False	False
+4	요	wihɛsʌ	jo̞	jo̞	False	False
+5	호킹은	jo̞	hokʰiŋɯn	hokʰiŋɯn	False	False
+6	허수	hokʰiŋɯn	hʌsu	hʌsu	False	False
+7	시간이라는	hʌsu	ɕigaɲiranɯn	ɕigaɲiranɯn	False	False
+8	걸	ɕigaɲiranɯn	gʌɭ	gʌɭ	False	False
+9	도입합니다.	gʌɭ	doipʰamɲida	doipʰamɲida	False	False

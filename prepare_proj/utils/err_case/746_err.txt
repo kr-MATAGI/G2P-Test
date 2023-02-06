@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	칠십	tsʰiɭɕʼim	tsʰiɭɕʼip̚	tsʰiɭɕʼip̚	False	False
+1	년대	ɲjʌndɛ	ɲjʌndɛ	ɲjʌndɛ	True	True
+2	후반	huban	huban	huban	True	True
+3	팔십	pʰaɭɕʼim	pʰaɭɕʼip̚	pʰaɭɕʼip̚	False	False
+4	년대	ɲjʌndɛ	ɲjʌndɛ	ɲjʌndɛ	True	True
+5	초반의	tsʰobane	tsʰobane	tsʰobane	True	True
+6	한국	hanguk̚	hanguk̚	hanguk̚	True	True
+7	디자인의	diʣaine	diʣaine	diʣaine	True	True
+8	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+9	큰	kʰɯn	kʰɯn	kʰɯn	True	True
+10	특징은	tʰɯk̚.tziŋɯn	tʰɯk̚.tziŋɯn	tʰɯk̚.tziŋɯn	True	True
+11	제목	ʣemok̚	ʣemok̚	.tzemok̚	True	False
+12	등에서	tʼɯŋesʌ	dɯŋesʌ	dɯŋesʌ	False	False
+13	한자들이	hanʣadɯri	hanʣadɯri	hanʣadɯri	True	True
+14	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+15	많이	maɲi	maɲi	maɲi	True	True
+16	사용이	sajo̞ŋi	sajo̞ŋi	sajo̞ŋi	True	True
+17	됐어요.	dwɛsʼʌjo̞	dwɛsʼʌjo̞	twɛsʼʌjo̞	True	False

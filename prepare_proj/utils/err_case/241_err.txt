@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	한	han	han	han	True	True
+2	이십	iɕim	iɕip̚	iɕip̚	False	False
+3	년	ɲjʌn	ɲjʌn	ɲjʌn	True	True
+4	써먹으면서	sʼʌmʌgɯmjʌnsʌ	sʼʌmʌgɯmjʌnsʌ	sʼʌmʌgɯmjʌnsʌ	True	True
+5	오히려	ohirjʌ	ohirjʌ	ohirjʌ	True	True
+6	그것도	gɯgʌt̚tʼo	gɯgʌt̚tʼo	gɯgʌt̚tʼo	True	True
+7	또	tʼo	tʼo	tʼo	True	True
+8	부정적	buʣʌŋʣʌk̚	buʣʌŋʣʌk̚	buʣʌŋʣʌk̚	True	True
+9	편견이	pʰjʌngjʌɲi	pʰjʌngjʌɲi	pʰjʌngjʌɲi	True	True
+10	생겼다는	sɛŋgjʌt̚tʼanɯn	sɛŋgjʌt̚tʼanɯ	sɛŋgjʌt̚tʼanɯ	False	False
+11	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

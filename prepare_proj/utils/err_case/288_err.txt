@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사람들을	saramdɯrɯɭ	saramdɯrɯɭ	saramdɯrɯɭ	True	True
+1	추적	tsʰuʣʌk̚	tsʰuʣʌk̚	tsʰuʣʌk̚	True	True
+2	관찰	kʼwantsʰaɭ	gwantsʰaɭ	kwantsʰaɭ	False	False
+3	한번	hanbʌn	hanbʌn	hanbʌn	True	True
+4	해봤대요.	hɛbwat̚tʼɛjo̞	hɛbwat̚tʼɛjo̞	hɛbwat̚tʼɛjo̞	True	True

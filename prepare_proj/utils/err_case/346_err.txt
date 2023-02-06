@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	두각을	tugagɯɭ	dugagɯɭ	dugagɯɭ	False	False
+1	나타낼	natʰanɛɭ	natʰanɛɭ	natʰanɛɭ	True	True
+2	수	su	su	su	True	True
+3	있는	innɯn	innɯn	innɯn	True	True
+4	스포츠도	sɯpʰotsʰɯdo	sɯpʰotsʰɯdo	sɯpʰotsʰɯdo	True	True
+5	있으니까요.	isʼɯɲikʼajo̞	isʼɯɲikʼajo̞	isʼɯɲikʼajo̞	True	True

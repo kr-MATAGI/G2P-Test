@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러니까	kɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	True	False
+1	그야말로	gɯ.jamaɭlo	gɯ.jamaɭlo	kɯ.jamaɭlo	True	False
+2	수학적	suhak̚.tzʌk̚	suhak̚.tzʌk̚	suhak̚.tzʌk̚	True	True
+3	지성이라는	ʣisʌŋiranɯn	ʣisʌŋiranɯn	ʣisʌŋiranɯn	True	True
+4	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+5	정말	ʣʌŋmaɭ	ʣʌŋmaɭ	.tzʌŋmaɭ	True	False
+6	절대적으로	ʣʌɭtʼɛʣʌgɯro	ʣʌɭtʼɛʣʌgɯr	t͡ɕʌɭdɛʣʌgɯ	False	False
+7	필요한	pʰirjo̞han	pʰirjo̞han	pʰirjo̞han	True	True
+8	시대가	ɕidɛga	ɕidɛga	ɕidɛga	True	True
+9	이미	imi	imi	imi	True	True
+10	도래했다라는	dorɛhɛt̚tʼaranɯn	dorɛhɛt̚tʼaran	torɛhɛt̚tʼaran	False	False
+11	생각이	sɛŋgagi	sɛŋgagi	sɛŋgagi	True	True
+12	들거든요.	dɯɭgʌdɯɲjo̞	dɯɭgʌdɯɲjo̞	dɯɭgʌdɯɲjo̞	True	True

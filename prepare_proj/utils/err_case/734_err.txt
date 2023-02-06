@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	이십	iɕip̚	iɕip̚	iɕip̚	True	True
+2	삼십인가	sʼamɕibinga	samɕibinga	samɕibinga	False	False
+3	뭐	mwʌ	mwʌ	mwʌ	True	True
+4	이런	irʌn	irʌn	irʌn	True	True
+5	거	gʌ	gʌ	gʌ	True	True
+6	갑자기	gap̚.tzagi	gap̚.tzagi	gap̚.tzagi	True	True
+7	몰고	moɭgo	moɭgo	moɭgo	True	True
+8	막	mak̚	mak̚	mak̚	True	True
+9	삼일	sam	samiɭ	samiɭ	False	False
+10	만에	iɭ	mane	mane	False	False

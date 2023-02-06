@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리	uri	uri	uri	True	True
+1	보통	botʰoŋ	botʰoŋ	botʰoŋ	True	True
+2	이런	irʌn	irʌn	irʌn	True	True
+3	말은	marɯn	marɯn	marɯn	True	True
+4	거의	gʌe	gʌe	gʌe	True	True
+5	안	an	an	an	True	True
+6	들어봤잖아요.	dɯrʌbwat̚.tzanajo̞	dɯrʌbwat̚.tzanaj	dɯrʌbwat̚.tzanaj	False	False

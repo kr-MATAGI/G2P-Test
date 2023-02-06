@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	약간은	.jak̚kʼanɯn	.jak̚kʼanɯn	.jak̚kʼanɯn	True	True
+1	뭐~	mwʌ	mwʌ	mwʌ	True	True
+2	그런	esʌ	gɯrʌn	gɯrʌn	False	False
+3	경우가	gɯrʌn	gjʌŋuga	kjʌŋuga	False	False
+4	아닌가	gjʌŋuga	aɲinga	aɲinga	False	False
+5	하는	aɲinga	hanɯn	hanɯn	False	False
+6	생각도	hanɯn	sɛŋgak̚tʼo	sɛŋgak̚tʼo	False	False
+7	왜냐하면	sɛŋgak̚tʼo	wɛɲ.jahamjʌn	wɛɲ.jahamjʌn	False	False
+8	뒤에	wɛɲ.jahamjʌn	dwie	twie	False	False
+9	나오신	dwie	naoɕin	naoɕin	False	False
+10	분들은	naoɕin	bundɯrɯn	bundɯrɯn	False	False
+11	쫌	bundɯrɯn	.tzom	.tzom	False	False
+12	고생을	.tzom	gosɛŋɯɭ	kosɛŋɯɭ	False	False
+13	하신	gosɛŋɯɭ	haɕin	haɕin	False	False
+14	분이	haɕin	buɲi	buɲi	False	False
+15	많으니까	buɲi	manɯɲikʼa	manɯɲikʼa	False	False
+16	편견	manɯɲikʼa	pʰjʌngjʌn	pʰjʌngjʌn	False	False
+17	때문에	pʰjʌngjʌn	tʼɛmune	tʼɛmune	False	False

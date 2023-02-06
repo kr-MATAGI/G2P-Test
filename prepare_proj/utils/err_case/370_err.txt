@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	새로운	sɛroun	sɛroun	sɛroun	True	True
+1	문명이	munmjʌŋi	munmjʌŋi	munmjʌŋi	True	True
+2	생겨서	sɛŋgjʌsʌ	sɛŋgjʌsʌ	sɛŋgjʌsʌ	True	True
+3	새로	sɛro	sɛro	sɛro	True	True
+4	로켓을	rokʰesɯɭ	nokʰesɯɭ	rokʰesɯɭ	False	True
+5	만들고	mandɯɭgo	mandɯɭgo	mandɯɭgo	True	True
+6	다니는데	daɲinɯnde	daɲinɯnde	taɲinɯnde	True	False
+7	여기를	jʌgirɯɭ	jʌgirɯɭ	jʌgirɯɭ	True	True
+8	또	tʼo	tʼo	tʼo	True	True
+9	우연히	ujʌnhi	ujʌnhi	ujʌnhi	True	True

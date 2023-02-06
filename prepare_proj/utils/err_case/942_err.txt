@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아마	ama	ama	ama	True	True
+1	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+2	남북	nambuk̚	nambuk̚	nambuk̚	True	True
+3	철도가	tsʰʌɭtʼoga	tsʰʌɭtʼoga	tsʰʌɭdoga	True	False
+4	연결되면은	jʌngjʌɭdwemjʌnɯ	jʌngjʌɭdwemjʌn	jʌngjʌɭdwemjʌn	False	False
+5	우리나라	nurinara	urinara	urinara	False	False
+6	서울역에서	sʌuɭʎ̟jʌgesʌ	sʌurjʌgesʌ	sʌurjʌgesʌ	False	False
+7	출발하는	tsʰuɭbaɭhanɯn	tsʰuɭbaɭhanɯn	tsʰuɭbaɭhanɯn	True	True
+8	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+9	큰	kʰɯn	kʰɯn	kʰɯn	True	True
+10	관광	gwangwaŋ	gwangwaŋ	gwangwaŋ	True	True
+11	열차는	ɲjʌɭtsʰanɯn	jʌɭtsʰanɯn	jʌɭtsʰanɯn	False	False
+12	바이칼	baikʰaɭ	baikʰaɭ	paikʰaɭ	True	False
+13	호수	hosʼu	hosʼu	hosu	True	False
+14	갔다	gat̚tʼa	gat̚tʼa	gat̚tʼa	True	True
+15	오기	ogi	ogi	ogi	True	True
+16	일	iɭ	iɭ	iɭ	True	True
+17	것	gʌt̚	gʌt̚	gʌt̚	True	True
+18	같아요.	gatʰajo̞	gatʰajo̞	gatʰajo̞	True	True

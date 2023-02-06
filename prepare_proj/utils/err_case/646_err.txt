@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	에	e	e	e	True	True
+1	사르트르래는	sarɯtʰɯrɯrɛnɯn	sarɯtʰɯrɯrɛnɯ	sarɯtʰɯrɯrɛnɯ	False	False
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	유명한	esʌ	.jumjʌŋhan	.jumjʌŋhan	False	False
+4	처	.jumjʌŋhan	tsʰʌ	tsʰʌ	False	False
+5	어	tsʰʌ	ʌ	ʌ	False	False
+6	철학자가	ʌ	tsʰʌɭhak̚.tzaga	tsʰʌɭhak̚.tzaga	False	False
+7	있는데	tsʰʌɭhak̚.tzaga	innɯnde	innɯnde	False	False
+8	그	innɯnde	gɯ	gɯ	False	False
+9	철학자가	gɯ	tsʰʌɭhak̚.tzaga	tsʰʌɭhak̚.tzaga	False	False
+10	쓴	tsʰʌɭhak̚.tzaga	sʼɯn	sʼɯn	False	False
+11	벽이래는	sʼɯn	bjʌgirɛnɯn	pjʌgirɛnɯn	False	False
+12	소설이	bjʌgirɛnɯn	sosʌri	sosʌri	False	False
+13	있어요.	sosʌri	isʼʌjo̞	isʼʌjo̞	False	False

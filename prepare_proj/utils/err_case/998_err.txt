@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저	t͡ɕʌ	ʣʌ	ʣʌ	False	False
+1	연세	jʌnse	jʌnse	jʌnse	True	True
+2	대학교의	dɛhak̚kʼjo̞e	dɛhak̚kʼjo̞e	tɛhak̚kʼjo̞i	True	False
+3	김호깁니다.	gimhogimɲida	gimhogimɲida	kimhogimɲida	True	False

@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	이	esʌ	i	i	False	False
+2	부분에는	i	bubunenɯn	bubunenɯn	False	False
+3	좀	bubunenɯn	ʣom	ʣom	False	False
+4	경제학적인	ʣom	gjʌŋʣehak̚.tzʌ	kjʌŋʣehak̚.tzʌ	False	False
+5	개념들도	gjʌŋʣehak̚.tzʌgin	gɛɲjʌmdɯɭdo	kɛɲjʌmdɯɭdo	False	False
+6	좀	gɛɲjʌmdɯɭdo	ʣom	ʣom	False	False
+7	굉장히	ʣom	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+8	많이	gweŋʣaŋhi	maɲi	maɲi	False	False
+9	들어가	maɲi	dɯrʌga	dɯrʌga	False	False
+10	있고요.	dɯrʌga	it̚kʼojo̞	it̚kʼojo̞	False	False
+11	이론	it̚kʼojo̞	ɲiron	iron	False	False
+12	중에서는	iron	ʣuŋesʌnɯn	ʣuŋesʌnɯn	False	False

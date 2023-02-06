@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+1	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+2	이~	i	i	ip̚	True	False
+3	강의를	esʌ	gaŋirɯɭ	gaŋirɯɭ	False	False
+4	해주실	gaŋirɯɭ	hɛʣuɕiɭ	hɛʣuɕiɭ	False	False
+5	선생님은	hɛʣuɕiɭ	sʌnsɛŋɲimɯn	sʌnsɛŋɲimɯn	False	False
+6	아~	sʌnsɛŋɲimɯn	a	ak̚	False	False
+7	저희가	a	ʣʌhiga	ʣʌhiga	False	False
+8	모시도록	esʌ	moɕidorok̚	moɕidorok̚	False	False
+9	하겠습니다.	ʣʌhiga	haget̚sʼɯmɲida	haget̚sʼɯmɲida	False	False

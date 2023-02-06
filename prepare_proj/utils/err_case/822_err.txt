@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	진입을	t͡ɕiɲibɯɭ	ʣiɲibɯɭ	ʣiɲibɯɭ	False	False
+1	한	han	han	han	True	True
+2	상태고	saŋtʰɛgo	saŋtʰɛgo	saŋtʰɛgo	True	True
+3	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+4	명왕성도	mjʌŋwaŋsʌŋdo	mjʌŋwaŋsʌŋdo	mjʌŋwaŋsʼʌŋdo	True	False
+5	가고	gago	gago	gago	True	True
+6	태양	tʰɛ.jaŋ	tʰɛ.jaŋ	tʰɛ.jaŋ	True	True
+7	안으로도	anɯrodo	anɯrodo	anɯrodo	True	True
+8	들어가고	dɯrʌgago	dɯrʌgago	dɯrʌgago	True	True
+9	오만데를	oman	omanderɯɭ	omanderɯɭ	False	False
+10	다	derɯɭ	da	ta	False	False
+11	가고	da	gago	gago	False	False
+12	있어요.	gago	isʼʌjo̞	isʼʌjo̞	False	False

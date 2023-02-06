@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	인제	esʌ	inʣe	inʣe	False	False
+3	카시니가	inʣe	kʰaɕiɲiga	kʰaɕiɲiga	False	False
+4	많이	kʰaɕiɲiga	maɲi	maɲi	False	False
+5	알리는	maɲi	aɭʎ̟inɯn	aɭʎ̟inɯn	False	False
+6	것	aɭʎ̟inɯn	gʌt̚	gʌt̚	False	False
+7	중에	gʌt̚	ʣuŋe	ʣuŋe	False	False
+8	하나가	ʣuŋe	hanaga	hanaga	False	False
+9	그~	hanaga	gɯ	gɯp̚	False	False
+10	엔셀라두스	gɯ	enseɭladusɯ	enseɭladusɯ	False	False
+11	기	esʌ	gi	gi	False	False
+12	수증기	enseɭladusɯ	suʣɯŋgi	suʣɯŋgi	False	False
+13	뿜어	gi	pʼumʌ	pʼumʌ	False	False
+14	뿜어져	suʣɯŋgi	pʼumʌʣʌ	pʼumʌʣʌ	False	False
+15	나오는	pʼumʌ	naonɯn	naonɯn	False	False
+16	거	pʼumʌʣʌ	gʌ	gʌ	False	False

@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True
+2	관측할	gwantsʰɯkʰaɭ	gwantsʰɯkʰaɭ	kwantsʰɯkʰaɭ	True	False
+3	수	su	su	su	True	True
+4	있는	innɯn	innɯn	innɯn	True	True
+5	시간이	ɕigaɲi	ɕigaɲi	ɕigaɲi	True	True
+6	그	gɯ	gɯ	gɯ	True	True
+7	행성이	hɛŋsʌŋi	hɛŋsʌŋi	hɛŋsʌŋi	True	True
+8	별	bjʌɭ	bjʌɭ	bjʌɭ	True	True
+9	앞을	lapʰɯɭ	apʰɯɭ	apʰɯɭ	False	False
+10	지나가는	ʣinaganɯn	ʣinaganɯn	.tzinaganɯn	True	False
+11	시간	ɕigan	ɕigan	ɕigan	True	True

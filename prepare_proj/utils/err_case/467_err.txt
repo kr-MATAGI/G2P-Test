@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	익숙지	ik̚sʼuk̚.tzi	ik̚sʼuk̚.tzi	ik̚sʼuk̚.tzi	True	True
+1	않지만	antsʰiman	antsʰiman	an.tziman	True	False
+2	팝에서는	pʰabesʌnɯn	pʰabesʌnɯn	pʰabesʌnɯn	True	True
+3	오십년	oɕim	oɕim	oɕimɲjʌn	True	False
+4	대까지만해도	ɲjʌn	dɛkʼaʣimanhɛdo	dɛkʼaʣimanhɛdo	False	False
+5	싱글이라는	dɛkʼaʣiman	ɕiŋgɯriranɯn	ɕiŋgɯriranɯn	False	False
+6	게	hɛdo	ge	ge	False	False
+7	굉장히	ɕiŋgɯriranɯn	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+8	보편화	ge	bopʰjʌnhwa	bopʰjʌnhwa	False	False
+9	돼	gweŋʣaŋhi	dwɛ	twɛ	False	False
+10	있었습니다.	bopʰjʌnhwa	isʼʌt̚sʼɯmɲid	isʼʌt̚sʼɯmɲid	False	False

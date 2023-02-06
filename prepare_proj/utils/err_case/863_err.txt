@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	나머진	namʌʣin	namʌʣin	namʌʣin	True	True
+1	포유류인데	pʰo.jurjuinde	pʰo.jurjuinde	pʰo.jurjuinde	True	True
+2	그	gɯ	gɯ	gɯ	True	True
+3	새끼를	sɛkʼirɯɭ	sɛkʼirɯɭ	sɛkʼirɯɭ	True	True
+4	낳진	natsʰin	nat̚.tzin	nat̚.tzin	False	False
+5	않으니깐	anɯɲikʼan	anɯɲikʼan	anɯɲikʼan	True	True
+6	드	dɯ	dɯ	dɯ	True	True
+7	분류할	buɭʎ̟juhaɭ	buɭʎ̟juhaɭ	buɭʎ̟juhaɭ	True	True
+8	수	su	su	su	True	True
+9	있는	innɯn	innɯn	innɯn	True	True
+10	곳은	gosɯn	gosɯn	gosɯn	True	True
+11	파충류	pʰatsʰuŋɲju	pʰatsʰuŋɲju	pʰatsʰuŋɲju	True	True
+12	밖에	bakʼe	bakʼe	pakʼe	True	False
+13	없죠.	ʌp̚.tzjo̞	ʌp̚.tzjo̞	ʌp̚.tzjo̞	True	True

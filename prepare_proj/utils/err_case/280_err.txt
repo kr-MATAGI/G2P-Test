@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	보지	boʣi	boʣi	boʣi	True	True
+2	않았지만	anat̚.tziman	anat̚.tziman	anat̚.tziman	True	True
+3	제	ʣe	ʣe	ʣe	True	True
+4	옆에	jʌpʰe	jʌpʰe	jʌpʰe	True	True
+5	계신	gʲeɕin	gʲeɕin	gʲeɕin	True	True
+6	분이	buɲi	buɲi	buɲi	True	True
+7	봤어요.	bwasʼʌjo̞	bwasʼʌjo̞	pwasʼʌjo̞	True	False

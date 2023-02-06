@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	나머지	namʌʣi	namʌʣi	namʌʣi	True	True
+1	육개월은	.juk̚	.juk̚kʼɛwʌrɯn	.juk̚kʼɛwʌrɯn	False	False
+2	아마	kʼɛwʌrɯn	ama	ama	False	False
+3	좀	ama	ʣom	ʣom	False	False
+4	그	ʣom	gɯ	gɯ	False	False
+5	제안서를	gɯ	ʣeansʌrɯɭ	.tzeansʌrɯɭ	False	False
+6	받아서	ʣeansʌrɯɭ	badasʌ	padasʌ	False	False
+7	주는	badasʌ	ʣunɯn	ʣunɯn	False	False
+8	게	ʣunɯn	ge	ge	False	False
+9	아마	ge	ama	ama	False	False
+10	있을	ama	isʼɯɭ	isʼɯɭ	False	False
+11	거예요.	isʼɯɭ	gʌjejo̞	gʌjejo̞	False	False

@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그니까	kɯɲikʼa	kɯɲikʼa	gɯɲikʼa	True	False
+1	우리와	uriwa	uriwa	uriwa	True	True
+2	달리	daɭʎ̟i	daɭʎ̟i	taɭʎ̟i	True	False
+3	계속	gʲesok̚	gʲesok̚	gʲesok̚	True	True
+4	그~	gɯ	gɯ	gɯp̚	True	False
+5	지능이	esʌ	ʣinɯŋi	.tzinɯŋi	False	False
+6	높아질	ʣinɯŋi	nopʰaʣiɭ	nopʰaʣiɭ	False	False
+7	수	nopʰaʣiɭ	su	su	False	False
+8	있는	su	innɯn	innɯn	False	False
+9	상황에	innɯn	saŋhwaŋe	saŋhwaŋe	False	False
+10	놓일	saŋhwaŋe	noiɭ	noiɭ	False	False
+11	수	noiɭ	su	su	False	False
+12	있지	su	it̚.tzi	it̚.tzi	False	False
+13	않나.	it̚.tzi	anna	anna	False	False

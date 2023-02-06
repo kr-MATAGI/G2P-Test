@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어	ʌ	ʌ	ʌ	True	True
+1	얼핏얼핏	ʌɭpʰidʌɭpʰin	ʌɭpʰidʌɭpʰin	ʌɭpʰidʌɭpʰit	True	False
+2	엿보이긴	ɲjʌt̚pʼoigin	jʌt̚pʼoigin	jʌt̚pʼoigin	False	False
+3	합니다.	hamɲida	hamɲida	hamɲida	True	True

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	행성을	hɛŋsʌŋɯɭ	hɛŋsʌŋɯɭ	hɛŋsʌŋɯɭ	True	True
+2	만들기에	mandɯɭgie	mandɯɭgie	mandɯɭgie	True	True
+3	충분한	tsʰuŋbunhan	tsʰuŋbunhan	tsʰuŋbunhan	True	True
+4	철이	tsʰʌɭi	tsʰʌri	tsʰʌri	False	False
+5	있었을	isʼʌsʼɯɭ	isʼʌsʼɯɭ	isʼʌsʼɯɭ	True	True
+6	수도	sudo	sudo	sudo	True	True
+7	있	it̚	it̚	it̚	True	True
+8	있구요.	it̚kʼujo̞	it̚kʼujo̞	it̚kʼujo̞	True	True

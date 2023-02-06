@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그거와	kɯgʌwa	gɯgʌwa	gɯgʌwa	False	False
+1	마찬가지로	matsʰangaʣiro	matsʰangaʣiro	matsʰangaʣiro	True	True
+2	전	ʣʌn	ʣʌn	ʣʌn	True	True
+3	세계	segʲe	segʲe	segʲe	True	True
+4	벌어진	bʌrʌʣin	bʌrʌʣin	pʌrʌʣin	True	False
+5	종교	ʣoŋgjo̞	ʣoŋgjo̞	.tzoŋgjo̞	True	False
+6	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+7	것들이	gʌt̚tʼɯri	gʌt̚tʼɯri	gʌt̚tʼɯri	True	True
+8	종교를	ʣoŋgjo̞rɯɭ	ʣoŋgjo̞rɯɭ	.tzoŋgjo̞rɯɭ	True	False
+9	빙자로	biŋʣaro	biŋʣaro	piŋ.tzaro	True	False
+10	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True
+11	탄압하고	tʰanapʰago	tʰanapʰago	tʰanapʰago	True	True
+12	종교를	ʣoŋgjo̞rɯɭ	ʣoŋgjo̞rɯɭ	.tzoŋgjo̞rɯɭ	True	False
+13	명분으로	mjʌŋbunɯro	mjʌŋbunɯro	mjʌŋbunɯro	True	True
+14	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True
+15	저항하고	ʣʌhaŋhago	ʣʌhaŋhago	ʣʌhaŋhago	True	True
+16	딱	tʼak̚	tʼak̚	tʼak̚	True	True
+17	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+18	게	ge	ge	ge	True	True
+19	아니었나	aɲiʌnna	aɲiʌnna	aɲiʌnna	True	True
+20	생각이	sɛŋgagi	sɛŋgagi	sɛŋgagi	True	True
+21	듭니다.	dɯmɲida	dɯmɲida	dɯmɲida	True	True

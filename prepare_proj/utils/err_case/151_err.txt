@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그냥	kɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	False	False
+1	절	ʣʌɭ	ʣʌɭ	ʣʌɭ	True	True
+2	건강한	gʌngaŋhan	gʌngaŋhan	gʌngaŋhan	True	True
+3	청소년	tsʰʌŋsoɲjʌn	tsʰʌŋsoɲjʌn	tsʰʌŋsoɲjʌn	True	True
+4	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+5	소녀가	soɲjʌga	soɲjʌga	soɲjʌga	True	True
+6	북한에	bukʰane	bukʰane	bukʰane	True	True
+7	있는	innɯ	innɯn	innɯn	False	False
+8	어머니를	nʌmʌɲirɯɭ	ʌmʌɲirɯɭ	ʌmʌɲirɯɭ	False	False
+9	찾아내	tsʰaʣanɛ	tsʰaʣanɛ	tsʰaʣanɛ	True	True
+10	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+11	만나기	mannagi	mannagi	mannagi	True	True
+12	위해서	wihɛsʌ	wihɛsʌ	wihɛsʌ	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	국내	kuŋnɛ	guŋnɛ	guŋnɛ	False	False
+1	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+2	번째	pʼʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	False	False
+3	연주회를	jʌnʣuhwerɯɭ	jʌnʣuhwerɯɭ	jʌnʣuhwerɯɭ	True	True
+4	갖습니다.	gat̚sʼɯmɲida	gat̚sʼɯmɲida	kat̚sʼɯmɲida	True	False

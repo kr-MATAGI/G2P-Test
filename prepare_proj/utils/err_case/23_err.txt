@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	머큐리는	mʌkʰjurinɯn	mʌkʰjurinɯn	mʌkʰjurinɯn	True	True
+1	수은이란	suɯɲiran	suɯɲiran	suɯɲiran	True	True
+2	뜻도	tʼɯt̚tʼo	tʼɯt̚tʼo	tʼɯt̚tʼo	True	True
+3	있는	innɯnde	innɯn	innɯn	False	False

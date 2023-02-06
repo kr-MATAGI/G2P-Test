@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	팔	pʰaɭ	pʰaɭ	pʰaɭ	True	True
+2	미터	mitʰʌ	mitʰʌ	mitʰʌ	True	True
+3	망원경	maŋwʌngjʌŋ	maŋwʌngjʌŋ	maŋwʌngjʌŋ	True	True
+4	이상되는	isaŋ	isaŋdwenɯn	isaŋdwenɯn	False	False
+5	걸	dwenɯn	gʌɭ	gʌɭ	False	False
+6	만들면서	gʌɭ	mandɯɭmjʌnsʌ	mandɯɭmjʌnsʌ	False	False
+7	이걸	mandɯɭmjʌnsʌ	igʌɭ	igʌɭ	False	False
+8	극복하기	igʌɭ	gɯk̚pʼokʰagi	gɯk̚pʼokʰagi	False	False
+9	위해서	gɯk̚pʼokʰagi	wihɛsʌ	wihɛsʌ	False	False
+10	굉장히	wihɛsʌ	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+11	노력을	gweŋʣaŋhi	norjʌgɯɭ	norjʌgɯɭ	False	False
+12	많이	norjʌgɯɭ	maɲi	maɲi	False	False
+13	했어요.	maɲi	hɛsʼʌjo̞	hɛsʼʌjo̞	False	False

@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	과정에서	gwaʣʌŋesʌ	gwaʣʌŋesʌ	kwaʣʌŋesʌ	True	False
+2	그를	gɯrɯɭ	gɯrɯɭ	gɯrɯɭ	True	True
+3	반기기도	bangigido	bangigido	pangigido	True	False
+4	하고	hago	hago	hago	True	True
+5	미치광이	mitsʰigwaŋi	mitsʰigwaŋi	mitsʰigwaŋi	True	True
+6	취급하기도	tsʰwigɯpʰagido	tsʰwigɯpʰagido	tsʰwigɯpʰagido	True	True
+7	하는	hanɯn	hanɯn	hanɯn	True	True
+8	다양한	da.jaŋhan	da.jaŋhan	ta.jaŋhan	True	False
+9	주민들과	ʣumindɯɭgwa	ʣumindɯɭgwa	ʣumindɯɭgwa	True	True
+10	만나는	mannanɯn	mannanɯn	mannanɯn	True	True
+11	네디	nedi	nedi	nedi	True	True

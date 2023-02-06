@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+2	하는데	hanɯnde	hanɯnde	hanɯnde	True	True
+3	그~	gɯ	gɯ	gɯp̚	True	False
+4	같이	esʌ	gatsʰi	gatsʰi	False	False
+5	인제	gatsʰi	inʣe	inʣe	False	False
+6	그래서	inʣe	kɯrɛsʌ	gɯrɛsʌ	False	False
+7	밥을	gɯrɛsʌ	babɯɭ	babɯɭ	False	False
+8	먹으면서	babɯɭ	mʌgɯmjʌnsʌ	mʌgɯmjʌnsʌ	False	False
+9	내가	mʌgɯmjʌnsʌ	nɛga	nɛga	False	False
+10	싫다고	nɛga	ɕiɭtʰago	ɕit̚tʼago	False	False
+11	안	ɕiɭtʰago	an	an	False	False
+12	함으로	an	hamɯro	hamɯro	False	False
+13	저	hamɯro	ʣʌ	ʣʌ	False	False
+14	사람은	ʣʌ	saramɯn	saramɯn	False	False
+15	나를	saramɯn	narɯɭ	narɯɭ	False	False
+16	오해하잖아요.	narɯɭ	ohɛhaʣanajo̞	ohɛhaʣanajo̞	False	False

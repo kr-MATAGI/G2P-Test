@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그렇게	kɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	False	False
+1	요	jo̞	jo̞	jo̞	True	True
+2	시절에	ɕiʣʌre	ɕiʣʌre	ɕiʣʌre	True	True
+3	망원경	maŋwʌngjʌŋ	maŋwʌngjʌŋ	maŋwʌngjʌŋ	True	True
+4	발명으로	baɭmjʌŋɯro	baɭmjʌŋɯro	paɭmjʌŋɯro	True	False
+5	많은	manɯn	manɯn	manɯn	True	True
+6	변화가	bjʌnhwaga	bjʌnhwaga	pjʌnhwaga	True	False
+7	있었던	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	True	True
+8	거	gʌ	gʌ	gʌ	True	True
+9	같은데	gatʰɯnde	gatʰɯnde	gatʰɯnde	True	True
+10	옛날	jennarjɛginɯn	jennaɭ	jennaɭ	False	False
+11	얘기는	gʌgikʼaʣi	jɛginɯn	jɛginɯn	False	False
+12	거기까지	hagojo̞	gʌgikʼaʣi	gʌgikʼaʣi	False	False

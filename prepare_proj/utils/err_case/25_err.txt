@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	아주	esʌ	aʣu	aʣu	False	False
+2	대단	aʣu	dɛdan	dɛdan	False	False
+3	그리고	dɛdan	kɯrigo	gɯrigo	False	False
+4	아까얘기	gɯrigo	akʼajɛgi	akʼajɛgi	False	False
+5	했듯이	akʼa	hɛt̚tʼɯnɲi	hɛt̚tʼɯɕʼi	False	False
+6	팔을	jɛgi	pʰarɯɭ	pʰarɯɭ	False	False
+7	두개	hɛt̚tʼɯnɲi	dugɛ	dugɛ	False	False
+8	들면	pʰarɯɭ	dɯɭmjʌn	dɯɭmjʌn	False	False
+9	이족보행도	du	iʣok̚pʼohɛŋdo	iʣok̚pʼohɛŋdo	False	False
+10	가능하구요.	gɛ	ganɯŋhagujo̞	kanɯŋhagujo̞	False	False

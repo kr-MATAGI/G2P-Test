@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러다	kɯrʌda	kɯrʌda	gɯrʌda	True	False
+1	보니까	boɲikʼa	boɲikʼa	boɲikʼa	True	True
+2	이게	ige	ige	ige	True	True
+3	맨	mɛn	mɛn	mɛn	True	True
+4	처음	tsʰʌɯm	tsʰʌɯm	tsʰʌɯm	True	True
+5	만들어졌을	mandɯrʌʣʌsʼɯɭ	mandɯrʌʣʌsʼɯ	mandɯrʌʣʌsʼɯ	False	False
+6	때는	tʼɛnɯn	tʼɛnɯn	tʼɛnɯn	True	True
+7	거의	gʌe	gʌe	gʌe	True	True
+8	대기업들	dɛgiʌp̚tʼɯɭ	dɛgiʌp̚tʼɯɭ	tɛgiʌp̚tʼɯɭ	True	False
+9	위주만	lwiʣuman	wiʣuman	wiʣuman	False	False
+10	이	i	i	i	True	True
+11	기계를	gigʲerɯɭ	gigʲerɯɭ	kigʲerɯɭ	True	False
+12	사용했었습니다.	sajo̞ŋhɛsʼʌt̚sʼɯmɲida	sajo̞ŋhɛsʼʌt̚	sajo̞ŋhɛsʼʌt̚	False	False

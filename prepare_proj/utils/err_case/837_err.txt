@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그까	kɯkʼa	kɯkʼa	gɯkʼa	True	False
+1	그야말로	gɯ.jamaɭlo	gɯ.jamaɭlo	kɯ.jamaɭlo	True	False
+2	혁명이라는	hjʌŋmjʌŋiranɯn	hjʌŋmjʌŋiranɯn	hjʌŋmjʌŋiranɯn	True	True
+3	것은	gʌsɯn	gʌsɯn	gʌsɯn	True	True
+4	인류가	iɭʎ̟juga	iɭʎ̟juga	iɭʎ̟juga	True	True
+5	크게	kʰɯge	kʰɯge	kʰɯge	True	True
+6	한걸음을	han	hangʌrɯmɯɭ	hangʌrɯmɯɭ	False	False
+7	내딛는	gʌrɯmɯɭ	nɛdinnɯn	nɛdinnɯn	False	False

@@ -1,0 +1,25 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	이게	ige	ige	ige	True	True
+2	모시로	moɕiro	moɕiro	moɕiro	True	True
+3	돼	dwɛ	dwɛ	twɛ	True	False
+4	있을까	isʼɯɭkʼa	isʼɯɭkʼa	isʼɯɭkʼa	True	True
+5	가는	ganɯn	ganɯn	ganɯn	True	True
+6	새모시로	sɛ	sɛmoɕiro	sɛmoɕiro	False	False
+7	돼	moɕiro	dwɛ	twɛ	False	False
+8	있어서	dwɛ	isʼʌsʌ	isʼʌsʌ	False	False
+9	왜	isʼʌsʌ	wɛ	wɛ	False	False
+10	그럴까를	wɛ	gɯrʌɭkʼarɯɭ	kɯrʌɭkʼarɯɭ	False	False
+11	가만히	gɯrʌɭkʼarɯɭ	gamanhi	gamanhi	False	False
+12	생각해보니까	gamanhi	sɛŋgakʰɛboɲik	sɛŋgakʰɛboɲik	False	False
+13	어~	sɛŋgakʰɛboɲikʼa	ʌ	ʌp̚	False	False
+14	그때	ʌ	gɯtʼɛ	gɯtʼɛ	False	False
+15	당시에	esʌ	daŋɕie	daŋɕie	False	False
+16	인저	gɯtʼɛ	inʣʌ	inʣʌ	False	False
+17	김홍도가	daŋɕie	gimhoŋdoga	kimhoŋdoga	False	False
+18	정조로부터	inʣʌ	ʣʌŋʣorobutʰʌ	t͡ɕʌŋʣorobutʰ	False	False
+19	아마	gimhoŋdoga	ama	ama	False	False
+20	옷을	ʣʌŋʣorobutʰʌ	osɯɭ	osɯɭ	False	False
+21	받은	ama	badɯn	padɯn	False	False
+22	거	osɯɭ	gʌ	gʌ	False	False
+23	같아요.	badɯn	gatʰajo̞	gatʰajo̞	False	False

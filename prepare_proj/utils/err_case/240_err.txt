@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+2	이번에	ibʌne	ibʌne	ibʌne	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	대표님께서	dɛpʰjo̞ɲimkʼesʌ	dɛpʰjo̞ɲimkʼes	tɛpʰjo̞ɲimkʼes	False	False
+5	추천해서	tsʰutsʰʌnhɛsʌ	tsʰutsʰʌnhɛsʌ	tsʰutsʰʌnhɛsʌ	True	True
+6	읽어봤어요.	iɭgʌbwasʼʌjo̞	iɭgʌbwasʼʌjo̞	iɭgʌbwasʼʌjo̞	True	True

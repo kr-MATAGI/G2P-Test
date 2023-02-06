@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	이제	iʣe	iʣe	iʣe	True	True
+2	부탄에	butʰane	butʰane	butʰane	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	무슨	musɯn	musɯn	musɯn	True	True
+5	문화가	munhwaga	munhwaga	munhwaga	True	True
+6	좀	ʣom	ʣom	ʣom	True	True
+7	독특하죠.	dok̚tʰɯkʰaʣjo̞	dok̚tʰɯkʰaʣjo	dok̚tʰɯkʰaʣjo	False	False

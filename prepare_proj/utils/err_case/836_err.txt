@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+1	작품을	ʣak̚pʰumɯɭ	ʣak̚pʰumɯɭ	ʣak̚pʰumɯɭ	True	True
+2	해도	hɛdo	hɛdo	hɛdo	True	True
+3	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+4	역을	ɲjʌgɯɭ	jʌgɯɭ	jʌgɯɭ	False	False
+5	해도	hɛdo	hɛdo	hɛdo	True	True
+6	작거나	ʣak̚kʼʌna	ʣak̚kʼʌna	ʣak̚kʼʌna	True	True
+7	크거나	kʰɯgʌna	kʰɯgʌna	kʰɯgʌna	True	True
+8	항상	haŋsaŋ	haŋsaŋ	haŋsaŋ	True	True
+9	최선을	tsʰwesʌnɯɭ	tsʰwesʌnɯɭ	tsʰwesʌnɯɭ	True	True
+10	다해서	dahɛsʌ	dahɛsʌ	dahɛsʌ	True	True
+11	하시는	haɕinɯn	haɕinɯn	haɕinɯn	True	True
+12	무용수세요.	mujo̞ŋsusejo̞	mujo̞ŋsusejo̞	mujo̞ŋsusejo̞	True	True

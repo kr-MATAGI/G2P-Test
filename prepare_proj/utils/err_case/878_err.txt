@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	과학과	kwahak̚kʼwa	gwahak̚kʼwa	kwahak̚kʼwa	False	True
+1	사람들이	saramdɯri	saramdɯri	saramdɯri	True	True
+2	제공하는	ʣegoŋhanɯn	ʣegoŋhanɯn	ʣegoŋhanɯn	True	True
+3	정통	ʣʌŋtʰoŋ	ʣʌŋtʰoŋ	.tzʌŋtʰoŋ	True	False
+4	과학	gwahak̚	gwahak̚	kwahak̚	True	False
+5	팟캐스트	pʰat̚kʰɛsɯtʰɯ	pʰat̚kʰɛsɯtʰ	pʰat̚kʰɛsɯtʰ	False	False
+6	과학하고	gwahakʰago	gwahakʰago	kwahakʰago	True	False
+7	앉아있네	anʣainne	anʣainne	anʣainne	True	True
+8	열일곱	jʌriɭgop̚	jʌriɭgop̚	jʌriɭgop̚	True	True
+9	번째	bʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	True	False
+10	시간	ɕigan	ɕigan	ɕigan	True	True
+11	시작하겠습니다.	ɕiʣakʰaget̚sʼɯmɲida	ɕiʣakʰaget̚sʼ	ɕiʣakʰaget̚sʼ	False	False

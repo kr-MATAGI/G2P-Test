@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	이러면	irʌmjʌn	irʌmjʌn	irʌmjʌn	True	True
+2	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True
+3	이제	iʣe	iʣe	iʣe	True	True
+4	제	ʣesam	ʣe	ʣe	False	False
+5	삼	segʲee	sam	sam	False	False
+6	세계에	gasʌ	segʲee	segʲee	False	False
+7	가서	ʃwip̚kʼe	gasʌ	gasʌ	False	False
+8	쉽게	mandɯɭ	ʃwip̚kʼe	ʃwip̚kʼe	False	False
+9	만들	su	mandɯɭ	mandɯɭ	False	False
+10	수	innɯn	su	su	False	False
+11	있는	ge	innɯn	innɯn	False	False
+12	게	aɲiɲikʼa	ge	ge	False	False
+13	아니니까	amurɛdo	aɲiɲikʼa	aɲiɲikʼa	False	False

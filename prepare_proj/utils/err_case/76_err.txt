@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리	uri	uri	uri	True	True
+1	로켓이나	rokʰeɕina	nokʰeɕina	rokʰeɕina	False	True
+2	제트엔진의	ʣetʰɯenʣine	ʣetʰɯenʣine	t͡ɕetʰɯenʣine	True	False
+3	원리일	wʌɭʎ̟iiɭ	wʌɭʎ̟iiɭ	wʌɭʎ̟iiɭ	True	True
+4	뿐만	pʼunman	pʼunman	pʼunman	True	True
+5	아니라	aɲira	aɲira	aɲira	True	True
+6	우주의	uʣue	uʣue	uʣui	True	False
+7	법칙이란	bʌp̚tsʰigiran	bʌp̚tsʰigiran	pʌp̚tsʰigiran	True	False
+8	말입니다.	marimɲida	marimɲida	marimɲida	True	True

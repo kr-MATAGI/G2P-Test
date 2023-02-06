@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	보니까	poɲikʼa	boɲikʼa	boɲikʼa	False	False
+1	우리의	urie	urie	urie	True	True
+2	조선	ʣosʌn	ʣosʌn	ʣosʌn	True	True
+3	시대	ɕidɛ	ɕidɛ	ɕidɛ	True	True
+4	그	gɯ	gɯ	gɯ	True	True
+5	사람들의	saramdɯre	saramdɯre	saramdɯre	True	True
+6	모습이네요.	mosɯbinejo̞	mosɯbinejo̞	mosɯbinejo̞	True	True

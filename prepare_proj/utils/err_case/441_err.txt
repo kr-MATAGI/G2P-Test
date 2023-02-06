@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저희가	t͡ɕʌhiga	ʣʌhiga	ʣʌhiga	False	False
+1	느끼기	nɯkʼigi	nɯkʼigi	nɯkʼigi	True	True
+2	일반인들이	iɭbaɲindɯri	iɭbaɲindɯri	iɭbaɲindɯri	True	True
+3	느끼기엔	nɯkʼigien	nɯkʼigien	nɯkʼigien	True	True
+4	과학자는	gwahak̚.tzanɯn	gwahak̚.tzanɯn	kwahak̚.tzanɯn	True	False
+5	무슨	musɯn	musɯn	musɯn	True	True
+6	문제가	munʣega	munʣega	munʣega	True	True
+7	있으면	isʼɯmjʌn	isʼɯmjʌn	isʼɯmjʌn	True	True
+8	아닌	aɲin	aɲin	aɲin	True	True
+9	그게	gɯge	gɯge	gɯge	True	True
+10	나오면	naomjʌn	naomjʌn	naomjʌn	True	True

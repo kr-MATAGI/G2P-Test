@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	젊은	t͡ɕʌɭmɯn	ʣʌɭmɯn	.tzʌɭmɯn	False	False
+1	창작진들이	tsʰaŋʣak̚.tzindɯri	tsʰaŋʣak̚.tzind	tsʰaŋʣak̚.tzind	False	False
+2	이뤄낸	irwʌnɛn	irwʌnɛn	irwʌnɛn	True	True
+3	성공	sʌŋgoŋ	sʌŋgoŋ	sʌŋgoŋ	True	True
+4	뒤엔	dwien	dwien	twien	True	False
+5	난관도	nangwando	nangwando	nangwando	True	True
+6	많았죠.	manat̚.tzjo̞	manat̚.tzjo̞	manat̚.tzjo̞	True	True

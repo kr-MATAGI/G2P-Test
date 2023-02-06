@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	꿈을	kʼumɯɭ	kʼumɯɭ	kʼumɯɭ	True	True
+2	못	mon	mot̚	mot̚	False	False
+3	이루고	ɲirugo	irugo	irugo	False	False
+4	건축의	gʌntsʰuge	gʌntsʰuge	kʌntsʰuge	True	False
+5	길로	giɭlo	giɭlo	kiɭlo	True	False
+6	인제	inʣe	inʣe	inʣe	True	True
+7	들어서서	dɯrʌsʌsʌ	dɯrʌsʌsʌ	dɯrʌsʌsʌ	True	True
+8	그	gɯ	gɯ	gɯ	True	True
+9	생각이	sɛŋgagi	sɛŋgagi	sɛŋgagi	True	True
+10	아마	ama	ama	ama	True	True
+11	연관되어	jʌngwandweʌ	jʌngwandweʌ	jʌngwandweʌ	True	True
+12	있었는지도	isʼʌnnɯnʣido	isʼʌnnɯnʣido	isʼʌnnɯnʣido	True	True
+13	모릅니다.	morɯmɲida	morɯmɲida	morɯmɲida	True	True

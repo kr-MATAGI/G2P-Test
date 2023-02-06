@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	두	du	du	du	True	True
+2	사람이	sarami	sarami	sarami	True	True
+3	파	pʰado	pʰa	pʰa	False	False
+4	도	dwerɯɭ	do	do	False	False
+5	되를	gatsʰi	dwerɯɭ	dwerɯɭ	False	False
+6	같이	hage	gatsʰi	gatsʰi	False	False
+7	하게	dwemjʌnsʌ	hage	hage	False	False
+8	되면서	magotʰɯ	dwemjʌnsʌ	dwemjʌnsʌ	False	False
+9	마고트	pʰontʰeinɯn	magotʰɯ	magotʰɯ	False	False
+10	폰테인은	gʌgisʌbutʰʌ	pʰontʰeinɯn	pʰontʰeinɯn	False	False
+11	거기서부터	han	gʌgisʌbutʰʌ	gʌgisʌbutʰʌ	False	False
+12	한	iɕim	han	han	False	False
+13	이십	ɲjʌnɯɭ	iɕip̚	iɕip̚	False	False
+14	년을	dʌ	ɲjʌnɯɭ	ɲjʌnɯɭ	False	False
+15	더	ʌ	dʌ	dʌ	False	False
+16	어~	esʌ	ʌ	ʌp̚	False	False
+17	춤을	tsʰumɯɭ	tsʰumɯɭ	tsʰumɯɭ	True	True
+18	추게	tsʰuge	tsʰuge	tsʰuge	True	True
+19	되죠.	dweʣjo̞	dweʣjo̞	dweʣjo̞	True	True

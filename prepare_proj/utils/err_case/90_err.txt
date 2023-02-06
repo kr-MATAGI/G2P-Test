@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사랑의	saraŋe	saraŋe	saraŋi	True	False
+1	묘약	mjo̞.jak̚	mjo̞.jak̚	mjo̞.jak̚	True	True
+2	팔리아츠	pʰaɭʎ̟i	pʰaɭʎ̟iatsʰɯ	pʰaɭʎ̟iatsʰɯ	False	False
+3	카르멘	atsʰɯ	kʰarɯmen	kʰarɯmen	False	False
+4	등	kʰarɯmen	dɯŋ	dɯŋ	False	False
+5	전통	dɯŋ	ʣʌntʰoŋ	ʣʌntʰoŋ	False	False
+6	오페라의	ʣʌntʰoŋ	opʰerae	opʰerae	False	False
+7	아리아를	opʰerae	ariarɯɭ	ariarɯɭ	False	False
+8	선사하는	ariarɯɭ	sʌnsahanɯn	sʌnsahanɯn	False	False
+9	십이월의	sʌnsahanɯn	ɕibiwʌre	ɕibiwʌre	False	False
+10	밤	ɕibiwʌre	bam	pam	False	False

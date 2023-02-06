@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이게	ige	ige	ige	True	True
+1	말이	mari	mari	mari	True	True
+2	안	an	an	an	True	True
+3	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True
+4	그러면서	gɯrʌmjʌnsʌ	kɯrʌmjʌnsʌ	gɯrʌmjʌnsʌ	False	True
+5	읽으면	iɭgɯmjʌn	iɭgɯmjʌn	iɭgɯmjʌn	True	True
+6	재미	ʣɛmi	ʣɛmi	ʣɛmi	True	True
+7	없잖아요.	ʌp̚.tzanajo̞	ʌp̚.tzanajo̞	ʌp̚.tzanajo̞	True	True

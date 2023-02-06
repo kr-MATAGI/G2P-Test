@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	점차	t͡ɕʌmtsʰa	ʣʌmtsʰa	.tzʌmtsʰa	False	False
+1	왕의	waŋe	waŋe	waŋi	True	False
+2	면모를	mjʌnmorɯɭ	mjʌnmorɯɭ	mjʌnmorɯɭ	True	True
+3	갖춰가는	gat̚tsʰwʌganɯn	gat̚tsʰwʌganɯn	kat̚tsʰwʌganɯn	True	False
+4	저잣거리	ʣʌʣat̚kʼʌri	ʣʌʣat̚kʼʌri	ʣʌʣat̚kʼʌri	True	True
+5	광대	gwaŋdɛ	gwaŋdɛ	kwaŋdɛ	True	False
+6	하선의	hasʌne	hasʌne	hasʌne	True	True
+7	모습까지	mosɯp̚kʼaʣi	mosɯp̚kʼaʣi	mosɯp̚kʼaʣi	True	True
+8	완벽한	wanbjʌkʰan	wanbjʌkʰan	wanbjʌkʰan	True	True
+9	일인	iriɲijʌgɯɭ	irin	irin	False	False
+10	이역을	bojʌʣumɲida	ijʌgɯɭ	ijʌgɯɭ	False	False

@@ -1,0 +1,4 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	수소수는	susosunɯn	susosunɯn	susosunɯn	True	True
+1	노화까지	nohwakʼaʣi	nohwakʼaʣi	nohwakʼaʣi	True	True
+2	해결해줍니다.	hɛgjʌɭhɛʣumɲida	hɛgjʌɭhɛʣumɲi	hɛgjʌɭhɛʣumɲi	False	False

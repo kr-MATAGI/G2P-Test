@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	몇	mjʌt̚	mjʌt̚	mjʌt̚	True	True
+2	달	tʼaɭ	daɭ	daɭ	False	False
+3	후에	hue	hue	hue	True	True
+4	회의에서	hweiesʌ	hweiesʌ	hweeesʌ	True	False
+5	보고가	bogoga	bogoga	bogoga	True	True
+6	들어오는데	dɯrʌonɯnde	dɯrʌonɯnde	dɯrʌonɯnde	True	True
+7	생태원	sɛŋtʰɛwʌn	sɛŋtʰɛwʌn	sɛŋtʰɛwʌn	True	True
+8	전반에	ʣʌnbane	ʣʌnbane	ʣʌnbane	True	True
+9	걸쳐서	gʌɭtsʰʌsʌ	gʌɭtsʰʌsʌ	kʌɭtsʰʌsʌ	True	False
+10	최고로	tsʰwegoro	tsʰwegoro	tsʰwegoro	True	True
+11	인기	inkʼi	inkʼi	ingi	True	False
+12	있는	innɯn	innɯn	innɯn	True	True
+13	곳이	goɕi	goɕi	goɕi	True	True
+14	거기래요.	gʌgirɛjo̞	gʌgirɛjo̞	kʌgirɛjo̞	True	False

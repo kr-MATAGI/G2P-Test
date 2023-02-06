@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	부류인	haɕinɯnde	burjuin	burjuin	False	False
+1	거	ʣʌnɯn	gʌ	gʌ	False	False
+2	같은데	ʣom	gatʰɯnde	gatʰɯnde	False	False
+3	이렇게	muɭʎ̟ihak̚.tzaɲikʼa	irʌkʰe	irʌkʰe	False	False
+4	흥행을	gɯkʼa	hɯŋhɛŋɯɭ	hɯŋhɛŋɯɭ	False	False
+5	한	hangugesʌe	han	han	False	False
+6	게	gitsʰo	ge	ge	False	False
+7	좀	gwahagi	ʣom	ʣom	False	False
+8	놀라운	gweŋʣaŋhi	noɭlaun	noɭlaun	False	False
+9	일이고	jʌrakʰadanɯn	irigo	irigo	False	False
+10	제가	gʌ	ʣega	ʣega	False	False
+11	좀	dɛtsʰuŋ	ʣom	ʣom	False	False
+12	덧붙이고	ʣimʣagɯɭ	dʌt̚pʼutsʰigo	tʌt̚pʼutsʰigo	False	False
+13	싶은	haɕiʣanajo̞	ɕipʰɯn	ɕipʰɯn	False	False

@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어	ʌ	ʌ	ʌ	True	True
+1	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+2	그	gɯ	gɯ	gɯ	True	True
+3	면적과	mjʌnʣʌk̚kʼwa	mjʌnʣʌk̚kʼwa	mjʌnʣʌk̚kʼwa	True	True
+4	그	gɯ	gɯ	gɯ	True	True
+5	받는	bannɯn	bannɯn	pannɯn	True	False
+6	힘	him	him	him	True	True
+7	어	ʌ	ʌ	ʌ	True	True
+8	그	gɯdaɯm	gɯ	gɯ	False	False
+9	다음	mwʌ	daɯm	daɯm	False	False
+10	뭐	mjʌnʣʌgi	mwʌ	mwʌ	False	False
+11	면적이	mwʌ	mjʌnʣʌgi	mjʌnʣʌgi	False	False
+12	뭐	du	mwʌ	mwʌ	False	False
+13	두	bɛ	du	du	False	False
+14	배	gɯrʌn	bɛ	pɛ	False	False
+15	그런	gʌ	gɯrʌn	gɯrʌn	False	False
+16	거	jo̞ʣɯmenɯn	gʌ	gʌ	False	False
+17	요즘에는	saŋɕigiʣanajo̞	jo̞ʣɯmenɯn	jo̞ʣɯmenɯn	False	False

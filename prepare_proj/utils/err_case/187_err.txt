@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자	t͡ɕa	t͡ɕa	ʣa	True	False
+1	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+2	번째	pʼʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	False	False
+3	실험은	ɕiɭhʌmɯn	ɕiɭhʌmɯn	ɕiɭhʌmɯn	True	True
+4	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+5	짧은	.tzaɭbɯn	.tzaɭbɯn	.tzaɭbɯn	True	True
+6	거리에서	gʌriesʌ	gʌriesʌ	gʌriesʌ	True	True
+7	이러	irʌ	irʌ	irʌ	True	True
+8	이뤄졌기	irwʌʣʌt̚kʼi	irwʌʣʌt̚kʼi	irwʌʣʌt̚kʼi	True	True
+9	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+10	이	i	i	i	True	True
+11	논로컬리티	noɭlokʰʌɭʎ̟itʰi	noɭlokʰʌɭʎ̟it	noɭlokʰʌɭʎ̟it	False	False
+12	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+13	비국소성	biguk̚sʼosʌŋ	biguk̚sʼosʌŋ	biguk̚sʼosʌŋ	True	True
+14	문제를	munʣerɯɭ	munʣerɯɭ	munʣerɯɭ	True	True
+15	해결하기	hɛgjʌɭhagi	hɛgjʌɭhagi	hɛgjʌɭhagi	True	True
+16	위해서는	wihɛsʌnɯn	wihɛsʌnɯn	wihɛsʌnɯn	True	True
+17	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+18	멀리서	mʌɭʎ̟isʌ	mʌɭʎ̟isʌ	mʌɭʎ̟isʌ	True	True
+19	하는	hanɯn	hanɯn	hanɯn	True	True
+20	게	ge	ge	ge	True	True
+21	좋잖아요.	ʣotsʰanajo̞	ʣotsʰanajo̞	.tzo.tzanajo̞	True	False

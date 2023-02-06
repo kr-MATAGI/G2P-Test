@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+1	들면	dɯɭmjʌn	dɯɭmjʌn	dɯɭmjʌn	True	True
+2	심장병	ɕimʣaŋpʼjʌŋ	ɕimʣaŋpʼjʌŋ	ɕimʣaŋbjʌŋ	True	False
+3	암	am	am	am	True	True
+4	여러	jʌrʌ	jʌrʌ	jʌrʌ	True	True
+5	가지	gaʣi	gaʣi	gaʣi	True	True
+6	다른	darɯn	darɯn	darɯn	True	True
+7	질병이	ʣiɭbjʌŋi	ʣiɭbjʌŋi	.tziɭbjʌŋi	True	False
+8	있는데	innɯnde	innɯnde	innɯnde	True	True
+9	그	gɯ	gɯ	gɯ	True	True
+10	심장병은	ɕimʣaŋpʼjʌŋɯn	ɕimʣaŋpʼjʌŋɯ	ɕimʣaŋbjʌŋɯn	False	False
+11	우리가	uriga	uriga	uriga	True	True
+12	이제	iʣe	iʣe	iʣe	True	True
+13	많이	maɲi	maɲi	maɲi	True	True
+14	정복을	ʣʌŋbogɯɭ	ʣʌŋbogɯɭ	.tzʌŋbogɯɭ	True	False
+15	하고	hago	hago	hago	True	True
+16	있다고	it̚tʼago	it̚tʼago	it̚tʼago	True	True
+17	그래요.	gɯrɛjo̞	gɯrɛjo̞	kɯrɛjo̞	True	False

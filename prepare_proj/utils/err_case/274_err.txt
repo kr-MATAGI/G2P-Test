@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	진짜로	t͡ɕin.tzaro	ʣin.tzaro	.tzin.tzaro	False	False
+1	준	ʣun	ʣun	ʣun	True	True
+2	그룹과	gɯrup̚kʼwa	gɯrup̚kʼwa	gɯrup̚kʼwa	True	True
+3	안	an	an	an	True	True
+4	준	ʣun	ʣun	ʣun	True	True
+5	그룹을	gɯrubɯɭ	gɯrubɯɭ	gɯrubɯɭ	True	True
+6	나눠서	nanwʌsʌ	nanwʌsʌ	nanwʌsʌ	True	True
+7	또	tʼo	tʼo	tʼo	True	True
+8	실험을	ɕiɭhʌmɯɭ	ɕiɭhʌmɯɭ	ɕiɭhʌmɯɭ	True	True
+9	하기도	hagido	hagido	hagido	True	True
+10	합니다.	hamɲida	hamɲida	hamɲida	True	True

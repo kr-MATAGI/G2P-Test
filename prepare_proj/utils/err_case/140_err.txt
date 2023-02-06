@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	중앙대	t͡ɕuŋaŋdɛ	ʣuŋaŋdɛ	ʣuŋaŋdɛ	False	False
+1	사진과를	saʣingwarɯɭ	saʣingwarɯɭ	saʣingwarɯɭ	True	True
+2	졸업하고	ʣorʌpʰago	ʣorʌpʰago	.tzorʌpʰago	True	False
+3	데뷔전을	debwiʣʌnɯɭ	debwiʣʌnɯɭ	tebwiʣʌnɯɭ	True	False
+4	준비할	ʣunbihaɭ	ʣunbihaɭ	ʣunbihaɭ	True	True
+5	때	tʼɛ	tʼɛ	tʼɛ	True	True
+6	그가	gɯga	gɯga	gɯga	True	True
+7	다시	daɕi	daɕi	daɕi	True	True
+8	손에	sone	sone	sone	True	True
+9	든	dɯn	dɯn	dɯn	True	True
+10	것도	gʌt̚tʼo	gʌt̚tʼo	gʌt̚tʼo	True	True
+11	역시	jʌk̚ɕʼi	jʌk̚ɕʼi	jʌk̚ɕʼi	True	True
+12	책이었죠.	tsʰɛgiʌt̚.tzjo̞	tsʰɛgiʌt̚.tzjo	tsʰɛgiʌt̚.tzjo	False	False

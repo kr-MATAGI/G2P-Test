@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	리어왕은	riʌwaŋɯn	riʌwaŋɯn	riʌwaŋɯn	True	True
+1	팔십이	pʰaɭɕibi	pʰaɭɕʼibi	pʰaɭɕʼibi	False	False
+2	넘은	nʌmɯn	nʌmɯn	nʌmɯn	True	True
+3	노인의	noine	noine	noine	True	True
+4	삶에	saɭme	saɭme	saɭme	True	True
+5	폭풍처럼	pʰok̚pʰuŋtsʰʌrʌm	pʰok̚pʰuŋtsʰʌ	pʰok̚pʰuŋtsʰʌ	False	False
+6	휘몰아친	hwimoratsʰin	hwimoɭatsʰin	hwimoratsʰin	False	True
+7	참담한	tsʰamdamhan	tsʰamdamhan	tsʰamdamhan	True	True
+8	비극이며	bigɯgimjʌ	bigɯgimjʌ	bigɯgimjʌ	True	True
+9	비극적	bigɯk̚.tzʌk̚	bigɯk̚.tzʌk̚	bigɯk̚.tzʌk̚	True	True
+10	운명의	unmjʌŋe	unmjʌŋe	unmjʌŋi	True	False
+11	기록이라고	girogirago	girogirago	kirogirago	True	False
+12	할	haɭ	haɭ	haɭ	True	True
+13	수	su	su	su	True	True
+14	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

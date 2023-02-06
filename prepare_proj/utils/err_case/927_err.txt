@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	질소랑	t͡ɕiɭsʼoraŋ	ʣiɭsʼoraŋ	.tziɭsʼoraŋ	False	False
+1	이산화탄소를	isanhwatʰansorɯɭ	isanhwatʰansorɯɭ	isanhwatʰansorɯɭ	True	True
+2	분리해내는	buɭʎ̟ihɛnɛnɯn	buɭʎ̟ihɛnɛnɯn	buɭʎ̟ihɛnɛnɯn	True	True
+3	기술엔	gisuren	gisuren	kisuren	True	False
+4	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+5	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+6	있는지	innɯnʣi	innɯnʣi	innɯnʣi	True	True
+7	궁금합니다.	guŋgɯmhamɲida	guŋgɯmhamɲida	kuŋgɯmhamɲida	True	False

@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	주말	t͡ɕumaɭ	ʣumaɭ	ʣumaɭ	False	False
+1	오후	ohu	ohu	ohu	True	True
+2	공연	goŋjʌn	goŋjʌn	goŋjʌn	True	True
+3	시작	ɕiʣak̚	ɕiʣak̚	ɕiʣak̚	True	True
+4	전	ʣʌn	ʣʌn	ʣʌn	True	True
+5	이른	irɯn	irɯn	irɯn	True	True
+6	시간부터	ɕiganbutʰʌ	ɕiganbutʰʌ	ɕiganbutʰʌ	True	True
+7	제가	ʣega	ʣega	ʣega	True	True
+8	바삐	bapʼi	bapʼi	papʼi	True	False
+9	극장을	gɯk̚.tzaŋɯɭ	gɯk̚.tzaŋɯɭ	gɯk̚.tzaŋɯɭ	True	True
+10	찾아온	tsʰaʣaon	tsʰaʣaon	tsʰaʣaon	True	True
+11	데는	denɯn	denɯn	tenɯn	True	False
+12	이유가	i.juga	i.juga	i.juga	True	True
+13	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이~	i	i	ip̚	True	False
+1	의미가	esʌ	ɰimiga	ɰimiga	False	False
+2	있다는	ɰimiga	it̚tʼanɯn	it̚tʼanɯn	False	False
+3	생각이	it̚tʼanɯn	sɛŋgagi	sɛŋgagi	False	False
+4	드는데	sɛŋgagi	dɯnɯnde	dɯnɯnde	False	False
+5	네.	dɯnɯnde	ne	ne	False	False
+6	그	ne	gɯ	gɯ	False	False
+7	이야기도	gɯ	i.jagido	i.jagido	False	False
+8	좀	i.jagido	ʣom	ʣom	False	False
+9	해주시죠.	ʣom	hɛʣuɕiʣjo̞	hɛʣuɕiʣjo̞	False	False

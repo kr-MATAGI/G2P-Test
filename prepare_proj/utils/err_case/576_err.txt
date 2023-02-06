@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	카메라는	kʰameranɯn	kʰameranɯn	kʰameranɯn	True	True
+1	생활용품이	sɛŋhwarjo̞ŋpʰumi	sɛŋhwarjo̞ŋpʰu	sɛŋhwarjo̞ŋpʰu	False	False
+2	됐고	dwɛt̚kʼo	dwɛt̚kʼo	twɛt̚kʼo	True	False
+3	사진은	saʣinɯn	saʣinɯn	saʣinɯn	True	True
+4	나와	nawa	nawa	nawa	True	True
+5	주변	ʣubjʌn	ʣubjʌn	ʣubjʌn	True	True
+6	일상의	iɭsʼaŋe	iɭsʼaŋe	iɭsʼaŋe	True	True
+7	이야기를	i.jagirɯɭ	i.jagirɯɭ	i.jagirɯɭ	True	True
+8	기록하는	girokʰanɯn	girokʰanɯn	kirokʰanɯn	True	False
+9	표현도구가	pʰjo̞hjʌn	pʰjo̞hjʌndoguga	pʰjo̞hjʌndoguga	False	False
+10	됐죠.	dokʼuga	dwɛt̚.tzjo̞	twɛt̚.tzjo̞	False	False

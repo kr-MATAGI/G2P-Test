@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오일	oiɭ	oiɭ	oiɭ	True	True
+1	전에	ʣʌne	ʣʌne	ʣʌne	True	True
+2	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+3	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+4	이	i	i	i	True	True
+5	알프레드	aɭpʰɯredɯ	aɭpʰɯredɯ	aɭpʰɯredɯ	True	True
+6	어	ʌ	ʌ	ʌ	True	True
+7	경기도	gjʌŋgido	gjʌŋgido	kjʌŋgido	True	False
+8	경기도에서	gjʌŋgidoesʌ	gjʌŋgidoesʌ	kjʌŋgidoesʌ	True	False
+9	지원을	ʣiwʌnɯɭ	ʣiwʌnɯɭ	ʣiwʌnɯɭ	True	True
+10	받아서	badasʌ	badasʌ	padasʌ	True	False
+11	성균관대랑	sʌŋgjungwandɛraŋ	sʌŋgjungwandɛra	sʌŋgjungwandɛra	False	False
+12	공동	goŋdoŋ	goŋdoŋ	goŋdoŋ	True	True
+13	어~	ʌ	ʌ	ʌp̚	True	False
+14	연구한게	esʌ	jʌnguhange	jʌnguhange	False	False
+15	있거든요.	jʌnguhan	it̚kʼʌdɯɲjo̞	it̚kʼʌdɯɲjo̞	False	False

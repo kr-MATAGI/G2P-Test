@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	내가	nɛga	nɛga	nɛga	True	True
+1	키우던	kʰiudʌn	kʰiudʌn	kʰiudʌn	True	True
+2	강아지	gaŋaʣi	gaŋaʣi	gaŋaʣi	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	강아지	gaŋaʣi	gaŋaʣi	gaŋaʣi	True	True
+5	나	na	na	na	True	True
+6	학교	hak̚kʼjo̞	hak̚kʼjo̞	hak̚kʼjo̞	True	True
+7	갔다	gat̚tʼa	gat̚tʼa	gat̚tʼa	True	True
+8	오면	omjʌn	omjʌn	omjʌn	True	True
+9	동구밖까지	doŋgu	doŋgubak̚kʼaʣi	toŋgubak̚kʼaʣi	False	False
+10	날	bak̚kʼaʣi	naɭ	naɭ	False	False
+11	찾아왔는데	naɭ	tsʰaʣawannɯnde	tsʰaʣawannɯnde	False	False
+12	지금	tsʰaʣawannɯnde	ʣigɯm	ʣigɯm	False	False
+13	어떻게	ʣigɯ	ʌtʼʌkʰe	ʌtʼʌkʰe	False	False
+14	됐을까	mʌtʼʌkʰe	dwɛsʼɯɭkʼa	dwɛsʼɯɭkʼa	False	False

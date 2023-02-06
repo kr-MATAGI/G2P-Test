@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	눈썹을	nunsʼʌbɯɭ	nunsʼʌbɯɭ	nunsʼʌbɯɭ	True	True
+1	들어올려서	dɯrʌ	dɯrʌoɭʎ̟jʌsʌ	dɯrʌoɭʎ̟jʌsʌ	False	False
+2	이마에	oɭʎ̟jʌsʌ	imae	imae	False	False
+3	주름이	imae	ʣurɯmi	ʣurɯmi	False	False
+4	생기게	ʣurɯmi	sɛŋgige	sɛŋgige	False	False
+5	하는	sɛŋgige	hanɯn	hanɯn	False	False
+6	기능에는	hanɯn	ginɯŋenɯn	kinɯŋenɯn	False	False

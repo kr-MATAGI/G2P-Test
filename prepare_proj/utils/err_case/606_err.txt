@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	그거를	gɯgʌrɯɭ	gɯgʌrɯɭ	gɯgʌrɯɭ	True	True
+3	개조해가지고	gɛʣohɛgaʣigo	gɛʣohɛgaʣigo	kɛʣohɛgaʣigo	True	False
+4	쓸려고	sʼɯɭʎ̟jʌgo	sʼɯɭʎ̟jʌgo	sʼɯɭʎ̟jʌgo	True	True
+5	하다	hada	hada	hada	True	True
+6	보니까	boɲikʼa	boɲikʼa	boɲikʼa	True	True
+7	잡음이	ʣabɯmi	ʣabɯmi	ʣabɯmi	True	True
+8	계속	gʲesok̚	gʲesok̚	gʲesok̚	True	True
+9	생기는데	sɛŋginɯnde	sɛŋginɯnde	sɛŋginɯnde	True	True

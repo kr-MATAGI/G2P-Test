@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	목성에	esʌ	mok̚sʼʌŋe	mok̚sʼʌŋe	False	False
+2	아까	mok̚sʼʌŋe	akʼa	akʼa	False	False
+3	땅도	akʼa	tʼaŋdo	tʼaŋdo	False	False
+4	없는데	tʼaŋdo	ʌmnɯnde	ʌmnɯnde	False	False

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	대	tɛ	dɛ	dɛ	False	False
+1	대충	dɛtsʰuŋ	dɛtsʰuŋ	dɛtsʰuŋ	True	True
+2	에너지를	enʌʣirɯɭ	enʌʣirɯɭ	enʌʣirɯɭ	True	True
+3	한	han	han	han	True	True
+4	오백쥐비	obɛk̚	obɛk̚.tzwibi	obɛk̚.tzwibi	False	False
+5	가깝게	ʣwibi	gakʼap̚kʼe	gakʼap̚kʼe	False	False
+6	먼저	gakʼap̚kʼe	mʌnʣʌ	mʌnʣʌ	False	False
+7	가속을	mʌnʣʌ	gasogɯɭ	gasogɯɭ	False	False
+8	시킵니다.	gasogɯɭ	ɕikʰimɲida	ɕikʰimɲida	False	False

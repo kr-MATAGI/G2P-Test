@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	카리스마를	kʰarisɯmarɯɭ	kʰarisɯmarɯɭ	kʰarisɯmarɯɭ	True	True
+1	가진	gaʣin	gaʣin	gaʣin	True	True
+2	그런	gɯrʌ	gɯrʌn	gɯrʌn	False	False
+3	인물에게	ɲinmurege	inmurege	inmurege	False	False
+4	내면을	nɛmjʌnɯɭ	nɛmjʌnɯɭ	nɛmjʌnɯɭ	True	True
+5	또	tʼo	tʼo	tʼo	True	True
+6	투영을	tʰujʌŋɯɭ	tʰujʌŋɯɭ	tʰujʌŋɯɭ	True	True
+7	하신	haɕin	haɕin	haɕin	True	True
+8	모양입니다.	mo.jaŋimɲida	mo.jaŋimɲida	mo.jaŋimɲida	True	True

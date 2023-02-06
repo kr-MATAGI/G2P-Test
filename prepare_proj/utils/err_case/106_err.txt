@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	마틸드가	matʰiɭdɯga	matʰiɭdɯga	matʰiɭdɯga	True	True
+1	로토를	rotʰorɯɭ	rotʰorɯɭ	rotʰorɯɭ	True	True
+2	만났을	mannasʼɯɭ	mannasʼɯɭ	mannasʼɯɭ	True	True
+3	때	tʼɛ	tʼɛ	tʼɛ	True	True
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	이야기를	ɲi.jagirɯɭ	i.jagirɯɭ	i.jagirɯɭ	False	False
+6	하잖아요.	haʣanajo̞	haʣanajo̞	haʣanajo̞	True	True

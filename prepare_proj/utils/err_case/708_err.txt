@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	그게	gɯge	gɯge	gɯge	True	True
+3	거의	gʌe	gʌe	gʌe	True	True
+4	같았으면은	gatʰasʼɯmjʌnɯ	gatʰasʼɯmjʌnɯn	katʰasʼɯmjʌnɯn	False	False
+5	아주	naʣu	aʣu	aʣu	False	False
+6	인제	inʣe	inʣe	inʣe	True	True
+7	거의	gʌe	gʌe	gʌe	True	True
+8	정설이	ʣʌŋsʌri	ʣʌŋsʌri	t͡ɕʌŋsʌri	True	False
+9	확실한	hwak̚ɕʼiɭhan	hwak̚ɕʼiɭhan	hwak̚ɕʼiɭhan	True	True
+10	정설이	ʣʌŋsʌri	ʣʌŋsʌri	t͡ɕʌŋsʌri	True	False
+11	되었을텐데	dweʌsʼɯɭ	dweʌsʼɯɭ	dweʌsʼɯɭtʰend	True	False

@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	분노를	punnorɯɭ	bunnorɯɭ	bunnorɯɭ	False	False
+1	억압하지	ʌgapʰaʣi	ʌgapʰaʣi	ʌgapʰaʣi	True	True
+2	않기	ankʰi	ankʰi	ankʰi	True	True
+3	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+4	어~	ʌ	ʌ	ʌp̚	True	False
+5	이	esʌ	i	i	False	False
+6	차	i	tsʰa	tsʰa	False	False
+7	증상으로써	tsʰa	ʣɯŋsaŋɯrosʼʌ	.tzɯŋsaŋɯrosʼ	False	False
+8	우울증이	ʣɯŋsaŋɯrosʼʌ	uuɭ.tzɯŋi	uuɭ.tzɯŋi	False	False
+9	만들어지는	uuɭ.tzɯŋi	mandɯrʌʣinɯn	mandɯrʌʣinɯn	False	False
+10	것을	mandɯrʌʣinɯn	gʌsɯɭ	gʌsɯɭ	False	False
+11	예방할	gʌsɯɭ	jebaŋhaɭ	jebaŋhaɭ	False	False
+12	수가	jebaŋhaɭ	suga	suga	False	False
+13	있습니다.	suga	it̚sʼɯmɲida	it̚sʼɯmɲida	False	False

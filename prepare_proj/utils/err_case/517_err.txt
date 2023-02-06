@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	여행	esʌ	jʌhɛŋ	jʌhɛŋ	False	False
+2	중에도	jʌhɛŋ	ʣuŋedo	ʣuŋedo	False	False
+3	그런	ʣuŋedo	gɯrʌn	gɯrʌn	False	False
+4	얘기를	gɯrʌ	jɛgirɯɭ	jɛgirɯɭ	False	False
+5	하면은	njɛgirɯɭ	hamjʌnɯn	hamjʌnɯn	False	False
+6	에~	hamjʌnɯn	e	eepʼa	False	False
+7	저도	e	ʣʌdo	ʣʌdo	False	False
+8	깨닫고	esʌ	kʼɛdat̚kʼo	kʼɛdat̚kʼo	False	False

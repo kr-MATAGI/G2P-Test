@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저자는	t͡ɕʌʣanɯn	ʣʌʣanɯn	ʣʌʣanɯn	False	False
+1	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+2	통해	tʰoŋhɛ	tʰoŋhɛ	tʰoŋhɛ	True	True
+3	국수를	guk̚sʼurɯɭ	guk̚sʼurɯɭ	guk̚sʼurɯɭ	True	True
+4	먹으며	mʌgɯmjʌ	mʌgɯmjʌ	mʌgɯmjʌ	True	True
+5	사람들과	saramdɯɭgwa	saramdɯɭgwa	saramdɯɭgwa	True	True
+6	나눈	nanun	nanun	nanun	True	True
+7	정	ʣʌŋ	ʣʌŋ	ʣʌŋ	True	True
+8	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+9	그들과	gɯdɯɭgwa	gɯdɯɭgwa	gɯdɯɭgwa	True	True
+10	함께한	hamkʼehan	hamkʼehan	hamkʼehan	True	True
+11	소중한	soʣuŋhan	soʣuŋhan	soʣuŋhan	True	True
+12	인생에	insɛŋe	insɛŋe	insɛŋe	True	True
+13	순간들을	sungandɯrɯɭ	sungandɯrɯɭ	sungandɯrɯɭ	True	True
+14	들려줍니다.	dɯɭʎ̟jʌʣumɲida	dɯɭʎ̟jʌʣumɲi	dɯɭʎ̟jʌʣumɲi	False	False

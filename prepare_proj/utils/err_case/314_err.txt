@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그전에	kɯʣʌne	kɯʣʌne	gɯʣʌne	True	False
+1	이만	iman	iman	iman	True	True
+2	년	ɲjʌn	ɲjʌn	ɲjʌn	True	True
+3	혹은	hogɯn	hogɯn	hogɯn	True	True
+4	사만	saman	saman	saman	True	True
+5	년	ɲjʌn	ɲjʌn	ɲjʌn	True	True
+6	뭐~	mwʌ	mwʌ	mwʌ	True	True
+7	이렇게	esʌ	irʌkʰe	irʌkʰe	False	False
+8	이런	irʌkʰe	irʌn	irʌn	False	False
+9	기간들	irʌn	gigandɯɭ	kigandɯɭ	False	False
+10	동안엔	gigandɯɭ	doŋanen	toŋanen	False	False
+11	얘네들은	doŋanen	jɛnedɯrɯn	jɛnedɯrɯn	False	False
+12	하나도	jɛnedɯrɯn	hanado	hanado	False	False
+13	발전을	hanado	baɭ.tzʌnɯɭ	paɭ.tzʌnɯɭ	False	False
+14	안	baɭ.tzʌnɯɭ	an	an	False	False
+15	한	an	han	han	False	False
+16	거냐.	han	gʌɲ.ja	gʌɲ.ja	False	False

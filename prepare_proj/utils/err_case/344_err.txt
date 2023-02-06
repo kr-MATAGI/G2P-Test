@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	부동산	pudoŋsan	budoŋsan	budoŋsan	False	False
+1	쫌	.tzom	.tzom	.tzom	True	True
+2	있으신	ɲisʼɯɕin	isʼɯɕin	isʼɯɕin	False	False
+3	분	bun	bun	bun	True	True
+4	계세요.	gʲesejo̞	gʲesejo̞	gʲesejo̞	True	True
+5	여기	jʌgi	jʌgi	jʌgi	True	True

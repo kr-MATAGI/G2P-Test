@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이경구한테는	igjʌŋguhantʰenɯn	igjʌŋguhantʰenɯ	igjʌŋguhantʰenɯ	False	False
+1	유독	.judok̚	.judok̚	.judok̚	True	True
+2	그	gɯ	gɯ	gɯ	True	True
+3	이상한	isaŋhan	isaŋhan	isaŋhan	True	True
+4	필터가	pʰiɭtʰʌga	pʰiɭtʰʌga	pʰiɭtʰʌga	True	True
+5	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

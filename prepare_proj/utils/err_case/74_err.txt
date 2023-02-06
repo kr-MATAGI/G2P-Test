@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	두	tu	du	du	False	False
+1	번째	bʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	True	False
+2	정의는	ʣʌŋinɯn	ʣʌŋinɯn	.tzʌŋinɯn	True	False
+3	이제	iʣe	iʣe	iʣe	True	True
+4	동시	doŋɕi	doŋɕi	toŋɕi	True	False
+5	시인이다.	ɕiiɲida	ɕiiɲida	ɕiiɲida	True	True

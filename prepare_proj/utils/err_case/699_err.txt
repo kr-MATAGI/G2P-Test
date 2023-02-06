@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True
+1	재밌어서	ʣɛmisʼʌsʌ	ʣɛmisʼʌsʌ	ʣɛmisʼʌsʌ	True	True
+2	제가	ʣega	ʣega	ʣega	True	True
+3	부모님께	bumoɲimkʼe	bumoɲimkʼe	bumoɲimkʼe	True	True
+4	감사드리는	gamsadɯrinɯn	gamsadɯrinɯn	kamsadɯrinɯn	True	False
+5	몇	mjʌt̚	mjʌt̚	mjʌt̚	True	True
+6	가지	kʼaʣi	gaʣi	gaʣi	False	False
+7	중	ʣuŋ	ʣuŋ	ʣuŋ	True	True
+8	하나는	hananɯn	hananɯn	hananɯn	True	True
+9	사랑니가	saraŋɲiga	saraŋɲiga	saraŋɲiga	True	True
+10	없습니다.	ʌp̚sʼɯmɲida	ʌp̚sʼɯmɲida	ʌp̚sʼɯmɲida	True	True

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	암컷과	amkʰʌt̚kʼwa	amkʰʌt̚kʼwa	amkʰʌt̚kʼwa	True	True
+1	수컷이	sukʰʌɕi	sukʰʌɕi	sukʰʌɕi	True	True
+2	생겼다는	sɛŋgjʌt̚tʼanɯn	sɛŋgjʌt̚tʼanɯ	sɛŋgjʌt̚tʼanɯ	False	False
+3	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+4	되게	dwege	dwege	dwege	True	True
+5	중요한	ʣuŋjo̞han	ʣuŋjo̞han	ʣuŋjo̞han	True	True
+6	요소에요.	jo̞soejo̞	jo̞soejo̞	jo̞soejo̞	True	True

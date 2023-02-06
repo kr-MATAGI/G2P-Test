@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+2	들어서	dɯrʌsʌ	dɯrʌsʌ	dɯrʌsʌ	True	True
+3	지구를	ʣigurɯɭ	ʣigurɯɭ	ʣigurɯɭ	True	True
+4	찍는	.tziŋnɯn	.tziŋnɯn	.tziŋnɯn	True	True
+5	다고	dago	dago	dago	True	True
+6	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+7	지구를	ʣigurɯɭ	ʣigurɯɭ	ʣigurɯɭ	True	True
+8	한	han	han	han	True	True
+9	번에	bʌne	bʌne	bʌne	True	True
+10	못	mot̚	mot̚	mot̚	True	True
+11	찍고	.tzik̚kʼo	.tzik̚kʼo	.tzik̚kʼo	True	True
+12	스물세	sɯmuɭse	sɯmuɭse	sɯmuɭsʼe	True	False
+13	등분을	dɯŋbunɯɭ	dɯŋbunɯɭ	dɯŋbunɯɭ	True	True
+14	해가지고	hɛga	hɛga	hɛgaʣigo	True	False
+15	스물세	ʣigo	sɯmuɭse	sɯmuɭsʼe	False	False
+16	번을	sɯmuɭse	bʌnɯɭ	pʌnɯɭ	False	False
+17	촬영을	bʌnɯɭ	tsʰwarjʌŋɯɭ	tsʰwarjʌŋɯɭ	False	False
+18	합니다.	tsʰwarjʌŋɯɭ	hamɲida	hamɲida	False	False

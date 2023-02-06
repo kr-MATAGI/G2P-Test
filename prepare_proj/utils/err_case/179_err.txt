@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	너무	nʌmu	nʌmu	nʌmu	True	True
+2	안타깝게도	antʰakʼap̚kʼedo	antʰakʼap̚kʼedo	antʰakʼap̚kʼedo	True	True
+3	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+4	어~	ʌ	ʌ	ʌp̚	True	False
+5	이	esʌ	i	i	False	False
+6	시간을	i	ɕiganɯɭ	ɕiganɯɭ	False	False
+7	마지막으로	ɕiganɯɭ	maʣimagɯro	maʣimagɯro	False	False
+8	여러분과	maʣimagɯro	jʌrʌbungwa	jʌrʌbungwa	False	False
+9	어~	jʌrʌbungwa	ʌ	ʌp̚	False	False
+10	작별에	ʌ	ʣak̚pʼjʌre	ʣak̚pʼjʌre	False	False
+11	인사를	esʌ	insarɯɭ	insarɯɭ	False	False
+12	하게	ʣak̚pʼjʌre	hage	hage	False	False
+13	됐습니다.	insarɯɭ	dwɛt̚sʼɯmɲida	twɛt̚sʼɯmɲida	False	False

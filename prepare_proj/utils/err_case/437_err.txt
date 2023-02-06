@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거기에서	kʌgiesʌ	gʌgiesʌ	gʌgiesʌ	False	False
+1	커피농장을	kʰʌpʰinoŋʣaŋɯɭ	kʰʌpʰinoŋʣaŋ	kʰʌpʰinoŋʣaŋ	False	False
+2	운영을	uɲjʌŋɯɭ	uɲjʌŋɯɭ	uɲjʌŋɯɭ	True	True
+3	했는데요.	hɛnnɯndejo̞	hɛnnɯndejo̞	hɛnnɯndejo̞	True	True

@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	하여튼	hajʌtʰɯn	hajʌtʰɯn	hajʌtʰɯn	True	True
+2	근데	gɯnde	kɯnde	gɯnde	False	True
+3	그거를	gɯgʌrɯɭ	gɯgʌrɯɭ	gɯgʌrɯɭ	True	True
+4	보여주면서	bojʌʣumjʌnsʌ	bojʌʣumjʌnsʌ	bojʌʣumjʌnsʌ	True	True
+5	마지막	maʣimak̚	maʣimak̚	maʣimak̚	True	True
+6	이	i	i	i	True	True
+7	친구	tsʰingu	tsʰingu	tsʰingu	True	True
+8	한마디가	hanmadiga	hanmadiga	hanmadiga	True	True
+9	되게	dwege	dwege	dwege	True	True
+10	뼈가	pʼjʌga	pʼjʌga	pʼjʌga	True	True
+11	아팠던	apʰat̚tʼʌn	apʰat̚tʼʌn	apʰandʌn	True	False
+12	게	ge	ge	ge	True	True
+13	니네	ɲine	ɲine	ɲine	True	True
+14	나라에	narae	narae	narae	True	True
+15	이런	irʌn	irʌn	irʌn	True	True
+16	게	ge	ge	ge	True	True
+17	없지	ʌp̚.tzi	ʌp̚.tzi	ʌp̚.tzi	True	True
+18	그러더라구요.	gɯrʌdʌragujo̞	gɯrʌdʌragujo̞	kɯrʌdʌragujo̞	True	False

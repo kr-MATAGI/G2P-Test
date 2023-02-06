@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이~	i	i	ip̚	True	False
+1	영상	esʌ	jʌŋsaŋ	jʌŋsaŋ	False	False
+2	같은	jʌŋsaŋ	gatʰɯn	gatʰɯn	False	False
+3	걸	gatʰɯn	gʌɭ	gʌɭ	False	False
+4	찍었을	gʌɭ	.tzigʌsʼɯɭ	.tzigʌsʼɯɭ	False	False
+5	때	.tzigʌsʼɯɭ	tʼɛ	tʼɛ	False	False
+6	그러니까	tʼɛ	kɯrʌɲikʼa	gɯrʌɲikʼa	False	False

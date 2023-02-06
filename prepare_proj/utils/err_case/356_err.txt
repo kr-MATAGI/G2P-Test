@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그동안	kɯdoŋan	gɯdoŋan	gɯdoŋan	False	False
+1	주변	ʣubjʌn	ʣubjʌn	ʣubjʌn	True	True
+2	장르로	ʣaŋrɯro	ʣaŋrɯro	ʣaŋnɯro	True	False
+3	소외되어	sowedweʌ	sowedweʌ	sowedweʌ	True	True
+4	온	o	on	on	False	False
+5	에스에프가	nesɯepʰɯga	esɯepʰɯga	esɯepʰɯga	False	False
+6	이번	ibʌn	ibʌn	ibʌn	True	True
+7	기회에	gihwee	gihwee	kihwee	True	False
+8	좀	ʣom	ʣom	ʣom	True	True
+9	더	dʌ	dʌ	dʌ	True	True
+10	활성화되고	hwaɭsʼʌŋhwadwego	hwaɭsʼʌŋhwadweg	hwaɭsʼʌŋhwadweg	False	False
+11	사랑받는	saraŋbannɯn	saraŋbannɯn	saraŋbannɯn	True	True
+12	장르로	ʣaŋrɯro	ʣaŋrɯro	ʣaŋnɯro	True	False
+13	자리	ʣari	ʣari	ʣari	True	True
+14	잡기를	ʣap̚kʼirɯɭ	ʣap̚kʼirɯɭ	ʣap̚kʼirɯɭ	True	True
+15	응원해봅니다.	ɯŋwʌnhɛbomɲida	ɯŋwʌnhɛbomɲida	ɯŋwʌnhɛbomɲida	True	True

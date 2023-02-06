@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	훈련	huɭʎ̟jʌn	huɭʎ̟jʌn	huɭʎ̟jʌn	True	True
+3	받은	badɯn	badɯn	padɯn	True	False
+4	지식인거죠.	ʣiɕigin	ʣiɕigin	ʣiɕigingʌʣjo̞	True	False
+5	과학은	gʌʣjo̞	gwahagɯn	kwahagɯn	False	False

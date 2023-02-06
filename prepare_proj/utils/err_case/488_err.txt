@@ -1,0 +1,27 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	도니제티가	toɲiʣetʰiga	doɲiʣetʰiga	doɲiʣetʰiga	False	False
+1	작곡한	ʣak̚kʼokʰan	ʣak̚kʼokʰan	ʣak̚kʼokʰan	True	True
+2	이	i	i	i	True	True
+3	오페라는	opʰeranɯn	opʰeranɯn	opʰeranɯn	True	True
+4	가벼운	gabjʌun	gabjʌun	kabjʌun	True	False
+5	소재로	soʣɛro	soʣɛro	soʣɛro	True	True
+6	모두가	moduga	moduga	moduga	True	True
+7	즐길	ʣɯɭgiɭ	ʣɯɭgiɭ	.tzɯɭgiɭ	True	False
+8	수	su	su	su	True	True
+9	있는	innɯn	innɯn	innɯn	True	True
+10	그런	gɯrʌ	gɯrʌn	gɯrʌn	False	False
+11	오페라로	nopʰeraro	opʰeraro	opʰeraro	False	False
+12	만들어졌다고	mandɯrʌʣʌt̚tʼago	mandɯrʌʣʌt̚tʼ	mandɯrʌʣʌt̚tʼ	False	False
+13	생각을	sɛŋgagɯɭ	sɛŋgagɯɭ	sɛŋgagɯɭ	True	True
+14	했는데	hɛnnɯnde	hɛnnɯnde	hɛnnɯnde	True	True
+15	그	gɯ	gɯ	gɯ	True	True
+16	의도에	ɰidoe	ɰidoe	ɰidoe	True	True
+17	따라서	tʼarasʌ	tʼarasʌ	tʼarasʌ	True	True
+18	저희도	ʣʌhido	ʣʌhido	t͡ɕʌhido	True	False
+19	어	ʌ	ʌ	ʌ	True	True
+20	그렇게	gɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	True	True
+21	쉽고	ʃwip̚kʼo	ʃwip̚kʼo	ʃwip̚kʼo	True	True
+22	재밌게	ʣɛmit̚kʼe	ʣɛmit̚kʼe	ʣɛmit̚kʼe	True	True
+23	접근할려고	ʣʌp̚kʼɯnhaɭʎ̟jʌgo	ʣʌp̚kʼɯnhaɭʎ	t͡ɕʌp̚kʼɯnha	False	False
+24	노력을	norjʌgɯɭ	norjʌgɯɭ	norjʌgɯɭ	True	True
+25	했었구요.	hɛsʼʌt̚kʼujo̞	hɛsʼʌt̚kʼujo̞	hɛsʼʌt̚kʼujo̞	True	True

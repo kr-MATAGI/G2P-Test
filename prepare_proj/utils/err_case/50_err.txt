@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	케임브릿지는	kʰeimbɯrit̚.tzinɯn	kʰeimbɯrit̚.tzin	kʰeimbɯrit̚.tzin	False	False
+1	거기서	gʌgisʌ	gʌgisʌ	gʌgisʌ	True	True
+2	약간	.jak̚kʼan	.jak̚kʼan	.jak̚kʼan	True	True
+3	뒤처지고	dwitsʰʌʣigo	dwitsʰʌʣigo	dwitsʰʌʣigo	True	True
+4	있었지만	isʼʌt̚.tziman	isʼʌt̚.tziman	isʼʌt̚.tziman	True	True

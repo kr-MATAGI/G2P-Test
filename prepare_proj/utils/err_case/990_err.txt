@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	과학을	gwahagɯɭ	gwahagɯɭ	kwahagɯɭ	True	False
+2	좋아하고	ʣoahago	ʣoahago	.tzoahago	True	False
+3	재밌어하지만	ʣɛmisʼʌhaʣima	ʣɛmisʼʌhaʣiman	t͡ɕɛmisʼʌhaʣi	False	False
+4	아이들에게까지	naidɯregekʼaʣi	aidɯregekʼaʣi	aidɯregekʼaʣi	False	False
+5	전이되지는	ʣʌɲidweʣinɯn	ʣʌɲidweʣinɯn	t͡ɕʌɲidweʣinɯ	True	False
+6	않더라구요.	antʰʌragujo̞	antʰʌragujo̞	andʌragujo̞	True	False

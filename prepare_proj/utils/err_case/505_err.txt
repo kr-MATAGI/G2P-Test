@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	강연이랑	kaŋjʌɲiraŋ	gaŋjʌɲiraŋ	gaŋjʌɲiraŋ	False	False
+1	다른	darɯn	darɯn	darɯn	True	True
+2	방송사	baŋsoŋsa	baŋsoŋsa	baŋsoŋsa	True	True
+3	프로그램이랑	pʰɯrogɯrɛmiraŋ	pʰɯrogɯrɛmiraŋ	pʰɯrogɯrɛmiraŋ	True	True
+4	네	ne	ne	ne	True	True
+5	제안을	ʣeanɯɭ	ʣeanɯɭ	.tzeanɯɭ	True	False
+6	받은	badɯn	badɯn	padɯn	True	False
+7	것	gʌt̚	gʌt̚	gʌt̚	True	True
+8	같아요.	gatʰajo̞	gatʰajo̞	gatʰajo̞	True	True

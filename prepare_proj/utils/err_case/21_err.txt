@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	제가	ʣega	ʣega	ʣega	True	True
+2	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+3	한	han	han	han	True	True
+4	열	jʌɭdasʌt̚	jʌɭ	jʌɭ	False	False
+5	다섯	ɕiganɯɭ	dasʌt̚	dasʌt̚	False	False
+6	시간을	jʌnsɯbɯɭ	ɕiganɯɭ	ɕiganɯɭ	False	False
+7	연습을	hɛt̚tʼamjʌn	jʌnsɯbɯɭ	jʌnsɯbɯɭ	False	False
+8	했다면	nɛiɭ	hɛt̚tʼamjʌn	hɛt̚tʼamjʌn	False	False
+9	내일	dasʌt̚	nɛiɭ	nɛiɭ	False	False
+10	다섯	ɕʼigan	dasʌt̚	dasʌt̚	False	False
+11	시간	hamjʌn	ɕigan	ɕigan	False	False
+12	하면	tʼo	hamjʌn	hamjʌn	False	False
+13	또	sɛroun	tʼo	tʼo	False	False
+14	새로운	ɯmagi	sɛroun	sɛroun	False	False
+15	음악이	tsʰaŋʣoga	ɯmagi	ɯmagi	False	False
+16	창조가	dwego	tsʰaŋʣoga	tsʰaŋʣoga	False	False
+17	되고	ɛn	dwego	dwego	False	False
+18	앤	aidiʌga	ɛn	ɛn	False	False
+19	아이디어가	naogo	aidiʌga	aidiʌga	False	False

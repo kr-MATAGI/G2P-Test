@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	앨리스는	ɛɭʎ̟isɯnɯn	ɛɭʎ̟isɯnɯn	ɛɭʎ̟isɯnɯn	True	True
+1	언덕에서	ʌndʌgesʌ	ʌndʌgesʌ	ʌndʌgesʌ	True	True
+2	하는	hanɯn	hanɯn	hanɯn	True	True
+3	일도	ɲiɭtʼo	iɭtʼo	iɭdo	False	False
+4	없이	ʌp̚ɕʼi	ʌp̚ɕʼi	ʌp̚ɕʼi	True	True
+5	언니	ʌnɲi	ʌnɲi	ʌnɲi	True	True
+6	옆에	jʌpʰe	jʌpʰe	jʌpʰe	True	True
+7	앉아	anʣa	anʣa	anʣa	True	True
+8	있는	innɯn	innɯn	innɯn	True	True
+9	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+10	지겨워지기	ʣigjʌwʌʣigi	ʣigjʌwʌʣigi	.tzigjʌwʌʣigi	True	False
+11	시작했다.	ɕiʣakʰɛt̚tʼa	ɕiʣakʰɛt̚tʼa	ɕiʣakʰɛt̚tʼa	True	True

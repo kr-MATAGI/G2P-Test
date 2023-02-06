@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리가	uriga	uriga	uriga	True	True
+1	흔히	hɯnhi	hɯnhi	hɯnhi	True	True
+2	하는	hanɯn	hanɯn	hanɯn	True	True
+3	말이	mari	mari	mari	True	True
+4	내	nɛ	nɛ	nɛ	True	True
+5	조직에	ʣoʣige	ʣoʣige	ʣoʣige	True	True
+6	뼈는	pʼjʌnɯn	pʼjʌnɯn	pʼjʌnnɯn	True	False
+7	묻는다인데	munnɯn	munnɯn	munnɯndainde	True	False
+8	생태원에	dainde	sɛŋtʰɛwʌne	sɛŋtʰɛwʌne	False	False
+9	뼈	sɛŋtʰɛwʌne	pʼjʌ	pʼjʌ	False	False
+10	묻을라고	pʼjʌ	mudɯɭlago	mudɯɭlago	False	False
+11	그러다가	mudɯɭlago	kɯrʌdaga	gɯrʌdaga	False	False
+12	무슨	gɯrʌdaga	musɯn	musɯn	False	False
+13	꼴	musɯn	kʼoɭ	kʼoɭ	False	False
+14	당할라	kʼoɭ	daŋhaɭla	daŋhaɭla	False	False
+15	그러냐고	daŋhaɭla	kɯrʌɲ.jago	gɯrʌɲ.jago	False	False
+16	그거	gɯrʌɲ.jago	gɯgʌ	gɯgʌ	False	False
+17	아니다.	gɯgʌ	aɲida	aɲida	False	False

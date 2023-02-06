@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	그~	esʌ	gɯ	gɯp̚	False	False
+2	그	gɯ	gɯ	gɯ	True	True
+3	포인트가	esʌ	pʰointʰɯga	pʰointʰɯga	False	False
+4	굉장히	gɯ	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+5	중요한	pʰointʰɯga	ʣuŋjo̞han	ʣuŋjo̞han	False	False
+6	포인트였다고	gweŋʣaŋhi	pʰointʰɯjʌt̚t	pʰointʰɯjʌt̚t	False	False
+7	봐요.	ʣuŋjo̞han	bwajo̞	pwajo̞	False	False

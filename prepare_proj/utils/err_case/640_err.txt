@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	대부분의	tɛbubune	dɛbubune	tɛbubune	False	True
+1	허브차들은	hʌbɯtsʰadɯrɯn	hʌbɯtsʰadɯrɯn	hʌbɯtsʰadɯrɯn	True	True
+2	특별히	tʰɯk̚pʼjʌɭhi	tʰɯk̚pʼjʌɭhi	tʰɯk̚pʼjʌɭhi	True	True
+3	카페인을	kʰapʰeinɯɭ	kʰapʰeinɯɭ	kʰapʰeinɯɭ	True	True
+4	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+5	있지	it̚.tzi	it̚.tzi	it̚.tzi	True	True
+6	않기	ankʰi	ankʰi	ankʰi	True	True
+7	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+8	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+9	사례자분	sarʲeʣabun	sarʲeʣabun	sarʲeʣabun	True	True
+10	하신	haɕin	haɕin	haɕin	True	True
+11	것처럼	gʌt̚tsʰʌrʌm	gʌt̚tsʰʌrʌm	kʌt̚tsʰʌrʌm	True	False
+12	수분보충에도	subun	subunbotsʰuŋedo	subunbotsʰuŋedo	False	False
+13	좀	botsʰuŋedo	ʣom	ʣom	False	False
+14	도움이	ʣom	doumi	doumi	False	False
+15	좀	doumi	ʣom	ʣom	False	False
+16	되실	ʣom	dweɕiɭ	dweɕiɭ	False	False
+17	수	dweɕiɭ	su	su	False	False
+18	있을	su	isʼɯɭ	isʼɯɭ	False	False
+19	것	isʼɯɭ	gʌt̚	gʌt̚	False	False
+20	같습니다.	gʌt̚	gat̚sʼɯmɲida	kat̚sʼɯmɲida	False	False

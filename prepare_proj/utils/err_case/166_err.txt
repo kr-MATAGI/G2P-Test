@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐~	mwʌ	mwʌ	mwʌ	True	True
+1	자율권도	esʌ	ʣa.juɭkʼwʌndo	.tza.juɭkʼwʌndo	False	False
+2	줘야돼	ʣa.juɭkʼwʌndo	ʣwʌ.jadwɛ	ʣwʌ.jadwɛ	False	False
+3	뭐~	ʣwʌ.ja	mwʌ	mwʌ	False	False
+4	주입식	dwɛ	ʣuip̚ɕʼik̚	ʣuip̚ɕʼik̚	False	False
+5	교육은	mwʌ	gjo̞.jugɯn	gjo̞.jugɯn	False	False
+6	옳지	esʌ	oɭ.tzi	oɭ.tzi	False	False
+7	않아	ʣuip̚ɕʼik̚	ana	ana	False	False
+8	뭐~	kʼjo̞.jugɯn	mwʌ	mwʌ	False	False
+9	이런	oɭtsʰi	irʌn	irʌn	False	False
+10	여러	ana	jʌrʌ	jʌrʌ	False	False
+11	가지	mwʌ	gaʣi	gaʣi	False	False
+12	생각들은	esʌ	sɛŋgak̚tʼɯrɯn	sɛŋgak̚tʼɯrɯn	False	False
+13	맞아떨어지는데	irʌn	maʣatʼʌrʌʣinɯ	maʣatʼʌrʌʣinɯ	False	False
+14	사실	jʌrʌ	saɕiɭ	saɕiɭ	False	False
+15	우리나라는	gaʣi	urinaranɯn	urinaranɯn	False	False
+16	정말	sɛŋgak̚tʼɯrɯn	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+17	학연을	maʣatʼʌrʌʣinɯnde	hagjʌnɯɭ	hagjʌnɯɭ	False	False
+18	중시하는	saɕiɭ	ʣuŋɕihanɯn	ʣuŋɕihanɯn	False	False
+19	사회다	urinaranɯn	sahweda	sahweda	False	False
+20	보니까	ʣʌŋmaɭ	boɲikʼa	boɲikʼa	False	False

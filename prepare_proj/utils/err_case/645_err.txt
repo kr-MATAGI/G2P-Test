@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	붙잡은	put̚.tzabɯn	but̚.tzabɯn	but̚.tzabɯn	False	False
+1	다음에	daɯme	daɯme	daɯme	True	True
+2	속도를	sok̚tʼorɯɭ	sok̚tʼorɯɭ	sok̚tʼorɯɭ	True	True
+3	줄여야	ʣurjʌ.ja	ʣurjʌ.ja	ʣurjʌ.ja	True	True
+4	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True

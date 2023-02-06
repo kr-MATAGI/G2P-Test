@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	관리가	gwaɭʎ̟iga	gwaɭʎ̟iga	kwaɭʎ̟iga	True	False
+2	완전히	wanʣʌnhi	wanʣʌnhi	wanʣʌnhi	True	True
+3	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+4	질병인데	ʣiɭbjʌŋinde	ʣiɭbjʌŋinde	.tziɭbjʌŋinde	True	False
+5	이제	iʣe	iʣe	iʣe	True	True
+6	이런	irʌn	irʌn	irʌn	True	True
+7	것들로	gʌt̚tʼɯɭlo	gʌt̚tʼɯɭlo	kʌt̚tʼɯɭlo	True	False
+8	인해서	inhɛsʌ	inhɛsʌ	inhɛsʌ	True	True
+9	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+10	선입견을	sʌɲip̚kʼjʌnɯɭ	sʌɲip̚kʼjʌnɯ	sʌɲip̚kʼjʌnɯ	False	False
+11	쪼끔	.tzokʼɯm	.tzokʼɯm	.tzokʼɯm	True	True
+12	강화	gaŋhwa	gaŋhwa	gaŋhwa	True	True
+13	다시	daɕi	daɕi	daɕi	True	True
+14	하게	hage	hage	hage	True	True
+15	되고	dwego	dwego	dwego	True	True

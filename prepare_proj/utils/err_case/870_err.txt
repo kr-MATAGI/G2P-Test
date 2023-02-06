@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+1	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+2	오	o	o	o	True	True
+3	차원	tsʰawʌn	tsʰawʌn	tsʰawʌn	True	True
+4	공간이라고	goŋgaɲirago	goŋgaɲirago	goŋgaɲirago	True	True
+5	써	sʼʌ	sʼʌ	sʼʌ	True	True
+6	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+7	얘기할	jɛgihaɭ	jɛgihaɭ	jɛgihaɭ	True	True
+8	때	tʼɛ	tʼɛ	tʼɛ	True	True
+9	그게	gɯge	gɯge	gɯge	True	True
+10	아~	a	a	ak̚	True	False
+11	여기서는	esʌ	jʌgisʌnɯn	jʌgisʌnɯn	False	False
+12	지금	jʌgisʌnɯn	ʣigɯm	ʣigɯm	False	False
+13	아인슈타인적	ʣigɯm	ainsjutʰainʣʌk̚	ainsjutʰainʣʌk̚	False	False
+14	사	ainsjutʰain	sa	sa	False	False
+15	차원	ʣʌk̚	tsʰawʌn	tsʰawʌn	False	False
+16	플러스	satsʰawʌn	pʰɯɭlʌsɯ	pʰɯɭlʌsɯ	False	False
+17	원	pʰɯɭlʌsɯ	wʌn	wʌn	False	False

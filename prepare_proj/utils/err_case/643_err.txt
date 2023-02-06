@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	새로	esʌ	sɛro	sɛro	False	False
+2	생긴	sɛro	sɛŋgin	sɛŋgin	False	False
+3	여동생들하고도	sɛŋgin	jʌdoŋsɛŋdɯɭha	jʌdoŋsɛŋdɯɭha	False	False
+4	관계가	jʌdoŋsɛŋdɯɭhagodo	gwangʲega	kwangʲega	False	False
+5	무척	gwangʲega	mutsʰʌk̚	mutsʰʌk̚	False	False
+6	좋았다고	mutsʰʌk̚	ʣoat̚tʼago	.tzoat̚tʼago	False	False
+7	해요.	.tzoat̚tʼago	hɛjo̞	hɛjo̞	False	False

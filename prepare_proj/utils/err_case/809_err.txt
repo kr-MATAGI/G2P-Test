@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	따로	tʼarotʼaro	tʼaro	tʼaro	False	False
+1	따로	gak̚.tza	tʼaro	tʼaro	False	False
+2	각자	ʣuŋɕime	gak̚.tza	gak̚.tza	False	False
+3	중심에	tsʰogʌdɛ	ʣuŋɕime	ʣuŋɕime	False	False
+4	초거대	ʣiɭʎ̟.jaŋ	tsʰogʌdɛ	tsʰogʌdɛ	False	False
+5	질량	bɯɭlɛk̚hori	ʣiɭʎ̟.jaŋ	.tziɭʎ̟.jaŋ	False	False
+6	블랙홀이	isʼʌsʼʌjo̞	bɯɭlɛk̚hori	pɯɭlɛk̚hori	False	False

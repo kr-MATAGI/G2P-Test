@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지금	t͡ɕigɯm	ʣigɯm	ʣigɯm	False	False
+1	조금씩	ʣogɯmɕʼik̚	ʣogɯmɕʼik̚	ʣogɯmɕʼik̚	True	True
+2	조금씩	ʣogɯmɕʼik̚	ʣogɯmɕʼik̚	ʣogɯmɕʼik̚	True	True
+3	몇	mjʌn	mjʌt̚	mjʌt̚	False	False
+4	명	mjʌŋ	mjʌŋ	mjʌŋ	True	True
+5	저도	ʣʌdo	ʣʌdo	ʣʌdo	True	True
+6	그	gɯgʌgie	gɯ	gɯ	False	False
+7	거기에	sokʰagojo̞	gʌgie	gʌgie	False	False

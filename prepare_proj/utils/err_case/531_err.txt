@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	중성자라는	t͡ɕuŋsʌŋʣaranɯn	ʣuŋsʌŋʣaranɯn	ʣuŋsʌŋʣaranɯn	False	False
+1	게	ge	ge	ge	True	True
+2	있다라는	it̚tʼaranɯn	it̚tʼaranɯn	it̚tʼaranɯn	True	True
+3	걸	gʌɭ	gʌɭ	gʌɭ	True	True
+4	또	tʼo	tʼo	tʼo	True	True
+5	천구백삼십이년에	tsʰʌngubɛk̚sʼamɕibiɲjʌne	tsʰʌngubɛk̚sʼa	tsʰʌngubɛk̚sʼa	False	False
+6	발견을	baɭgjʌnɯɭ	baɭgjʌnɯɭ	paɭgjʌnɯɭ	True	False
+7	합니다.	hamɲida	hamɲida	hamɲida	True	True

@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그때	kɯtʼɛ	gɯtʼɛ	gɯtʼɛ	False	False
+1	고구마	goguma	goguma	goguma	True	True
+2	감자	gamʣa	gamʣa	gamʣa	True	True
+3	옥수수를	ok̚sʼusurɯɭ	ok̚sʼusurɯɭ	ok̚sʼusurɯɭ	True	True
+4	튀겨먹었을	tʰwigjʌmʌgʌsʼɯɭ	tʰwigjʌmʌgʌsʼ	tʰwigjʌmʌgʌsʼ	False	False
+5	때	tʼɛ	tʼɛ	tʼɛ	True	True
+6	혈당이	hjʌɭtʼaŋi	hjʌɭtʼaŋi	hjʌɭtʼaŋi	True	True
+7	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+8	천천히	tsʰʌntsʰʌnhi	tsʰʌntsʰʌnhi	tsʰʌntsʰʌnhi	True	True
+9	올라갔다는	oɭlagat̚tʼanɯn	oɭlagat̚tʼanɯn	oɭlagat̚tʼanɯn	True	True
+10	결과가	gjʌɭgwaga	gjʌɭgwaga	kjʌɭgwaga	True	False
+11	나왔습니다.	nawat̚sʼɯmɲida	nawat̚sʼɯmɲida	nawat̚sʼɯmɲida	True	True

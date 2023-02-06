@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+2	차가	tsʰaga	tsʰaga	tsʰaga	True	True
+3	밀려가지고	miɭʎ̟jʌgaʣigo	miɭʎ̟jʌgaʣigo	miɭʎ̟jʌgaʣigo	True	True
+4	도착하자마자	dotsʰakʰaʣamaʣa	dotsʰakʰaʣamaʣa	dotsʰakʰaʣamaʣa	True	True
+5	당	daŋ	daŋ	daŋ	True	True
+6	떨어져서	tʼʌrʌʣʌsʌ	tʼʌrʌʣʌsʌ	tʼʌrʌʣʌsʌ	True	True
+7	먹은	mʌgɯn	mʌgɯn	mʌgɯn	True	True
+8	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

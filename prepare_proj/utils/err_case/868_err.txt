@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	침대에	tsʰimtʼɛe	tsʰimdɛe	tsʰimdɛe	False	False
+1	묶여	mukʼjʌ	mukʼjʌ	muɭkʼjʌ	True	False
+2	지내야	ʣinɛ.ja	ʣinɛ.ja	.tzinɛ.ja	True	False
+3	하는	hanɯn	hanɯn	hanɯn	True	True
+4	참담한	tsʰamdamhan	tsʰamdamhan	tsʰamdamhan	True	True
+5	상황에서도	saŋhwaŋesʌdo	saŋhwaŋesʌdo	saŋhwaŋesʌdo	True	True
+6	그녀는	gɯɲjʌnɯn	gɯɲjʌnɯn	kɯɲjʌnɯn	True	False
+7	붓을	busɯɭ	busɯɭ	budɯɭ	True	False
+8	잡았고	ʣabat̚kʼo	ʣabat̚kʼo	.tzabat̚kʼo	True	False
+9	자화상을	ʣahwasaŋɯɭ	ʣahwasaŋɯɭ	ʣahwasaŋɯɭ	True	True
+10	그리며	gɯrimjʌ	gɯrimjʌ	gɯrimjʌ	True	True
+11	당당한	daŋdaŋhan	daŋdaŋhan	daŋdaŋhan	True	True
+12	자존감을	ʣaʣongamɯɭ	ʣaʣongamɯɭ	ʣaʣongamɯɭ	True	True
+13	보여줍니다.	bojʌʣumɲida	bojʌʣumɲida	bojʌʣumɲida	True	True

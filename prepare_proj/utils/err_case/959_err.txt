@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	세	se	se	se	True	True
+1	번	bʌn	bʌn	bʌn	True	True
+2	옮겨다닌	omgjʌ	omgjʌdaɲin	omgjʌdaɲin	False	False
+3	끝에	daɲin	kʼɯtʰe	kʼɯtʰe	False	False
+4	이천팔	kʼɯtʰe	itsʰʌnpʰaɭ	itsʰʌnpʰaɭ	False	False
+5	년	itsʰʌnpʰaɭ	ɲjʌn	ɲjʌn	False	False
+6	자리잡은	ɲjʌn	ʣariʣabɯn	.tzariʣabɯn	False	False
+7	공간입니다.	ʣari	goŋgaɲimɲida	koŋgaɲimɲida	False	False

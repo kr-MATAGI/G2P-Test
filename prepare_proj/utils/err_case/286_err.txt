@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	뭐	esʌ	mwʌ	mwʌ	False	False
+2	그것도	mwʌ	gɯgʌt̚tʼo	gɯgʌt̚tʼo	False	False
+3	정말	gɯgʌt̚tʼo	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+4	양쪽	ʣʌŋmaɭ	.jaŋ.tzok̚	.jaŋ.tzok̚	False	False
+5	다	.jaŋ.tzok̚	da	ta	False	False
+6	가능성이	da	ganɯŋsʼʌŋi	kanɯŋsʼʌŋi	False	False
+7	있기	ganɯŋsʼʌŋi	it̚kʼi	it̚kʼi	False	False
+8	때문에	it̚kʼi	tʼɛmune	tʼɛmune	False	False

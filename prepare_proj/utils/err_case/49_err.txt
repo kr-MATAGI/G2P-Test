@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	소화가	sohwaga	sohwaga	sohwaga	True	True
+2	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+3	안	andwegi	an	an	False	False
+4	되기	tʼɛmune	dwegi	dwegi	False	False
+5	때문에	sʌŋʣiri	tʼɛmune	tʼɛmune	False	False
+6	성질이	tʼadɯtʰamjʌnsʌ	sʌŋʣiri	sʌŋʣiri	False	False
+7	따듯하면서	sohwaga	tʼadɯtʰamjʌnsʌ	tʼadɯtʰamjʌnsʌ	False	False
+8	소화가	ʣaɭdwenɯn	sohwaga	sohwaga	False	False
+9	잘되는	goŋmurin	ʣaɭdwenɯn	ʣaɭdwenɯn	False	False
+10	곡물인	tsʰaʣowa	goŋmurin	koŋmurin	False	False
+11	차조와	tsʰaɭsusurɯɭ	tsʰaʣowa	tsʰaʣowa	False	False
+12	찰수수를	dɯɕinɯn	tsʰaɭsʼusurɯɭ	tsʰaɭsʼusurɯɭ	False	False
+13	드시는	ge	dɯɕinɯn	dɯɕinɯn	False	False
+14	게	ʣoɯndejo̞	ge	ge	False	False

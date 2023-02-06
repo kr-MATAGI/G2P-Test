@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	파란	pʰaran	pʰaran	pʰaran	True	True
+1	네모	nemo	nemo	nemo	True	True
+2	빨간	pʼaɭgan	pʼaɭgan	pʼaɭgan	True	True
+3	마름모	marɯmmo	marɯmmo	marɯmmo	True	True
+4	초록	tsʰorok̚	tsʰorok̚	tsʰorok̚	True	True
+5	세모	semo	semo	semo	True	True
+6	노란	noran	noran	noran	True	True
+7	원	wʌn	wʌn	wʌn	True	True
+8	어~	ʌ	ʌ	ʌp̚	True	False
+9	이거	esʌ	igʌ	igʌ	False	False
+10	쉽지	igʌ	ʃwip̚.tzi	ʃwip̚.tzi	False	False
+11	않아요.	ʃwip̚.tzi	anajo̞	anajo̞	False	False

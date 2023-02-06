@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+2	직접	ʣik̚.tzʌm	ʣik̚.tzʌp̚	ʣik̚.tzʌp̚	False	False
+3	막	mak̚	mak̚	mak̚	True	True
+4	망원경을	maŋwʌngjʌŋɯɭ	maŋwʌngjʌŋɯɭ	maŋwʌngjʌŋɯɭ	True	True
+5	만드시고	mandɯɕigo	mandɯɕigo	mandɯɕigo	True	True
+6	이제	iʣe	iʣe	iʣe	True	True
+7	그걸	gɯgʌɭ	gɯgʌɭ	gɯgʌɭ	True	True
+8	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+9	이제	iʣe	iʣe	iʣe	True	True
+10	연구를	jʌngurɯɭ	jʌngurɯɭ	jʌngurɯɭ	True	True
+11	하셔서	hasjʌsʌ	hasjʌsʌ	hasjʌsʌ	True	True
+12	말	maɭ	maɭ	maɭ	True	True
+13	그대로	gɯdɛro	gɯdɛro	gɯdɛro	True	True
+14	미지에	miʣie	miʣie	miʣie	True	True
+15	세계	segʲe	segʲe	segʲe	True	True

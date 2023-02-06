@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+2	이어지는	iʌʣinɯn	iʌʣinɯn	iʌʣinɯn	True	True
+3	문장이	munʣaŋi	munʣaŋi	munʣaŋi	True	True
+4	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+5	금성에서	gɯmsʌŋesʌ	gɯmsʌŋesʌ	gɯmsʌŋesʌ	True	True
+6	나오는	naonɯn	naonɯn	naonɯn	True	True
+7	빛	bit̚	bit̚	pit̚	True	False
+8	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+9	목성의	mok̚sʼʌŋe	mok̚sʼʌŋe	mok̚sʼʌŋe	True	True
+10	가스를	gasɯrɯɭ	gasɯrɯɭ	kasɯrɯɭ	True	False
+11	힛	hit̚	hin	hit̚	False	True

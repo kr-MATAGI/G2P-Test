@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아니	aɲi	aɲi	aɲi	True	True
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	나	na	na	na	True	True
+3	김을	gimɯɭ	gimɯɭ	gimɯɭ	True	True
+4	좋아하는데	ʣoahanɯnde	ʣoahanɯnde	.tzoahanɯnde	True	False

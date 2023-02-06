@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	천구백육십년이고	tsʰʌngubɛŋɲjuk̚ɕʼimɲjʌɲigo	tsʰʌngubɛŋɲjuk	tsʰʌngubɛŋɲjuk	False	False
+1	그	gɯ	gɯ	gɯ	True	True
+2	당시에	daŋɕie	daŋɕie	daŋɕie	True	True
+3	우리나라의	urinarae	urinarae	urinarae	True	True
+4	지디피나	ʣidipʰina	ʣidipʰina	.tzidipʰina	True	False
+5	이런	irʌn	irʌn	irʌn	True	True
+6	걸	gʌɭ	gʌɭ	gʌɭ	True	True
+7	생각해	sɛŋgakʰɛ	sɛŋgakʰɛ	sɛŋgakʰɛ	True	True
+8	보면	bomjʌn	bomjʌn	bomjʌn	True	True
+9	진짜	ʣin.tza	ʣin.tza	ʣin.tza	True	True
+10	전	ʣʌn	ʣʌn	ʣʌn	True	True
+11	세계에서	segʲeesʌ	segʲeesʌ	segʲeesʌ	True	True
+12	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+13	가난한	gananhan	gananhan	gananhan	True	True
+14	나라에까지	naraekʼaʣi	naraekʼaʣi	naraekʼaʣi	True	True

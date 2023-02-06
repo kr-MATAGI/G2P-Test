@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	경우가	gjʌŋuga	gjʌŋuga	kjʌŋuga	True	False
+2	빼고	pʼɛgo	pʼɛgo	pʼɛgo	True	True
+3	한	han	han	han	True	True
+4	행성계와	hɛŋsʌŋgʲewa	hɛŋsʌŋgʲewa	hɛŋsʌŋgʲewa	True	True
+5	다른	darɯn	darɯn	darɯn	True	True
+6	행성계끼리의	hɛŋsʌŋgʲekʼirie	hɛŋsʌŋgʲekʼir	hɛŋsʌŋgʲekʼir	False	False
+7	전쟁이라는	ʣʌnʣɛŋiranɯn	ʣʌnʣɛŋiranɯn	ʣʌnʣɛŋiranɯn	True	True
+8	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+9	가다가	gadaga	gadaga	gadaga	True	True
+10	왜	wɛ	wɛ	wɛ	True	True
+11	전쟁하러	ʣʌnʣɛŋharʌ	ʣʌnʣɛŋharʌ	ʣʌnʣɛŋharʌ	True	True
+12	가는지도	ganɯnʣido	ganɯnʣido	kanɯnʣido	True	False
+13	잊어버릴	iʣʌbʌriɭ	iʣʌbʌriɭ	isʼʌbʌriɭ	True	False
+14	것	gʌt̚	gʌt̚	gʌt̚	True	True
+15	같구요.	gat̚kʼujo̞	gat̚kʼujo̞	gat̚kʼujo̞	True	True

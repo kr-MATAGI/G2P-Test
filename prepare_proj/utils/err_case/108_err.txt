@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	시절을	ɕiʣʌrɯɭ	ɕiʣʌrɯɭ	ɕiʣʌrɯɭ	True	True
+2	특이점이라고	tʰɯgi.tzʌmirago	tʰɯgi.tzʌmirago	tʰɯgiʣʌmirago	True	False
+3	얘기를	jɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	True	True
+4	합니다.	hamɲida	hamɲida	hamɲida	True	True

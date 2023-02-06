@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그럼에도	kɯrʌmedo	gɯrʌmedo	gɯrʌmedo	False	False
+1	불구하고	buɭguhago	buɭguhago	buɭguhago	True	True
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	이	esʌ	i	i	False	False
+4	사람은	i	saramɯn	saramɯn	False	False
+5	우리	saramɯn	uri	uri	False	False
+6	은하가	uriɯnhaga	ɯnhaga	ɯnhaga	False	False
+7	우주에	uʣue	uʣue	uʣue	True	True
+8	모든	modɯn	modɯn	modɯn	True	True
+9	것이라고	gʌɕirago	gʌɕirago	gʌɕirago	True	True
+10	생각을	sɛŋgagɯɭ	sɛŋgagɯɭ	sɛŋgagɯɭ	True	True
+11	했어요.	hɛsʼʌjo̞	hɛsʼʌjo̞	hɛsʼʌjo̞	True	True

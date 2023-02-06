@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	에너지	enʌʣi	enʌʣi	enʌʣi	True	True
+2	다큐였으니까	dakʰjujʌsʼɯɲikʼa	dakʰjujʌsʼɯɲik	dakʰjujʌsʼɯɲik	False	False
+3	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+4	뭐	mwʌ	mwʌ	mwʌ	True	True
+5	인프라	inpʰɯra	inpʰɯra	inpʰɯra	True	True
+6	스트럭쳐가	sɯtʰɯrʌk̚tsʰjʌga	sɯtʰɯrʌk̚tsʰj	sɯtʰɯrʌk̚tsʰ	False	False
+7	다	da	da	ta	True	False
+8	안	an	an	an	True	True
+9	무너져도	munʌʣʌdo	munʌʣʌdo	munʌʣʌdo	True	True
+10	석유만	sʌgjuman	sʌgjuman	sʌgjuman	True	True
+11	사라져도	saraʣʌdo	saraʣʌdo	saraʣʌdo	True	True
+12	대혼란이	dɛhoɭlaɲi	dɛhoɭlaɲi	dɛhoɭlaɲi	True	True
+13	와요.	wajo̞	wajo̞	wajo̞	True	True

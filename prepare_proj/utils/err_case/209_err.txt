@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	번개의	pʌngɛe	bʌngɛe	pʌngɛi	False	False
+1	강한	gaŋhan	gaŋhan	gaŋhan	True	True
+2	그	gɯ	gɯ	gɯ	True	True
+3	전압과	ʣʌnap̚kʼwa	ʣʌnap̚kʼwa	ʣʌnap̚kʼwa	True	True
+4	전류	ʣʌɭʎ̟ju	ʣʌɭʎ̟ju	ʣʌɭʎ̟ju	True	True
+5	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True

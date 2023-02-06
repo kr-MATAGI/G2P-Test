@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	일곱	esʌ	iɭgom	iɭgop̚	False	False
+2	시	iɭgop̚	ɕi	ɕi	False	False
+3	사십오	ɕi	saɕibo	saɕibo	False	False
+4	분경	saɕibo	bungjʌŋ	bungjʌŋ	False	False
+5	사십사	bungjʌŋ	saɕip̚sʼa	saɕip̚sʼa	False	False
+6	분	saɕip̚sʼa	bun	bun	False	False
+7	몇	bun	mjʌt̚	mjʌt̚	False	False
+8	촌가	mjʌt̚	tsʰonga	tsʰonga	False	False
+9	그럴	tsʰonga	gɯrʌɭ	gɯrʌɭ	False	False
+10	겁니다.	gɯrʌɭ	gʌmɲida	gʌmɲida	False	False

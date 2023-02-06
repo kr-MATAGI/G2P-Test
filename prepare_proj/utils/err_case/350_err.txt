@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	십육	ɕimɲjuk̚	ɕimɲjuk̚	ɕibjuk̚	True	False
+1	세기	segi	segi	segi	True	True
+2	초에	tsʰoe	tsʰoe	tsʰoe	True	True
+3	성모	sʌŋmo	sʌŋmo	sʌŋmo	True	True
+4	마리아를	mariarɯɭ	mariarɯɭ	mariarɯɭ	True	True
+5	주로	ʣuro	ʣuro	ʣuro	True	True
+6	표현할	pʰjo̞hjʌnhaɭ	pʰjo̞hjʌnhaɭ	pʰjo̞hjʌnhaɭ	True	True
+7	때	tʼɛ	tʼɛ	tʼɛ	True	True
+8	사용되었던	sajo̞ŋdweʌt̚tʼʌn	sajo̞ŋdweʌt̚tʼ	sajo̞ŋdweʌt̚tʼ	False	False
+9	머리	mʌri	mʌri	mʌri	True	True
+10	장식이기도	ʣaŋɕigigido	ʣaŋɕigigido	ʣaŋɕigigido	True	True
+11	한데요.	handejo̞	handejo̞	handejo̞	True	True

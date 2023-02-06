@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	음	ɯm	ɯm	ɯm	True	True
+1	우주가	uʣuga	uʣuga	uʣuga	True	True
+2	팽창한다는	pʰɛŋtsʰaŋhandanɯn	pʰɛŋtsʰaŋhanda	pʰɛŋtsʰaŋhanda	False	False
+3	것을	gʌsɯɭ	gʌsɯɭ	gʌsɯɭ	True	True
+4	처음	tsʰʌɯ	tsʰʌɯm	tsʰʌɯm	False	False
+5	알았을	marasʼɯɭ	arasʼɯɭ	arasʼɯɭ	False	False
+6	때	tʼɛ	tʼɛ	tʼɛ	True	True
+7	아직	aʣik̚	aʣik̚	aʣik̚	True	True
+8	빅뱅의	bik̚pʼɛŋe	bik̚pʼɛŋe	pik̚pʼɛŋi	True	False
+9	개념이	gɛɲjʌmi	gɛɲjʌmi	kɛɲjʌmi	True	False
+10	없다고	ʌp̚tʼago	ʌp̚tʼago	ʌp̚tʼago	True	True
+11	하셨는데요.	hasjʌnnɯndejo̞	hasjʌnnɯndejo̞	hasjʌnnɯndejo̞	True	True

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	면역	mjʌɲjʌk̚	mjʌɲjʌk̚	mjʌɲjʌk̚	True	True
+1	시스템이	ɕisɯtʰemi	ɕisɯtʰemi	ɕisɯtʰemi	True	True
+2	있기	it̚kʼi	it̚kʼi	it̚kʼi	True	True
+3	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+4	건강한	gʌngaŋhan	gʌngaŋhan	gʌngaŋhan	True	True
+5	세포하고	sepʰohago	sepʰohago	sepʰohago	True	True
+6	암	amsepʰorɯɭ	am	am	False	False
+7	세포를	gubjʌrɯɭ	sepʰorɯɭ	sepʰorɯɭ	False	False
+8	구별을	hago	gubjʌrɯɭ	kubjʌrɯɭ	False	False

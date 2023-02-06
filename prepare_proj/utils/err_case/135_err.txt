@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러나	kɯrʌna	kɯrʌna	gɯrʌna	True	False
+1	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+2	한	han	han	han	True	True
+3	두권은	du	du	dukʼwʌnɯn	True	False
+4	모르지만	gwʌnɯn	morɯʣiman	morɯʣiman	False	False
+5	계속	morɯʣiman	gʲesok̚	gʲesok̚	False	False
+6	그렇게	gʲesok̚	gɯrʌkʰe	gɯrʌkʰe	False	False
+7	적자가	gɯrʌkʰe	ʣʌk̚.tzaga	ʣʌk̚.tzaga	False	False
+8	난다면	ʣʌk̚.tzaga	nandamjʌn	nandamjʌn	False	False
+9	그	nandamjʌn	gɯ	gɯ	False	False
+10	월급도	gɯ	wʌɭgɯp̚tʼo	wʌɭgɯp̚tʼo	False	False
+11	줘야	wʌɭgɯp̚tʼo	ʣwʌ.ja	ʣwʌ.ja	False	False
+12	할	ʣwʌ.ja	haɭ	haɭ	False	False
+13	거	haɭ	gʌ	gʌ	False	False
+14	아니에요.	gʌ	aɲiejo̞	aɲiejo̞	False	False

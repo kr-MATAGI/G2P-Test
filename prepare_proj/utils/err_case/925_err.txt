@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	우리는	urinɯ	urinɯn	urinɯn	False	False
+2	왜	nwɛ	wɛ	wɛ	False	False
+3	키도	kʰido	kʰido	kʰido	True	True
+4	안	an	an	an	True	True
+5	크고	kʰɯgo	kʰɯgo	kʰɯgo	True	True
+6	아~	a	a	ak̚	True	False
+7	뭐	esʌ	mwʌ	mwʌ	False	False
+8	죄송합니다.	mwʌ	ʣwesoŋhamɲida	ʣwesoŋhamɲida	False	False

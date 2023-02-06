@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	일단	iɭtʼan	iɭtʼan	iɭtʼan	True	True
+1	질의	ʣiriɯŋdabɯn	ʣiri	.tzire	False	False
+2	응답은	hɛ.ja	ɯŋdabɯn	ɯŋdabɯn	False	False
+3	해야	dweɲikʼa	hɛ.ja	hɛ.ja	False	False
+4	되니까	ʃwinɯn	dweɲikʼa	dweɲikʼa	False	False
+5	쉬는	ɕigan	ʃwinɯn	ʃwinɯn	False	False
+6	시간	ʌp̚ɕʼi	ɕigan	ɕigan	False	False
+7	없이	ʣiɭmunʣie	ʌp̚ɕʼi	ʌp̚ɕʼi	False	False
+8	질문지에	ʣiɭmunɯɭ	ʣiɭmunʣie	.tziɭmunʣie	False	False
+9	질문을	sʼɯsjʌsʌ	ʣiɭmunɯɭ	.tziɭmunɯɭ	False	False
+10	쓰셔서	baro	sʼɯsjʌsʌ	sʼɯsjʌsʌ	False	False
+11	바로	ʣigɯm	baro	pʼaro	False	False
+12	지금	nɛɕimjʌn	ʣigɯm	ʣigɯm	False	False
+13	내시면	ʣega	nɛɕimjʌn	nɛɕimjʌn	False	False
+14	제가	ʣʌhantʰe	ʣega	ʣega	False	False
+15	저한테	ʣuɕimjʌn	ʣʌhantʰe	ʣʌhantʰe	False	False
+16	주시면	ʣega	ʣuɕimjʌn	ʣuɕimjʌn	False	False
+17	제가	badasʌ	ʣega	ʣega	False	False
+18	받아서	ʌ	badasʌ	padasʌ	False	False
+19	어~	esʌ	ʌ	ʌp̚	False	False
+20	정리를	ʣʌŋɲirɯɭ	ʣʌŋɲirɯɭ	.tzʌŋɲirɯɭ	True	False
+21	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True
+22	질의	ʣiriɯŋdabɯro	ʣiri	.tzire	False	False
+23	응답으로	baro	ɯŋdabɯro	ɯŋdabɯro	False	False
+24	바로	nʌmʌgaget̚sʼɯmɲida	baro	pʼaro	False	False

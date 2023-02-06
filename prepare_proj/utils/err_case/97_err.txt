@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	x케이션이	x	xeisjʌɲi	xkʰeisjʌɲi	False	False
+1	일어나서	kʰei	irʌnasʌ	irʌnasʌ	False	False
+2	암이	sjʌn	ami	ami	False	False
+3	된다	i	dwenda	dwenda	False	False

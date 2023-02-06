@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+1	우리가	uriga	uriga	uriga	True	True
+2	모두가	moduga	moduga	moduga	True	True
+3	다	da	da	ta	True	False
+4	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+5	번째	pʼʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	False	False

@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	남아프리카공화국	namapʰɯrikʰagoŋhwaguŋ	namapʰɯrikʰagoŋ	namapʰɯrikʰagoŋ	False	False
+1	민주화의	minʣuhwae	minʣuhwae	minʣuhwae	True	True
+2	상징이었던	saŋʣiŋiʌt̚tʼʌn	saŋʣiŋiʌt̚tʼ	saŋʣiŋiʌt̚tʼ	False	False
+3	넬슨	neɭsɯn	neɭsɯn	neɭsʼɯn	True	False
+4	만델라	mandeɭla	mandeɭla	mandeɭla	True	True
+5	전	ʣʌn	ʣʌn	ʣʌn	True	True
+6	대통령을	dɛtʰoŋɲjʌŋɯɭ	dɛtʰoŋɲjʌŋɯ	dɛtʰoŋɲjʌŋɯ	False	False
+7	비롯해서	birotʰɛsʌ	birotʰɛsʌ	birotʰɛsʌ	True	True
+8	일본	iɭbon	iɭbon	iɭbon	True	True
+9	영화의	jʌŋhwae	jʌŋhwae	jʌŋhwae	True	True
+10	거장	gʌʣaŋ	gʌʣaŋ	gʌʣaŋ	True	True
+11	오시마	oɕima	oɕima	oɕima	True	True
+12	나기사	nagisa	nagisa	nagisa	True	True

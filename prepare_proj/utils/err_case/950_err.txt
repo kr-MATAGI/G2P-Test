@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	그런데	esʌ	kɯrʌntʼe	gɯrʌntʼe	False	False
+2	나는	gɯrʌntʼe	nanɯn	nanɯn	False	False
+3	백내장	nanɯn	bɛŋnɛʣaŋ	pɛŋnɛʣaŋ	False	False
+4	하면은요	bɛŋnɛʣaŋ	hamjʌnɯɲjo̞	hamjʌnɯɲjo̞	False	False
+5	떠오르는	hamjʌnɯɲjo̞	tʼʌorɯnɯn	tʼʌorɯnɯn	False	False
+6	게	tʼʌorɯnɯn	ge	ge	False	False
+7	있는데	ge	innɯnde	innɯnde	False	False
+8	백내장	innɯnde	bɛŋnɛʣaŋ	pɛŋnɛʣaŋ	False	False
+9	수술이거든요.	bɛŋnɛʣaŋ	susurigʌdɯɲjo̞	susurigʌdɯɲjo̞	False	False

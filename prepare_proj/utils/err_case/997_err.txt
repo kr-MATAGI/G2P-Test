@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	그렇구나	esʌ	kɯrʌkʰuna	gɯrʌkʰuna	False	False
+2	예.	gɯrʌkʰuna	je	je	False	False
+3	그러네요.	je	gɯrʌnejo̞	kɯrʌnejo̞	False	False

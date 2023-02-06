@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	누구도	nugudo	nugudo	nugudo	True	True
+1	눈길	nunkʼiɭ	nunkʼiɭ	nunkʼiɭ	True	True
+2	주지	ʣuʣi	ʣuʣi	ʣuʣi	True	True
+3	않고	ankʰo	ankʰo	ankʰo	True	True
+4	스쳐	sɯtsʰʌ	sɯtsʰʌ	sɯtsʰʌ	True	True
+5	지나가는	ʣinaganɯn	ʣinaganɯn	.tzinaganɯn	True	False
+6	이들을	idɯrɯɭ	idɯrɯɭ	idɯrɯɭ	True	True
+7	프레임에	pʰɯreime	pʰɯreime	pʰɯreime	True	True
+8	담고	damkʼo	damkʼo	damgo	True	False
+9	이름을	irɯmɯɭ	irɯmɯɭ	irɯmɯɭ	True	True
+10	부여하면	bujʌhamjʌ	bujʌhamjʌn	bujʌhamjʌn	False	False
+11	의미	nɰimi	ɰimi	ɰimi	False	False
+12	있는	innɯn	innɯn	innɯn	True	True
+13	이미지로	imiʣiro	imiʣiro	imiʣiro	True	True
+14	재탄생하는	ʣɛtʰansɛŋhanɯn	ʣɛtʰansɛŋhanɯ	ʣɛtʰansɛŋhanɯ	False	False
+15	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

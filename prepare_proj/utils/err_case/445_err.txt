@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	단지	danʣi	danʣi	danʣi	True	True
+2	이게	ige	ige	ige	True	True
+3	이상한	isaŋhan	isaŋhan	isaŋhan	True	True
+4	꺽새의	kʼʌk̚	kʼʌp̚sʼɛe	kʼʌk̚sʼɛe	False	False
+5	기호들이	sɛe	gihodɯri	kihodɯri	False	False
+6	있는	gihodɯri	innɯn	innɯn	False	False
+7	거는	innɯn	gʌnɯn	gʌnɯn	False	False
+8	이	gʌnɯn	i	i	False	False
+9	두	i	du	du	False	False
+10	개의	du	gɛi	kɛi	False	False
+11	경우가	gɛi	gjʌŋuga	kjʌŋuga	False	False
+12	동시에	gjʌŋuga	doŋɕie	toŋɕie	False	False
+13	존재한다는	doŋɕie	ʣonʣɛhandanɯn	ʣonʣɛhandanɯn	False	False
+14	겁니다.	ʣonʣɛhandanɯn	gʌmɲida	gʌmɲida	False	False

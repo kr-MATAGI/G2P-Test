@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	대령	tɛrjʌŋ	dɛrjʌŋ	tɛrjʌŋ	False	True
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	이	i	i	i	True	True
+3	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True
+4	될만한	dweɭmanhan	dweɭmanhan	dweɭmanhan	True	True
+5	위치거든요.	witsʰigʌdɯɲjo̞	witsʰigʌdɯɲjo̞	witsʰigʌdɯɲjo̞	True	True

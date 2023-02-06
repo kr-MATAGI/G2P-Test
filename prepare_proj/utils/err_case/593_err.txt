@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	이런	irʌn	irʌn	irʌn	True	True
+2	손상이	sonsaŋi	sonsaŋi	sonsaŋi	True	True
+3	일어	irʌnaɭ	irʌ	irʌ	False	False
+4	날	suga	naɭ	naɭ	False	False
+5	수가	innɯnde	suga	suga	False	False
+6	있는데	an	innɯnde	innɯnde	False	False
+7	안	boinɯn	an	an	False	False
+8	보이는	bubunedo	boinɯn	boinɯn	False	False
+9	부분에도	gɯrʌn	bubunedo	bubunedo	False	False
+10	그런	ge	gɯrʌn	gɯrʌn	False	False
+11	게	isʼɯɭ	ge	ge	False	False
+12	있을	suga	isʼɯɭ	isʼɯɭ	False	False
+13	수가	it̚kʼo	suga	suga	False	False

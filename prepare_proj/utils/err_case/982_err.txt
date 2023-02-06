@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	일찌감치	iɭ.tzigamtsʰi	iɭ.tzigamtsʰi	iɭ.tzigamtsʰi	True	True
+1	돌아가셨고	doragasjʌt̚kʼo	doragasjʌt̚kʼo	toragasjʌt̚kʼo	True	False
+2	인제	inʣe	inʣe	inʣe	True	True
+3	큰	kʰɯnadɯrimɲida	kʰɯn	kʰɯn	False	False

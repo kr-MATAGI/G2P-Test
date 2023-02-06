@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아	a	a	a	True	True
+1	내가	nɛga	nɛga	nɛga	True	True
+2	이프를	ipʰɯrɯɭ	ipʰɯrɯɭ	ipʰɯrɯɭ	True	True
+3	하나	hana	hana	hana	True	True
+4	더	dʌ	dʌ	dʌ	True	True
+5	더	dʌ	dʌ	dʌ	True	True
+6	추가해야겠다.	tsʰugahɛ.jaget̚tʼa	tsʰugahɛ.jaget̚t	tsʰugahɛ.jaget̚t	False	False

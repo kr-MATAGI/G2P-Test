@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+2	현재	hjʌnʣɛ	hjʌnʣɛ	hjʌnʣɛ	True	True
+3	화성에	hwasʌŋe	hwasʌŋe	hwasʌŋe	True	True
+4	살고	saɭgo	saɭgo	saɭgo	True	True
+5	있는	innɯn	innɯn	innɯn	True	True
+6	생명체를	sɛŋmjʌŋtsʰerɯɭ	sɛŋmjʌŋtsʰerɯ	sɛŋmjʌŋtsʰerɯ	False	False
+7	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+8	짐작	ʣimʣak̚	ʣimʣak̚	.tzimʣak̚	True	False
+9	하게	hage	hage	hage	True	True
+10	하는	hanɯn	hanɯn	hanɯn	True	True
+11	이런	irʌn	irʌn	irʌn	True	True

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	엄밀히	esʌ	ʌmmiɭhi	ʌmmiɭhi	False	False
+2	말씀드리면	ʌmmiɭhi	maɭsʼɯmdɯrimjʌ	maɭsʼɯmdɯrimjʌ	False	False
+3	이제	maɭsʼɯmdɯrimjʌn	iʣe	iʣe	False	False
+4	대부분에	iʣe	dɛbubune	tɛbubune	False	False
+5	입자들은	dɛbubune	ip̚.tzadɯrɯn	ip̚.tzadɯrɯn	False	False
+6	전자들	ip̚.tzadɯrɯn	ʣʌnʣadɯɭ	ʣʌnʣadɯɭ	False	False

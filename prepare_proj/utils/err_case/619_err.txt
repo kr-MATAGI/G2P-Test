@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	삼일에	samire	samire	samire	True	True
+1	한번은	hanbʌnɯn	hanbʌnɯn	hanbʌnɯn	True	True
+2	기본이고	giboɲigo	giboɲigo	kiboɲigo	True	False
+3	일주일	iɭ.tzuiɭ	iɭ.tzuiɭ	iɭ.tzuiɭ	True	True
+4	못갈	mot̚	mot̚	mot̚kʼaɭ	True	False
+5	때도	gaɭ	tʼɛdo	tʼɛdo	False	False
+6	있었어요.	tʼɛdo	isʼʌsʼʌjo̞	isʼʌsʼʌjo̞	False	False

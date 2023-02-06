@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	많은	manɯn	manɯn	manɯn	True	True
+1	국민들이	guŋmindɯri	guŋmindɯri	guŋmindɯri	True	True
+2	관심을	gwanɕimɯɭ	gwanɕimɯɭ	kwanɕimɯɭ	True	False
+3	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+4	우리	uri	uri	uri	True	True
+5	학자들이	hak̚.tzadɯri	hak̚.tzadɯri	hak̚.tzadɯri	True	True
+6	하는	hanɯ	hanɯn	hanɯn	False	False
+7	일에	ɲire	ire	ire	False	False
+8	대해	dɛhɛ	dɛhɛ	dɛhɛ	True	True
+9	관심을	gwanɕimɯɭ	gwanɕimɯɭ	kwanɕimɯɭ	True	False
+10	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+11	언론에서도	ʌɭlonesʌdo	ʌɭlonesʌdo	ʌɭlonesʌdo	True	True
+12	보여지고	bojʌʣigo	bojʌʣigo	bojʌʣigo	True	True
+13	그랬단	gɯrɛt̚tʼan	gɯrɛt̚tʼan	gɯrɛt̚tʼan	True	True
+14	말이죠.	mariʣjo̞	mariʣjo̞	mariʣjo̞	True	True

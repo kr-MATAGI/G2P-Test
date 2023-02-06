@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	여자도	jʌʣado	jʌʣado	jʌʣado	True	True
+1	얼마든지	ʌɭmadɯnʣi	ʌɭmadɯnʣi	ʌɭmadɯnʣi	True	True
+2	능가하는	nɯŋgahanɯn	nɯŋkʼahanɯn	nɯŋgahanɯn	False	True
+3	작품을	ʣak̚pʰumɯɭ	ʣak̚pʰumɯɭ	ʣak̚pʰumɯɭ	True	True
+4	할	haɭ	haɭ	haɭ	True	True
+5	수	su	su	su	True	True
+6	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	제도하에서	ʣedohaesʌ	ʣedohaesʌ	t͡ɕedohaesʌ	True	False
+2	뉴턴이	ɲjutʰʌɲi	ɲjutʰʌɲi	ɲjutʰʌɲi	True	True
+3	의외의	ɰiwee	ɰiwee	ɰiwei	True	False
+4	진출도	ʣintsʰuɭdo	ʣintsʰuɭdo	ʣintsʰuɭdo	True	True
+5	있었고	isʼʌt̚kʼo	isʼʌt̚kʼo	isʼʌt̚kʼo	True	True

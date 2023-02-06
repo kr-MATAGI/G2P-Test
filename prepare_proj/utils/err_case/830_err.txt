@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예술감독	jesuɭgamdok̚	jesuɭgamdok̚	jesuɭgamdok̚	True	True
+1	강동석과	gaŋdoŋsʌk̚kʼwa	gaŋdoŋsʌk̚kʼwa	gaŋdoŋsʌk̚kʼwa	True	True
+2	국내	guŋnɛ	guŋnɛ	guŋnɛ	True	True
+3	중견	ʣuŋgjʌn	ʣuŋgjʌn	ʣuŋgjʌn	True	True
+4	신예	ɕinʲe	ɕinʲe	ɕiɲje	True	False
+5	연주가는	jʌnʣuganɯn	jʌnʣuganɯn	jʌnʣuganɯn	True	True
+6	물론	muɭlon	muɭlon	muɭlon	True	True
+7	초량민	tsʰor.jaŋ	tsʰor.jaŋmin	tsʰor.jaŋmin	False	False
+8	등의	min	dɯŋe	dɯŋe	False	False
+9	해외	dɯŋe	hɛwe	hɛwe	False	False
+10	초청	hɛwe	tsʰotsʰʌŋ	tsʰotsʰʌŋ	False	False
+11	아티스트까지	tsʰotsʰʌŋ	atʰisɯtʰɯkʼaʣ	atʰisɯtʰɯkʼaʣ	False	False
+12	다양한	atʰisɯtʰɯkʼaʣi	da.jaŋhan	ta.jaŋhan	False	False
+13	주제와	da.jaŋhan	ʣuʣewa	ʣuʣewa	False	False
+14	조합으로	ʣuʣewa	ʣohabɯro	ʣohabɯro	False	False
+15	색다른	ʣohabɯro	sɛk̚tʼarɯn	sɛk̚tʼarɯn	False	False
+16	앙상블을	sɛk̚tʼarɯn	aŋsaŋbɯrɯɭ	aŋsaŋbɯrɯɭ	False	False
+17	들려줄	aŋsaŋbɯrɯɭ	dɯɭʎ̟jʌʣuɭ	dɯɭʎ̟jʌʣuɭ	False	False
+18	무대	dɯɭʎ̟jʌʣuɭ	mudɛ	mudɛ	False	False
+19	이천십칠	mudɛ	itsʰʌnɕip̚tsʰi	itsʰʌnɕip̚tsʰi	False	False
+20	서울스프링실내악	itsʰʌnɕip̚tsʰiɭ	sʌuɭsɯpʰɯriŋ	sʌuɭsɯpʰɯriŋ	False	False
+21	축젭니다.	sʌuɭ	tsʰuk̚.tzemɲida	tsʰuk̚.tzʌmɲida	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+1	욕심껏	jo̞k̚ɕʼimkʼʌt̚	jo̞k̚ɕʼimkʼʌt	jo̞k̚ɕʼimkʼʌt	False	False
+2	뮤지컬	mjuʣikʰʌɭ	mjuʣikʰʌɭ	mjuʣikʰʌɭ	True	True
+3	배우의	bɛue	bɛue	pɛui	True	False
+4	입지를	ip̚.tzirɯɭ	ip̚.tzirɯɭ	ip̚.tzirɯɭ	True	True
+5	굳힌	gutsʰin	gutsʰin	gutʰin	True	False
+6	이영미	ijʌŋmi	ijʌŋmi	ijʌŋmi	True	True

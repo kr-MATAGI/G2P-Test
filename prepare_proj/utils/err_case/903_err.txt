@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러니까	kɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	True	False
+1	이걸	igʌɭ	igʌɭ	igʌɭ	True	True
+2	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+3	혈당을	hjʌɭtʼaŋɯɭ	hjʌɭtʼaŋɯɭ	hjʌɭtʼaŋɯɭ	True	True
+4	조금	ʣogɯm	ʣogɯm	ʣogɯm	True	True
+5	올려서	oɭʎ̟jʌsʌ	oɭʎ̟jʌsʌ	oɭʎ̟jʌsʌ	True	True
+6	인슐린을	insjuɭʎ̟inɯɭ	insjuɭʎ̟inɯɭ	insjuɭʎ̟inɯɭ	True	True
+7	더	dʌ	dʌ	dʌ	True	True
+8	올리는	oɭʎ̟inɯ	oɭʎ̟inɯn	oɭʎ̟inɯn	False	False
+9	음식으로	nɯmɕigɯro	ɯmɕigɯro	ɯmɕigɯro	False	False
+10	식단을	ɕik̚tʼanɯɭ	ɕik̚tʼanɯɭ	ɕik̚tʼanɯɭ	True	True
+11	짤	.tzaɭ	.tzaɭ	.tzaɭ	True	True
+12	때	tʼɛ	tʼɛ	tʼɛ	True	True
+13	큰	kʰɯn	kʰɯn	kʰɯn	True	True
+14	도움이	doumi	doumi	doumi	True	True
+15	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+16	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+17	방법	baŋbʌp̚	baŋbʌp̚	paŋbʌp̚	True	False
+18	중에	ʣuŋe	ʣuŋe	ʣuŋe	True	True
+19	하나입니다.	hanaimɲida	hanaimɲida	hanaimɲida	True	True

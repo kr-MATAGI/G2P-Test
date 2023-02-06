@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이~	i	i	ip̚	True	False
+1	로제타	esʌ	roʣetʰa	roʣetʰa	False	False
+2	얘기	roʣetʰa	jɛgi	jɛgi	False	False
+3	중에	jɛgi	ʣuŋe	ʣuŋe	False	False
+4	하나는	ʣuŋe	hananɯn	hananɯn	False	False
+5	뭐냐면요.	hananɯn	mwʌɲ.jamjʌɲjo̞	mwʌɲ.jamjʌɲjo̞	False	False

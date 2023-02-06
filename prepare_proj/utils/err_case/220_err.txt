@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	부모의	bumoe	bumoe	bumoi	True	False
+2	반대	bandɛ	bandɛ	pandɛ	True	False
+3	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+4	어	ʌ	ʌ	ʌ	True	True
+5	이스탄불	isɯtʰanbuɭ	isɯtʰanbuɭ	isɯtʰanbuɭ	True	True
+6	기술대학에서	gisuɭdɛhagesʌ	gisuɭdɛhagesʌ	kisuɭdɛhagesʌ	True	False
+7	건축학을	gʌntsʰukʰagɯɭ	gʌntsʰukʰagɯɭ	kʌntsʰukʰagɯɭ	True	False
+8	전공했거든요.	ʣʌngoŋhɛt̚kʼʌdɯɲjo̞	ʣʌngoŋhɛt̚kʼ	t͡ɕʌngoŋhɛt̚k	False	False

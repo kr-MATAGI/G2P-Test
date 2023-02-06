@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그건	kɯgʌn	gɯgʌn	gɯgʌn	False	False
+1	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+2	모르겠지만	morɯget̚.tziman	morɯget̚.tziman	morɯget̚.tziman	True	True
+3	아무튼	amutʰɯn	amutʰɯn	amutʰɯn	True	True
+4	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+5	집작했던	ʣip̚.tzakʰɛt̚tʼʌn	ʣip̚.tzakʰɛt̚t	.tzip̚.tzakʰɛt̚	False	False
+6	걸로	gʌɭlo	gʌɭlo	kʌɭlo	True	False
+7	보이는데	boinɯnde	boinɯnde	boinɯnde	True	True
+8	자기	ʣagi	ʣagi	ʣagi	True	True
+9	연구에	jʌngue	jʌngue	jʌngue	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	결국에는	kjʌɭgugenɯn	gjʌɭgugenɯn	kjʌɭgugenɯn	False	True
+1	그	gɯ	gɯ	gɯ	True	True
+2	초상화를	tsʰosaŋhwarɯɭ	tsʰosaŋhwarɯɭ	tsʰosaŋhwarɯɭ	True	True
+3	찢고	.tzit̚kʼo	.tzit̚kʼo	.tzit̚kʼo	True	True
+4	말거든요.	maɭgʌdɯɲjo̞	maɭgʌdɯɲjo̞	maɭgʌdɯɲjo̞	True	True

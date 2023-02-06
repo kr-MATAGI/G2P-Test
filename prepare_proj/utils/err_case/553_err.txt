@@ -1,0 +1,27 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그니까	kɯɲikʼa	kɯɲikʼa	gɯɲikʼa	True	False
+1	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+2	다	da	da	ta	True	False
+3	나눠가지고	nanwʌgaʣigo	nanwʌgaʣigo	nanwʌgaʣigo	True	True
+4	고거를	gogʌrɯɭ	gogʌrɯɭ	kogʌrɯɭ	True	False
+5	어~	ʌ	ʌ	ʌp̚	True	False
+6	주위의	esʌ	ʣuwie	ʣuwie	False	False
+7	영향과	ʣuwie	jʌŋh.jaŋgwa	jʌŋh.jaŋgwa	False	False
+8	함께	jʌŋh.jaŋgwa	hamkʼe	hamkʼe	False	False
+9	계산을	hamkʼe	gʲesanɯɭ	gʲesanɯɭ	False	False
+10	해서	gʲesanɯɭ	hɛsʌ	hɛsʌ	False	False
+11	하나	hɛsʌ	hana	hana	False	False
+12	하나	hanahana	hana	hana	False	False
+13	풀어내는	pʰurʌnɛnɯn	pʰurʌnɛnɯn	pʰurʌnɛnɯn	True	True
+14	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+15	기상	gisaŋ	gisaŋ	kisaŋ	True	False
+16	예측이지	nʲetsʰɯgiʣi	jetsʰɯgiʣi	jetsʰɯgiʣi	False	False
+17	예.	je	je	je	True	True
+18	우리가	uriga	uriga	uriga	True	True
+19	생각하는	sɛŋgakʰanɯn	sɛŋgakʰanɯn	sɛŋgakʰanɯn	True	True
+20	것처럼	gʌt̚tsʰʌrʌm	gʌt̚tsʰʌrʌm	kʌt̚tsʰʌrʌm	True	False
+21	그렇게	gɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	True	True
+22	적당히	ʣʌk̚tʼaŋhi	ʣʌk̚tʼaŋhi	ʣʌk̚tʼaŋhi	True	True
+23	하는	hanɯn	hanɯn	hanɯn	True	True
+24	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+25	아니다라는거	aɲidaranɯn	aɲidaranɯn	aɲidaranɯngʌ	True	False

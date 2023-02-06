@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	음~	ɯm	ɯm	ɯm	True	True
+1	명국이	esʌ	mjʌŋgugi	mjʌŋgugi	False	False
+2	같은	mjʌŋgugi	gatʰɯn	gatʰɯn	False	False
+3	주인공은	gatʰɯn	ʣuingoŋɯn	ʣuingoŋɯn	False	False
+4	조금	ʣuingoŋɯn	ʣogɯm	ʣogɯm	False	False
+5	나이가	ʣogɯm	naiga	naiga	False	False
+6	윈데	naiga	winde	winde	False	False

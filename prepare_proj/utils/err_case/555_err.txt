@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	턱밑샘은	tʰʌŋmit̚sʼɛmɯn	tʰʌk̚mit̚sʼɛm	tʰʌk̚mit̚sʼɛm	False	False
+1	귀밑에	gwimitʰe	gwimitʰe	gwimitʰe	True	True
+2	턱뼈	tʰʌk̚pʼjʌ	tʰʌk̚pʼjʌ	tʰʌk̚pʼjʌ	True	True
+3	아래에	arɛe	arɛe	arɛe	True	True
+4	부드러운	budɯrʌun	budɯrʌun	budɯrʌun	True	True
+5	부분입니다.	bubuɲimɲida	bubuɲimɲida	bubuɲimɲida	True	True

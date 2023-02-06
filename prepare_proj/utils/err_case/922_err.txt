@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	연락이	esʌ	jʌɭlagi	jʌɭlagi	False	False
+3	오면	jʌɭlagi	omjʌn	omjʌn	False	False
+4	공중전화	omjʌn	goŋʣuŋʣʌnhwa	goŋʣuŋʣʌnhwa	False	False
+5	박스로	goŋʣuŋʣʌnhwa	bak̚sʼɯro	pak̚sʼɯro	False	False
+6	가서	bak̚sɯro	gasʌ	gasʌ	False	False
+7	그~	gasʌ	gɯ	gɯp̚	False	False
+8	대학가다	gɯ	dɛhak̚kʼada	tɛhak̚kʼada	False	False
+9	보니까	esʌ	boɲikʼa	boɲikʼa	False	False
+10	학생들이	dɛhak̚kʼada	hak̚sʼɛŋdɯri	hak̚sʼɛŋdɯri	False	False
+11	길게	boɲikʼa	giɭge	kiɭge	False	False
+12	줄을	hak̚sʼɛŋdɯri	ʣurɯɭ	ʣurɯɭ	False	False
+13	이렇게	giɭge	irʌkʰe	irʌkʰe	False	False
+14	서서	ʣurɯɭ	sʌsʌ	sʌsʌ	False	False
+15	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+16	전화를	sʌsʌ	ʣʌnhwarɯɭ	ʣʌnhwarɯɭ	False	False
+17	해야	irʌkʰe	hɛ.ja	hɛ.ja	False	False
+18	됐었거든요.	ʣʌnhwarɯɭ	dwɛsʼʌt̚kʼʌd	twɛsʼʌt̚kʼʌd	False	False

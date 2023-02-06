@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	두	du	du	du	True	True
+2	개를	gɛrɯɭ	gɛrɯɭ	kɛrɯɭ	True	False
+3	알면	aɭmjʌn	aɭmjʌn	aɭmjʌn	True	True
+4	그	gɯ	gɯ	gɯ	True	True
+5	분포가	bunpʰoga	bunpʰoga	bunpʰoga	True	True
+6	결정이	gjʌɭ.tzʌŋi	gjʌɭ.tzʌŋi	kjʌɭ.tzʌŋi	True	False
+7	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True
+8	수학적으로	suhak̚.tzʌgɯro	suhak̚.tzʌgɯro	suhak̚.tzʌgɯro	True	True
+9	그~	gɯ	gɯ	gɯp̚	True	False
+10	어떤	esʌ	ʌtʼʌn	ʌtʼʌn	False	False
+11	집단이	ʌtʼʌn	ʣip̚tʼaɲi	.tzip̚tʼaɲi	False	False
+12	이더라도	ʣip̚tʼaɲi	idʌrado	idʌrado	False	False
+13	집단이	idʌrado	ʣip̚tʼaɲi	.tzip̚tʼaɲi	False	False
+14	충분히	ʣip̚tʼaɲi	tsʰuŋbunhi	tsʰuŋbunhi	False	False
+15	크면	tsʰuŋbunhi	kʰɯmjʌn	kʰɯmjʌn	False	False
+16	언제나	kʰɯmjʌn	ʌnʣena	ʌnʣena	False	False
+17	분포를	ʌnʣena	bunpʰorɯɭ	bunpʰorɯɭ	False	False
+18	따라갑니다.	bunpʰorɯɭ	tʼaragamɲida	tʼaragamɲida	False	False

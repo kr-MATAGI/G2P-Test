@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우린	urin	urin	urin	True	True
+1	고	go	go	go	True	True
+2	고	go	go	go	True	True
+3	정도까지만	ʣʌŋdokʼaʣiman	ʣʌŋdokʼaʣiman	t͡ɕʌŋdokʼaʣim	True	False
+4	기껏해야	gikʼʌtʰɛ.ja	gikʼʌtʰɛ.ja	kikʼʌtʰɛ.ja	True	False
+5	한	han	han	han	True	True
+6	삼억년	samʌk̚	samʌk̚	samʌŋɲjʌn	True	False
+7	정도까지만	ɲjʌn	ʣʌŋdokʼaʣiman	t͡ɕʌŋdokʼaʣim	False	False
+8	알	ʣʌŋdokʼaʣiman	aɭ	aɭ	False	False
+9	수가	aɭ	suga	suga	False	False
+10	있는	suga	innɯn	innɯn	False	False
+11	거죠.	innɯn	gʌʣjo̞	gʌʣjo̞	False	False

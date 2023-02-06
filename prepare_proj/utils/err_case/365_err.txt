@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오시엔에서	oɕienesʌ	oɕienesʌ	oɕienesʌ	True	True
+1	방영	baŋjʌŋ	baŋjʌŋ	baŋjʌŋ	True	True
+2	예정인	nʲeʣʌŋin	jeʣʌŋin	jeʣʌŋin	False	False
+3	모두에	modue	modue	modue	True	True
+4	거짓말이라는	gʌʣinmariranɯn	gʌʣinmariranɯn	kʌʣinmariranɯn	True	False
+5	작품에서	ʣak̚pʰumesʌ	ʣak̚pʰumesʌ	ʣak̚pʰumesʌ	True	True
+6	재미있는	ʣɛmiinnɯn	ʣɛmiinnɯn	ʣɛmiinnɯn	True	True
+7	역할을	ɲjʌkʰarɯɭ	jʌkʰarɯɭ	jʌkʰarɯɭ	False	False
+8	맡아서	matʰasʌ	matʰasʌ	madasʌ	True	False
+9	촬영을	tsʰwarjʌŋɯɭ	tsʰwarjʌŋɯɭ	tsʰwarjʌŋɯɭ	True	True
+10	다니고	daɲigo	daɲigo	daɲigo	True	True
+11	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

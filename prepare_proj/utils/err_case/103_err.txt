@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자네가	kamjʌn	ʣanega	ʣanega	False	False
+1	집에서	daunrodɯ	ʣibesʌ	.tzibesʌ	False	False
+2	쓸	hɛsʌ	sʼɯɭ	sʼɯɭ	False	False
+3	프로그램은	ɕihʌmhɛ	pʰɯrogɯrɛmɯn	pʰɯrogɯrɛmɯn	False	False
+4	아닐	boɭ	aɲiɭ	aɲiɭ	False	False
+5	거야	su	gʌ.ja	gʌ.ja	False	False
+6	하지만	it̚kʼo	haʣiman	haʣiman	False	False
+7	꼭	sajo̞ŋpʼʌp̚tʼo	kʼok̚	kʼok̚	False	False
+8	필요한	da	pʰirjo̞han	pʰirjo̞han	False	False
+9	것들이	ʣʌkʰjʌ	gʌt̚tʼɯri	gʌt̚tʼɯri	False	False
+10	점점	it̚tʼago	ʣʌmʣʌm	.tzʌm.tzʌm	False	False
+11	넘쳐나게	i.tzok̚	nʌmtsʰʌnage	nʌmtsʰʌnage	False	False
+12	돼	gwaɭʎ̟jʌn	dwɛ	twɛ	False	False
+13	더블유더블유더블유	isʼɯɕin	dʌbɯrjudʌbɯɭ	tʌbɯr.judʌbɯɭ.	False	False
+14	쩜	bundɯrɯn	.tzʌm	.tzʌm	False	False
+15	마크	han	makʰɯ	makʰɯ	False	False
+16	베이스	bʌnɕʼik̚	beisɯ	peisɯ	False	False
+17	쩜	da	.tzʌm	.tzʌm	False	False
+18	컴	gwanɕim	kʰʌm	kʰʌm	False	False
+19	슬레시	gaʣiɕiɭ	sɯɭleɕi	sɯɭleɕi	False	False
+20	케이알	gʌrago	kʰeiaɭ	kʰeiaɭ	False	False

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	인제	inʣe	inʣe	inʣe	True	True
+1	레이저	reiʣʌ	reiʣʌ	reiʣʌ	True	True
+2	신호일	ɕinhoiɭ	ɕinhoiɭ	ɕinhoiɭ	True	True
+3	때	tʼɛ	tʼɛ	tʼɛ	True	True
+4	먼가	mʌnga	mʌnga	mʌnga	True	True
+5	스펙트럼에	sɯpʰek̚tʰɯrʌme	sɯpʰek̚tʰɯrʌm	sɯpʰek̚tʰɯrʌm	False	False
+6	왔을	wasʼɯɭ	wasʼɯɭ	wasʼɯɭ	True	True
+7	때	tʼɛ	tʼɛ	tʼɛ	True	True

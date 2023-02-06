@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	이런	irʌn	irʌn	irʌn	True	True
+2	이야기도	i.jagido	i.jagido	i.jagido	True	True
+3	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+4	정도로	ʣʌŋdoro	ʣʌŋdoro	.tzʌŋdoro	True	False
+5	그랬었는데	gɯrɛsʼʌnnɯnde	gɯrɛsʼʌnnɯnde	kɯrɛsʼʌnnɯnde	True	False
+6	마이트너도	maitʰɯnʌdo	maitʰɯnʌdo	maitʰɯnʌdo	True	True
+7	볼츠만	boɭtsʰɯman	boɭtsʰɯman	boɭtsʰɯman	True	True
+8	강의를	gaŋirɯɭ	gaŋirɯɭ	gaŋirɯɭ	True	True
+9	들었고	dɯrʌt̚kʼo	dɯrʌt̚kʼo	dɯrʌt̚kʼo	True	True
+10	어~	ʌ	ʌ	ʌp̚	True	False
+11	볼츠만	esʌ	boɭtsʰɯman	boɭtsʰɯman	False	False
+12	강의가	boɭtsʰɯman	gaŋiga	gaŋiga	False	False
+13	정말	gaŋiga	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+14	뛰어나고	ʣʌŋmaɭ	tʼwiʌnago	tʼwiʌnago	False	False
+15	훌륭하다	tʼwiʌnago	huɭʎ̟juŋhada	huɭʎ̟juŋhada	False	False
+16	라고	huɭʎ̟juŋhada	rago	rago	False	False
+17	많이	rago	maɲi	maɲi	False	False
+18	느꼈다고	maɲi	nɯkʼjʌt̚tʼago	nɯkʼjʌt̚tʼago	False	False
+19	합니다.	nɯkʼjʌt̚tʼago	hamɲida	hamɲida	False	False

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	너무	esʌ	nʌmu	nʌmu	False	False
+2	실망인데	nʌmu	ɕiɭmaŋinde	ɕiɭmaŋinde	False	False
+3	이랬는데	ɕiɭmaŋinde	irɛnnɯnde	irɛnnɯnde	False	False
+4	먹어보니까	irɛnnɯnde	mʌgʌboɲikʼa	mʌgʌboɲikʼa	False	False
+5	맛있네요.	mʌgʌboɲikʼa	madinnejo̞	madinnejo̞	False	False

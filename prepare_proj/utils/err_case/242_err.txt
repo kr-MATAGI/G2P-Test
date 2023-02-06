@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	증가	t͡ɕɯŋga	ʣɯŋga	.tzɯŋga	False	False
+1	추세는	tsʰusenɯn	tsʰusenɯn	tsʰusenɯn	True	True
+2	상당히	saŋdaŋhi	saŋdaŋhi	saŋdaŋhi	True	True
+3	둔화되지만	dunhwadweʣiman	dunhwadweʣiman	dunhwadweʣiman	True	True
+4	증가하기는	ʣɯŋkʼahaginɯn	ʣɯŋkʼahaginɯn	.tzɯŋgahaginɯn	True	False
+5	합니다.	hamɲida	hamɲida	hamɲida	True	True

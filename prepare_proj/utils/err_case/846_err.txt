@@ -1,0 +1,27 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리는	urinɯn	urinɯn	urinɯn	True	True
+1	마이클	maikʰɯɭ	maikʰɯɭ	maikʰɯɭ	True	True
+2	샌델의	sɛndere	sɛndere	sɛnderi	True	False
+3	정의란	ʣʌŋiran	ʣʌŋiran	t͡ɕʌŋiran	True	False
+4	무엇인가란	muʌɕingaran	muʌɕingaran	muʌɕingaran	True	True
+5	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+6	통해서	tʰoŋhɛsʌ	tʰoŋhɛsʌ	tʰoŋhɛsʌ	True	True
+7	우리	uri	uri	uri	True	True
+8	사회에	sahwee	sahwee	sahwee	True	True
+9	과연	gwajʌn	gwajʌn	kwajʌn	True	False
+10	정의가	ʣʌŋiga	ʣʌŋiga	.tzʌŋiga	True	False
+11	있는	innɯn	innɯn	innɯn	True	True
+12	가라고	garago	garago	garago	True	True
+13	질문했고	ʣiɭmunhɛt̚kʼo	ʣiɭmunhɛt̚kʼo	.tziɭmunhɛt̚kʼo	True	False
+14	스테판	sɯtʰepʰan	sɯtʰepʰan	sɯtʰepʰan	True	True
+15	에셀의	esere	esere	eseɭ	True	False
+16	분노하라라는	bunnohararanɯn	bunnohararanɯn	bunnohararanɯn	True	True
+17	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+18	읽으며	iɭgɯmjʌ	iɭgɯmjʌ	iɭgɯmjʌ	True	True
+19	왜	wɛ	wɛ	wɛ	True	True
+20	우리가	uriga	uriga	uriga	True	True
+21	분노해야	bunnohɛ.ja	bunnohɛ.ja	bunnohɛ.ja	True	True
+22	하는지를	hanɯnʣirɯɭ	hanɯnʣirɯɭ	hanɯnʣirɯɭ	True	True
+23	알	aɭ	aɭ	aɭ	True	True
+24	수	su	su	su	True	True
+25	있었습니다.	isʼʌt̚sʼɯmɲida	isʼʌt̚sʼɯmɲid	isʼʌt̚sʼɯmɲid	False	False

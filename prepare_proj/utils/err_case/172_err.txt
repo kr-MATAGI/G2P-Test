@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	보먼	bomʌn	bomʌn	bomʌn	True	True
+5	박사가	bak̚sʼaga	bak̚sʼaga	pak̚sʼaga	True	False
+6	중요한	ʣuŋjo̞han	ʣuŋjo̞han	ʣuŋjo̞han	True	True
+7	일을	irɯɭ	irɯɭ	irɯɭ	True	True
+8	했다라는	hɛt̚tʼaranɯn	hɛt̚tʼaranɯn	hɛt̚tʼaranɯn	True	True
+9	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+10	그거는	gɯgʌnɯn	gɯgʌnɯn	gɯgʌnɯn	True	True
+11	분명히	bunmjʌŋhi	bunmjʌŋhi	bunmjʌŋhi	True	True
+12	객관적인	gɛk̚kʼwanʣʌgin	gɛk̚kʼwanʣʌgin	kɛk̚kʼwanʣʌgin	True	False
+13	사실이거든요.	saɕirigʌdɯɲjo̞	saɕirigʌdɯɲjo̞	saɕirigʌdɯɲjo̞	True	True

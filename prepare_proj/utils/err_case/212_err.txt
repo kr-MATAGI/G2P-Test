@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	막	mak̚	mak̚	mak̚	True	True
+1	음악이	ɯmagi	ɯmagi	ɯmagi	True	True
+2	막	mak̚	mak̚	mak̚	True	True
+3	빵빵	pʼaŋpʼaŋ	pʼaŋpʼaŋ	pʼaŋpʼaŋ	True	True
+4	때리고	tʼɛrigo	tʼɛrigo	tʼɛrigo	True	True
+5	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+6	같은	gatʰɯn	gatʰɯn	gatʰɯn	True	True
+7	테이블에	tʰeibɯre	tʰeibɯre	tʰeibɯre	True	True
+8	있는	innɯn	innɯn	innɯn	True	True
+9	사람끼리도	saramkʼirido	saramkʼirido	saramkʼirido	True	True
+10	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+11	귀에	gwie	gwie	gwie	True	True
+12	대고	dɛgo	dɛgo	dɛgo	True	True
+13	말을	marɯɭ	marɯɭ	marɯɭ	True	True
+14	해야	hɛ.ja	hɛ.ja	hɛ.ja	True	True
+15	될	dweɭ	dweɭ	dweɭ	True	True
+16	정도로	ʣʌŋdoro	ʣʌŋdoro	.tzʌŋdoro	True	False
+17	시끄럽잖아요.	ɕikʼɯrʌp̚.tzanajo̞	ɕikʼɯrʌp̚.tzan	ɕikʼɯrʌp̚.tzan	False	False

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	암흑물질이	amhɯŋmuɭ.tziri	amhɯŋmuɭ.tziri	amhɯŋmuɭ.tziri	True	True
+1	어떻게서든	ʌtʼʌkʰesʌdɯn	ʌtʼʌkʰesʌdɯn	ʌtʼʌkʰesʌdɯn	True	True
+2	여기서	ɲjʌgisʌ	jʌgisʌ	jʌgisʌ	False	False
+3	동작하고	doŋʣakʰago	doŋʣakʰago	toŋʣakʰago	True	False
+4	있는	innɯn	innɯn	innɯn	True	True
+5	거다.	gʌda	gʌda	gʌda	True	True

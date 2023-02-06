@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	다	ta	da	ta	False	True
+1	분기하면서라고	bungihamjʌnsʌrago	bungihamjʌnsʌrago	bungihamjʌnsʌrago	True	True
+2	하는	hanɯn	hanɯn	hanɯn	True	True
+3	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

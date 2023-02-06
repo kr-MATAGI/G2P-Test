@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	하여튼	hajʌtʰɯn	hajʌtʰɯn	hajʌtʰɯn	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	린	rin	rin	rin	True	True
+3	마굴리스는	maguɭʎ̟isɯnɯn	maguɭʎ̟isɯnɯn	maguɭʎ̟isɯnɯn	True	True
+4	그	gɯ	gɯ	gɯ	True	True
+5	외에도	weedo	weedo	weedo	True	True
+6	아까	akʼa	akʼa	akʼa	True	True
+7	말씀드리기도	maɭsʼɯmdɯrigido	maɭsʼɯmdɯrigido	maɭsʼɯmdɯrigido	True	True
+8	그렇지만	gɯrʌtsʰiman	kɯrʌtsʰiman	gɯrʌtsʰiman	False	True
+9	본인이	boɲiɲi	boɲiɲi	boɲiɲi	True	True
+10	처음	tsʰʌɯm	tsʰʌɯm	tsʰʌɯm	True	True
+11	주장한	ʣuʣaŋhan	ʣuʣaŋhan	ʣuʣaŋhan	True	True
+12	아이디어가	aidiʌga	aidiʌga	aidiʌga	True	True
+13	아니었기	aɲiʌt̚kʼi	aɲiʌt̚kʼi	aɲiʌt̚kʼi	True	True
+14	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True

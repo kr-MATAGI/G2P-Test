@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	정재승	esʌ	ʣʌŋʣɛsɯŋ	ʣʌŋʣɛsɯŋ	False	False
+2	교수가	ʣʌŋʣɛsɯŋ	gjo̞suga	gjo̞suga	False	False
+3	아주	gjo̞suga	aʣu	aʣu	False	False
+4	과학적인	aʣu	gwahak̚.tzʌgin	kwahak̚.tzʌgin	False	False
+5	분석으로	gwahak̚.tzʌgin	bunsʌgɯro	bunsʌgɯro	False	False
+6	이백만	bunsʌgɯro	ibɛŋman	ibɛŋman	False	False
+7	이하라고	ibɛŋman	iharago	iharago	False	False
+8	얘길	iharago	jɛgiɭ	jɛgiɭ	False	False
+9	했죠.	jɛgiɭ	hɛt̚.tzjo̞	hɛt̚.tzjo̞	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	봐가지고는	pwagaʣigonɯn	bwagaʣigonɯn	pwagaʣigonɯn	False	True
+1	네.	ne	ne	ne	True	True
+2	그럴	gɯrʌɭ	gɯrʌɭ	gɯrʌɭ	True	True
+3	가능성은	ganɯŋsʼʌŋɯn	ganɯŋsʼʌŋɯn	kanɯŋsʼʌŋɯn	True	False
+4	없는	ʌmnɯn	ʌmnɯn	ʌmnɯn	True	True
+5	거	gʌ	gʌ	gʌ	True	True
+6	같애요.	gatʰɛjo̞	gatʰɛjo̞	gatʰɛjo̞	True	True

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제일	t͡ɕeiɭ	ʣeiɭ	ʣeiɭ	False	False
+1	간단한	gandanhan	gandanhan	gandanhan	True	True
+2	걸로는	gʌɭlonɯn	gʌɭlonɯn	kʌɭlonɯn	True	False
+3	이제	iʣe	iʣe	iʣe	True	True
+4	습관화	sɯp̚kʼwanhwa	sɯp̚kʼwanhwa	sɯp̚kʼwanhwa	True	True
+5	같은	gatʰɯn	gatʰɯn	gatʰɯn	True	True
+6	것들이	gʌt̚tʼɯri	gʌt̚tʼɯri	gʌt̚tʼɯri	True	True
+7	있겠죠.	it̚kʼet̚.tzjo̞	it̚kʼet̚.tzjo̞	it̚kʼet̚.tzjo̞	True	True

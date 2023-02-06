@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	집에	esʌ	ʣibe	ʣibe	False	False
+2	변호사나	ʣibe	bjʌnhosana	pjʌnhosana	False	False
+3	의사	bjʌnhosana	ɰisa	ɰisa	False	False
+4	하나	ɰisa	hana	hana	False	False
+5	있으면	hana	isʼɯmjʌn	isʼɯmjʌn	False	False
+6	참	isʼɯmjʌn	tsʰam	tsʰam	False	False
+7	좋잖아요.	tsʰam	ʣotsʰanajo̞	.tzo.tzanajo̞	False	False

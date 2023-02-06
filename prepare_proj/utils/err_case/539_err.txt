@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+1	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+2	알고	aɭgo	aɭgo	aɭgo	True	True
+3	있는	innɯn	innɯn	innɯn	True	True
+4	엔트로피에	entʰɯropʰie	entʰɯropʰie	entʰɯropʰie	True	True
+5	정의	ʣʌŋe	ʣʌŋi	.tzʌŋi	False	False
+6	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+7	중요한	ʣuŋjo̞han	ʣuŋjo̞han	ʣuŋjo̞han	True	True
+8	정의를	ʣʌŋirɯɭ	ʣʌŋirɯɭ	t͡ɕʌŋirɯɭ	True	False
+9	알아낸	aranɛn	aranɛn	aranɛn	True	True
+10	사람이	sarami	sarami	sarami	True	True
+11	볼쯔만이져.	boɭ.tzɯmaɲiʣʌ	boɭ.tzɯmaɲiʣʌ	boɭ.tzjumaɲiʣʌ	True	False

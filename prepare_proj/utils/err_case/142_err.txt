@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	게다가	kedaga	gedaga	gedaga	False	False
+1	이	i	i	i	True	True
+2	양반은	.jaŋbanɯn	.jaŋbanɯn	.jaŋbanɯn	True	True
+3	한	han	han	han	True	True
+4	발	baɭ	baɭ	pʼaɭ	True	False
+5	더	dʌ	dʌ	dʌ	True	True
+6	나가가지고	nagagaʣigo	nagagaʣigo	nagagaʣigo	True	True
+7	이런	irʌn	irʌn	irʌn	True	True
+8	공격이	goŋkʼjʌgi	goŋkʼjʌgi	goŋgjʌgi	True	False
+9	우리	uri	uri	uri	True	True
+10	행성에도	hɛŋsʌŋedo	hɛŋsʌŋedo	hɛŋsʌŋedo	True	True
+11	일어날	irʌnaɭ	irʌnaɭ	irʌnaɭ	True	True
+12	수	su	su	su	True	True
+13	있고	it̚kʼo	it̚kʼo	it̚kʼo	True	True
+14	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+15	빨리	pʼaɭʎ̟i	pʼaɭʎ̟i	pʼaɭʎ̟i	True	True
+16	사람을	saramɯɭ	saramɯɭ	saramɯɭ	True	True
+17	탑승시킨	tʰap̚sʼɯŋɕikʰin	tʰap̚sʼɯŋɕik	tʰap̚sʼɯŋɕik	False	False
+18	탐사선을	tʰamsasʌnɯɭ	tʰamsasʌnɯɭ	tʰamsasʌnɯɭ	True	True
+19	화성에	hwasʌŋe	hwasʌŋe	hwasʌŋe	True	True
+20	보내야	bonɛ.ja	bonɛ.ja	bonɛ.ja	True	True
+21	된다.	dwenda	dwenda	dwenda	True	True

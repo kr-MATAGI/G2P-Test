@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제	t͡ɕe	ʣe	ʣe	False	False
+1	음악	ɯmak̚	ɯmak̚	ɯmak̚	True	True
+2	듣는	dɯnnɯn	dɯnnɯn	dɯnnɯn	True	True
+3	게	ge	ge	ge	True	True
+4	오히려	ohirjʌ	ohirjʌ	ohirjʌ	True	True
+5	편해요.	pʰjʌnhɛjo̞	pʰjʌnhɛjo̞	pʰjʌnhɛjo̞	True	True

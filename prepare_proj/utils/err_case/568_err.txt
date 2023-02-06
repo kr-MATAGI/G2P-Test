@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	세팅한	setʰiŋhan	setʰiŋhan	setʰiŋhan	True	True
+1	악기를	ak̚kʼirɯɭ	ak̚kʼirɯɭ	ak̚kʼirɯɭ	True	True
+2	다	da	da	ta	True	False
+3	확인하고	hwaginhago	hwaginhago	hwaginhago	True	True
+4	어디론가	ʌdironkʼa	ʌdironga	ʌdironga	False	False
+5	총총히	tsʰoŋtsʰoŋhi	tsʰoŋtsʰoŋhi	tsʰoŋtsʰoŋhi	True	True
+6	걸음을	gʌrɯmɯɭ	gʌrɯmɯɭ	kʌrɯmɯɭ	True	False
+7	옮기는데	omginɯnde	omginɯnde	omginɯnde	True	True

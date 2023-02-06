@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	육각수때는	.juk̚kʼak̚sʼu	.juk̚kʼak̚sʼu	.juk̚kʼak̚sʼut	True	False
+1	뭔가이게	tʼɛnɯn	mwʌngaige	mwʌngaige	False	False
+2	질병과	mwʌngaige	ʣiɭbjʌŋgwa	.tziɭbjʌŋgwa	False	False
+3	관련이	ʣiɭbjʌŋgwa	gwaɭʎ̟jʌɲi	kwaɭʎ̟jʌɲi	False	False
+4	있는	gwaɭʎ̟jʌɲi	innɯn	innɯn	False	False
+5	거잖아요.	innɯn	gʌʣanajo̞	kʌʣanajo̞	False	False

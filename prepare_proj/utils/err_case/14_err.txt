@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	신여성분들	esʌ	ɕiɲjʌsʌŋbundɯ	ɕiɲjʌsʌŋbundɯ	False	False
+3	아주	ɕinɲjʌsʌŋbundɯɭ	aʣu	aʣu	False	False
+4	다양한	aʣu	da.jaŋhan	ta.jaŋhan	False	False
+5	여성분들이	da.jaŋhan	jʌsʌŋbundɯri	jʌsʌŋbundɯri	False	False

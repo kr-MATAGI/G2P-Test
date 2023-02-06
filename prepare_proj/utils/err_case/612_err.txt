@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	이에스에이에서도	iesɯeiesʌdo	iesɯeiesʌdo	iesɯeiesʌdo	True	True
+2	뭐~	mwʌ	mwʌ	mwʌ	True	True
+3	준비해가지고	esʌ	ʣunbihɛgaʣigo	ʣunbihɛgaʣigo	False	False
+4	뭐~	ʣunbihɛgaʣigo	mwʌ	mwʌ	False	False
+5	쏜다	mwʌ	sʼonda	sʼonda	False	False
+6	어쩐다	esʌ	ʌ.tzʌnda	ʌ.tzʌnda	False	False
+7	그거는	sʼonda	gɯgʌnɯn	gɯgʌnɯn	False	False

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	시작은	ɕiʣagɯn	ɕiʣagɯn	ɕiʣagɯn	True	True
+1	꼴찌였지만	kʼoɭ.tzijʌt̚.tziman	kʼoɭ.tzijʌt̚.tz	kʼoɭ.tzijʌt̚.tz	False	False
+2	노력	norjʌk̚	norjʌk̚	norjʌk̚	True	True
+3	끝에	kʼɯtʰe	kʼɯtʰe	kʼɯtʰe	True	True
+4	당당히	daŋdaŋhi	daŋdaŋhi	daŋdaŋhi	True	True
+5	일	iɭ	iɭ	iɭ	True	True
+6	등으로	dɯŋɯro	dɯŋɯro	dɯŋɯro	True	True
+7	졸업했습니다.	ʣorʌpʰɛt̚sʼɯmɲida	ʣorʌpʰɛt̚sʼɯ	.tzorʌpʰɛt̚sʼ	False	False

@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	초등학교	tsʰodɯŋhak̚kʼjo̞	tsʰodɯŋhak̚kʼj	tsʰodɯŋhak̚kʼj	False	False
+2	다니던	daɲidʌn	daɲidʌn	daɲidʌn	True	True
+3	칠십년대만	tsʰiɭɕʼimɲjʌndɛman	tsʰiɭɕʼimɲjʌn	tsʰiɭɕʼimɲjʌn	False	False
+4	해도	hɛdo	hɛdo	hɛdo	True	True
+5	그	gɯ	gɯ	gɯ	True	True
+6	시나리오와	ɕinariowa	ɕinariowa	ɕinariowa	True	True
+7	진짜	ʣin.tza	ʣin.tza	ʣin.tza	True	True
+8	현실하고	hjʌnɕiɭhago	hjʌnɕiɭhago	hjʌnɕiɭhago	True	True
+9	그렇게	gɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	True	True
+10	멀질	mʌɭʣiɭ	mʌɭ.tziɭ	mʌɭ.tziɭ	False	False
+11	않아서	anasʌ	anasʌ	anasʌ	True	True

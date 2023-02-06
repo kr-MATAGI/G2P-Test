@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+2	고고학자하고는	gogohak̚.tzahagonɯn	gogohak̚.tzahagon	kogohak̚.tzahagon	False	False
+3	크게	kʰɯge	kʰɯge	kʰɯge	True	True
+4	깊은	gipʰɯn	gipʰɯn	kipʰɯn	True	False
+5	관계가	gwangʲega	gwangʲega	kwangʲega	True	False
+6	없다.	ʌp̚tʼa	ʌp̚tʼa	ʌp̚tʼa	True	True

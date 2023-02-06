@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	이	i	i	i	True	True
+2	그	gɯ	gɯ	gɯ	True	True
+3	우리나라	urinara	urinara	urinara	True	True
+4	전통적으로는	ʣʌntʰoŋʣʌgɯronɯn	ʣʌntʰoŋʣʌgɯr	t͡ɕʌntʰoŋʣʌg	False	False
+5	그	gɯ	gɯ	gɯ	True	True
+6	성분은	sʌŋbunɯn	sʌŋbunɯn	sʌŋbunɯn	True	True
+7	이제	iʣe	iʣe	iʣe	True	True
+8	염초	jʌmtsʰo	jʌmtsʰo	jʌmtsʰo	True	True

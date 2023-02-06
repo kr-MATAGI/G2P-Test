@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True
+2	여러	jʌrʌ	jʌrʌ	jʌrʌ	True	True
+3	번	bʌn	bʌn	bʌn	True	True
+4	얘기	jɛgi	jɛgi	jɛgi	True	True
+5	했는데	hɛnnɯnde	hɛnnɯnde	hɛnnɯnde	True	True
+6	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True

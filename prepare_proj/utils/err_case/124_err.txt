@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	그러니까	esʌ	kɯrʌɲikʼa	gɯrʌɲikʼa	False	False
+2	이	gɯrʌɲikʼa	i	i	False	False
+3	작품	i	ʣak̚pʰum	ʣak̚pʰum	False	False
+4	속에	ʣak̚pʰum	soge	soge	False	False
+5	캐릭터들	soge	kʰɛrik̚tʰʌdɯ	kʰɛrik̚tʰʌdɯ	False	False
+6	이	kʰɛrik̚tʰʌdɯɭ	i	i	False	False
+7	인물들을	i	inmuɭdɯrɯɭ	inmuɭdɯrɯɭ	False	False
+8	언젠가는	inmuɭdɯrɯɭ	ʌnʣenganɯn	ʌnʣenganɯn	False	False
+9	세상과	ʌnʣenganɯn	sesaŋgwa	sesaŋgwa	False	False
+10	좀	sesaŋgwa	ʣom	ʣom	False	False
+11	만나게	ʣom	mannage	mannage	False	False
+12	해주겠다.	mannage	hɛʣuget̚tʼa	hɛʣuget̚tʼa	False	False

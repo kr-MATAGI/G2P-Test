@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	단군	esʌ	dangun	dangun	False	False
+2	이래로	dangun	irɛro	irɛro	False	False
+3	번개하고	irɛro	bʌngɛhago	pʌngɛhago	False	False
+4	세균들밖에	bʌngɛhago	segjundɯɭbakʼe	segjundɯɭbakʼe	False	False
+5	없었던	segjundɯɭbakʼe	ʌp̚sʼʌt̚tʼʌn	ʌp̚sʼʌt̚tʼʌn	False	False
+6	거예요.	ʌp̚sʼʌt̚tʼʌn	gʌjejo̞	gʌjejo̞	False	False

@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	직접	t͡ɕik̚.tzʌp̚	ʣik̚.tzʌp̚	ʣik̚.tzʌp̚	False	False
+1	나에	nae	nae	nae	True	True
+2	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+3	생업	sɛŋʌp̚	sɛŋʌp̚	sɛŋʌp̚	True	True
+4	본업처럼	bonʌp̚tsʰʌrʌm	bonʌp̚tsʰʌrʌm	bonʌp̚tsʰʌrʌm	True	True
+5	시간과	ɕigangwa	ɕigangwa	ɕigangwa	True	True
+6	돈과	dongwa	dongwa	tongwa	True	False
+7	나에	nae	nae	nae	True	True
+8	청춘을	tsʰʌŋtsʰunɯɭ	tsʰʌŋtsʰunɯɭ	tsʰʌŋtsʰunɯɭ	True	True
+9	투자하시게	tʰuʣahaɕige	tʰuʣahaɕige	tʰuʣahaɕige	True	True
+10	됐는지	dwɛnnɯnʣi	dwɛnnɯnʣi	twɛnnɯnʣi	True	False
+11	그거	gɯgʌ	gɯgʌ	gɯgʌ	True	True
+12	궁금합니다.	guŋgɯmhamɲida	guŋgɯmhamɲida	kuŋgɯmhamɲida	True	False

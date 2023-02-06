@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	척추를	tsʰʌk̚tsʰurɯɭ	tsʰʌk̚tsʰurɯɭ	tsʰʌk̚tsʰurɯɭ	True	True
+1	지압해서	ʣiapʰɛsʌ	ʣiapʰɛsʌ	.tziapʰɛsʌ	True	False
+2	이	i	i	i	True	True
+3	척추에	tsʰʌk̚tsʰue	tsʰʌk̚tsʰue	tsʰʌk̚tsʰue	True	True
+4	비정상적인	biʣʌŋsaŋʣʌgin	biʣʌŋsaŋʣʌgin	biʣʌŋsaŋʣʌgin	True	True
+5	배열을	bɛjʌrɯɭ	bɛjʌrɯɭ	pɛjʌrɯɭ	True	False
+6	교정하고	gjo̞ʣʌŋhago	gjo̞ʣʌŋhago	gjo̞ʣʌŋhago	True	True
+7	신경이	ɕingjʌŋi	ɕingjʌŋi	ɕingjʌŋi	True	True
+8	눌려있는	nuɭʎ̟jʌinnɯn	nuɭʎ̟jʌinnɯn	nuɭʎ̟jʌinnɯn	True	True
+9	부분을	bubunɯɭ	bubunɯɭ	bubunɯɭ	True	True
+10	풀어줌으로써	pʰurʌʣumɯrosʼʌ	pʰurʌʣumɯrosʼ	pʰurʌʣumɯrosʼ	False	False
+11	신경과	ɕingjʌŋkʼwa	ɕingjʌŋgwa	ɕingjʌŋgwa	False	False
+12	근골격계를	gɯngoɭgjʌk̚kʼʲerɯɭ	gɯngoɭgjʌk̚kʼ	gɯngoɭgjʌk̚kʼ	False	False
+13	복합적으로	bokʰap̚.tzʌgɯro	bokʰap̚.tzʌgɯro	bokʰap̚.tzʌgɯro	True	True
+14	다루는	darunɯn	darunɯn	darunɯn	True	True
+15	수기치료법인데요.	sugi	sugi	sugitsʰirjo̞bʌbi	True	False

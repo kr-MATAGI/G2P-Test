@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+2	천구백구십구년도인데	tsʰʌngu	tsʰʌngubɛk̚kʼu	tsʰʌngubɛk̚kʼu	False	False
+3	코볼을	bɛk̚kʼu	kʰoborɯɭ	kʰoborɯɭ	False	False
+4	아는	ɕip̚	anɯn	anɯn	False	False
+5	사람들은	kuɲjʌndo	saramdɯrɯn	saramdɯrɯn	False	False
+6	다	inde	da	ta	False	False
+7	은퇴하고	kʰoborɯɭ	ɯntʰwehago	ɯntʰwehago	False	False
+8	뭐	anɯn	mwʌ	mwʌ	False	False
+9	없거든요.	saramdɯrɯn	ʌp̚kʼʌdɯɲjo̞	ʌp̚kʼʌdɯɲjo̞	False	False

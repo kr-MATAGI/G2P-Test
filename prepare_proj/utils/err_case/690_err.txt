@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	속에서	sogesʌ	sogesʌ	sogesʌ	True	True
+2	오바마를	obamarɯɭ	obamarɯɭ	obamarɯɭ	True	True
+3	함	ham	ham	ham	True	True
+4	찾아보세요.	tsʰaʣabosejo̞	tsʰaʣabosejo̞	tsʰaʣabosejo̞	True	True

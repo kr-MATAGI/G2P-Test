@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	록	rok̚	rok̚	rok̚	True	True
+1	음악이	ɯmagi	ɯmagi	ɯmagi	True	True
+2	태어난	tʰɛʌnan	tʰɛʌnan	tʰɛʌnan	True	True
+3	비슷한	bisɯtʰan	bisɯtʰan	bisɯtʰan	True	True
+4	시기에	ɕigie	ɕigie	ɕigie	True	True
+5	미술계에서도	misuɭgʲeesʌdo	misuɭgʲeesʌdo	misuɭgʲeesʌdo	True	True
+6	혁명적인	hjʌŋmjʌŋʣʌgin	hjʌŋmjʌŋʣʌgin	hjʌŋmjʌŋʣʌgin	True	True
+7	움직임이	umʣigimi	umʣigimi	umʣigimi	True	True
+8	꿈틀대고	kʼumtʰɯɭdɛgo	kʼumtʰɯɭdɛgo	kʼumtʰɯɭdɛgo	True	True
+9	있었습니다.	isʼʌt̚sʼɯmɲida	isʼʌt̚sʼɯmɲid	isʼʌt̚sʼɯmɲid	False	False

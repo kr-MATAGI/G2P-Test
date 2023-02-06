@@ -1,0 +1,25 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아	a	a	a	True	True
+1	이거	igʌ	igʌ	igʌ	True	True
+2	뭐~	mwʌ	mwʌ	mwʌ	True	True
+3	사실	esʌ	saɕiɭ	saɕiɭ	False	False
+4	우리가	saɕiɭ	uriga	uriga	False	False
+5	좀	uriga	ʣom	ʣom	False	False
+6	비유를	ʣom	bi.jurɯɭ	bi.jurɯɭ	False	False
+7	하면	bi.jurɯɭ	hamjʌn	hamjʌn	False	False
+8	좀	hamjʌn	ʣom	ʣom	False	False
+9	끔찍한	ʣom	kʼɯm.tzikʰan	kʼɯm.tzikʰan	False	False
+10	세상인데	kʼɯm.tzikʰan	sesaŋinde	sesaŋinde	False	False
+11	우리	sesaŋinde	uri	uri	False	False
+12	몸은	uri	momɯn	momɯn	False	False
+13	어떻게	momɯn	ʌtʼʌkʰe	ʌtʼʌkʰe	False	False
+14	보면	ʌtʼʌkʰe	bomjʌn	bomjʌn	False	False
+15	좀	bomjʌn	ʣom	ʣom	False	False
+16	어떻게	ʣo	ʌtʼʌkʰe	ʌtʼʌkʰe	False	False
+17	보면	mʌtʼʌkʰe	bomjʌn	bomjʌn	False	False
+18	세포에	bomjʌn	sepʰoe	sepʰoe	False	False
+19	입장에서는	sepʰoe	ip̚.tzaŋesʌnɯn	ip̚.tzaŋesʌnɯn	False	False
+20	이타주의적인	ip̚.tzaŋesʌnɯn	itʰaʣuiʣʌgin	itʰaʣuiʣʌgin	False	False
+21	입장에서	itʰaʣuiʣʌgin	ip̚.tzaŋesʌ	ip̚.tzaŋesʌ	False	False
+22	움직이는	ip̚.tzaŋesʌ	umʣiginɯn	umʣiginɯn	False	False
+23	이런	umʣiginɯn	irʌn	irʌn	False	False

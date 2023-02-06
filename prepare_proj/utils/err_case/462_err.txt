@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	거기는	gʌginɯn	gʌginɯn	gʌginɯn	True	True
+2	뭐~	mwʌ	mwʌ	mwʌ	True	True
+3	시	esʌ	ɕi	ɕi	False	False
+4	군	ɕi	gun	gun	False	False
+5	구	gun	gu	gu	False	False
+6	의원	gu	ɰiwʌn	ɰiwʌn	False	False
+7	같은데	ɰiwʌn	gatʰɯnde	gatʰɯnde	False	False
+8	입후보를	gatʰɯnde	ipʰuborɯɭ	ipʰuborɯɭ	False	False
+9	하려면	ipʰuborɯɭ	harjʌmjʌn	harjʌmjʌn	False	False
+10	이백만	harjʌmjʌn	ibɛŋman	ibɛŋman	False	False
+11	원을	ibɛŋma	wʌnɯɭ	wʌnɯɭ	False	False
+12	내야됩니다.	nwʌnɯɭ	nɛ.jadwemɲida	nɛ.jadwemɲida	False	False

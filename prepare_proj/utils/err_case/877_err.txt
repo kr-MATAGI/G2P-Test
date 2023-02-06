@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯ	ʣʌnɯn	ʣʌnɯn	False	False
+1	인문학을	ɲinmunhagɯɭ	inmunhagɯɭ	inmunhagɯɭ	False	False
+2	표방을	pʰjo̞baŋɯɭ	pʰjo̞baŋɯɭ	pʰjo̞baŋɯɭ	True	True
+3	하기는	haginɯn	haginɯn	haginɯn	True	True
+4	했지만	hɛt̚.tziman	hɛt̚.tziman	hɛt̚.tziman	True	True
+5	문학적	munhak̚.tzʌk̚	munhak̚.tzʌk̚	munhak̚.tzʌk̚	True	True
+6	이제	iʣe	iʣe	iʣe	True	True
+7	문학하는	munhak̚	munhakʰanɯn	munhakʰanɯn	False	False
+8	사람이니까	hanɯn	saramiɲikʼa	saramiɲikʼa	False	False

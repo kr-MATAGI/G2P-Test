@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	대표적인	tɛpʰjo̞ʣʌgin	dɛpʰjo̞ʣʌgin	dɛpʰjo̞ʣʌgin	False	False
+1	게	ge	ge	ge	True	True
+2	안타레스라는	antʰaresɯranɯn	antʰaresɯranɯn	antʰaresɯranɯn	True	True
+3	별이	bjʌri	bjʌri	bjʌri	True	True
+4	있거든요.	it̚kʼʌdɯɲjo̞	it̚kʼʌdɯɲjo̞	it̚kʼʌdɯɲjo̞	True	True

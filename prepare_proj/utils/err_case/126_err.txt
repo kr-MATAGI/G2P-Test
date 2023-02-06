@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	국제	esʌ	guk̚.tze	guk̚.tze	False	False
+3	기후변화	guk̚.tze	gihubjʌnhwa	kihubjʌnhwa	False	False
+4	협약단체에서는	gihubjʌnhwa	hjʌb.jak̚tʼants	hjʌb.jak̚tʼants	False	False
+5	얘기를	hjʌb.jak̚tʼantsʰeesʌnɯn	jɛgirɯɭ	jɛgirɯɭ	False	False
+6	하고	jɛgirɯɭ	hago	hago	False	False
+7	있습니다.	hago	it̚sʼɯmɲida	it̚sʼɯmɲida	False	False

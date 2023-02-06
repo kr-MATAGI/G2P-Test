@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이런	irʌn	irʌn	irʌn	True	True
+1	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+2	하는	hanɯn	hanɯn	hanɯn	True	True
+3	걱정이	gʌk̚.tzʌŋi	gʌk̚.tzʌŋi	gʌk̚.tzʌŋi	True	True
+4	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+5	영어가	jʌŋʌga	jʌŋʌga	jʌŋʌga	True	True
+6	성큼성큼	sʌŋkʰɯmsʌŋkʰɯm	sʌŋkʰɯmsʌŋkʰ	sʌŋkʰɯmsʌŋkʰ	False	False
+7	이렇게	ɲirʌkʰe	irʌkʰe	irʌkʰe	False	False
+8	앞서	ap̚sʼʌ	ap̚sʼʌ	ap̚sʼʌ	True	True
+9	나갈	nagaɭ	nagaɭ	nagaɭ	True	True
+10	때	tʼɛ	tʼɛ	tʼɛ	True	True
+11	로마자랑	romaʣaraŋ	romaʣaraŋ	romaʣaraŋ	True	True

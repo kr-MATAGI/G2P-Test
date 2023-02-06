@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	그가	gɯga	gɯga	gɯga	True	True
+2	이천십년	itsʰʌnɕimɲjʌn	itsʰʌnɕimɲjʌn	itsʰʌnɕimɲjʌn	True	True
+3	새해	sɛhɛ	sɛhɛ	sɛhɛ	True	True
+4	벽두부터	bjʌk̚tʼubutʰʌ	bjʌk̚tʼubutʰʌ	pjʌk̚tʼubutʰʌ	True	False
+5	스위스에	sɯwisɯe	sɯwisɯe	sɯwisɯe	True	True
+6	나타났습니다.	natʰanat̚sʼɯmɲida	natʰanat̚sʼɯmɲ	natʰanat̚sʼɯmɲ	False	False

@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	인도	.tzogida	indo	indo	False	False
+1	선교에	gɯ.tzogɯro	sʌngjo̞e	sʌngjo̞e	False	False
+2	관심이	han	gwanɕimi	kwanɕimi	False	False
+3	많아	bʌn	mana	mana	False	False
+4	가지고	gabonɯn	gaʣigo	gaʣigo	False	False
+5	인제	ge	inʣe	inʣe	False	False
+6	의학	ʌtʼʌɲ.jaranɯn	ɰihak̚	ɰihak̚	False	False
+7	어~	gɯrʌn	ʌ	ʌp̚	False	False
+8	공부를	ʌ	goŋburɯɭ	goŋburɯɭ	False	False
+9	마친	esʌ	matsʰin	matsʰin	False	False
+10	다음에	gʲehwegi	daɯme	daɯme	False	False
+11	의사가	sewʌʣʌ	ɰisaga	ɰisaga	False	False
+12	돼	isʼʌt̚tʼago	dwɛ	twɛ	False	False
+13	가지고	hamɲida	gaʣigo	gaʣigo	False	False

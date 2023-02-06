@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	세	se	se	se	True	True
+1	개	gɛ	gɛ	gɛ	True	True
+2	학교	hak̚kʼjo̞	hak̚kʼjo̞	hak̚kʼjo̞	True	True
+3	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True
+4	빼고	pʼɛgo	pʼɛgo	pʼɛgo	True	True
+5	지방에	ʣibaŋe	ʣibaŋe	ʣibaŋe	True	True
+6	거점	gʌ.tzʌm	gʌʣʌm	gʌʣʌm	False	False
+7	국립대들	guŋɲip̚tʼɛdɯɭ	guŋɲip̚tʼɛdɯ	kuŋɲip̚tʼɛdɯ	False	False
+8	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+9	정도에만	ʣʌŋdoeman	ʣʌŋdoeman	.tzʌŋdoeman	True	False
+10	지질학과가	ʣiʣiɭhak̚kʼwaga	ʣiʣiɭhak̚kʼwag	ʣiʣiɭhak̚kʼwa	False	False
+11	있고요.	it̚kʼojo̞	it̚kʼojo̞	it̚kʼojo̞	True	True

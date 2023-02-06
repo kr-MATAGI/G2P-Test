@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	뮤지션들	mjuʣisjʌndɯɭ	mjuʣisjʌndɯɭ	mjuʣisjʌndɯɭ	True	True
+2	아니면은	aɲimjʌnɯn	aɲimjʌnɯn	aɲimjʌnɯn	True	True
+3	뭐	mwʌ	mwʌ	mwʌ	True	True
+4	빅	bik̚	bik̚	bik̚	True	True
+5	밴드	pʼɛndɯ	bɛndɯ	mɛndɯ	False	False
+6	스	sɯ	sɯ	sɯ	True	True
+7	어~	ʌ	ʌ	ʌp̚	True	False
+8	재즈	esʌ	ʣɛʣɯ	ʣɛʣɯ	False	False
+9	같은	ʣɛʣɯ	gatʰɯn	gatʰɯn	False	False
+10	예.	gatʰɯn	je	je	False	False

@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이런	irʌn	irʌn	irʌn	True	True
+1	뉴스가	ɲjusɯga	ɲjusɯga	ɲjusɯga	True	True
+2	있었고	isʼʌt̚kʼo	isʼʌt̚kʼo	isʼʌt̚kʼo	True	True
+3	또	tʼo	tʼo	tʼo	True	True
+4	눈에	nune	nune	nune	True	True
+5	띄었던	tʼiʌt̚tʼʌn	tʼiʌt̚tʼʌn	tʼiʌt̚tʼʌn	True	True
+6	뉴스는	ɲjusɯnɯn	ɲjusɯnɯn	ɲjusɯnɯn	True	True
+7	그~	gɯ	gɯ	gɯp̚	True	False
+8	지난	esʌ	ʣinan	.tzinan	False	False
+9	달에	ʣinan	dare	dare	False	False
+10	이용	dare	ijo̞ŋ	ijo̞ŋ	False	False
+11	기자님이	ijo̞ŋ	giʣaɲimi	kiʣaɲimi	False	False
+12	최후에	giʣaɲimi	tsʰwehue	tsʰwehue	False	False
+13	집착	tsʰwehue	ʣip̚tsʰak̚	ʣip̚tsʰak̚	False	False
+14	분석에서	ʣip̚tsʰak̚	bunsʌgesʌ	bunsʌgesʌ	False	False

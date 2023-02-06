@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	글쓰기는	kɯɭsʼɯginɯn	gɯɭsʼɯginɯn	kɯɭsʼɯginɯn	False	True
+1	그녀의	gɯɲjʌe	gɯɲjʌe	gɯɲjʌe	True	True
+2	또	tʼo	tʼo	tʼo	True	True
+3	다른	darɯn	darɯn	darɯn	True	True
+4	호흡법입니다.	hohɯp̚pʼʌbimɲida	hohɯp̚pʼʌbimɲi	hohɯp̚pʼʌbimɲi	False	False

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	강아지	kaŋaʣi	gaŋaʣi	gaŋaʣi	False	False
+1	키워도	kʰiwʌdo	kʰiwʌdo	kʰiwʌdo	True	True
+2	자기	ʣagi	ʣagi	ʣagi	True	True
+3	집이	ʣibi	ʣibi	ʣibi	True	True
+4	있어야	isʼʌ.ja	isʼʌ.ja	isʼʌ.ja	True	True
+5	돼요.	dwɛjo̞	dwɛjo̞	twɛjo̞	True	False

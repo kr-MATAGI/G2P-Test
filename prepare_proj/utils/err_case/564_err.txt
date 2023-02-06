@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	방탄소년단과	baŋtʰansoɲjʌndangwa	baŋtʰansoɲjʌnda	paŋtʰansoɲjʌnda	False	False
+2	관련된	gwaɭʎ̟jʌndwen	gwaɭʎ̟jʌndwen	kwaɭʎ̟jʌndwen	True	False
+3	엉화가	ʌŋhwaga	ʌŋhwaga	ʌŋhwaga	True	True
+4	개봉을	gɛboŋɯɭ	gɛboŋɯɭ	kɛboŋɯɭ	True	False
+5	했잖아요.	hɛt̚.tzanajo̞	hɛt̚.tzanajo̞	hɛt̚.tzanajo̞	True	True

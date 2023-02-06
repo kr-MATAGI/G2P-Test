@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래도	kɯrɛdo	gɯrɛdo	gɯrɛdo	False	False
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	자식	esʌ	ʣaɕik̚	ʣaɕik̚	False	False
+3	양자까지	ʣaɕik̚	.jaŋʣakʼaʣi	.jaŋʣakʼaʣi	False	False
+4	포함	.jaŋ.tzakʼaʣi	pʰoham	pʰoham	False	False
+5	다섯	pʰoham	dasʌt̚	dasʌt̚	False	False
+6	사람	dasʌt̚	saram	saram	False	False
+7	자식	sʼaram	ʣaɕik̚	ʣaɕik̚	False	False
+8	잘	ʣaɕik̚	ʣaɭ	ʣaɭ	False	False
+9	키우면서	ʣaɭ	kʰiumjʌnsʌ	kʰiumjʌnsʌ	False	False
+10	잘	kʰiumjʌnsʌ	ʣaɭ	ʣaɭ	False	False
+11	자리	ʣaɭ	ʣari	ʣari	False	False
+12	잡고	ʣari	ʣap̚kʼo	ʣap̚kʼo	False	False
+13	있는	ʣap̚kʼo	innɯn	innɯn	False	False
+14	사람인데	innɯn	saraminde	saraminde	False	False
+15	그런	saraminde	gɯrʌn	gɯrʌn	False	False
+16	집안에	gɯrʌn	ʣibane	.tzibane	False	False
+17	사람인데	ʣibane	saraminde	saraminde	False	False

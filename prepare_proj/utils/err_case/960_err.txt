@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	일케	esʌ	iɭkʰe	iɭkʰe	False	False
+2	우리	iɭkʰe	uri	uri	False	False
+3	가슴에	uri	gasɯme	gasɯme	False	False
+4	와닿는	gasɯme	wadannɯn	wadannɯn	False	False
+5	어떤	wadannɯn	ʌtʼʌn	ʌtʼʌn	False	False
+6	저자의	ʌtʼʌn	ʣʌʣae	ʣʌʣai	False	False
+7	메시지	ʣʌʣae	meɕiʣi	meɕiʣi	False	False

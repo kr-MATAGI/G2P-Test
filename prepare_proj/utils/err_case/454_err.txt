@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+1	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+2	부분들이었지만	bubundɯriʌt̚.tziman	bubundɯriʌt̚.tzi	pubundɯriʌt̚.tzi	False	False
+3	어~	ʌ	ʌ	ʌp̚	True	False
+4	두	esʌ	du	du	False	False
+5	번째	du	bʌn.tzɛ	pʌn.tzɛ	False	False
+6	노벨상을	bʌn.tzɛ	nobeɭsaŋɯɭ	nobeɭsʼaŋɯɭ	False	False
+7	받게	nobeɭsaŋɯɭ	bat̚kʼe	pat̚kʼe	False	False
+8	되고	bat̚kʼe	dwego	dwego	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저~	t͡ɕʌ	ʣʌ	ʣʌp̚	False	False
+1	말미에	esʌ	maɭmie	maɭmie	False	False
+2	나오는	maɭmie	naonɯn	naonɯn	False	False
+3	염불서승도라고	naonɯn	jʌmbuɭsʼʌsɯŋd	jʌmbuɭsʼʌsɯŋd	False	False
+4	있어요.	ɲjʌmbuɭ	isʼʌjo̞	isʼʌjo̞	False	False

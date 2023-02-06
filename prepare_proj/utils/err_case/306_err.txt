@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	말년에는	maɭʎ̟jʌnenɯn	maɭʎ̟jʌnenɯn	maɭʎ̟jʌnenɯn	True	True
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	에이다	esʌ	eida	eida	False	False
+3	이	eida	i	i	False	False
+4	이런	i	irʌn	irʌn	False	False
+5	것도	irʌn	gʌt̚tʼo	gʌt̚tʼo	False	False
+6	좀	gʌt̚tʼo	ʣom	ʣom	False	False
+7	그런	ʣom	gɯrʌn	gɯrʌn	False	False
+8	슬프기도	gɯrʌn	sɯɭpʰɯgido	sɯɭpʰɯgido	False	False
+9	한데	sɯɭpʰɯgido	hande	hande	False	False

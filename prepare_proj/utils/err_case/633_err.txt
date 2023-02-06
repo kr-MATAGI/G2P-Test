@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	부산대학교	busandɛhak̚kʼjo̞	busandɛhak̚kʼjo	busandɛhak̚kʼjo	False	False
+2	물리	muɭʎ̟i	muɭʎ̟i	muɭʎ̟i	True	True
+3	교육학과	gjo̞.jukʰak̚kʼwa	gjo̞.jukʰak̚kʼw	kjo̞.jukʰak̚kʼw	False	False

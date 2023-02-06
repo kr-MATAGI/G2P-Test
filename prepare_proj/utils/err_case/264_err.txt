@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저도	t͡ɕʌdo	ʣʌdo	ʣʌdo	False	False
+1	캐릭터	kʰɛrik̚tʰʌ	kʰɛrik̚tʰʌ	kʰɛrik̚tʰʌ	True	True
+2	살짝	saɭ.tzak̚	saɭ.tzak̚	saɭ.tzak̚	True	True
+3	잡히는	.tzapʰinɯn	ʣapʰinɯn	ʣapʰinɯn	False	False
+4	거	gʌ	gʌ	gʌ	True	True
+5	같기는	gat̚kʼinɯn	gat̚kʼinɯn	gat̚kʼinɯn	True	True
+6	해요.	hɛjo̞	hɛjo̞	hɛjo̞	True	True

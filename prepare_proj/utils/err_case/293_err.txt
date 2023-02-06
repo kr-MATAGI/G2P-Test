@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	두려움이	turjʌumi	durjʌumi	durjʌumi	False	False
+1	극단적인	gɯk̚tʼanʣʌgin	gɯk̚tʼanʣʌgin	kɯk̚tʼanʣʌgin	True	False
+2	선택을	sʌntʰɛgɯɭ	sʌntʰɛgɯɭ	sʌntʰɛgɯɭ	True	True
+3	하게	hage	hage	hage	True	True
+4	만들었네요.	mandɯrʌnnejo̞	mandɯrʌnnejo̞	mandɯrʌnnejo̞	True	True

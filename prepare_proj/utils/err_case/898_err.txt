@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌ	gɯrʌn	gɯrʌn	False	False
+1	위치입니다만	nwitsʰiimɲidaman	witsʰiimɲidaman	witsʰiimɲidaman	False	False
+2	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+3	인제	inʣe	inʣe	inʣe	True	True
+4	이런저런	irʌnʣʌrʌn	irʌnʣʌrʌn	irʌnʣʌrʌn	True	True
+5	이야기를	ɲi.jagirɯɭ	i.jagirɯɭ	i.jagirɯɭ	False	False
+6	하면서	hamjʌnsʌ	hamjʌnsʌ	hamjʌnsʌ	True	True
+7	뉴턴	ɲjutʰʌn	ɲjutʰʌn	ɲjutʰʌn	True	True
+8	본인이	boɲiɲi	boɲiɲi	boɲiɲi	True	True
+9	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+10	이야기를	ɲi.jagirɯɭ	i.jagirɯɭ	i.jagirɯɭ	False	False
+11	했어요.	hɛsʼʌjo̞	hɛsʼʌjo̞	hɛsʼʌjo̞	True	True

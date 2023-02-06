@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+1	저희에겐	ʣʌhiegen	ʣʌhiegen	t͡ɕʌhiegen	True	False
+2	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+3	생소하거든요.	sɛŋsohagʌdɯɲjo̞	sɛŋsohagʌdɯɲjo	sɛŋsohagʌdɯɲjo	False	False

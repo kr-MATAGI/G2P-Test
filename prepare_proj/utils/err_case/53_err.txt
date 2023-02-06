@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그때가	kɯtʼɛga	gɯtʼɛga	gɯtʼɛga	False	False
+1	아마	ama	ama	ama	True	True
+2	구십이년도로	guɕip̚	guɕimiɲjʌndoro	kuɕibiɲjʌndoro	False	False
+3	기억납니다.	iɲjʌn	giʌŋnamɲida	kiʌŋnamɲida	False	False

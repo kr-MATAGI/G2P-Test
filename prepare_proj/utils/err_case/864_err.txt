@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저희는	t͡ɕʌhinɯn	ʣʌhinɯn	ʣʌhinɯn	False	False
+1	다음	daɯm	daɯm	daɯm	True	True
+2	시간에	ɕigane	ɕigane	ɕigane	True	True
+3	다시	daɕi	daɕi	daɕi	True	True
+4	뵙습니다.	bwep̚sʼɯmɲida	bwep̚sʼɯmɲida	pwep̚sʼɯmɲida	True	False

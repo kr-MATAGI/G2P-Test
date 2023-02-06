@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그걸가지고	kɯgʌɭgaʣigo	gɯgʌɭgaʣigo	gɯgʌɭgaʣigo	False	False
+1	이모든	i	imodɯn	imodɯn	False	False
+2	게	modɯn	ge	ge	False	False
+3	일추된	ge	iɭtsʰudwen	iɭtsʰudwen	False	False
+4	겁니다.	iɭ	gʌmɲida	gʌmɲida	False	False

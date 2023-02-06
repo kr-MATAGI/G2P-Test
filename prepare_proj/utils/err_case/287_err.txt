@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	며칠	mjʌtsʰiɭ	mjʌtsʰiɭ	mjʌtsʰiɭ	True	True
+1	후에	hue	hue	hue	True	True
+2	연주는	jʌnʣunɯn	jʌnʣunɯn	jʌnʣunɯn	True	True
+3	그때	gɯtʼɛ	gɯtʼɛ	gɯtʼɛ	True	True
+4	하나	hana	hana	hana	True	True
+5	마쳤습니다.	matsʰʌt̚sʼɯmɲida	matsʰʌt̚sʼɯmɲ	matsʰʌt̚sʼɯmɲ	False	False

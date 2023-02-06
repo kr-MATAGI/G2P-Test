@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그거는	kɯgʌnɯn	gɯgʌnɯn	gɯgʌnɯn	False	False
+1	약간	.jak̚kʼan	.jak̚kʼan	.jak̚kʼan	True	True
+2	프리키	pʰɯri	pʰɯrikʰi	pʰɯrikʰi	False	False
+3	하다고요.	kʰi	hadagojo̞	hadagojo̞	False	False

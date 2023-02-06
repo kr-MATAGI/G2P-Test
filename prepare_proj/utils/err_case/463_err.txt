@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐~	mwʌ	mwʌ	mwʌ	True	True
+1	좀	esʌ	ʣom	ʣom	False	False
+2	뭐~	ʣom	mwʌ	mwʌ	False	False
+3	고난의	mwʌ	gonane	konane	False	False
+4	그런	esʌ	gɯrʌn	gɯrʌn	False	False
+5	몇년이	gonane	mjʌnɲjʌɲi	mjʌnɲjʌɲi	False	False
+6	이어지긴	gɯrʌn	iʌʣigin	iʌʣigin	False	False
+7	하겠지만	mjʌn	haget̚.tziman	haget̚.tziman	False	False

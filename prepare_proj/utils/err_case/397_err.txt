@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	이런	irʌn	irʌn	irʌn	True	True
+2	사람들	saramdɯɭ	saramdɯɭ	saramdɯɭ	True	True
+3	위주로	lwiʣuro	wiʣuro	wiʣuro	False	False
+4	돼	dwɛ	dwɛ	twɛ	True	False
+5	가지고	gaʣigo	gaʣigo	gaʣigo	True	True

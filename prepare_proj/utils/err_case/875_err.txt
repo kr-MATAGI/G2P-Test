@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러니까	kɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	True	False
+1	그전까지는	gɯʣʌnkʼaʣinɯn	gɯʣʌnkʼaʣinɯn	kɯʣʌnkʼaʣinɯn	True	False
+2	디지털카메라를	diʣitʰʌɭkʰamerarɯɭ	diʣitʰʌɭkʰamer	diʣitʰʌɭkʰame	False	False
+3	썼었고	sʼʌsʼʌt̚kʼo	sʼʌsʼʌt̚kʼo	sʼʌsʼʌt̚kʼo	True	True
+4	뭔가	mwʌnga	mwʌnga	mwʌnga	True	True
+5	제	ʣe	ʣe	ʣe	True	True
+6	것	gʌt̚	gʌt̚	gʌt̚	True	True
+7	같진	gat̚.tzin	gat̚.tzin	gat̚.tzin	True	True
+8	않고	ankʰo	ankʰo	ankʰo	True	True
+9	뭔가	mwʌnga	mwʌnga	mwʌnga	True	True
+10	다	da	da	ta	True	False
+11	텅텅	tʰʌŋtʰʌŋ	tʰʌŋtʰʌŋ	tʰʌŋtʰʌŋ	True	True
+12	비어	biʌ	biʌ	biʌ	True	True
+13	있는	innɯn	innɯn	innɯn	True	True
+14	느낌이	nɯkʼimi	nɯkʼimi	nɯkʼimi	True	True
+15	많이	maɲi	maɲi	maɲi	True	True
+16	들었거든요.	dɯrʌt̚kʼʌdɯɲjo̞	dɯrʌt̚kʼʌdɯɲ	dɯrʌt̚kʼʌdɯɲ	False	False

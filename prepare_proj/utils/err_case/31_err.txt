@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	손발	sonbaɭ	sonbaɭ	sonbaɭ	True	True
+2	멀어질수록	mʌrʌʣiɭsʼurok̚	mʌrʌʣiɭsʼurok	mʌrʌʣiɭsʼurok	False	False
+3	심장에서	ɕimʣaŋesʌ	ɕimʣaŋesʌ	ɕimʣaŋesʌ	True	True
+4	멀어질수록	mʌrʌʣiɭsʼurok̚	mʌrʌʣiɭsʼurok	mʌrʌʣiɭsʼurok	False	False
+5	정말	ʣʌŋmaɭ	ʣʌŋmaɭ	.tzʌŋmaɭ	True	False
+6	온도가	ondoga	ondoga	ondoga	True	True
+7	차가워진다는	tsʰagawʌʣindanɯn	tsʰagawʌʣindanɯ	tsʰagawʌʣindanɯ	False	False
+8	게	ge	ge	ge	True	True
+9	느껴질	nɯkʼjʌʣiɭ	nɯkʼjʌʣiɭ	nɯkʼjʌʣiɭ	True	True
+10	정도로	ʣʌŋdoro	ʣʌŋdoro	.tzʌŋdoro	True	False
+11	너무	nʌmu	nʌmu	nʌmu	True	True
+12	차이가	tsʰaiga	tsʰaiga	tsʰaiga	True	True
+13	나거든요.	nagʌdɯɲjo̞	nagʌdɯɲjo̞	nagʌdɯɲjo̞	True	True

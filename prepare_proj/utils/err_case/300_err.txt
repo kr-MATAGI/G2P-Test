@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	갈릴레오	kaɭʎ̟iɭleo	gaɭʎ̟iɭleo	kaɭʎ̟iɭleo	False	True
+1	갈릴레이	gaɭʎ̟iɭlei	gaɭʎ̟iɭlei	kaɭʎ̟iɭlei	True	False
+2	이상하잖아요	isaŋhaʣanajo̞	isaŋhaʣanajo̞	isaŋhaʣanajo̞	True	True
+3	이름이	irɯmi	irɯmi	irɯmi	True	True
+4	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+5	비슷한	bisɯtʰan	bisɯtʰan	bisɯtʰan	True	True
+6	게	ge	ge	ge	True	True
+7	이름과	irɯmgwa	irɯmgwa	irɯmgwa	True	True
+8	성에	sʌŋe	sʌŋe	sʌŋe	True	True
+9	두	du	du	du	True	True
+10	개가	gɛga	gɛga	gɛga	True	True
+11	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+12	있는	innɯn	innɯn	innɯn	True	True
+13	것이	gʌɕi	gʌɕi	gʌɕi	True	True

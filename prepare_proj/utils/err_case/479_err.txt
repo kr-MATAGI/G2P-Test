@@ -1,0 +1,25 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사랑	saraŋ	saraŋ	saraŋ	True	True
+1	대신	dɛɕin	dɛɕin	dɛɕin	True	True
+2	다이아반지를	daia	daia	daiabanʣirɯɭ	True	False
+3	택한	banʣirɯɭ	tʰɛkʰan	tʰɛkʰan	False	False
+4	신파극	tʰɛkʰan	ɕinpʰagɯk̚	ɕinpʰagɯk̚	False	False
+5	장한몽과	ɕinpʰagɯk̚	ʣaŋhan	ʣaŋhanmoŋgwa	False	False
+6	천구백육십	ʣaŋhanmoŋgwa	tsʰʌngubɛŋɲjuk	tsʰʌngubɛŋɲjuk	False	False
+7	년대	tsʰʌngubɛŋɲjuk̚ɕʼip̚	ɲjʌndɛ	ɲjʌndɛ	False	False
+8	경제개발	ɲjʌndɛ	gjʌŋʣegɛbaɭ	kjʌŋʣegɛbaɭ	False	False
+9	시절	gjʌŋʣegɛbaɭ	ɕiʣʌɭ	ɕiʣʌɭ	False	False
+10	가난한	ɕiʣʌɭ	gananhan	gananhan	False	False
+11	청춘남녀를	gananhan	tsʰʌŋtsʰunnamɲ	tsʰʌŋtsʰunnamɲ	False	False
+12	그린	tsʰʌŋtsʰunnamɲjʌrɯɭ	gɯrin	gɯrin	False	False
+13	영화를	gɯrin	jʌŋhwarɯɭ	jʌŋhwarɯɭ	False	False
+14	결합해서	jʌŋhwarɯɭ	gjʌɭhapʰɛsʌ	kjʌɭhapʰɛsʌ	False	False
+15	돈에	gjʌɭhapʰɛsʌ	done	tone	False	False
+16	휘둘리는	done	hwiduɭʎ̟inɯn	hwiduɭʎ̟inɯn	False	False
+17	한국	hwiduɭʎ̟inɯn	hanguk̚	hanguk̚	False	False
+18	사회를	hanguk̚	sahwerɯɭ	sahwerɯɭ	False	False
+19	표현한	sʼahwerɯɭ	pʰjo̞hjʌnhan	pʰjo̞hjʌnhan	False	False
+20	이가	pʰjo̞hjʌnhan	iga	iga	False	False
+21	바로	iga	baro	pʼaro	False	False
+22	미디어아티스트	baro	midiʌ	midiʌatʰisɯtʰɯ	False	False
+23	이상현입니다.	midiʌ	isaŋhjʌɲimɲida	isaŋhjʌɲimɲida	False	False

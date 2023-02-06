@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	시집도	ɕiʣip̚tʼo	ɕiʣip̚tʼo	ɕiʣip̚tʼo	True	True
+1	제가	ʣega	ʣega	ʣega	True	True
+2	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+3	민화를	minhwarɯɭ	minhwarɯɭ	minhwarɯɭ	True	True
+4	그리는데	gɯrinɯnde	gɯrinɯnde	kɯrinɯnde	True	False

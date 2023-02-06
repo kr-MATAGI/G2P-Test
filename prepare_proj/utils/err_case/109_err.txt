@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	불가능	puɭganɯŋ	buɭganɯŋ	buɭganɯŋ	False	False
+1	불가능할	buɭganɯŋhaɭ	buɭganɯŋhaɭ	buɭganɯŋhaɭ	True	True
+2	거	gʌ	gʌ	gʌ	True	True
+3	같습니다.	gat̚sʼɯmɲida	gat̚sʼɯmɲida	kat̚sʼɯmɲida	True	False

@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	여기는	jʌginɯn	jʌginɯn	jʌginɯn	True	True
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	우리	uriɯnha	uri	uri	False	False
+3	은하	ʣuŋɕime	ɯnha	ɯnha	False	False
+4	중심에	tʰɛ.jaŋʣiɭʎ̟.jaŋe	ʣuŋɕime	ʣuŋɕime	False	False
+5	태양질량에	ɕimman	tʰɛ.jaŋʣiɭʎ̟	tʰɛ.jaŋʣiɭʎ̟	False	False
+6	십만	bɛ	ɕimman	ɕimman	False	False
+7	배	isaŋe	bɛ	pɛ	False	False
+8	이상에	bɯɭlɛk̚hori	isaŋe	isaŋe	False	False
+9	블랙홀이	it̚tʼago	bɯɭlɛk̚hori	pɯɭlɛk̚hori	False	False
+10	있다고	hanɯnde	it̚tʼago	it̚tʼago	False	False
+11	하는데	ʣigɯmɯn	hanɯnde	hanɯnde	False	False
+12	지금은	sabɛŋman	ʣigɯmɯn	ʣigɯmɯn	False	False
+13	사백만	bɛ	sabɛŋman	sabɛŋman	False	False
+14	배	isaŋigujo̞	bɛ	pɛ	False	False

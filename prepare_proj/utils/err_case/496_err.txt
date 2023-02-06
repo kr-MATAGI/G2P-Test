@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어	ʌ	ʌ	ʌ	True	True
+1	우린	urin	urin	urin	True	True
+2	정말	ʣʌŋmaɭ	ʣʌŋmaɭ	.tzʌŋmaɭ	True	False
+3	점점점	ʣʌm	ʣʌmʣʌmʣʌm	.tzʌm.tzʌm.tzʌm	False	False
+4	절망적인	ʣʌmʣʌm	ʣʌɭmaŋʣʌgin	t͡ɕʌɭmaŋʣʌgi	False	False
+5	상태로	ʣʌɭmaŋʣʌgin	saŋtʰɛro	saŋtʰɛro	False	False
+6	빠져들겠죠.	saŋtʰɛro	pʼaʣʌdɯɭget̚.	pʼaʣʌdɯɭget̚.	False	False

@@ -1,0 +1,25 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이게	ige	ige	ige	True	True
+1	설명을	sʌɭmjʌŋɯɭ	sʌɭmjʌŋɯɭ	sʌɭmjʌŋɯɭ	True	True
+2	현대	hjʌndɛ	hjʌndɛ	hjʌndɛ	True	True
+3	물리학같은	muɭʎ̟ihak̚	muɭʎ̟ihak̚kʼat	muɭʎ̟ihak̚kʼat	False	False
+4	경우는	gatʰɯn	gjʌŋunɯn	kjʌŋunɯn	False	False
+5	더더욱	gjʌŋunɯn	dʌdʌuk̚	dʌdʌuk̚	False	False
+6	설명을	dʌdʌuk̚	sʌɭmjʌŋɯɭ	sʌɭmjʌŋɯɭ	False	False
+7	아름답게	sʌɭmjʌŋɯɭ	arɯmdap̚kʼe	arɯmdap̚kʼe	False	False
+8	하는게	arɯmdap̚kʼe	hanɯn	hanɯnge	False	False
+9	중요한게	hanɯn	ʣuŋjo̞hange	ʣuŋjo̞hange	False	False
+10	아니라	ge	aɲira	aɲira	False	False
+11	관측을	ʣuŋjo̞han	gwantsʰɯgɯɭ	kwantsʰɯgɯɭ	False	False
+12	통해	ge	tʰoŋhɛ	tʰoŋhɛ	False	False
+13	이전에	aɲira	iʣʌne	iʣʌne	False	False
+14	패러다임으로	gwantsʰɯgɯɭ	pʰɛrʌdaimɯro	pʰɛrʌdaimɯro	False	False
+15	설명	tʰoŋhɛ	sʌɭmjʌŋ	sʌɭmjʌŋ	False	False
+16	못하는	iʣʌne	motʰanɯn	motʰanɯn	False	False
+17	뭔가를	pʰɛrʌdaimɯro	mwʌngarɯɭ	mwʌngarɯɭ	False	False
+18	찾아내야	sʌɭmjʌŋ	tsʰaʣanɛ.ja	tsʰaʣanɛ.ja	False	False
+19	사람들이	motʰanɯn	saramdɯri	saramdɯri	False	False
+20	이제	mwʌngarɯɭ	iʣe	iʣe	False	False
+21	거기에	tsʰaʣanɛ.ja	gʌgie	gʌgie	False	False
+22	대해서	saramdɯri	dɛhɛsʌ	dɛhɛsʌ	False	False
+23	진지하게	iʣe	ʣinʣihage	ʣinʣihage	False	False

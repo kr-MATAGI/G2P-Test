@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	다음	taɯm	daɯm	daɯm	False	False
+1	주부터는	ʣubutʰʌnɯn	ʣubutʰʌnɯn	ʣubutʰʌnɯn	True	True
+2	새로운	sɛroun	sɛroun	sɛroun	True	True
+3	이야기	i.jagi	i.jagi	i.jagi	True	True
+4	손님과	sonɲimgwa	sonɲimgwa	sonɲimgwa	True	True
+5	함께	hamkʼe	hamkʼe	hamkʼe	True	True
+6	독일문학의	dogiɭ	dogiɭmunhage	dogiɭmunhage	False	False
+7	숲으로	munhage	supʰɯro	subɯro	False	False
+8	들어가	supʰɯro	dɯrʌga	dɯrʌga	False	False
+9	봅니다.	dɯrʌga	bomɲida	bomɲida	False	False

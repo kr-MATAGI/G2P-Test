@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어떻	ʌtʼʌt̚	ʌtʼʌk̚	ʌtʼʌtʼʌ	False	False
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	뭐~	esʌ	mwʌ	mwʌ	False	False
+3	이~	mwʌ	i	ip̚	False	False
+4	막	esʌ	mak̚	mak̚	False	False
+5	그냥	i	gɯɲ.jaŋ	gɯɲ.jaŋ	False	False
+6	농담삼아	esʌ	noŋdamsama	noŋdamsama	False	False
+7	하는	mak̚	hanɯn	hanɯn	False	False
+8	이야기	gɯɲ.jaŋ	i.jagi	i.jagi	False	False
+9	중에는	noŋdamsama	ʣuŋenɯn	ʣuŋenɯn	False	False
+10	그	hanɯn	gɯ	gɯ	False	False
+11	남성	ɲi.jagi	namsʌŋ	namsʼʌŋ	False	False
+12	천문학자라는	ʣuŋenɯn	tsʰʌnmunhak̚.tza	tsʰʌnmunhak̚.tza	False	False
+13	것에서	gɯ	gʌsesʌ	gʌsesʌ	False	False
+14	특별한	namsʌŋ	tʰɯk̚pʼjʌɭhan	tʰɯk̚pʼjʌɭhan	False	False
+15	의미를	tsʰʌnmunhak̚.tzaranɯn	ɰimirɯɭ	ɰimirɯɭ	False	False
+16	그~	gʌsesʌ	gɯ	gɯp̚	False	False
+17	두지	tʰɯk̚pʼjʌɭhan	duʣi	duʣi	False	False
+18	않고	ɰimirɯɭ	ankʰo	ankʰo	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	기간	kigan	gigan	kigan	False	True
+1	동안에도	doŋanedo	doŋanedo	toŋanedo	True	False
+2	일어나고	irʌnago	irʌnago	irʌnago	True	True
+3	있다는	it̚tʼanɯn	it̚tʼanɯn	it̚tʼanɯn	True	True
+4	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	과연	kwajʌn	gwajʌn	kwajʌn	False	True
+1	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+2	가까이	gakʼai	gakʼai	gakʼai	True	True
+3	갔습니다.	gat̚sʼɯmɲida	gat̚sʼɯmɲida	kat̚sʼɯmɲida	True	False
+4	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True

@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자~	t͡ɕiwʌnɯɭ	t͡ɕa	ʣap̚	False	False
+1	방금	i.jagihago	baŋgɯm	baŋgɯm	False	False
+2	나온	it̚sʼɯmɲida	naon	naon	False	False
+3	얘기긴	aiɕʼitʰi	jɛgigin	jɛgigin	False	False
+4	한데	.tzogɯn	hande	hande	False	False
+5	이게	manɯn	ige	ige	False	False
+6	쪼금	ʣiwʌnɯɭ	.tzogɯm	.tzogɯm	False	False
+7	구체적으로	hago	gutsʰeʣʌgɯro	kutsʰeʣʌgɯro	False	False
+8	한번	innɯn	hanbʌn	hanbʌn	False	False
+9	들어가	gʌsɯro	dɯrʌga	dɯrʌga	False	False
+10	보면	aɭgo	bomjʌn	bomjʌn	False	False
+11	현	innɯnde	hjʌn	hjʌn	False	False
+12	정부에서	sʼɯridi	ʣʌŋbuesʌ	t͡ɕʌŋbuesʌ	False	False
+13	미래	.tzogenɯn	mirɛ	mirɛ	False	False
+14	창조	gutsʰeʣʌgin	tsʰaŋʣo	tsʰaŋʣo	False	False
+15	과학부를	ʣiwʌn	gwahak̚pʼurɯɭ	kwahak̚pʼurɯɭ	False	False
+16	만들고	hjʌŋtʰɛga	mandɯɭgo	mandɯɭgo	False	False
+17	신규	innɯnʣi	ɕingju	ɕingju	False	False
+18	산업	aɭgo	sanʌp̚	sanʌp̚	False	False
+19	등에	ɕip̚sʼɯmɲida	dɯŋe	dɯŋe	False	False

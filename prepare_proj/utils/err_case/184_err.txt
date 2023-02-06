@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	찾았는데	tsʰaʣannɯnde	tsʰaʣannɯnde	tsʰaʣannɯnde	True	True
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	신호가	esʌ	ɕinhoga	ɕinhoga	False	False
+3	뭐	ɕinhoga	mwʌ	mwʌ	False	False
+4	오만	mwʌ	oman	oman	False	False
+5	광년	oman	gwaŋɲjʌn	kwaŋɲjʌn	False	False
+6	떨어진	gwaŋɲjʌn	tʼʌrʌʣin	tʼʌrʌʣin	False	False
+7	데서	tʼʌrʌʣin	desʌ	desʌ	False	False
+8	온거다	desʌ	ongʌda	ongʌda	False	False
+9	하면은	on	hamjʌnɯn	hamjʌnɯn	False	False
+10	걔네들은	gʌda	gjɛnedɯrɯn	kjɛnedɯrɯn	False	False
+11	오만년	hamjʌnɯn	oman	omanɲjʌn	False	False
+12	전에	gjɛnedɯrɯn	ʣʌne	ʣʌne	False	False
+13	보낸거니까	oman	bonɛn	bonɛngʌɲikʼa	False	False

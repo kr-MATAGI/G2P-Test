@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	어떤	ʌtʼʌ	ʌtʼʌn	ʌtʼʌn	False	False
+2	의미를	nɰimirɯɭ	ɰimirɯɭ	ɰimirɯɭ	False	False
+3	갖는	gannɯn	gannɯn	kannɯn	True	False
+4	침대	tsʰimtʼɛ	tsʰimdɛ	tsʰimdɛ	False	False
+5	위에	wie	wie	wie	True	True
+6	어	ʌ	ʌ	ʌ	True	True
+7	여성성의	jʌsʌŋsʌŋe	jʌsʌŋsʌŋe	jʌsʌŋsʌŋe	True	True
+8	상징인	saŋʣiŋin	saŋʣiŋin	saŋʣiŋin	True	True
+9	머리카락을	mʌrikʰaragɯɭ	mʌrikʰaragɯɭ	mʌrikʰaragɯɭ	True	True
+10	온통	ontʰoŋ	ontʰoŋ	ontʰoŋ	True	True
+11	뒤덮은	dwidʌpʰɯn	dwidʌpʰɯn	dwidʌpʰɯn	True	True
+12	겁니다.	gʌmɲida	gʌmɲida	gʌmɲida	True	True

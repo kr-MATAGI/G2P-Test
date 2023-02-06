@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이천	itsʰʌn	itsʰʌn	itsʰʌn	True	True
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+2	십일년에	ɕibiʎ̟	ɕibiʎ̟	ɕibiɭʎ̟jʌne	True	False
+3	돌아가실	rjʌne	doragaɕiɭ	doragaɕiɭ	False	False
+4	때도	doragaɕiɭ	tʼɛdo	tʼɛdo	False	False
+5	막	tʼɛdo	mak̚	mak̚	False	False
+6	한참	mak̚	hantsʰam	hantsʰam	False	False
+7	앓다가	hantsʰa	aɭtʼaga	at̚tʼaga	False	False
+8	돌아가신	maɭtʰaga	doragaɕin	doragaɕin	False	False
+9	게	doragaɕin	ge	ge	False	False
+10	아니라	ge	aɲira	aɲira	False	False
+11	약간	aɲira	.jak̚kʼan	.jak̚kʼan	False	False
+12	좀	.jak̚kʼan	ʣom	ʣom	False	False
+13	갑자기	ʣom	gap̚.tzagi	gap̚.tzagi	False	False
+14	돌아가신	gap̚.tzagi	doragaɕin	doragaɕin	False	False
+15	느낌이	doragaɕin	nɯkʼimi	nɯkʼimi	False	False
+16	거든요.	nɯkʼimi	gʌdɯɲjo̞	kʌdɯɲjo̞	False	False

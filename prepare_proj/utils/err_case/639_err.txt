@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	먼	innɯn	mʌn	mʌn	False	False
+1	미래에	tʰoŋɕine	mirɛe	mirɛe	False	False
+2	중력파를	ʣaŋɛɯɭ	ʣuŋɲjʌk̚pʰar	ʣuŋɲjʌk̚pʰar	False	False
+3	문명으로	gɯk̚pʼokʰaɭ	munmjʌŋɯro	munmjʌŋɯro	False	False
+4	이용할	gʌda	ijo̞ŋhaɭ	ijo̞ŋhaɭ	False	False
+5	수	gɯnde	su	su	False	False
+6	있는	ʣigɯ	innɯn	innɯn	False	False
+7	그런	muriga	gɯrʌn	gɯrʌn	False	False
+8	고등	ʣʌnʣagipʰa	godɯŋ	kodɯŋ	False	False
+9	문명이	tʰoŋɕinɯɭ	munmjʌŋi	munmjʌŋi	False	False
+10	있다면	hanɯnde	it̚tʼamjʌn	it̚tʼamjʌn	False	False
+11	통신에	gɯ	tʰoŋɕine	tʰoŋɕine	False	False
+12	이용할	ʣaŋɛga	ijo̞ŋhaɭ	ijo̞ŋhaɭ	False	False
+13	수	mwʌʣjo̞	su	su	False	False

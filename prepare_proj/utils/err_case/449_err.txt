@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯdaɯme	gɯ	gɯ	False	False
+1	다음에	tʼo	daɯme	daɯme	False	False
+2	또	i	tʼo	tʼo	False	False
+3	이	bune	i	i	False	False
+4	분의	sʌŋtsʰwi	bune	bune	False	False
+5	성취	ʣuŋe	sʌŋtsʰwi	sʌŋtsʰwi	False	False
+6	중에	hanaro	ʣuŋe	ʣuŋe	False	False
+7	하나로	mɛp̚ɕʼikʰokʰɯranɯn	hanaro	hanaro	False	False
+8	맵시코크라는	gʌɕi	mɛp̚ɕʼikʰokʰ	mɛp̚ɕʼikʰokʰ	False	False
+9	것이	naonɯnde	gʌɕi	gʌɕi	False	False

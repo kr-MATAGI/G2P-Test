@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자동으로	t͡ɕadoŋɯro	ʣadoŋɯro	.tzadoŋɯro	False	False
+1	운전하는	unʣʌnhanɯn	unʣʌnhanɯn	unʣʌnhanɯn	True	True
+2	정도는	ʣʌŋdonɯn	ʣʌŋdonɯn	.tzʌŋdonɯn	True	False
+3	충분히	tsʰuŋbunhi	tsʰuŋbunhi	tsʰuŋbunhi	True	True

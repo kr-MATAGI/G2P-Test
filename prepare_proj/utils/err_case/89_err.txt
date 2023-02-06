@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	굉장히	kweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+1	많은	manɯn	manɯn	manɯn	True	True
+2	피해를	pʰihɛrɯɭ	pʰihɛrɯɭ	pʰihɛrɯɭ	True	True
+3	줄	ʣuɭ	ʣuɭ	ʣuɭ	True	True
+4	수	su	su	su	True	True
+5	있기	it̚kʼi	it̚kʼi	it̚kʼi	True	True
+6	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+7	이	i	i	i	True	True
+8	과학계랑	gwahak̚kʼʲeraŋ	gwahak̚kʼʲeraŋ	kwahak̚kʼʲeraŋ	True	False
+9	이제	iʣe	iʣe	iʣe	True	True
+10	학	hak̚	hak̚	hak̚	True	True
+11	정부랑	ʣʌŋburaŋ	ʣʌŋburaŋ	.tzʌŋburaŋ	True	False
+12	같이	gatsʰi	gatsʰi	gatsʰi	True	True
+13	나서서	nasʌsʌ	nasʌsʌ	nasʌsʌ	True	True
+14	뭐	mwʌ	mwʌ	mwʌ	True	True
+15	과학	gwahak̚	gwahak̚	kwahak̚	True	False
+16	기술	kʼisuɭ	gisuɭ	kisuɭ	False	False
+17	정보	.tzʌŋbo	ʣʌŋbo	.tzʌŋbo	False	True
+18	통신부	tʰoŋɕinbu	tʰoŋɕinbu	tʰoŋɕinbu	True	True
+19	우리	uri	uri	uri	True	True
+20	장관님도	ʣaŋgwanɲimdo	ʣaŋgwanɲimdo	ʣaŋgwanɲimdo	True	True
+21	나오셨지만	naosjʌt̚.tziman	naosjʌt̚.tziman	naosjʌt̚.tziman	True	True

@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	병의	pjʌŋe	bjʌŋe	pjʌŋi	False	False
+1	원인이	wʌɲiɲi	wʌɲiɲi	wʌɲiɲi	True	True
+2	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+3	산성화된	sansʌŋhwadwen	sansʌŋhwadwen	sansʌŋhwadwen	True	True
+4	몸을	momɯɭ	momɯɭ	momɯɭ	True	True
+5	중화시키는	ʣuŋhwaɕikʰinɯn	ʣuŋhwaɕikʰinɯn	ʣuŋhwaɕikʰinɯ	True	False
+6	해독	hɛdok̚	hɛdok̚	hɛdok̚	True	True
+7	작용을	.tzagjo̞ŋɯɭ	ʣagjo̞ŋɯɭ	ʣagjo̞ŋɯɭ	False	False
+8	할	haɭ	haɭ	haɭ	True	True
+9	수도	sudo	sudo	sudo	True	True
+10	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

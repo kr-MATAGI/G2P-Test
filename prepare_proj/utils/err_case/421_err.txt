@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	에프피가	epʰɯ	epʰɯ	epʰɯpʰiga	True	False
+2	저게	pʰiga	ʣʌge	ʣʌge	False	False
+3	플래닛이예요.	ʣʌge	pʰɯɭlɛɲiɕijej	pʰɯɭlɛɲiɕijej	False	False

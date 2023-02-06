@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	원래	wʌɭlɛ	wʌɭlɛ	wʌɭlɛ	True	True
+2	처음에는	tsʰʌɯmenɯn	tsʰʌɯmenɯn	tsʰʌɯmenɯn	True	True
+3	이런	irʌn	irʌn	irʌn	True	True
+4	매운	mɛun	mɛun	mɛun	True	True
+5	맛	mat̚	mat̚	mat̚	True	True
+6	라면이	ramjʌɲi	namjʌɲi	ramjʌɲi	False	True
+7	아니었다면서요.	aɲiʌt̚tʼamjʌnsʌjo̞	aɲiʌt̚tʼamjʌns	aɲiʌt̚tʼamjʌns	False	False

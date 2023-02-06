@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	그렇게	gɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	True	True
+2	며칠	mjʌtsʰiɭ	mjʌtsʰiɭ	mjʌtsʰiɭ	True	True
+3	밤	bam	bam	pam	True	False
+4	새면	sɛmjʌn	sɛmjʌn	sɛmjʌn	True	True
+5	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+6	일이었을까	iriʌsʼɯɭkʼa	iriʌsʼɯɭkʼa	iriʌsʼɯɭkʼa	True	True

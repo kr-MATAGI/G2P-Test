@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	파동으로	pʰadoŋɯro	pʰadoŋɯro	pʰadoŋɯro	True	True
+1	움직이면은	umʣigimjʌnɯn	umʣigimjʌnɯn	umʣigimjʌnɯn	True	True
+2	그	gɯ	gɯ	gɯ	True	True
+3	궤도가	gwedoga	gwedoga	kwedoga	True	False
+4	그	gɯ	gɯ	gɯ	True	True
+5	전자가	ʣʌnʣaga	ʣʌnʣaga	ʣʌnʣaga	True	True
+6	움직이는	umʣiginɯn	umʣiginɯn	umʣiginɯn	True	True
+7	궤도가	gwedoga	gwedoga	kwedoga	True	False
+8	전자에	ʣʌnʣae	ʣʌnʣae	ʣʌnʣae	True	True
+9	파장에	pʰaʣaŋe	pʰaʣaŋe	pʰaʣaŋe	True	True
+10	정수	ʣʌŋsubɛmjʌn	ʣʌŋsu	.tzʌŋsu	False	False
+11	배면	dwɛjo̞	bɛmjʌn	pɛmjʌn	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이게	ige	ige	ige	True	True
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	제트	esʌ	ʣetʰɯ	ʣetʰɯ	False	False
+3	엔진은	ʣetʰɯ	enʣinɯn	enʣinɯn	False	False
+4	숨을	enʣinɯn	sumɯɭ	sumɯɭ	False	False
+5	쉬는	sumɯɭ	ʃwinɯn	ʃwinɯn	False	False
+6	거고	ʃwinɯn	gʌgo	gʌgo	False	False

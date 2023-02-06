@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	서열이	sʌjʌri	sʌjʌri	sʌjʌri	True	True
+2	있다고	it̚tʼago	it̚tʼago	it̚tʼago	True	True
+3	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True
+4	그	gɯ	gɯ	gɯ	True	True
+5	서열이	sʌjʌri	sʌjʌri	sʌjʌri	True	True

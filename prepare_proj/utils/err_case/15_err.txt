@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그럼	kɯrʌm	kɯrʌm	gɯrʌm	True	False
+1	이게	ige	ige	ige	True	True
+2	가동되고	gadoŋdwego	gadoŋdwego	kadoŋdwego	True	False
+3	나면	namjʌn	namjʌn	namjʌn	True	True
+4	우리	uri	uri	uri	True	True
+5	아까	akʼa	akʼa	akʼa	True	True
+6	뭐	mwʌ	mwʌ	mwʌ	True	True
+7	기초	gitsʰo	gitsʰo	gitsʰo	True	True
+8	과학	gwaha	gwahak̚	kwahak̚	False	False
+9	응용	gɯŋjo̞ŋgwahak̚	ɯŋjo̞ŋ	ɯŋjo̞ŋ	False	False
+10	과학	jʌrʌ	gwahak̚	kwahak̚	False	False
+11	여러	gaʣiro	jʌrʌ	jʌrʌ	False	False
+12	가지로	sʼɯiʣiman	gaʣiro	gaʣiro	False	False

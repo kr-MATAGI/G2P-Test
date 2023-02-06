@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	왜냐하면은	wɛɲ.jahamjʌnɯn	wɛɲ.jahamjʌnɯn	wɛɲ.jahamjʌnɯn	True	True
+1	이제	iʣe	iʣe	iʣe	True	True
+2	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+3	천구백팔십년대	tsʰʌngubɛk̚pʰaɭɕʼimɲjʌndɛ	tsʰʌngubɛk̚pʰa	tsʰʌngubɛk̚pʰa	False	False
+4	말에	mare	mare	mare	True	True
+5	대학원을	dɛhagwʌnɯɭ	dɛhagwʌnɯɭ	dɛhagwʌnɯɭ	True	True
+6	다녔는데	daɲjʌnnɯnde	daɲjʌnnɯnde	taɲjʌnnɯnde	True	False
+7	그때	gɯtʼɛ	gɯtʼɛ	gɯtʼɛ	True	True
+8	눈으로	nunɯro	nunɯro	nunɯro	True	True
+9	오십년	oɕim	oɕim	oɕimɲjʌn	True	False
+10	전에	ɲjʌn	ʣʌne	ʣʌne	False	False
+11	수학	ʣʌne	suhak̚	suhak̚	False	False
+12	그러니까	suhak̚	kɯrʌɲikʼa	gɯrʌɲikʼa	False	False
+13	천구백삼십년대	gɯrʌɲikʼa	tsʰʌngubɛk̚sʼa	tsʰʌngubɛk̚sʼa	False	False
+14	논문을	tsʰʌngubɛk̚sʼamɕimɲjʌndɛ	nonmunɯɭ	nonmunɯɭ	False	False
+15	읽을려면은	nonmunɯɭ	iɭgɯɭʎ̟jʌmjʌ	iɭgɯɭʎ̟jʌmjʌ	False	False
+16	이거는	iɭgɯɭʎ̟jʌmjʌnɯn	igʌnɯn	igʌnɯn	False	False
+17	굉장히	igʌnɯn	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+18	쉽고	gweŋʣaŋhi	ʃwip̚kʼo	ʃwip̚kʼo	False	False
+19	구식	ʃwip̚kʼo	guɕik̚	guɕik̚	False	False
+20	수학으로	guɕik̚	suhagɯro	suhagɯro	False	False
+21	보였었거든요.	suhagɯro	bojʌsʼʌt̚kʼʌd	bojʌsʼʌt̚kʼʌd	False	False

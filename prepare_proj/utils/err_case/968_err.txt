@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	왜냐하면	wɛɲ.jahamjʌn	wɛɲ.jahamjʌn	wɛɲ.jahamjʌn	True	True
+1	운전이	unʣʌɲi	unʣʌɲi	unʣʌɲi	True	True
+2	일상생활에서	iɭsʼaŋsɛŋhwaresʌ	iɭsʼaŋsɛŋhware	iɭsʼaŋsɛŋhware	False	False
+3	눈을	nunɯɭ	nunɯɭ	nunɯɭ	True	True
+4	제일	ʣeiɭ	ʣeiɭ	ʣeiɭ	True	True
+5	시각을	ɕigagɯɭ	ɕigagɯɭ	ɕigagɯɭ	True	True
+6	많이	maɲi	maɲi	maɲi	True	True
+7	사용하는	sajo̞ŋhanɯn	sajo̞ŋhanɯn	sajo̞ŋhanɯn	True	True
+8	거잖아요.	gʌʣanajo̞	gʌʣanajo̞	kʌʣanajo̞	True	False

@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	이게	ige	ige	ige	True	True
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	이번에도	esʌ	ibʌnedo	ibʌnedo	False	False
+4	제가	ibʌnedo	ʣega	ʣega	False	False
+5	발표했던	ʣega	baɭpʰjo̞hɛt̚t	pʼaɭpʰjo̞hɛt̚	False	False
+6	육십삼	baɭpʰjo̞hɛt̚tʼʌn	.juk̚ɕʼip̚sʼam	.juk̚ɕʼip̚sʼam	False	False
+7	년도에	.juk̚ɕʼip̚sʼam	ɲjʌndoe	ɲjʌndoe	False	False
+8	에	ɲjʌndoe	e	e	False	False
+9	와서	e	wasʌ	wasʌ	False	False
+10	첫	wasʌ	tsʰʌt̚	tsʰʌt̚	False	False
+11	작품으로	tsʰʌt̚	ʣak̚pʰumɯro	ʣak̚pʰumɯro	False	False
+12	발표했던	.tzak̚pʰumɯro	baɭpʰjo̞hɛt̚t	pʼaɭpʰjo̞hɛt̚	False	False
+13	베이직	baɭpʰjo̞hɛt̚tʼʌn	beiʣik̚	peiʣik̚	False	False
+14	무브먼트라고	beiʣik̚	mubɯmʌntʰɯrago	mubɯmʌntʰɯrago	False	False
+15	제목인데요.	mubɯmʌntʰɯrago	ʣemogindejo̞	t͡ɕemogindejo̞	False	False

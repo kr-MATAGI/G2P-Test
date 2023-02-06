@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	한	han	han	han	True	True
+1	이십	iɕip̚	iɕip̚	iɕip̚	True	True
+2	초	tsʰo	tsʰo	tsʰo	True	True
+3	있	it̚	it̚	it̚	True	True
+4	동안	doŋan	doŋan	toŋan	True	False
+5	되게	dwege	dwege	dwege	True	True
+6	자랑스러워	ʣaraŋsɯrʌwʌhamɲida	ʣaraŋsɯrʌwʌ	t͡ɕaraŋsɯrʌwʌ	False	False

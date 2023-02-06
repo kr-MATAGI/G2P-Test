@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	섞임과	sʌkʼimgwa	sʌkʼimgwa	sʌɭkʼimgwa	True	False
+2	다름이라는	darɯmiranɯn	darɯmiranɯn	darɯmiranɯn	True	True
+3	단어가	danʌga	danʌga	danʌga	True	True
+4	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+5	떠오르고	tʼʌorɯgo	tʼʌorɯgo	tʼʌorɯgo	True	True
+6	이	i	i	i	True	True
+7	친구들	tsʰingudɯɭ	tsʰingudɯɭ	tsʰingudɯɭ	True	True
+8	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+9	희진이	hiʣiɲi	hiʣiɲi	hiʣiɲi	True	True
+10	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+11	나쁜	napʼɯn	napʼɯn	napʼɯn	True	True
+12	사람이라고	saramirago	saramirago	saramirago	True	True
+13	생각했거든요.	sɛŋgakʰɛt̚kʼʌdɯɲjo̞	sɛŋgakʰɛt̚kʼ	sɛŋgakʰɛt̚kʼ	False	False

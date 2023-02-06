@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그걸	kɯgʌɭ	gɯgʌɭ	gɯgʌɭ	False	False
+1	우리가	uriga	uriga	uriga	True	True
+2	복잡하게	bok̚.tzapʰage	bok̚.tzapʰage	bok̚.tzapʰage	True	True
+3	물론	muɭlon	muɭlon	muɭlon	True	True
+4	생각할	sɛŋgakʰaɭ	sɛŋgakʰaɭ	sɛŋgakʰaɭ	True	True
+5	수도	sudo	sudo	sudo	True	True
+6	있지만	it̚.tziman	it̚.tziman	it̚.tziman	True	True

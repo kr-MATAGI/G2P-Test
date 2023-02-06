@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	결과물에	esʌ	gjʌɭgwamure	kjʌɭgwamure	False	False
+4	전해주는	gjʌɭgwamure	ʣʌnhɛʣunɯn	ʣʌnhɛʣunɯn	False	False
+5	거에	ʣʌnhɛʣunɯn	gʌe	gʌe	False	False
+6	지나지	gʌe	ʣinaʣi	.tzinaʣi	False	False
+7	않죠.	ʣinaʣi	antsʰjo̞	anʣjo̞	False	False

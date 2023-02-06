@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	관성력과	kwansʌŋɲjʌk̚kʼwa	gwansʌŋɲjʌk̚k	kwansʌŋɲjʌk̚k	False	False
+1	중력이	ʣuŋɲjʌgi	ʣuŋɲjʌgi	ʣuŋɲjʌgi	True	True
+2	섞여서	sʌkʼjʌsʌ	sʌkʼjʌsʌ	sʌɭʎ̟jʌsʌ	True	False
+3	혼동되는	hondoŋdwenɯn	hondoŋdwenɯn	hondoŋdwenɯn	True	True
+4	경우	gjʌŋu	gjʌŋu	kjʌŋu	True	False
+5	있는	innɯn	innɯn	innɯn	True	True
+6	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

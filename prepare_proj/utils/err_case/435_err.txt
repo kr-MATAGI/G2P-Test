@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	저거	ʣʌgʌ	ʣʌgʌ	ʣʌgʌ	True	True
+2	이거	igʌ	igʌ	igʌ	True	True
+3	왜	wɛ	wɛ	wɛ	True	True
+4	이러지라고	irʌʣirago	irʌʣirago	irʌʣirago	True	True
+5	생각을	sɛŋgagɯɭ	sɛŋgagɯɭ	sɛŋgagɯɭ	True	True
+6	하고	hago	hago	hago	True	True
+7	했다가	hɛt̚tʼaga	hɛt̚tʼaga	hɛt̚tʼaga	True	True
+8	이제	iʣe	iʣe	iʣe	True	True
+9	장치를	ʣaŋtsʰirɯɭ	ʣaŋtsʰirɯɭ	ʣaŋtsʰirɯɭ	True	True
+10	다시	daɕi	daɕi	daɕi	True	True
+11	껐어요.	kʼʌsʼʌjo̞	kʼʌsʼʌjo̞	kʼʌsʼʌjo̞	True	True

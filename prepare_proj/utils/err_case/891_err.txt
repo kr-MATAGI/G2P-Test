@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	이제	iʣe	iʣe	iʣe	True	True
+2	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+3	현대	hjʌndɛ	hjʌndɛ	hjʌndɛ	True	True
+4	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+5	지금	ʣigɯ	ʣigɯm	ʣigɯm	False	False
+6	우리가	muriga	uriga	uriga	False	False
+7	배우거나	bɛugʌna	bɛugʌna	pɛugʌna	True	False
+8	알고	aɭgo	aɭgo	aɭgo	True	True
+9	있는	innɯ	innɯn	innɯn	False	False
+10	우주나	nuʣuna	uʣuna	uʣuna	False	False
+11	천문학적인	tsʰʌnmunhak̚.tzʌgin	tsʰʌnmunhak̚.tz	tsʰʌnmunhak̚.tz	False	False
+12	상식이	saŋɕigi	saŋɕigi	saŋɕigi	True	True
+13	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+14	진짜	ʣin.tza	ʣin.tza	ʣin.tza	True	True
+15	한	han	han	han	True	True
+16	십년	ɕim	ɕim	ɕimɲjʌn	True	False
+17	이십년	ɲjʌn	iɕim	iɕimɲjʌn	False	False
+18	전	iɕim	ʣʌn	ʣʌn	False	False
+19	하고도	ɲjʌn	hagodo	hagodo	False	False
+20	정말	ʣʌn	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+21	많이	hagodo	maɲi	maɲi	False	False
+22	달라졌거든요.	ʣʌŋmaɭ	daɭlaʣʌt̚kʼʌd	taɭlaʣʌt̚kʼʌd	False	False

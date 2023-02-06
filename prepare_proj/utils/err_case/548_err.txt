@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	인제	inʣe	inʣe	inʣe	True	True
+2	이~	i	i	ip̚	True	False
+3	서점	esʌ	sʌ.tzʌm	sʌʣʌm	False	False
+4	다닌	sʌ.tzʌm	daɲin	daɲin	False	False
+5	곳이	daɲin	goɕi	goɕi	False	False
+6	은	goɕi	ɯn	ɯn	False	False
+7	제가	ɯn	ʣega	ʣega	False	False
+8	인제	ʣega	inʣe	inʣe	False	False
+9	출판사를	inʣe	tsʰuɭpʰansarɯɭ	tsʰuɭpʰansarɯɭ	False	False
+10	시작하면서	tsʰuɭpʰansarɯɭ	ɕiʣakʰamjʌnsʌ	ɕiʣakʰamjʌnsʌ	False	False

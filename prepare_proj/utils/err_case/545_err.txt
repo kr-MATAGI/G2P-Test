@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이게	ige	ige	ige	True	True
+1	표준	pʰjo̞ʣun	pʰjo̞ʣun	pʰjo̞ʣun	True	True
+2	해석	hɛsʌk̚	hɛsʌk̚	hɛsʌk̚	True	True
+3	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+4	번째	pʼʌn.tzɛ	bʌn.tzɛ	pʌn.tzɛ	False	False
+5	확률	hwaŋɲjuɭ	hwaŋɲjuɭ	hwaŋɲjuɭ	True	True
+6	문제는	munʣenɯn	munʣenɯn	munʣenɯn	True	True
+7	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+8	해결	hɛgjʌɭ	hɛgjʌɭ	hɛgjʌɭ	True	True
+9	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+10	겁니다.	gʌmɲida	gʌmɲida	gʌmɲida	True	True

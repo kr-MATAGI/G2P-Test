@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	그냥	gɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	True	True
+2	피로하고	pʰirohago	pʰirohago	pʰirohago	True	True
+3	말면은	maɭmjʌnɯn	maɭmjʌnɯn	maɭmjʌnɯn	True	True
+4	끝이	kʼɯtsʰi	kʼɯtsʰi	kʼɯtsʰi	True	True
+5	아니고	aɲigo	aɲigo	aɲigo	True	True
+6	여기에서	jʌgiesʌ	jʌgiesʌ	jʌgiesʌ	True	True
+7	점점점점	ʣʌmʣʌmʣʌmʣʌm	ʣʌmʣʌmʣʌmʣʌ	t͡ɕʌmʣʌmʣʌm	False	False
+8	진행이	ʣinhɛŋi	ʣinhɛŋi	ʣinhɛŋi	True	True
+9	됐을	dwɛsʼɯɭ	dwɛsʼɯɭ	dwɛsʼɯɭ	True	True
+10	때	tʼɛ	tʼɛ	tʼɛ	True	True
+11	염증이	jʌm.tzɯŋi	jʌm.tzɯŋi	jʌm.tzɯŋi	True	True
+12	생기면서	sɛŋgimjʌnsʌ	sɛŋgimjʌnsʌ	sɛŋgimjʌnsʌ	True	True
+13	지방	ʣibaŋ	ʣibaŋ	ʣibaŋ	True	True
+14	간염으로	gaɲjʌmɯro	gaɲjʌmɯro	gaɲjʌmɯro	True	True
+15	발전할	baɭ.tzʌnhaɭ	baɭ.tzʌnhaɭ	pʼaɭ.tzʌnhaɭ	True	False
+16	수	su	su	su	True	True
+17	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

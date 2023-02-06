@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	모두가	moduga	moduga	moduga	True	True
+1	기다리는	gidarinɯ	gidarinɯn	kidarinɯn	False	False
+2	오늘의	nonɯre	onɯre	onɯre	False	False
+3	주인공은	ʣuingoŋɯn	ʣuingoŋɯn	ʣuingoŋɯn	True	True
+4	바로	baro	baro	pʼaro	True	False
+5	막심	mak̚ɕʼim	mak̚ɕʼim	mak̚ɕʼim	True	True
+6	므라비차	mɯrabitsʰa	mɯrabitsʰa	mɯɭlabitsʰa	True	False

@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	올해	oɭhɛ	oɭhɛ	oɭhɛ	True	True
+1	탄생	tʰansɛŋ	tʰansɛŋ	tʰansɛŋ	True	True
+2	백	bɛk̚	bɛk̚	bɛk̚	True	True
+3	주년을	.tzuɲjʌnɯɭ	ʣuɲjʌnɯɭ	ʣuɲjʌnɯɭ	False	False
+4	맞은	maʣɯn	maʣɯn	maʣɯn	True	True
+5	고	go	go	go	True	True
+6	박시춘	bak̚ɕʼitsʰun	bak̚ɕʼitsʰun	bak̚ɕʼitsʰun	True	True
+7	작곡가의	ʣak̚kʼok̚kʼae	ʣak̚kʼok̚kʼae	ʣak̚kʼok̚kʼai	True	False
+8	음반과	ɯmbangwa	ɯmbangwa	ɯmbangwa	True	True
+9	친필	tsʰinpʰiɭ	tsʰinpʰiɭ	tsʰinpʰiɭ	True	True
+10	악보	ak̚pʼo	ak̚pʼo	ak̚pʼo	True	True
+11	유품들이	.jupʰumdɯri	.jupʰumdɯri	.jupʰumdɯri	True	True
+12	한자리에	hanʣarie	han.tzarie	hanʣarie	False	True
+13	모였습니다.	mojʌt̚sʼɯmɲida	mojʌt̚sʼɯmɲida	mojʌt̚sʼɯmɲida	True	True

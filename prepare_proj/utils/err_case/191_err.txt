@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	더불어서	tʌburʌsʌ	dʌburʌsʌ	dʌburʌsʌ	False	False
+1	저와	ʣʌwa	ʣʌwa	ʣʌwa	True	True
+2	함께	hamkʼe	hamkʼe	hamkʼe	True	True
+3	내	nɛ	nɛ	nɛ	True	True
+4	몸	mom	mom	mom	True	True
+5	사용	sajo̞ŋ	sajo̞ŋ	sajo̞ŋ	True	True
+6	설명서에	sʌɭmjʌŋsʌe	sʌɭmjʌŋsʌe	sʌɭmjʌŋsʌe	True	True
+7	새로운	sɛroun	sɛroun	sɛroun	True	True
+8	식구가	ɕik̚kʼuga	ɕik̚kʼuga	ɕik̚kʼuga	True	True
+9	된	dwen	dwen	dwen	True	True
+10	김한석	gimhansʌk̚	gimhansʌk̚	gimhansʌk̚	True	True
+11	씨도	ɕʼido	ɕʼido	.tzʼido	True	False
+12	인사	insa	insa	insa	True	True
+13	부탁드릴게요.	butʰak̚tʼɯriɭkʼejo̞	butʰak̚tʼɯriɭk	butʰak̚tʼɯriɭ	False	False

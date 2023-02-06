@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저는	t͡ɕʌnɯn	ʣʌnɯn	ʣʌnɯn	False	False
+1	그~	gɯ	gɯ	gɯp̚	True	False
+2	간판을	esʌ	ganpʰanɯɭ	ganpʰanɯɭ	False	False
+3	많이	ganpʰanɯɭ	maɲi	maɲi	False	False
+4	읽는데	maɲi	iŋnɯnde	iŋnɯnde	False	False
+5	읽으면서	iŋnɯnde	iɭgɯmjʌnsʌ	iɭgɯmjʌnsʌ	False	False
+6	가는데.	iɭgɯmjʌnsʌ	ganɯnde	ganɯnde	False	False

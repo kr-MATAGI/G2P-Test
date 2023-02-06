@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	가속화시켜가며	kasokʰwaɕikʰjʌgamjʌ	gasokʰwaɕikʰjʌg	kasokʰwaɕikʰjʌg	False	False
+1	지가	ʣiga	ʣiga	ʣiga	True	True
+2	이제	iʣe	iʣe	iʣe	True	True
+3	깨어져가지고	kʼɛʌʣʌgaʣigo	kʼɛʌʣʌgaʣigo	kʼɛʌʣʌgaʣigo	True	True
+4	씁니다.	sʼɯmɲida	sʼɯmɲida	sʼɯmɲida	True	True

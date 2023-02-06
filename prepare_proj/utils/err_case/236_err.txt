@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그것보다	kɯgʌt̚pʼoda	gɯgʌt̚pʼoda	gɯgʌt̚pʼoda	False	False
+1	아까	akʼa	akʼa	akʼa	True	True
+2	양력	.jaŋɲjʌk̚	.jaŋɲjʌk̚	.jaŋɲjʌk̚	True	True
+3	소개할	sogɛhaɭ	sogɛhaɭ	sogɛhaɭ	True	True
+4	때	tʼɛ	tʼɛ	tʼɛ	True	True
+5	한	han	han	han	True	True
+6	것처럼	gʌt̚tsʰʌrʌm	gʌt̚tsʰʌrʌm	kʌt̚tsʰʌrʌm	True	False
+7	한국계	hanguk̚kʼʲe	hanguk̚kʼʲe	hanguk̚kʼʲe	True	True
+8	미국	miguk̚	miguk̚	miguk̚	True	True
+9	물리학자라고	muɭʎ̟ihak̚.tzarago	muɭʎ̟ihak̚.tzar	muɭʎ̟ihak̚.tzar	False	False
+10	하는	hanɯn	hanɯn	hanɯn	True	True
+11	것이	gʌɕi	gʌɕi	gʌɕi	True	True
+12	상식적인	saŋɕik̚.tzʌgin	saŋɕik̚.tzʌgin	saŋɕik̚.tzʌgin	True	True
+13	표현입니다.	pʰjo̞hjʌɲimɲida	pʰjo̞hjʌɲimɲid	pʰjo̞hjʌɲimɲid	False	False

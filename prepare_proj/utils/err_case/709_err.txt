@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저거는	t͡ɕʌgʌnɯn	ʣʌgʌnɯn	ʣʌgʌnɯn	False	False
+1	이제	iʣe	iʣe	iʣe	True	True
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	지점을	esʌ	ʣiʣʌmɯɭ	ʣiʣʌmɯɭ	False	False
+4	환산한	ʣiʣʌmɯɭ	hwansanhan	hwansanhan	False	False
+5	것이고	hwansanhan	gʌɕigo	gʌɕigo	False	False
+6	만약에	gʌɕigo	maɲ.jage	maɲ.jage	False	False
+7	이거를	maɲ.jage	igʌrɯɭ	igʌrɯɭ	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	연남동에서	jʌnnamdoŋesʌ	jʌnnamdoŋesʌ	jʌnnamdoŋesʌ	True	True
+1	음악	ɯmak̚	ɯmak̚	ɯmak̚	True	True
+2	서점을	sʌ.tzʌmɯɭ	sʌ.tzʌmɯɭ	sʌʣʌmɯɭ	True	False
+3	운영하고	uɲjʌŋhago	uɲjʌŋhago	uɲjʌŋhago	True	True
+4	있는	innɯn	innɯn	innɯn	True	True
+5	박미리새라고	baŋmiri	baŋmirisɛrago	paŋmirisɛrago	False	False
+6	합니다.	sɛrago	hamɲida	hamɲida	False	False

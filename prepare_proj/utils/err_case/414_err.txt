@@ -1,0 +1,21 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	t͡ɕaʣɯn	kɯrɛsʌ	gɯrɛsʌ	False	False
+1	우월감콤플렉스라는	ʣiwie	uwʌɭgamkʰompʰɯ	uwʌɭgamkʰompʰɯ	False	False
+2	얘기를	isʼɯmjʌn	jɛgirɯɭ	jɛgirɯɭ	False	False
+3	하는데	aje	hanɯnde	hanɯnde	False	False
+4	네	gwangʲerɯɭ	ne	ne	False	False
+5	항상	mɛʣɯɭʎ̟jʌgo	haŋsaŋ	haŋsaŋ	False	False
+6	자신이	an	ʣaɕiɲi	ʣaɕiɲi	False	False
+7	뭔가	hanɯn	mwʌnga	mwʌnga	False	False
+8	우위에	gɯrʌn	uwie	uwie	False	False
+9	있어야	gʌsɯɭ	isʼʌ.ja	isʼʌ.ja	False	False
+10	다른	uwʌɭgam	darɯn	darɯn	False	False
+11	사람과	ʣatsʰerɯɭ	saramgwa	saramgwa	False	False
+12	관계를	kʰʌmpʰɯɭlek̚sʼɯrago	gwangʲerɯɭ	kwangʲerɯɭ	False	False
+13	맺을	bonɯnde	mɛʣɯɭ	mɛsʼɯɭ	False	False
+14	수	aɭlek̚	su	su	False	False
+15	있다고	ʣatsʰega	it̚tʼago	it̚tʼago	False	False
+16	생각하고	gɯrʌn	sɛŋgakʰago	sɛŋgakʰago	False	False
+17	자신이	saramin	ʣaɕiɲi	ʣaɕiɲi	False	False
+18	쫌	gʌt̚	.tzom	.tzom	False	False
+19	열등하거나	gatʰɛjo̞	jʌɭdɯŋhagʌna	jʌɭtʼɯŋhagʌna	False	False

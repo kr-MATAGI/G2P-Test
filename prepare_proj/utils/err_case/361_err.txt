@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	만약에	esʌ	maɲ.jage	maɲ.jage	False	False
+2	더	maɲ.jage	dʌ	dʌ	False	False
+3	늦게	dʌ	nɯt̚kʼe	nɯt̚kʼe	False	False
+4	아~	nɯt̚kʼe	a	ak̚	False	False
+5	밝기가	a	baɭkʼiga	paɭkʼiga	False	False
+6	변한다	esʌ	bjʌnhanda	pjʌnhanda	False	False
+7	그러면	baɭkʼiga	kɯrʌmjʌn	gɯrʌmjʌn	False	False
+8	그것보다	bjʌnhanda	gɯgʌt̚pʼoda	gɯgʌt̚pʼoda	False	False
+9	더	gɯrʌmjʌn	dʌ	dʌ	False	False
+10	밝다는	gɯgʌt̚pʼoda	bak̚tʼanɯn	paɭtʼanɯn	False	False
+11	뜻이죠.	dʌ	tʼɯɕiʣjo̞	tʼɯɕiʣjo̞	False	False

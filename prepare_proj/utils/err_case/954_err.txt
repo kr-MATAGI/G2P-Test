@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아휴	ahju	ahju	ahju	True	True
+1	xxx	xxx	xxx	xx	True	False
+2	그~	gɯ	gɯ	gɯp̚	True	False
+3	별로	esʌ	bjʌɭlo	bjʌɭlo	False	False
+4	없죠.	bjʌɭlo	ʌp̚.tzjo̞	ʌp̚.tzjo̞	False	False

@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아니요.	aɲijo̞	aɲijo̞	aɲijo̞	True	True
+1	아니요.	aɲijo̞	aɲijo̞	aɲijo̞	True	True
+2	영어로	jʌŋʌro	jʌŋʌro	jʌŋʌro	True	True
+3	낫스	nat̚sʼɯ	nat̚sʼɯ	nat̚sʼɯ	True	True
+4	지니	ʣiɲi	ʣiɲi	ʣiɲi	True	True
+5	얼러지	ʌɭlʌ	ʌɭlʌʣi	ʌɭlʌʣi	False	False

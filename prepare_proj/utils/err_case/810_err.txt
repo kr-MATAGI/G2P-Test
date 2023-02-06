@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	그림을	esʌ	gɯrimɯɭ	gɯrimɯɭ	False	False
+2	실제로	gɯrimɯɭ	ɕiɭ.tzero	ɕiɭ.tzero	False	False
+3	그렸던	ɕiɭ.tzero	gɯrjʌt̚tʼʌn	gɯrjʌt̚tʼʌn	False	False
+4	걸로	gɯrjʌt̚tʼʌn	gʌɭlo	kʌɭlo	False	False
+5	제가	gʌɭlo	ʣega	ʣega	False	False
+6	인제	ʣega	inʣe	inʣe	False	False
+7	알고	inʣe	aɭgo	aɭgo	False	False
+8	있구요.	aɭgo	it̚kʼujo̞	it̚kʼujo̞	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지금	t͡ɕigɯm	ʣigɯm	ʣigɯm	False	False
+1	너무	nʌmu	nʌmu	nʌmu	True	True
+2	건강하게	gʌngaŋhage	gʌngaŋhage	kʌngaŋhage	True	False
+3	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+4	계시거든요.	gʲeɕigʌdɯɲjo̞	gʲeɕigʌdɯɲjo̞	gʲeɕigʌdɯɲjo̞	True	True

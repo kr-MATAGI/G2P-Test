@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그까는	kɯ	kɯkʼanɯn	gɯkʼanɯn	False	False
+1	뭐	kʼanɯn	mwʌ	mwʌ	False	False
+2	아까	mwʌ	akʼa	akʼa	False	False
+3	극단적으로	akʼa	gɯk̚tʼanʣʌgɯr	kɯk̚tʼanʣʌgɯr	False	False
+4	멘하탄에	gɯk̚tʼanʣʌgɯro	menhatʰane	menhatʰane	False	False
+5	수소	menhatʰane	suso	suso	False	False
+6	폭탄이	suso	pʰok̚tʰaɲi	pʰok̚tʰaɲi	False	False
+7	터진다.	pʰok̚tʰaɲi	tʰʌʣinda	tʰʌʣinda	False	False

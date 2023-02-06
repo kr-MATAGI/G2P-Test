@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제안으로	t͡ɕeanɯro	ʣeanɯro	.tzeanɯro	False	False
+1	복잡한	bok̚.tzapʰan	bok̚.tzapʰan	bok̚.tzapʰan	True	True
+2	사람에	sarame	sarame	sarame	True	True
+3	논리를	noɭʎ̟irɯɭ	noɭʎ̟irɯɭ	noɭʎ̟irɯɭ	True	True
+4	간단한	gandanhan	gandanhan	gandanhan	True	True
+5	기계	gigʲe	gigʲe	kigʲe	True	False
+6	동작으로	doŋʣagɯro	doŋʣagɯro	toŋʣagɯro	True	False
+7	풀어서	pʰurʌsʌ	pʰurʌsʌ	pʰurʌsʌ	True	True
+8	설명하는	sʌɭmjʌŋhanɯn	sʌɭmjʌŋhanɯn	sʌɭmjʌŋhanɯn	True	True

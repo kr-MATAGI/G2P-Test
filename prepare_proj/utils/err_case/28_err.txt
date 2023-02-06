@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	다른	tarɯn	darɯn	darɯn	False	False
+1	우리가	uriga	uriga	uriga	True	True
+2	알고	aɭgo	aɭgo	aɭgo	True	True
+3	있는	innɯn	innɯn	innɯn	True	True
+4	뭐	mwʌ	mwʌ	mwʌ	True	True
+5	악어라든지	agʌradɯnʣi	agʌradɯnʣi	agʌradɯnʣi	True	True
+6	도마뱀	domabɛm	domabɛm	domabɛm	True	True
+7	친구들은	tsʰingudɯrɯn	tsʰingudɯrɯn	tsʰingudɯrɯn	True	True
+8	다리가	dariga	dariga	dariga	True	True
+9	다	da	da	ta	True	False
+10	옆으로	jʌpʰɯro	jʌpʰɯro	jʌpʰɯro	True	True
+11	뻗어	pʼʌdʌ	pʼʌdʌ	pʼʌdʌ	True	True
+12	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

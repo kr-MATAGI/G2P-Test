@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	hanɯn	mwʌ	mwʌ	False	False
+1	이런	gɯ	irʌn	irʌn	False	False
+2	주장도	ditʰeiri	ʣuʣaŋdo	ʣuʣaŋdo	False	False
+3	하고	aɲira	hago	hago	False	False
+4	그것이	gɯ	gɯgʌɕi	gɯgʌɕi	False	False
+5	과연	iron	gwajʌn	kwajʌn	False	False
+6	정말	ʣuŋe	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+7	생명	jerɯɭ	sɛŋmjʌŋ	sɛŋmjʌŋ	False	False
+8	최초의	dɯrʌ	tsʰwetsʰoe	tsʰwetsʰoi	False	False
+9	생명체냐	tsʰwetsʰoe	sɛŋmjʌŋtsʰeɲ.	sɛŋmjʌŋtsʰeɲ.	False	False
+10	아니면	wʌnɕiʣigu	aɲimjʌn	aɲimjʌn	False	False
+11	원래부터	saŋtʰɛrɯɭ	wʌɭlɛbutʰʌ	wʌɭlɛbutʰʌ	False	False
+12	있었던	mandɯrʌnokʰo	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	False	False
+13	거냐	gɯgʌrɯɭ	gʌɲ.ja	gʌɲ.ja	False	False
+14	뭐	ʣɛjʌnhanɯn	mwʌ	mwʌ	False	False
+15	별에	gɯrʌn	bjʌre	bjʌre	False	False
+16	별	gɯrup̚tʼɯɭ	bjʌɭ	bjʌɭ	False	False
+17	논쟁들이	ʣuŋe	nonʣɛŋdɯri	nonʣɛŋdɯri	False	False
+18	있습니다만	gaʣaŋ	it̚sʼɯmɲidaman	it̚sʼɯmɲidaman	False	False
+19	제가	tʼo	ʣega	ʣega	False	False
+20	말씀드리고자	gɯrʌɭtʼɯtʰan	maɭsʼɯmdɯrigoʣ	maɭsʼɯmdɯrigoʣ	False	False
+21	하는	gɯrʌn	hanɯn	hanɯn	False	False
+22	그	ɲirondɯri	gɯ	gɯ	False	False
+23	디테일이	it̚kʼin	ditʰeiri	ditʰeiri	False	False
+24	아니라	hɛjo̞	aɲira	aɲira	False	False

@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	리지로서	ri	riʣirosʌ	riʣirosʌ	False	False
+1	다아시로서	ʣirosʌ	daaɕirosʌ	daaɕirosʌ	False	False
+2	뭐	daaɕirosʌ	mwʌ	mwʌ	False	False
+3	미스터	mwʌ	misɯtʰʌ	misɯtʰʌ	False	False
+4	베넷으로서	misɯtʰʌ	benesɯrosʌ	penesɯrosʌ	False	False
+5	어쨌든	benesɯrosʌ	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	False	False
+6	그	ʌ.tzɛt̚tʼɯn	gɯ	gɯ	False	False
+7	배역으로서	gɯ	bɛjʌgɯrosʌ	pɛjʌgɯrosʌ	False	False
+8	관객들하고	bɛjʌgɯrosʌ	gwangɛk̚tʼɯɭha	kwangɛk̚tʼɯɭha	False	False
+9	속마음을	gwangɛk̚tʼɯɭhago	soŋmaɯmɯɭ	soŋmaɯmɯɭ	False	False
+10	공유하듯이	soŋmaɯmɯɭ	goŋ.juhadɯnɲi	koŋ.juhadɯɕi	False	False
+11	내레이션을	goŋ.juhadɯnɲi	nɛreisjʌnɯɭ	nɛreisjʌnɯɭ	False	False
+12	진행하거든요.	nɛreisjʌnɯɭ	ʣinhɛŋhagʌdɯɲ	.tzinhɛŋhagʌdɯ	False	False

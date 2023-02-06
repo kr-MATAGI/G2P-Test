@@ -101,9 +101,10 @@ if __name__ == '__main__':
         out = tokenizer(conv_sent, padding=True, add_special_tokens=False, return_tensors='pt')
         preds = model.generate(**out, num_beams=1)  # We do not find beam search helpful. Greedy decoding is enough.
         phones = tokenizer.batch_decode(preds.tolist(), skip_special_tokens=True)
+        phones = [x.replace(" ", "") for x in phones]
         pred_buffer.append((t_idx, sent, ipa, phones, ipa==phones))
     # Save pickle
-    with open("./sents_unit_result.pkl", mode="wb") as f:
+    with open("./sent_unit_result.pkl", mode="wb") as f:
         pickle.dump(pred_buffer, f)
         print("len>", len(pred_buffer))
     exit()

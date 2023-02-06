@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	백	pɛk̚	bɛk̚	bɛk̚	False	False
+1	그람	gɯram	gɯram	gɯram	True	True
+2	당	daŋ	daŋ	daŋ	True	True
+3	아연이	ajʌɲi	ajʌɲi	ajʌɲi	True	True
+4	사	sa	sa	sa	True	True
+5	점	ʣʌm	ʣʌm	.tzʌm	True	False
+6	일	iɭ	iɭ	iɭ	True	True
+7	미리그람	miri	mirigɯram	mirigɯram	False	False
+8	정도로	gɯram	ʣʌŋdoro	.tzʌŋdoro	False	False
+9	아주	ʣʌŋdoro	aʣu	aʣu	False	False
+10	풍부하게	aʣu	pʰuŋbuhage	pʰuŋbuhage	False	False
+11	함유가	pʰuŋbuhage	hamjuga	ham.juga	False	False
+12	되어있어요.	hamjuga	dweʌisʼʌjo̞	dweʌisʼʌjo̞	False	False

@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런데	kɯrʌntʼe	kɯrʌntʼe	gɯrʌntʼe	True	False
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	그로부터	gɯrobutʰʌ	kɯrobutʰʌ	gɯrobutʰʌ	False	True
+3	한	han	han	han	True	True
+4	십년	ɕim	ɕim	ɕimɲjʌn	True	False
+5	오년	ɲjʌn	oɲjʌn	oɲjʌn	False	False
+6	요	o	jo̞	jo̞	False	False
+7	정도	ɲjʌn	ʣʌŋdo	ʣʌŋdo	False	False
+8	지나가지고	jo̞	ʣinagaʣigo	.tzinagaʣigo	False	False
+9	수체	ʣʌŋdo	sutsʰe	sutsʰe	False	False
+10	생산	ʣinagaʣigo	sɛŋsan	sɛŋsan	False	False
+11	못	su	mot̚	mot̚	False	False
+12	하게	tsʰe	hage	hage	False	False
+13	하겠다라는	sɛŋsan	haget̚tʼaranɯn	haget̚tʼaranɯn	False	False
+14	계획까지	mo	gʲehwek̚kʼaʣi	gʲehwek̚kʼaʣi	False	False
+15	오는데	tʰage	onɯnde	onɯnde	False	False
+16	이게	haget̚tʼaranɯn	ige	ige	False	False
+17	지금	gʲehwek̚kʼaʣi	ʣigɯm	ʣigɯm	False	False
+18	가능한	onɯnde	ganɯŋhan	kanɯŋhan	False	False
+19	얘긴가	ige	jɛginga	jɛginga	False	False
+20	생각은	ʣigɯm	sɛŋgagɯn	sɛŋgagɯn	False	False
+21	들긴	ganɯŋhan	dɯɭgin	dɯɭgin	False	False
+22	들더라고요.	jɛginga	dɯɭdʌragojo̞	dɯɭdʌragojo̞	False	False

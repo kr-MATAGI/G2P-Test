@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리가	uriga	uriga	uriga	True	True
+1	건강을	gʌngaŋɯɭ	gʌngaŋɯɭ	kʌngaŋɯɭ	True	False
+2	위해서	wihɛsʌ	wihɛsʌ	wihɛsʌ	True	True
+3	먹기	mʌk̚kʼi	mʌk̚kʼi	mʌk̚kʼi	True	True
+4	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+5	천연	tsʰʌɲjʌ	tsʰʌɲjʌn	tsʰʌɲjʌn	False	False
+6	오가닉	nogaɲik̚	ogaɲik̚	ogaɲik̚	False	False
+7	뭐	mwʌ	mwʌ	mwʌ	True	True
+8	요런	jo̞rʌn	jo̞rʌn	jo̞rʌn	True	True
+9	거에	gʌe	gʌe	gʌe	True	True
+10	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+11	민감하거든요.	mingamhagʌdɯɲjo̞	mingamhagʌdɯɲjo	mingamhagʌdɯɲjo	False	False

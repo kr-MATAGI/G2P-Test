@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	여가와	jʌgawa	jʌgawa	jʌgawa	True	True
+1	여행을	jʌhɛŋɯɭ	jʌhɛŋɯɭ	jʌhɛŋɯɭ	True	True
+2	테마로	tʰemaro	tʰemaro	tʰemaro	True	True
+3	한	han	han	han	True	True
+4	각양각색	gag.jaŋgak̚sʼɛk̚	gag.jaŋgak̚sʼɛk	kag.jaŋgak̚sʼɛk	False	False
+5	작품들이	ʣak̚pʰumdɯri	ʣak̚pʰumdɯri	ʣak̚pʰumdɯri	True	True
+6	미술관에	misuɭgwane	misuɭgwane	misuɭgwane	True	True
+7	모였습니다.	mojʌt̚sʼɯmɲida	mojʌt̚sʼɯmɲida	mojʌt̚sʼɯmɲida	True	True

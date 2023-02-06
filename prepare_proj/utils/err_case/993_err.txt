@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	매해	mɛhɛ	mɛhɛ	mɛhɛ	True	True
+1	재활용되거나	ʣɛhwarjo̞ŋdwegʌna	ʣɛhwarjo̞ŋdweg	t͡ɕɛhwarjo̞ŋdw	False	False
+2	소각되는	sogak̚tʼwenɯn	sogak̚tʼwenɯn	sogak̚tʼwenɯn	True	True
+3	것은	gʌsɯn	gʌsɯn	gʌsɯn	True	True
+4	이십	iɕip̚	iɕip̚	iɕip̚	True	True
+5	퍼센트	pʰʌsentʰɯ	pʰʌsentʰɯ	pʰʌsentʰɯ	True	True
+6	나머지는	namʌʣinɯn	namʌʣinɯn	namʌʣinɯn	True	True
+7	그냥	gɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	True	True
+8	버려지는	bʌrjʌʣinɯn	bʌrjʌʣinɯn	pʌrjʌʣinɯn	True	False
+9	겁니다.	gʌmɲida	gʌmɲida	gʌmɲida	True	True

@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자	t͡ɕa	t͡ɕa	ʣa	True	False
+1	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+2	제	ʣe	ʣe	ʣe	True	True
+3	얘기를	jɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	True	True
+4	마치면서	matsʰimjʌnsʌ	matsʰimjʌnsʌ	matsʰimjʌnsʌ	True	True
+5	정보	ʣʌŋbo	ʣʌŋbo	.tzʌŋbo	True	False
+6	얘기를	jɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	True	True
+7	하고	hago	hago	hago	True	True
+8	있으니까	isʼɯɲikʼa	isʼɯɲikʼa	isʼɯɲikʼa	True	True
+9	정보에	ʣʌŋboe	ʣʌŋboe	.tzʌŋboe	True	False
+10	대한	dɛhan	dɛhan	dɛhan	True	True
+11	마지막	maʣimak̚	maʣimak̚	maʣimak̚	True	True
+12	재밌는	ʣɛminnɯ	ʣɛminnɯn	ʣɛminnɯn	False	False
+13	얘기를	njɛgirɯɭ	jɛgirɯɭ	jɛgirɯɭ	False	False
+14	하고	hago	hago	hago	True	True
+15	마치고	matsʰigo	matsʰigo	matsʰigo	True	True
+16	싶은데요.	ɕipʰɯndejo̞	ɕipʰɯndejo̞	ɕipʰɯndejo̞	True	True

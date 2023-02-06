@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	친일	tsʰiɲiɭ	tsʰiɲiɭ	tsʰiɲiɭ	True	True
+1	정치	ʣʌŋtsʰi	ʣʌŋtsʰi	.tzʌŋtsʰi	True	False
+2	백	bɛk̚	bɛk̚	bɛk̚	True	True
+3	년사	ɲjʌnsa	ɲjʌnsa	ɲjʌnsa	True	True
+4	일제는	iɭ.tzenɯn	iɭ.tzenɯn	iɭ.tzenɯn	True	True
+5	조선을	ʣosʌnɯɭ	ʣosʌnɯɭ	ʣosʌnɯɭ	True	True
+6	얼마나	ʌɭmana	ʌɭmana	ʌɭmana	True	True
+7	망쳤을까	maŋtsʰʌsʼɯɭkʼa	maŋtsʰʌsʼɯɭk	maŋtsʰʌsʼɯɭk	False	False
+8	등을	dɯŋɯɭ	dɯŋɯɭ	dɯŋɯɭ	True	True
+9	통해서	tʰoŋhɛsʌ	tʰoŋhɛsʌ	tʰoŋhɛsʌ	True	True
+10	꾸준히	kʼuʣunhi	kʼuʣunhi	kʼuʣunhi	True	True
+11	독립	doŋɲim	doŋɲip̚	toŋɲip̚	False	False
+12	운동자	nundoŋʣa	undoŋʣa	undoŋʣa	False	False
+13	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+14	친일	tsʰiɲiɭ	tsʰiɲiɭ	tsʰiɲiɭ	True	True
+15	반	ban	ban	pʼan	True	False
+16	민족사를	minʣok̚sʼarɯɭ	minʣok̚sʼarɯɭ	minʣok̚sʼarɯɭ	True	True
+17	알려	aɭʎ̟jʌ	aɭʎ̟jʌ	aɭʎ̟jʌ	True	True
+18	오신	oɕin	oɕin	oɕin	True	True
+19	분이기도	buɲigido	buɲigido	buɲigido	True	True
+20	합니다.	hamɲida	hamɲida	hamɲida	True	True

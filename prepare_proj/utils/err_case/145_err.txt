@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그렇게까지	kɯrʌkʰekʼaʣi	gɯrʌkʰekʼaʣi	kɯrʌkʰekʼaʣi	False	True
+1	힘들게	himdɯɭge	himdɯɭge	himdɯɭge	True	True
+2	화장실에서	hwaʣaŋɕiresʌ	hwaʣaŋɕiresʌ	hwaʣaŋɕiresʌ	True	True
+3	볼	boɭʎ̟irɯɭ	boɭ	boɭ	False	False
+4	일을	bomjʌnsʌ	irɯɭ	irɯɭ	False	False
+5	보면서	ʣʌŋmaɭ	bomjʌnsʌ	bomjʌnsʌ	False	False
+6	정말	a	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+7	아~	esʌ	a	ak̚	False	False
+8	문제가	munʣega	munʣega	munʣega	True	True

@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	군대에서	kundɛesʌ	gundɛesʌ	gundɛesʌ	False	False
+1	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+2	코보를	kʰoborɯɭ	kʰoborɯɭ	kʰoborɯɭ	True	True
+3	만드는	mandɯnɯn	mandɯnɯn	mandɯnɯn	True	True
+4	단계로	dangʲero	dangʲero	dangʲero	True	True
+5	넘어가느냐	nʌmʌganɯɲ.ja	nʌmʌganɯɲ.ja	nʌmʌganɯɲ.ja	True	True
+6	그	gɯ	gɯ	gɯ	True	True
+7	이야기를	i.jagirɯɭ	i.jagirɯɭ	i.jagirɯɭ	True	True
+8	지금부터	ʣigɯmbutʰʌ	ʣigɯmbutʰʌ	ʣigɯmbutʰʌ	True	True
+9	해볼게요.	hɛboɭkʼejo̞	hɛboɭkʼejo̞	hɛboɭkʼejo̞	True	True

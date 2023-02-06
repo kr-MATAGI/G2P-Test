@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	자유	ʣa.ju	ʣa.ju	ʣa.ju	True	True
+2	전도사	ʣʌndosa	ʣʌndosa	ʣʌndosa	True	True
+3	자유	ʣa.ju	ʣa.ju	ʣa.ju	True	True
+4	쟁취를	ʣɛŋtsʰwirɯɭ	ʣɛŋtsʰwirɯɭ	ʣɛŋtsʰwirɯɭ	True	True
+5	위한	wihan	wihan	wihan	True	True
+6	깃발을	git̚pʼarɯɭ	git̚pʼarɯɭ	kit̚pʼarɯɭ	True	False
+7	올리셨대요.	oɭʎ̟isjʌt̚tʼɛjo̞	oɭʎ̟isjʌt̚tʼ	oɭʎ̟isjʌt̚tʼ	False	False

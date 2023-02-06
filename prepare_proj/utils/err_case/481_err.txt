@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	첫	tsʰʌt̚	tsʰʌt̚	tsʰʌt̚	True	True
+1	공연을	kʼoŋjʌnɯɭ	goŋjʌnɯɭ	goŋjʌnɯɭ	False	False
+2	앞두고	ap̚tʼugo	ap̚tʼugo	ap̚tʼugo	True	True
+3	긴장이	ginʣaŋi	ginʣaŋi	kinʣaŋi	True	False
+4	감도는	gamdonɯn	gamdonɯn	kamdonɯn	True	False
+5	무대	mudɛ	mudɛ	mudɛ	True	True

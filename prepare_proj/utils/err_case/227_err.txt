@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	학생은	hak̚sʼɛŋɯn	hak̚sʼɛŋɯn	hak̚sʼɛŋɯn	True	True
+2	입학한	ipʰakʰan	ipʰakʰan	ipʰakʰan	True	True
+3	적이	ʣʌgi	ʣʌgi	ʣʌgi	True	True
+4	없대.	ʌp̚tʼɛ	ʌp̚tʼɛ	ʌp̚tʼɛ	True	True

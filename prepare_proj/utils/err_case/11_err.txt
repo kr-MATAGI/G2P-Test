@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	일반적으로	iɭbanʣʌgɯro	iɭbanʣʌgɯro	iɭbanʣʌgɯro	True	True
+1	이미	imi	imi	imi	True	True
+2	그만한	gɯmanhan	gɯmanhan	gɯmanhan	True	True
+3	능력이	nɯŋɲjʌgi	nɯŋɲjʌgi	nɯŋɲjʌgi	True	True
+4	있기에	it̚kʼie	it̚kʼie	it̚kʼie	True	True
+5	자신감이	ʣaɕingami	ʣaɕingami	ʣaɕingami	True	True
+6	넘친다고	nʌmtsʰindago	nʌmtsʰindago	nʌmtsʰindago	True	True
+7	착각하기	tsʰak̚kʼakʰagi	tsʰak̚kʼakʰagi	tsʰak̚kʼakʰagi	True	True
+8	쉽지만	ʃwip̚.tziman	ʃwip̚.tziman	ʃwip̚.tziman	True	True
+9	오히려	ohirjʌ	ohirjʌ	ohirjʌ	True	True
+10	무능력한	munɯŋɲjʌkʰan	munɯŋɲjʌkʰan	munɯŋɲjʌkʰan	True	True
+11	사람일수록	saramiɭsʼurok̚	saramiɭsʼurok̚	saramiɭsʼurok̚	True	True
+12	근거없는	gɯngʌ	gɯngʌ	gɯngʌʌmnɯn	True	False
+13	자신감이	ʌmnɯn	ʣaɕingami	ʣaɕingami	False	False
+14	사로잡힐	ʣaɕingami	saroʣapʰiɭ	saroʣapʰiɭ	False	False
+15	가능성이	saroʣapʰiɭ	ganɯŋsʼʌŋi	kanɯŋsʼʌŋi	False	False
+16	크다고	ganɯŋsʼʌŋi	kʰɯdago	kʰɯdago	False	False
+17	저자는	kʰɯdago	ʣʌʣanɯn	ʣʌʣanɯn	False	False
+18	설명합니다.	ʣʌʣanɯn	sʌɭmjʌŋhamɲida	sʌɭmjʌŋhamɲida	False	False

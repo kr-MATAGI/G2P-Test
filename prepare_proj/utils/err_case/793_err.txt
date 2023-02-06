@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	간단하게	kandanhage	gandanhage	gandanhage	False	False
+1	찾을	tsʰaʣɯɭ	tsʰaʣɯɭ	tsʰaʣɯɭ	True	True
+2	수	su	su	su	True	True
+3	있으시구요.	isʼɯɕigujo̞	isʼɯɕigujo̞	isʼɯɕigujo̞	True	True

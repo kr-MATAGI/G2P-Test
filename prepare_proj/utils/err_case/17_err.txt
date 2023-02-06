@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	여러분	jʌrʌbun	jʌrʌbun	jʌrʌbun	True	True
+1	아시겠지만	aɕiget̚.tziman	aɕiget̚.tziman	aɕiget̚.tziman	True	True
+2	이십	iɕip̚	iɕip̚	iɕip̚	True	True
+3	세기는	sʼeginɯn	seginɯn	seginɯn	False	False
+4	독일에는	dogirenɯn	dogirenɯn	dogirenɯn	True	True
+5	아주	aʣu	aʣu	aʣu	True	True
+6	처절한	tsʰʌʣʌɭhan	tsʰʌʣʌɭhan	tsʰʌʣʌɭhan	True	True
+7	역사가	jʌk̚sʼaga	jʌk̚sʼaga	jʌk̚sʼaga	True	True
+8	있었죠.	isʼʌt̚.tzjo̞	isʼʌt̚.tzjo̞	isʼʌt̚.tzjo̞	True	True

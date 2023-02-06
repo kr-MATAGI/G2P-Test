@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	루틴이란	rutʰiɲiran	rutʰiɲiran	rutʰiɲiran	True	True
+1	성분이	sʌŋbuɲi	sʌŋbuɲi	sʌŋbuɲi	True	True
+2	들어있습니다.	dɯrʌit̚sʼɯmɲida	dɯrʌit̚sʼɯmɲi	dɯrʌit̚sʼɯmɲi	False	False
+3	루틴	rutʰin	rutʰin	rutʰin	True	True

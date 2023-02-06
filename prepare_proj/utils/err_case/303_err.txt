@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	기자들이	kiʣadɯri	giʣadɯri	kiʣadɯri	False	True
+1	내는	nɛnɯn	nɛnɯn	nɛnɯn	True	True
+2	게	ge	ge	ge	True	True
+3	기사로만	gisaroman	gisaroman	kisaroman	True	False
+4	뭉쳐져	muŋtsʰʌʣʌ	muŋtsʰʌʣʌ	muŋtsʰʌʣʌ	True	True
+5	있는	innɯn	innɯn	innɯn	True	True
+6	거	gʌ	gʌ	gʌ	True	True
+7	같습니다.	gat̚sʼɯmɲida	gat̚sʼɯmɲida	kat̚sʼɯmɲida	True	False

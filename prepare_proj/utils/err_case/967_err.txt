@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	보고	pogo	bogo	bogo	False	False
+1	왔더니	wat̚tʼʌɲi	wat̚tʼʌɲi	wat̚tʼʌɲi	True	True
+2	뭐	mwʌ	mwʌ	mwʌ	True	True
+3	그	gɯ	gɯ	gɯ	True	True
+4	자기가	ʣagiga	ʣagiga	ʣagiga	True	True
+5	보낸	bonɛn	bonɛn	bonɛn	True	True
+6	편지에	pʰjʌnʣie	pʰjʌnʣie	pʰjʌnʣie	True	True
+7	뭐	mwʌ	mwʌ	mwʌ	True	True
+8	아무런	amurʌn	amurʌn	amurʌn	True	True
+9	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+10	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+11	조치도	ʣotsʰido	ʣotsʰido	ʣotsʰido	True	True
+12	없고	ʌp̚kʼo	ʌp̚kʼo	ʌp̚kʼo	True	True
+13	응답할	ɯŋdapʰaɭ	ɯŋdapʰaɭ	ɯŋdapʰaɭ	True	True
+14	필요가	pʰirjo̞ga	pʰirjo̞ga	pʰirjo̞ga	True	True
+15	없음이라는	ʌp̚sʼɯmiranɯn	ʌp̚sʼɯmiranɯn	ʌp̚sʼɯmiranɯn	True	True
+16	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+17	칸에	kʰane	kʰane	kʰane	True	True
+18	그냥	gɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	True	True
+19	던져져	dʌnʣʌʣʌ	dʌnʣʌʣʌ	tʌnʣjʌʣʌ	True	False
+20	있더라	it̚tʼʌra	it̚tʼʌra	it̚tʼʌra	True	True

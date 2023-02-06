@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런데	kɯrʌntʼe	kɯrʌntʼe	gɯrʌntʼe	True	False
+1	이~	i	i	ip̚	True	False
+2	제가	esʌ	ʣega	ʣega	False	False
+3	매일	ʣega	mɛiɭ	mɛiɭ	False	False
+4	그~	mɛiɭ	gɯ	gɯp̚	False	False
+5	책을	gɯ	tsʰɛgɯɭ	tsʰɛgɯɭ	False	False
+6	보고	esʌ	bogo	bogo	False	False
+7	책	tsʰɛgɯɭ	tsʰɛk̚	tsʰɛk̚	False	False
+8	서평도	bogo	sʌpʰjʌŋdo	sʌpʰjʌŋdo	False	False
+9	쓰고	tsʰɛk̚	sʼɯgo	sʼɯgo	False	False
+10	뭐	sʌpʰjʌŋdo	mwʌ	mwʌ	False	False
+11	이러는	sʼɯgo	irʌnɯn	irʌnɯn	False	False
+12	과정이었어요.	mwʌ	gwaʣʌŋiʌsʼʌjo	kwaʣʌŋiʌsʼʌjo	False	False

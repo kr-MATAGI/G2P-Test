@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+2	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+3	욕심을	ɲjo̞k̚ɕʼimɯɭ	jo̞k̚ɕʼimɯɭ	jo̞k̚ɕʼimɯɭ	False	False
+4	버려야	bʌrjʌ.ja	bʌrjʌ.ja	pʌrjʌ.ja	True	False
+5	아	a	a	a	True	True
+6	그림이	gɯrimi	gɯrimi	gɯrimi	True	True
+7	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True
+8	아직도	aʣik̚tʼo	aʣik̚tʼo	aʣik̚tʼo	True	True
+9	수양이	su.jaŋi	su.jaŋi	su.jaŋi	True	True
+10	덜	dʌɭ	dʌɭ	dʌɭ	True	True
+11	돼서	dwɛsʌ	dwɛsʌ	dwɛsʌ	True	True
+12	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+13	욕심을	ɲjo̞k̚ɕʼimɯɭ	jo̞k̚ɕʼimɯɭ	jo̞k̚ɕʼimɯɭ	False	False
+14	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+15	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

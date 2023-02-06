@@ -1,0 +1,4 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지난번에	t͡ɕinanbʌne	ʣinanbʌne	.tzinanbʌne	False	False
+1	단장님이	danʣaŋɲimi	danʣaŋɲimi	danʣaŋɲimi	True	True
+2	나오셨어요.	naosjʌsʼʌjo̞	naosjʌsʼʌjo̞	naosjʌsʼʌjo̞	True	True

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그렇게	kɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	False	False
+1	처음	tsʰʌɯm	tsʰʌɯm	tsʰʌɯm	True	True
+2	생각하는	sɛŋgakʰanɯn	sɛŋgakʰanɯn	sɛŋgakʰanɯn	True	True
+3	건	gʌn	gʌn	gʌn	True	True
+4	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+5	어려웠을	ʌrjʌwʌsʼɯɭ	ʌrjʌwʌsʼɯɭ	ʌrjʌwʌsʼɯɭ	True	True
+6	거	gʌ	gʌ	gʌ	True	True
+7	같아요.	gatʰajo̞	gatʰajo̞	gatʰajo̞	True	True

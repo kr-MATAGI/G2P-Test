@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자~	t͡ɕa	t͡ɕa	ʣap̚	True	False
+1	이제	esʌ	iʣe	iʣe	False	False
+2	물리학	iʣe	muɭʎ̟ihak̚	muɭʎ̟ihak̚	False	False
+3	얘기해	muɭʎ̟ihak̚	jɛgihɛ	jɛgihɛ	False	False
+4	주시죠.	jɛgihɛ	ʣuɕiʣjo̞	ʣuɕiʣjo̞	False	False

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	아주	aʣu	aʣu	aʣu	True	True
+2	예쁘고	jepʼɯgo	jepʼɯgo	jepʼɯgo	True	True
+3	잘생기고	ʣaɭsɛŋgigo	ʣaɭsɛŋgigo	.tzaɭsʼɛŋgigo	True	False
+4	뭐~	mwʌ	mwʌ	mwʌ	True	True
+5	이케	esʌ	ikʰe	ikʰe	False	False
+6	선하게	ikʰe	sʌnhage	sʌnhage	False	False
+7	생긴	sʌnhage	sɛŋgin	sɛŋgin	False	False

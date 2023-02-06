@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	태양	tʰɛ.jaŋ	tʰɛ.jaŋ	tʰɛ.jaŋ	True	True
+2	빛이	bitsʰi	bitsʰi	pitsʰi	True	False
+3	이걸	igʌɭ	igʌɭ	igʌɭ	True	True
+4	밀어	mirʌ	mirʌ	mirʌ	True	True
+5	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+6	소행성이	sohɛŋsʌŋi	sohɛŋsʌŋi	sohɛŋsʌŋi	True	True
+7	궤도가	gwedoga	gwedoga	kwedoga	True	False
+8	살짝	saɭ.tzak̚	saɭ.tzak̚	saɭ.tzak̚	True	True
+9	바뀌면은	pʼakʼwimjʌnɯn	bakʼwimjʌnɯn	pakʼwimjʌnɯn	False	False
+10	한참	hantsʰam	hantsʰam	hantsʰam	True	True
+11	지나서는	ʣinasʌnɯn	ʣinasʌnɯn	.tzinasʌnɯn	True	False
+12	이제	iʣe	iʣe	iʣe	True	True
+13	지구랑	ʣiguraŋ	ʣiguraŋ	ʣiguraŋ	True	True
+14	많이	maɲi	maɲi	maɲi	True	True
+15	멀이지게	mʌriʣige	mʌriʣige	mʌriʣige	True	True
+16	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+17	거죠.	gʌʣjo̞	gʌʣjo̞	gʌʣjo̞	True	True

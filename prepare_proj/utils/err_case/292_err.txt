@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	미군에	migune	migune	migune	True	True
+2	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+3	편재가	pʰjʌnʣɛga	pʰjʌnʣɛga	pʰjʌnʣɛga	True	True
+4	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+5	돼있냐면	dwɛinɲ.jamjʌn	dwɛinɲ.jamjʌn	twɛinɲ.jamjʌn	True	False
+6	어~	ʌ	ʌ	ʌp̚	True	False
+7	병과가	esʌ	bjʌŋgwaga	pjʌŋgwaga	False	False
+8	육군	bjʌŋkʼwaga	.juk̚kʼun	.juk̚kʼun	False	False
+9	해군	.juk̚kʼun	hɛgun	hɛgun	False	False
+10	공군	hɛgun	goŋgun	goŋgun	False	False
+11	해병대	goŋgun	hɛbjʌŋdɛ	hɛbjʌŋdɛ	False	False
+12	해안	hɛbjʌŋdɛ	hɛan	hɛan	False	False
+13	경비대	hɛan	gjʌŋbidɛ	kjʌŋbidɛ	False	False
+14	이렇게	gjʌŋbidɛ	irʌkʰe	irʌkʰe	False	False
+15	오군	irʌkʰe	ogun	ogun	False	False
+16	체제에요.	ogun	tsʰeʣeejo̞	tsʰeʣeejo̞	False	False

@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	야	.ja	.ja	.ja	True	True
+1	너는	nʌnɯn	nʌnɯn	nʌnɯn	True	True
+2	너는	nʌnɯn	nʌnɯn	nʌnɯn	True	True
+3	쓰레기야	sʼɯregi.ja	sʼɯregi.ja	sʼɯregi.ja	True	True
+4	너	nʌ	nʌ	nʌ	True	True
+5	그렇게	gɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	True	True
+6	살면	saɭmjʌn	saɭmjʌn	saɭmjʌn	True	True
+7	안된다라는	andwendaranɯn	andwendaranɯn	andwendaranɯn	True	True
+8	이야기를	i.jagirɯɭ	i.jagirɯɭ	i.jagirɯɭ	True	True
+9	읽고	iɭkʼo	iɭkʼo	ik̚kʼo	True	False
+10	싶어가지고	ɕipʰʌgaʣigo	ɕipʰʌgaʣigo	ɕipʰʌgaʣigo	True	True
+11	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+12	자기개발서를	ʣagigɛbaɭsʼʌrɯɭ	ʣagigɛbaɭsʼʌr	ʣagigɛbaɭsʼʌr	False	False
+13	읽는	iŋnɯn	iŋnɯn	iŋnɯn	True	True
+14	거	gʌ	gʌ	gʌ	True	True
+15	예.	je	je	je	True	True

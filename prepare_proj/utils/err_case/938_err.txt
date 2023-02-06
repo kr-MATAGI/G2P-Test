@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	이	i	i	i	True	True
+2	턱뼈를	tʰʌk̚pʼjʌrɯɭ	tʰʌk̚pʼjʌrɯɭ	tʰʌk̚pʼjʌrɯɭ	True	True
+3	만약에	maɲ.jage	maɲ.jage	maɲ.jage	True	True
+4	기존에	giʣone	giʣone	kiʣone	True	False
+5	우리가	uriga	uriga	uriga	True	True
+6	만약에	maɲ.jage	maɲ.jage	maɲ.jage	True	True
+7	뭐~	mwʌ	mwʌ	mwʌ	True	True
+8	턱이	esʌ	tʰʌgi	tʰʌgi	False	False
+9	다쳤다	tʰʌgi	datsʰʌt̚tʼa	datsʰʌt̚tʼa	False	False
+10	뼈를	datsʰʌt̚tʼa	pʼjʌrɯɭ	pʼjʌrɯɭ	False	False
+11	교체해야	pʼjʌrɯɭ	gjo̞tsʰehɛ.ja	gjo̞tsʰehɛ.ja	False	False
+12	된다	gjo̞tsʰehɛ.ja	dwenda	dwenda	False	False
+13	이러면	dwenda	irʌmjʌn	irʌmjʌn	False	False
+14	인공	irʌmjʌn	ingoŋ	ingoŋ	False	False
+15	턱뼈라는	ɲingoŋ	tʰʌk̚pʼjʌranɯ	tʰʌk̚pʼjʌranɯ	False	False
+16	건	tʰʌk̚pʼjʌranɯn	gʌn	gʌn	False	False
+17	이미	gʌn	imi	imi	False	False
+18	이전에	imi	iʣʌne	iʣʌne	False	False
+19	존재를	iʣʌne	ʣonʣɛrɯɭ	ʣonʣɛrɯɭ	False	False
+20	했죠.	ʣonʣɛrɯɭ	hɛt̚.tzjo̞	hɛt̚.tzjo̞	False	False

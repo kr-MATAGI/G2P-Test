@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그니까	honʣaman	kɯɲikʼa	gɯɲikʼa	False	False
+1	콜	ʣigunɯn	kʰoɭ	kʰoɭ	False	False
+2	콜롬버스같은	duŋgɯɭdago	kʰoɭlombʌsɯgat	kʰoɭlombʌsɯgat	False	False
+3	경우도	midʌgaʣigo	gjʌŋudo	kjʌŋudo	False	False
+4	전	gadaga	ʣʌn	ʣʌn	False	False
+5	세계	mwʌ	segʲe	segʲe	False	False
+6	다	gɯrʌɭ	da	ta	False	False
+7	전	riga	ʣʌn	ʣʌn	False	False
+8	세계	ʌmnɯnde	segʲe	segʲe	False	False
+9	다	saɕiɭ	da	ta	False	False
+10	서유럽에는	sɛŋgagɯɭ	sʌ.jurʌbenɯn	sʌ.jurʌbenɯn	False	False
+11	모든	hɛbomjʌnɯn	modɯn	modɯn	False	False
+12	사람들이	ɕiɭ	saramdɯri	saramdɯri	False	False
+13	다	ɕiɭ.tzero	da	ta	False	False
+14	저쪽에	da	ʣʌ.tzoge	ʣʌ.tzoge	False	False
+15	가면	saɕiri	gamjʌn	gamjʌn	False	False
+16	낭떠러지가	aɲiejo̞	naŋtʼʌrʌʣiga	naŋtʼʌrʌʣiga	False	False

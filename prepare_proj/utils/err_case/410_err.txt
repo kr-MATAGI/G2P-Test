@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	류신은	rjuɕinɯn	ɕinɯn	rjuɕinɯn	False	True
+2	우리	uri	uri	uri	True	True
+3	필수	pʰiɭsʼu	pʰiɭsʼu	pʰiɭsʼu	True	True
+4	아미노산에	aminosane	aminosane	aminosane	True	True
+5	하나로	hanaro	hanaro	hanaro	True	True
+6	뼈에	pʼjʌe	pʼjʌe	pʼjʌe	True	True
+7	성장이	sʌŋʣaŋi	sʌŋʣaŋi	sʌŋʣaŋi	True	True
+8	직접	ʣik̚.tzʌp̚	ʣik̚.tzʌp̚	ʣik̚.tzʌp̚	True	True
+9	관여해서	gwaɲjʌhɛsʌ	gwaɲjʌhɛsʌ	kwaɲjʌhɛsʌ	True	False
+10	뼈를	pʼjʌrɯɭ	pʼjʌrɯɭ	pʼjʌrɯɭ	True	True
+11	강화시키고요.	gaŋhwaɕikʰigojo̞	gaŋhwaɕikʰigojo	gaŋhwaɕikʰigojo	False	False

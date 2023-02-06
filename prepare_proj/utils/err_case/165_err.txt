@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	뮤지	mjuʣi	mjuʣi	mjuʣi	True	True
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	음악들은	esʌ	ɯmak̚tʼɯrɯn	ɯmak̚tʼɯrɯn	False	False
+4	어른들이	ɯmak̚tʼɯrɯn	ʌrɯndɯri	ʌrɯndɯri	False	False
+5	들었고	ʌrɯndɯri	dɯrʌt̚kʼo	dɯrʌt̚kʼo	False	False

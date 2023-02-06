@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	졸라맬	t͡ɕoɭlamɛɭ	ʣoɭlamɛɭ	.tzoɭlamɛɭ	False	False
+1	허리띠	hʌritʼi	hʌritʼi	hʌritʼi	True	True
+2	허리띠도	hʌritʼido	hʌritʼido	hʌritʼido	True	True
+3	허리도	hʌrido	hʌrido	hʌrido	True	True
+4	없는데	ʌmnɯnde	ʌmnɯnde	ʌmnɯnde	True	True
+5	그걸	gɯgʌɭ	gɯgʌɭ	gɯgʌɭ	True	True
+6	또	tʼo	tʼo	tʼo	True	True
+7	허리띠	hʌritʼi	hʌritʼi	hʌritʼi	True	True
+8	졸라매고	ʣoɭlamɛgo	ʣoɭlamɛgo	.tzoɭlamɛgo	True	False

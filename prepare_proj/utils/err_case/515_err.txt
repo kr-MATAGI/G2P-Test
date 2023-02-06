@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	같은	katʰɯn	gatʰɯn	gatʰɯn	False	False
+1	해	hɛ	hɛ	hɛ	True	True
+2	런던올림픽	rʌndʌnoɭʎ̟impʰik̚	rʌndʌnoɭʎ̟imp	rʌntʼʌnoɭʎ̟i	False	False
+3	폐막	pʰʲemak̚	pʰʲemak̚	pʰjʌmak̚	True	False
+4	축제에도	tsʰuk̚.tzeedo	tsʰuk̚.tzeedo	tsʰuk̚.tzeedo	True	True
+5	참가해서	tsʰamgahɛsʌ	tsʰamgahɛsʌ	tsʰamgahɛsʌ	True	True
+6	세계에	segʲee	segʲee	segʲee	True	True
+7	한국	hangu	hanguk̚	hanguk̚	False	False
+8	음악의	gɯmage	ɯmage	ɯmage	False	False
+9	신명을	ɕinmjʌŋɯɭ	ɕinmjʌŋɯɭ	ɕinmjʌŋɯɭ	True	True
+10	보여줬습니다.	bojʌʣwʌt̚sʼɯmɲida	bojʌʣwʌt̚sʼɯm	bojʌʣwʌt̚sʼɯm	False	False

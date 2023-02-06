@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아까	akʼa	akʼa	akʼa	True	True
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	나온	naon	naon	naon	True	True
+3	대답입니다.	dɛdabimɲida	dɛdabimɲida	tɛdabimɲida	True	False
+4	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True

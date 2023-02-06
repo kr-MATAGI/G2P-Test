@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러면은	kɯrʌmjʌnɯn	gɯrʌmjʌnɯn	gɯrʌmjʌnɯn	False	False
+1	아홉	ahop̚	ahop̚	ahop̚	True	True
+2	시	ɕi	ɕi	ɕi	True	True
+3	잠들면은	ʣamdɯɭmjʌnɯn	ʣamdɯɭmjʌnɯn	.tzamdɯɭmjʌnɯn	True	False
+4	한두	handu	handu	handu	True	True
+5	시간	ɕigan	ɕigan	ɕigan	True	True
+6	내에	nɛe	nɛe	nɛe	True	True
+7	뇌도	nwedo	nwedo	nwedo	True	True
+8	금방	gɯmbaŋ	gɯmbaŋ	gɯmbaŋ	True	True
+9	잠들	ʣamdɯɭ	ʣamdɯɭ	ʣamdɯɭ	True	True
+10	수가	suga	suga	suga	True	True
+11	있는	innɯn	innɯn	innɯn	True	True
+12	겁니다.	gʌmɲida	gʌmɲida	gʌmɲida	True	True

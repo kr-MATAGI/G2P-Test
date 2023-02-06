@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	평소에	pʰjʌŋsoe	pʰjʌŋsoe	pʰjʌŋsoe	True	True
+3	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+4	산소	sanso	sanso	sanso	True	True
+5	결핍을	gjʌɭpʰibɯɭ	gjʌɭpʰibɯɭ	kjʌɭpʰibɯɭ	True	False
+6	유발할만한	.jubaɭhaɭmanhan	.jubaɭhaɭmanhan	.jubaɭhaɭmanhan	True	True
+7	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+8	환경에	hwangjʌŋe	hwangjʌŋe	hwangjʌŋe	True	True
+9	자주	ʣaʣu	ʣaʣu	ʣaʣu	True	True
+10	노출이	notsʰuri	notsʰuri	notsʰuri	True	True
+11	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+12	분들이	bundɯri	bundɯri	bundɯri	True	True
+13	실천하시면	ɕiɭtsʰʌnhaɕimjʌ	ɕiɭtsʰʌnhaɕimj	ɕiɭtsʰʌnhaɕim	False	False
+14	아주	naʣu	aʣu	aʣu	False	False
+15	좋을	ʣoɯɭ	ʣoɯɭ	.tzoɯɭ	True	False
+16	손쉬운	sonʃwiun	sonʃwiun	sonʃwiun	True	True
+17	체내	tsʰenɛ	tsʰenɛ	tsʰenɛ	True	True
+18	산소	sanso	sanso	sanso	True	True
+19	공급법이	goŋgɯp̚pʼʌbi	goŋgɯp̚pʼʌbi	goŋgɯp̚pʼʌbi	True	True
+20	있는데요.	innɯndejo̞	innɯndejo̞	innɯndejo̞	True	True

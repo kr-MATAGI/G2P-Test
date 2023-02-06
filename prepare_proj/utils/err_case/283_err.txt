@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그녀의	kɯɲjʌe	gɯɲjʌe	gɯɲjʌe	False	False
+1	처절한	tsʰʌʣʌɭhan	tsʰʌʣʌɭhan	tsʰʌʣʌɭhan	True	True
+2	심정은	ɕimʣʌŋɯn	ɕimʣʌŋɯn	ɕimʣʌŋɯn	True	True
+3	그림	gɯrim	gɯrim	gɯrim	True	True
+4	속에서	sogesʌ	sogesʌ	sogesʌ	True	True
+5	귀괴한	gwi	gwi	gwigwehan	True	False
+6	이미지로	gwehan	imiʣiro	imiʣiro	False	False
+7	형상화돼	imiʣiro	hjʌŋsaŋhwadwɛ	hjʌŋsaŋhwadwɛ	False	False
+8	있습니다.	hjʌŋsaŋhwadwɛ	it̚sʼɯmɲida	it̚sʼɯmɲida	False	False

@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	유니버설발레단의	.juɲibʌsʌɭbaɭledane	.juɲibʌsʌɭbaɭl	.juɲibʌsʌɭbaɭl	False	False
+1	디스	disɯ	disɯ	disɯ	True	True
+2	이즈	iʣɯ	iʣɯ	iʣɯ	True	True
+3	모던입니다.	modʌɲimɲida	modʌɲimɲida	modʌɲimɲida	True	True

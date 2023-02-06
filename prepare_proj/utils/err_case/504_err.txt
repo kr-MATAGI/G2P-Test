@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	사람은	saramɯn	saramɯn	saramɯn	True	True
+2	이	i	i	i	True	True
+3	개념을	gɛɲjʌmɯɭ	gɛɲjʌmɯɭ	kɛɲjʌmɯɭ	True	False
+4	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+5	실질적인	ɕiɭ.tziɭ.tzʌgin	ɕiɭ.tziɭ.tzʌgin	ɕiɭ.tziɭ.tzʌgin	True	True
+6	물질이	muɭ.tziri	muɭ.tziri	muɭ.tziri	True	True
+7	아니라	aɲira	aɲira	aɲira	True	True
+8	추상적인	tsʰusaŋʣʌgin	tsʰusaŋʣʌgin	tsʰusaŋʣʌgin	True	True
+9	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+10	조건에도	ʣokʼʌnedo	ʣokʼʌnedo	ʣokʼʌnedo	True	True
+11	적용시킬	ʣʌgjo̞ŋɕikʰiɭ	ʣʌgjo̞ŋɕikʰi	ʣʌgjo̞ŋɕikʰi	False	False
+12	수	su	su	su	True	True
+13	있다고	it̚tʼago	it̚tʼago	it̚tʼago	True	True
+14	본	bon	bon	bon	True	True
+15	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

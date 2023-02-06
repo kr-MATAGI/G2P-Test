@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	다음	taɯm	daɯm	daɯm	False	False
+1	판	pʰan	pʰan	pʰan	True	True
+2	낼	nɛɭ	nɛɭ	nɛɭ	True	True
+3	때는	tʼɛnɯn	tʼɛnɯn	tʼɛnɯn	True	True
+4	우리가	uriga	uriga	uriga	True	True
+5	훨씬	hwʌɭɕʼin	hwʌɭɕʼin	hwʌɭɕʼin	True	True
+6	나은	naɯn	naɯn	naɯn	True	True
+7	거	gʌ	gʌ	gʌ	True	True
+8	같다면서	gat̚tʼamjʌnsʌ	gat̚tʼamjʌnsʌ	gat̚tʼamjʌnsʌ	True	True

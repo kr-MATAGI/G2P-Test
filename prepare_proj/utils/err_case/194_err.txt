@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	비용은	pijo̞ŋɯn	bijo̞ŋɯn	bijo̞ŋɯn	False	False
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	한	han	han	han	True	True
+3	삼조	sam.tzo	samʣo	samʣo	False	False
+4	오천억	otsʰʌnʌ	otsʰʌnʌk̚	otsʰʌnʌk̚	False	False
+5	원	gwʌn	wʌn	wʌn	False	False
+6	정도	ʣʌŋdo	ʣʌŋdo	ʣʌŋdo	True	True

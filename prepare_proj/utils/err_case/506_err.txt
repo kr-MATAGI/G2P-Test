@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이게	ige	ige	ige	True	True
+1	만약에	maɲ.jage	maɲ.jage	maɲ.jage	True	True
+2	여기에	jʌgie	jʌgie	jʌgie	True	True
+3	행성들이	hɛŋsʌŋdɯri	hɛŋsʌŋdɯri	hɛŋsʌŋdɯri	True	True
+4	있으면	isʼɯmjʌn	isʼɯmjʌn	isʼɯmjʌn	True	True
+5	이~	i	i	ip̚	True	False
+6	되게	esʌ	dwege	dwege	False	False
+7	조마조마	dwege	ʣomaʣoma	.tzomaʣoma	False	False
+8	하겠네요.	ʣomaʣoma	hagennejo̞	hagennejo̞	False	False

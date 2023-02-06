@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	보내서	esʌ	bonɛsʌ	bonɛsʌ	False	False
+2	그쪽이	bonɛsʌ	gɯ.tzogi	gɯ.tzogi	False	False
+3	받는다해도	gɯ.tzogi	bannɯndahɛdo	pannɯndahɛdo	False	False
+4	전혀	bannɯnda	ʣʌnhjʌ	ʣʌnhjʌ	False	False
+5	뭔지	hɛdo	mwʌnʣi	mwʌnʣi	False	False
+6	이해할	ʣʌnhjʌ	ihɛhaɭ	ihɛhaɭ	False	False
+7	수	mwʌnʣi	su	su	False	False
+8	없는	ihɛhaɭ	ʌmnɯn	ʌmnɯn	False	False

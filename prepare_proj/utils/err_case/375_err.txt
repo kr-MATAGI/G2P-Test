@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이건	igʌn	igʌn	igʌn	True	True
+1	나이가	naiga	naiga	naiga	True	True
+2	들면	dɯɭmjʌn	dɯɭmjʌn	dɯɭmjʌn	True	True
+3	어쩔	ʌ.tzʌɭ	ʌ.tzʌ	ʌ.tzʌm	False	False
+4	수	su	su	su	True	True
+5	없이	ʌp̚ɕʼi	ʌp̚ɕʼi	ʌp̚ɕʼi	True	True
+6	나타나는	natʰananɯn	natʰananɯn	natʰananɯn	True	True
+7	거잖아요.	gʌʣanajo̞	gʌʣanajo̞	kʌʣanajo̞	True	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그렇게	kɯrʌkʰe	gɯrʌkʰe	gɯrʌkʰe	False	False
+1	더	dʌ	dʌ	dʌ	True	True
+2	덩어리	dʌŋʌri	dʌŋʌri	dʌŋʌri	True	True
+3	정도는	ʣʌŋdonɯn	ʣʌŋdonɯn	.tzʌŋdonɯn	True	False
+4	피하자	pʰihaʣa	pʰihaʣa	pʰihaʣa	True	True

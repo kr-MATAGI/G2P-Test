@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+2	제가	ʣega	ʣega	ʣega	True	True
+3	찍고	.tzik̚kʼo	.tzik̚kʼo	.tzik̚kʼo	True	True
+4	나면은	namjʌnɯn	namjʌnɯn	namjʌnɯn	True	True
+5	상업이	saŋʌbi	saŋʌbi	saŋʌbi	True	True
+6	될	dweɭ	dweɭ	dweɭ	True	True
+7	수도	sudo	sudo	sudo	True	True
+8	있고	it̚kʼo	it̚kʼo	it̚kʼo	True	True
+9	또	tʼo	tʼo	tʼo	True	True
+10	예술로도	jesuɭlodo	jesuɭlodo	jesuɭlodo	True	True
+11	봐주고	bwaʣugo	bwaʣugo	pwaʣugo	True	False
+12	에	e	e	e	True	True
+13	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+14	거	gʌ	gʌ	gʌ	True	True
+15	같애요.	gatʰɛjo̞	gatʰɛjo̞	gatʰɛjo̞	True	True

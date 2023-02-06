@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	에이다	eida	eida	eida	True	True
+1	러브레이스에	rʌbɯreisɯe	rʌbɯreisɯe	rʌbɯreisɯe	True	True
+2	황금기	hwaŋgɯmgi	hwaŋgɯmgi	hwaŋgɯmgi	True	True
+3	한	han	han	han	True	True
+4	이삼십대쯤	isamɕip̚	isamɕip̚	isamɕip̚tʼɛ.tz	True	False
+5	되던	dɛ.tzɯm	dwedʌn	dwedʌn	False	False
+6	시절에	dwedʌn	ɕiʣʌre	ɕiʣʌre	False	False
+7	어~	ɕiʣʌre	ʌ	ʌp̚	False	False
+8	에밀리	ʌ	emiɭʎ̟i	emiɭʎ̟i	False	False
+9	브론트의	esʌ	bɯrontʰɯe	pɯrontʰɯe	False	False
+10	폭풍에	emiɭʎ̟i	pʰok̚pʰuŋe	pʰok̚pʰuŋe	False	False
+11	언덕	bɯrontʰɯi	ʌndʌk̚	ʌndʌk̚	False	False

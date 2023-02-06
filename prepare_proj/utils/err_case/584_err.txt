@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아마	ama	ama	ama	True	True
+1	이거	igʌ	igʌ	igʌ	True	True
+2	들으실	dɯrɯɕiɭ	dɯrɯɕiɭ	dɯrɯɕiɭ	True	True
+3	때쯤이면은	tʼɛ.tzɯmimjʌnɯn	tʼɛ.tzɯmimjʌnɯ	tʼɛ.tzɯmimjʌnɯ	False	False
+4	사진이	saʣiɲi	saʣiɲi	saʣiɲi	True	True
+5	꽤	kʼwɛ	kʼwɛ	kʼwɛ	True	True
+6	공개된	goŋgɛdwen	goŋgɛdwen	goŋgɛdwen	True	True
+7	것도	gʌt̚tʼo	gʌt̚tʼo	gʌt̚tʼo	True	True
+8	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+9	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True
+10	아마	ama	ama	ama	True	True

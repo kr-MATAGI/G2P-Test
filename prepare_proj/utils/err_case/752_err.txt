@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이건	igʌn	igʌn	igʌn	True	True
+1	이~	i	i	ip̚	True	False
+2	언론의	esʌ	ʌɭlone	ʌɭlone	False	False
+3	특싱이	ʌɭlone	tʰɯk̚ɕʼiŋi	tʰɯk̚ɕʼiŋi	False	False
+4	특징이라고	tʰɯk̚ɕʼiŋi	tʰɯk̚.tziŋirago	tʰɯk̚.tziŋirago	False	False
+5	생각하는데	tʰɯk̚.tziŋirago	sɛŋgakʰanɯnde	sɛŋgakʰanɯnde	False	False
+6	이게	sɛŋgakʰanɯnde	ige	ige	False	False
+7	좀	ige	ʣom	ʣom	False	False
+8	재밌	ʣom	ʣɛmit̚	ʣɛmit̚	False	False
+9	그러니깐	ʣɛmit̚	kɯrʌɲikʼan	gɯrʌɲikʼan	False	False
+10	프로레슬링을	gɯrʌɲikʼan	pʰɯroresɯɭʎ̟i	pʰɯroresɯɭʎ̟i	False	False
+11	보실지	pʰɯroresɯɭʎ̟iŋɯɭ	boɕiɭ.tzi	boɕiɭ.tzi	False	False
+12	모르겠지만	boɕiɭʣi	morɯget̚.tziman	morɯget̚.tziman	False	False
+13	프로레슬링에	morɯget̚.tziman	pʰɯroresɯɭʎ̟i	pʰɯroresɯɭʎ̟i	False	False
+14	그런	pʰɯroresɯɭʎ̟iŋe	gɯrʌn	gɯrʌn	False	False
+15	게	gɯrʌn	ge	ge	False	False
+16	있잖아요.	ge	it̚.tzanajo̞	it̚.tzanajo̞	False	False

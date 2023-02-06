@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	탄수화물은	tʰansuhwamurɯn	tʰansuhwamurɯn	tʰansuhwamurɯn	True	True
+1	이름만	irɯmman	irɯmman	irɯmman	True	True
+2	들어도	dɯrʌdo	dɯrʌdo	dɯrʌdo	True	True
+3	탄소일거	tʰansoiɭ	tʰansoiɭgʌ	tʰansoiɭgʌ	False	False
+4	같잖아요.	gʌ	gat̚.tzanajo̞	gat̚.tzanajo̞	False	False

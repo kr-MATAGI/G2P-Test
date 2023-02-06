@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	요거트나	esʌ	jo̞gʌtʰɯna	jo̞gʌtʰɯna	False	False
+2	샐러드에	jo̞gʌtʰɯna	sɛɭlʌdɯe	sɛɭlʌdɯe	False	False
+3	뿌려먹었습니다.	sɛɭlʌdɯe	pʼurjʌmʌgʌt̚s	pʼurjʌmʌgʌt̚s	False	False

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저희가	t͡ɕʌhiga	ʣʌhiga	ʣʌhiga	False	False
+1	별에	bjʌre	bjʌre	bjʌre	True	True
+2	별	bjʌɭ	bjʌɭ	bjʌɭ	True	True
+3	꿈궜던	kʼumgwʌt̚tʼʌn	kʼumgwʌɭdʌn	kʼumgwʌdʌn	False	False
+4	거	gʌ	gʌ	gʌ	True	True
+5	다	da	da	ta	True	False
+6	만들	mandɯɭ	mandɯɭ	mandɯɭ	True	True
+7	수	su	su	su	True	True
+8	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

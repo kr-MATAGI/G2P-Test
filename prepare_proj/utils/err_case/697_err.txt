@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	집에서	t͡ɕibesʌ	ʣibesʌ	.tzibesʌ	False	False
+1	인제	inʣe	inʣe	inʣe	True	True
+2	소화가	sohwaga	sohwaga	sohwaga	True	True
+3	잘	ʣaɭ	ʣaɭ	ʣaɭ	True	True
+4	안된다고	andwendago	andwendago	andwendago	True	True
+5	느끼면	nɯkʼimjʌn	nɯkʼimjʌn	nɯkʼimjʌn	True	True
+6	막	mak̚	mak̚	mak̚	True	True
+7	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+8	눌러보고	nuɭlʌbogo	nuɭlʌbogo	nuɭlʌbogo	True	True
+9	다	da	da	ta	True	False
+10	하잖아요.	haʣanajo̞	haʣanajo̞	haʣanajo̞	True	True

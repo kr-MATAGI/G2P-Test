@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	놀랍게도	noɭlap̚kʼedo	noɭlap̚kʼedo	noɭlap̚kʼedo	True	True
+1	열	jʌɭʎ̟jʌkʰak̚	jʌɭ	jʌɭ	False	False
+2	역학	ʣe	jʌkʰak̚	jʌkʰak̚	False	False
+3	제	i	ʣe	ʣe	False	False
+4	이	bʌp̚tsʰigi	i	i	False	False
+5	법칙이	iʣe	bʌp̚tsʰigi	pʌp̚tsʰigi	False	False
+6	이제	naonɯn	iʣe	iʣe	False	False
+7	나오는	ɲjʌnɯn	naonɯn	naonɯn	False	False
+8	려는	sungaɲinde	rjʌnɯn	rjʌnɯn	False	False
+9	순간인데	ʣe	sungaɲinde	sungaɲinde	False	False
+10	제	i	ʣe	ʣe	False	False
+11	이	bʌp̚tsʰigɯn	i	i	False	False
+12	법칙은	iɭ	bʌp̚tsʰigɯn	pʌp̚tsʰigɯn	False	False
+13	일	bʌp̚tsʰigi	iɭ	iɭ	False	False
+14	법칙이	naogi	bʌp̚tsʰigi	pʌp̚tsʰigi	False	False
+15	나오기	ʣʌne	naogi	naogi	False	False
+16	전에	tʰansɛŋɯɭ	ʣʌne	ʣʌne	False	False
+17	탄생을	hɛt̚sʼɯmɲida	tʰansɛŋɯɭ	tʰansɛŋɯɭ	False	False

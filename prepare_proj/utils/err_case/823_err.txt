@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+2	그게	gɯge	gɯge	gɯge	True	True
+3	근까	gɯnkʼa	kɯnkʼa	gɯnkʼa	False	True
+4	약간	.jak̚kʼan	.jak̚kʼan	.jak̚kʼan	True	True
+5	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+6	것들이	gʌt̚tʼɯri	gʌt̚tʼɯri	gʌt̚tʼɯri	True	True
+7	강했던	gaŋhɛt̚tʼʌn	gaŋhɛt̚tʼʌn	gaŋhɛt̚tʼʌn	True	True
+8	종족들이	ʣoŋʣok̚tʼɯri	ʣoŋʣok̚tʼɯri	ʣoŋʣok̚tʼɯri	True	True

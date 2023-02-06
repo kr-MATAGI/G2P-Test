@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	몇	esʌ	mjʌt̚	mjʌt̚	False	False
+4	년에	mjʌn	ɲjʌne	ɲjʌne	False	False
+5	한	ɲjʌne	han	han	False	False
+6	번씩	han	bʌnɕʼik̚	pʌnɕʼik̚	False	False
+7	모여서	bʌnɕʼik̚	mojʌsʌ	mojʌsʌ	False	False
+8	그~	mojʌsʌ	gɯ	gɯp̚	False	False
+9	위원회	gɯ	wiwʌnhwe	wiwʌnhwe	False	False
+10	활동도	esʌ	hwaɭtʼoŋdo	hwaɭtʼoŋdo	False	False
+11	하구요.	wiwʌnhwe	hagujo̞	hagujo̞	False	False

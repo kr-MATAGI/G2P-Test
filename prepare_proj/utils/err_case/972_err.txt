@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	좀	ʣom	ʣom	ʣom	True	True
+2	좀	ʣom	ʣom	ʣom	True	True
+3	더	dʌ	dʌ	dʌ	True	True
+4	빠르게	pʼarɯge	pʼarɯge	pʼarɯge	True	True
+5	그다음	gɯdaɯm	kɯdaɯm	gɯdaɯm	False	True
+6	캐비티가	kʰɛbitʰiga	kʰɛbitʰiga	kʰɛbitʰiga	True	True
+7	가속을	gasogɯɭ	gasogɯɭ	gasogɯɭ	True	True
+8	시키구요.	ɕikʰigujo̞	ɕikʰigujo̞	ɕikʰigujo̞	True	True

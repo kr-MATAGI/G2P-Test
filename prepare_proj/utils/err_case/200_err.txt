@@ -1,0 +1,23 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	이거는	igʌnɯn	igʌnɯn	igʌnɯn	True	True
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	잘못된	esʌ	ʣaɭmot̚tʼwen	.tzaɭmot̚tʼwen	False	False
+4	어~	ʣaɭmot̚tʼwen	ʌ	ʌp̚	False	False
+5	핵	ʌ	hɛk̚	hɛk̚	False	False
+6	융합	esʌ	.juŋhap̚	.juŋhap̚	False	False
+7	반응	hɛŋɲjuŋhap̚	banɯŋ	pʼanɯŋ	False	False
+8	뤼액션뤠잇	pʼanɯŋ	rwiɛk̚sjʌɭlwʌi	mwʌɛk̚sʼjʌnɲ	False	False
+9	갖다가	rwiɛk̚sʼjʌɭlweit̚	gat̚tʼaga	gat̚tʼaga	False	False
+10	따온	gat̚tʼaga	tʼaon	tʼaon	False	False
+11	어~	tʼaon	ʌ	ʌp̚	False	False
+12	잘못된	ʌ	ʣaɭmot̚tʼwen	.tzaɭmot̚tʼwen	False	False
+13	결과였지만	esʌ	gjʌɭgwajʌt̚.tzi	kjʌɭgwajʌt̚.tzi	False	False
+14	그래도	ʣaɭmot̚tʼwen	gɯrɛdo	gɯrɛdo	False	False
+15	수소와	gjʌɭgwajʌt̚.tziman	susowa	susowa	False	False
+16	헬륨의	gɯrɛdo	heɭʎ̟jume	heɭʎ̟jume	False	False
+17	비율	susowa	bi.juɭ	bi.juɭ	False	False
+18	이거는	heɭʎ̟jume	igʌnɯn	igʌnɯn	False	False
+19	비교적	bi.juɭ	bigjo̞ʣʌk̚	bigjo̞ʣʌk̚	False	False
+20	정확하게	igʌnɯn	ʣʌŋhwakʰage	.tzʌŋhwakʰage	False	False
+21	맞췄습니다.	bigjo̞ʣʌk̚	mat̚tsʰwʌt̚sʼ	mat̚tsʰwinsɯmɲi	False	False

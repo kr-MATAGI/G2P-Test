@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	불확정성이라는	buɭhwak̚.tzʌŋsʼʌŋiranɯn	buɭhwak̚.tzʌŋs	buɭhwak̚.tzʌŋs	False	False
+2	건	gʌn	gʌn	gʌn	True	True
+3	측정할	tsʰɯk̚.tzʌŋhaɭ	tsʰɯk̚.tzʌŋha	tsʰɯk̚.tzʌŋha	False	False
+4	때만	tʼɛman	tʼɛman	tʼɛman	True	True
+5	현상으로	hjʌnsaŋɯro	hjʌnsaŋɯro	hjʌnsaŋɯro	True	True
+6	드러난	dɯrʌnan	dɯrʌnan	dɯrʌnan	True	True
+7	모습이	mosɯbi	mosɯbi	mosɯbi	True	True
+8	아니고	aɲigo	aɲigo	aɲigo	True	True

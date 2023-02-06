@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	관측을	kwantsʰɯgɯɭ	gwantsʰɯgɯɭ	kwantsʰɯgɯɭ	False	True
+1	전문으로	ʣʌnmunɯro	ʣʌnmunɯro	t͡ɕʌnmunɯro	True	False
+2	하는	hanɯn	hanɯn	hanɯn	True	True
+3	사람이	sarami	sarami	sarami	True	True
+4	있고	it̚kʼo	it̚kʼo	it̚kʼo	True	True
+5	이론을	ironɯɭ	ɲironɯɭ	ironɯɭ	False	True
+6	전문으로	ʣʌnmunɯro	ʣʌnmunɯro	t͡ɕʌnmunɯro	True	False
+7	하는	hanɯn	hanɯn	hanɯn	True	True
+8	사람들이	saramdɯri	saramdɯri	saramdɯri	True	True
+9	있는데	innɯnde	innɯnde	innɯnde	True	True
+10	관측을	gwantsʰɯgɯɭ	gwantsʰɯgɯɭ	kwantsʰɯgɯɭ	True	False
+11	전문으로	ʣʌnmunɯro	ʣʌnmunɯro	t͡ɕʌnmunɯro	True	False
+12	하는	hanɯn	hanɯn	hanɯn	True	True
+13	과학자들은	gwahak̚.tzadɯrɯn	gwahak̚.tzadɯrɯn	kwahak̚.tzadɯrɯn	True	False
+14	데이터를	deitʰʌrɯɭ	deitʰʌrɯɭ	deitʰʌrɯɭ	True	True
+15	이제	iʣe	iʣe	iʣe	True	True
+16	저런	ʣʌrʌn	ʣʌrʌn	ʣʌrʌn	True	True
+17	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+18	다	da	da	ta	True	False
+19	자료	ʣarjo̞	ʣarjo̞	ʣarjo̞	True	True
+20	모아가지고	moagaʣigo	moagaʣigo	moagaʣigo	True	True
+21	출판해서	tsʰuɭpʰanhɛsʌ	tsʰuɭpʰanhɛsʌ	tsʰuɭpʰanhɛsʌ	True	True
+22	이제	iʣe	iʣe	iʣe	True	True
+23	출판을	tsʰuɭpʰanɯɭ	tsʰuɭpʰanɯɭ	tsʰuɭpʰanɯɭ	True	True
+24	하거든요.	hagʌdɯɲjo̞	hagʌdɯɲjo̞	hagʌdɯɲjo̞	True	True

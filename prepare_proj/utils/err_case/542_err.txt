@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	돈이	toɲi	doɲi	toɲi	False	True
+1	너무	nʌmu	nʌmu	nʌmu	True	True
+2	없는	ʌmnɯn	ʌmnɯn	ʌmnɯn	True	True
+3	가난한	gananhan	gananhan	gananhan	True	True
+4	나라에	narae	narae	narae	True	True
+5	천문학자가	tsʰʌnmunhak̚.tzaga	tsʰʌnmunhak̚.tza	tsʰʌnmunhak̚.tza	False	False
+6	한	han	han	han	True	True
+7	명	mjʌŋ	mjʌŋ	mjʌŋ	True	True
+8	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

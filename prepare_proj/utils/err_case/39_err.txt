@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+2	제가	ʣega	ʣega	ʣega	True	True
+3	한	han	han	han	True	True
+4	번	bʌn	bʌn	bʌn	True	True
+5	제일	ʣeiɭ	ʣeiɭ	ʣeiɭ	True	True
+6	쉬운	ʃwiun	ʃwiun	ʃwiun	True	True
+7	예로	jero	jero	jero	True	True
+8	인제	inʣe	inʣe	inʣe	True	True
+9	코딩에	kʰodiŋe	kʰodiŋe	kʰodiŋe	True	True
+10	예를	jerɯɭ	jerɯɭ	jerɯɭ	True	True
+11	한	han	han	han	True	True
+12	번	bʌn	bʌn	bʌn	True	True
+13	설명을	sʌɭmjʌŋɯɭ	sʌɭmjʌŋɯɭ	sʌɭmjʌŋɯɭ	True	True
+14	드려볼게요.	dɯrjʌboɭkʼejo̞	dɯrjʌboɭkʼejo̞	dɯrjʌboɭkʼejo̞	True	True

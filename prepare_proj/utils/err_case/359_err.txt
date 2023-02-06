@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+1	재벌이	ʣɛbʌri	ʣɛbʌri	ʣɛbʌri	True	True
+2	되도	dwedo	dwedo	dwedo	True	True
+3	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+4	여러분들	jʌrʌbundɯɭ	jʌrʌbundɯɭ	jʌrʌbundɯɭ	True	True
+5	돈받아	don	donbada	tonbada	False	False
+6	재벌이	bada	ʣɛbʌri	ʣɛbʌri	False	False
+7	되면은	ʣɛbʌri	dwemjʌnɯn	dwemjʌnɯn	False	False
+8	안	dwemjʌnɯ	an	an	False	False
+9	되겠죠.	nan	dweget̚.tzjo̞	dweget̚.tzjo̞	False	False

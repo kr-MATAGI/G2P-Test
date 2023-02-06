@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	전자가	t͡ɕʌnʣaga	ʣʌnʣaga	ʣʌnʣaga	False	False
+1	어디쯤	ʌdi.tzɯm	ʌdi.tzɯm	ʌdi.tzɯm	True	True
+2	있냐하면	inɲ.ja	inɲ.jahamjʌn	inɲ.jahamjʌn	False	False
+3	수소원자의	hamjʌn	susowʌnʣae	susowʌnʣae	False	False
+4	경우에	suso	gjʌŋue	kjʌŋue	False	False
+5	그게	wʌnʣae	gɯge	gɯge	False	False
+6	가장	gjʌŋue	gaʣaŋ	gaʣaŋ	False	False
+7	작은	gɯge	ʣagɯn	ʣagɯn	False	False
+8	거예요.	gaʣaŋ	gʌjejo̞	gʌjejo̞	False	False

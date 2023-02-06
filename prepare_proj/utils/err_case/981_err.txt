@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	편당	pʰjʌndaŋ	pʰjʌndaŋ	pʰjʌndaŋ	True	True
+1	한	han	han	han	True	True
+2	사람	saram	saram	saram	True	True
+3	혹은	hogɯn	hogɯn	hogɯn	True	True
+4	두	du	du	du	True	True
+5	사람	saram	saram	saram	True	True
+6	뭐	mwʌ	mwʌ	mwʌ	True	True
+7	이런	irʌn	irʌn	irʌn	True	True
+8	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+9	해서	hɛsʌ	hɛsʌ	hɛsʌ	True	True
+10	계속	gʲeso	gʲesok̚	gʲesok̚	False	False
+11	한	kʰan	han	han	False	False
+12	번	bʌn	bʌn	bʌn	True	True
+13	이어나가보자.	iʌ	iʌnaga	iʌnagaboʣa	False	False

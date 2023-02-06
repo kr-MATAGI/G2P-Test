@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+1	생각해서	sɛŋgakʰɛsʌ	sɛŋgakʰɛsʌ	sɛŋgakʰɛsʌ	True	True
+2	외과	wekʼwa	wegwa	wegwa	False	False
+3	선생님들은	sʌnsɛŋɲimdɯrɯn	sʌnsɛŋɲimdɯrɯ	sʌnsɛŋɲimdɯrɯ	False	False
+4	수술을	susurɯɭ	susurɯɭ	susurɯɭ	True	True
+5	권유하는	gwʌɲjuhanɯn	gwʌɲjuhanɯn	kwʌɲjuhanɯn	True	False
+6	경우들이	gjʌŋudɯri	gjʌŋudɯri	kjʌŋudɯri	True	False
+7	종종	ʣoŋʣoŋ	ʣoŋʣoŋ	ʣoŋʣoŋ	True	True
+8	있습니다.	ɲit̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	False	False

@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자~	t͡ɕa	t͡ɕa	ʣap̚	True	False
+1	여주의	esʌ	jʌʣui	jʌʣui	False	False
+2	쓴맛을	jʌʣue	sʼɯnmadɯɭ	sʼɯnmadɯɭ	False	False
+3	내는	sʼɯnmasɯɭ	nɛnɯn	nɛnɯn	False	False
+4	대표적인	nɛnɯn	dɛpʰjo̞ʣʌgin	dɛpʰjo̞ʣʌgin	False	False
+5	성분이	dɛpʰjo̞ʣʌgin	sʌŋbuɲi	sʌŋbuɲi	False	False
+6	바로	sʌŋbuɲi	baro	pʼaro	False	False
+7	알칼로이드	baro	aɭkʰaɭloidɯ	aɭkʰaɭloidɯ	False	False
+8	일종인	aɭkʰaɭloidɯ	iɭ.tzoŋin	iɭ.tzoŋin	False	False
+9	모모르데신인데요.	iɭ.tzoŋin	momorɯdeɕiɲindej	momorɯdeɕiɲindej	False	False

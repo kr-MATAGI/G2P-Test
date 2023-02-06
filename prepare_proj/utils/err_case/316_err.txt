@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	사회적으로	esʌ	sahweʣʌgɯro	sahweʣʌgɯro	False	False
+2	자기	sahweʣʌgɯro	ʣagi	ʣagi	False	False
+3	목소리를	ʣagi	mok̚sʼorirɯɭ	mok̚sʼorirɯɭ	False	False
+4	낼	mok̚sʼorirɯɭ	nɛɭ	nɛɭ	False	False
+5	장이	nɛɭ	ʣaŋi	ʣaŋi	False	False
+6	없는	ʣaŋi	ʌmnɯn	ʌmnɯn	False	False
+7	사람들이	ʌmnɯn	saramdɯri	saramdɯri	False	False
+8	굉장히	saramdɯri	gweŋʣaŋhi	gweŋʣaŋhi	False	False
+9	많거등요.	gweŋʣaŋhi	mankʰʌdɯŋjo̞	mankʰʌdɯŋjo̞	False	False

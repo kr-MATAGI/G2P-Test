@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	특히	tʰɯkʰi	tʰɯkʰi	tʰɯkʰi	True	True
+1	동물들은	doŋmuɭdɯrɯn	doŋmuɭdɯrɯn	toŋmuɭdɯrɯn	True	False
+2	그녀에게는	gɯɲjʌegenɯn	gɯɲjʌegenɯn	kɯɲjʌegenɯn	True	False
+3	어~	ʌ	ʌ	ʌp̚	True	False
+4	자식과	esʌ	ʣaɕik̚kʼwa	ʣaɕik̚kʼwa	False	False
+5	같은	ʣaɕik̚kʼwa	gatʰɯn	gatʰɯn	False	False
+6	존재였습니다.	gatʰɯn	ʣonʣɛjʌt̚sʼɯ	.tzonʣɛjʌt̚sʼ	False	False

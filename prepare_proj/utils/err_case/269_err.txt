@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이런	irʌn	irʌn	irʌn	True	True
+1	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+2	상이한	saŋihan	saŋihan	saŋihan	True	True
+3	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+4	역사적	ɲjʌk̚sʼaʣʌk̚	jʌk̚sʼaʣʌk̚	jʌk̚sʼaʣʌk̚	False	False
+5	흐름	hɯrɯm	hɯrɯm	hɯrɯm	True	True

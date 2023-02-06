@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	왜	wɛ	wɛ	wɛ	True	True
+1	왜	wɛ	wɛ	wɛ	True	True
+2	이런	irʌn	irʌn	irʌn	True	True
+3	건	gʌn	gʌn	gʌn	True	True
+4	꼭	kʼok̚	kʼok̚	kʼok̚	True	True
+5	그~	gɯ	gɯ	gɯp̚	True	False
+6	이제	esʌ	iʣe	iʣe	False	False
+7	공	iʣe	goŋ	goŋ	False	False
+8	공학자들	goŋ	goŋhak̚.tzadɯɭ	koŋhak̚.tzadɯɭ	False	False
+9	몫인지	goŋhak̚.tzadɯɭ	morinʣi	moɕinʣi	False	False
+10	잘	mok̚ɕʼinʣi	ʣaɭ	ʣaɭ	False	False
+11	모르겠네요.	ʣaɭ	morɯgennejo̞	morɯgennejo̞	False	False

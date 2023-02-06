@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	뭐~	mwʌ	mwʌ	mwʌ	True	True
+2	마음	esʌ	maɯm	maɯm	False	False
+3	그런	maɯm	gɯrʌn	gɯrʌn	False	False
+4	속에서	gɯrʌn	sogesʌ	sogesʌ	False	False
+5	인제	sogesʌ	inʣe	inʣe	False	False
+6	제목을	inʣe	ʣemogɯɭ	t͡ɕemogɯɭ	False	False
+7	정해봤습니다.	ʣemogɯɭ	ʣʌŋhɛbwat̚sʼ	t͡ɕʌŋhɛbwat̚s	False	False

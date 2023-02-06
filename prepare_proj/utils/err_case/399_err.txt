@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	분야에	buɲ.jae	buɲ.jae	buɲ.jae	True	True
+2	전문가를	ʣʌnmungarɯɭ	ʣʌnmungarɯɭ	ʣʌnmungarɯɭ	True	True
+3	모실	moɕiɭ	moɕiɭ	moɕiɭ	True	True
+4	수	su	su	su	True	True
+5	밖에	bakʼe	bakʼe	pakʼe	True	False
+6	없었고	ʌp̚sʼʌt̚kʼo	ʌp̚sʼʌt̚kʼo	ʌp̚sʼʌt̚kʼo	True	True
+7	저희가	ʣʌhiga	ʣʌhiga	ʣʌhiga	True	True
+8	급하게	gɯpʰage	gɯpʰage	gɯpʰage	True	True
+9	부탁을	butʰagɯɭ	butʰagɯɭ	butʰagɯɭ	True	True
+10	드렸는데	dɯrjʌnnɯnde	dɯrjʌnnɯnde	dɯrjʌnnɯnde	True	True
+11	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+12	나와	nawa	nawa	nawa	True	True
+13	주셨습니다.	ʣusjʌt̚sʼɯmɲida	ʣusjʌt̚sʼɯmɲi	ʣusjʌt̚sʼɯmɲi	False	False

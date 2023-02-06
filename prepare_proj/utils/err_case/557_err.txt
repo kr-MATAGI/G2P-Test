@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	근까	esʌ	kɯnkʼa	gɯnkʼa	False	False
+2	이게	gɯnkʼa	ige	ige	False	False
+3	흐린	ige	hɯrin	hɯrin	False	False
+4	날	hɯrin	naɭ	naɭ	False	False
+5	수증기하고	naɭ	suʣɯŋgihago	suʣɯŋgihago	False	False
+6	결합을	suʣɯŋgihago	gjʌɭhabɯɭ	kjʌɭhabɯɭ	False	False
+7	해서	gjʌɭhabɯɭ	hɛsʌ	hɛsʌ	False	False
+8	더	hɛsʌ	dʌ	dʌ	False	False
+9	뿌옇게	dʌ	pʼujʌkʰe	pʼujʌt̚kʼe	False	False
+10	보일	pʼujʌkʰe	boiɭ	boiɭ	False	False
+11	수는	boiɭ	sunɯn	sunɯn	False	False
+12	있는데	sunɯn	innɯnde	innɯnde	False	False

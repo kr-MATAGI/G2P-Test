@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	일단	iɭtʼan	iɭtʼan	iɭtʼan	True	True
+1	맥스웰한테	mɛk̚sɯweɭhantʰe	mɛk̚sɯweɭhantʰ	mɛk̚sɯweɭhantʰ	False	False
+2	당장	daŋʣaŋ	daŋʣaŋ	daŋʣaŋ	True	True
+3	논문을	nonmunɯɭ	nonmunɯɭ	nonmunɯɭ	True	True
+4	보냈져.	bonɛt̚.tzʌ	bonɛt̚.tzʌ	bonɛt̚.tzʌ	True	True

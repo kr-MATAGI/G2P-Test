@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이런	irʌn	irʌn	irʌn	True	True
+1	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+2	우리가	uriga	uriga	uriga	True	True
+3	밖에서	bakʼesʌ	bakʼesʌ	pakʼesʌ	True	False
+4	느끼는	nɯkʼinɯn	nɯkʼinɯn	nɯkʼinɯn	True	True
+5	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+6	오십	oɕip̚	oɕip̚	oɕip̚	True	True
+7	도가	tʼoga	dokʼa	doga	False	False
+8	넘어갈	nʌmʌgaɭ	nʌmʌgaɭ	nʌmʌgaɭ	True	True
+9	수도	sudo	sudo	sudo	True	True
+10	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True
+11	훨씬	hwʌɭɕʼin	hwʌɭɕʼin	hwʌɭɕʼin	True	True

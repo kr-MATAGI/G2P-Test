@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	큰	kʰɯn	kʰɯn	kʰɯn	True	True
+1	각론보다	gaŋnonboda	gaŋnonboda	gaŋnonboda	True	True
+2	어쩌면	ʌ.tzʌmjʌn	ʌ.tzʌmjʌn	ʌ.tzʌmjʌn	True	True
+3	우리	uri	uri	uri	True	True
+4	일상	iɭsʼaŋ	iɭsʼaŋ	iɭsʼaŋ	True	True
+5	속에서	sogesʌ	sogesʌ	sogesʌ	True	True
+6	조그만	ʣogɯman	ʣogɯman	ʣogɯman	True	True
+7	행복들을	hɛŋbok̚tʼɯrɯɭ	hɛŋbok̚tʼɯrɯ	hɛŋbok̚tʼɯrɯ	False	False
+8	소소히	sosohi	sosohi	sosohi	True	True
+9	느끼는	nɯkʼinɯn	nɯkʼinɯn	nɯkʼinɯn	True	True
+10	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+11	일상에	ɲiɭsʼaŋe	iɭsʼaŋe	iɭsʼaŋe	False	False
+12	행복들이	hɛŋbok̚tʼɯri	hɛŋbok̚tʼɯri	hɛŋbok̚tʼɯri	True	True
+13	구현되는	guhjʌndwenɯn	guhjʌndwenɯn	kuhjʌndwenɯn	True	False
+14	사회	sahwe	sahwe	sahwe	True	True

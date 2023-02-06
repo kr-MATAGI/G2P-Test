@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	이게	esʌ	ige	ige	False	False
+2	원체	ige	wʌntsʰe	wʌntsʰe	False	False
+3	분량이	wʌntsʰe	buɭʎ̟.jaŋi	buɭʎ̟.jaŋi	False	False
+4	방대하니까	buɭʎ̟.jaŋi	baŋdɛhaɲikʼa	paŋdɛhaɲikʼa	False	False

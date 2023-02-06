@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	곽재우	kwak̚.tzɛu	gwak̚.tzɛu	kwak̚.tzɛu	False	True
+1	이런	irʌn	irʌn	irʌn	True	True
+2	분들은	bundɯrɯn	bundɯrɯn	bundɯrɯn	True	True
+3	갈릴레오	gaɭʎ̟iɭleo	gaɭʎ̟iɭleo	kaɭʎ̟iɭleo	True	False
+4	갈릴레이	gaɭʎ̟iɭlei	gaɭʎ̟iɭlei	kaɭʎ̟iɭlei	True	False
+5	보단	bodan	bodan	bodan	True	True
+6	좀	ʣom	ʣom	ʣom	True	True
+7	나이	nai	nai	nai	True	True
+8	많습니다만	mansʼɯmɲidaman	mansʼɯmɲidaman	mansʼɯmɲidaman	True	True

@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	두	tu	du	du	False	False
+1	번째는	bʌn.tzɛnɯn	bʌn.tzɛnɯn	pʌn.tzɛnɯn	True	False
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	대상에	esʌ	dɛsaŋe	dɛsaŋe	False	False
+4	도움을	dɛsaŋe	doumɯɭ	doumɯɭ	False	False
+5	구하는	doumɯɭ	guhanɯn	kuhanɯn	False	False
+6	거다	guhanɯn	gʌda	gʌda	False	False
+7	이렇게	gʌda	irʌkʰe	irʌkʰe	False	False
+8	볼	irʌkʰe	boɭ	boɭ	False	False
+9	수가	boɭ	suga	suga	False	False
+10	있거든요.	suga	it̚kʼʌdɯɲjo̞	it̚kʼʌdɯɲjo̞	False	False

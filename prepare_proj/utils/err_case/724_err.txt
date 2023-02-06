@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	나는	esʌ	nanɯn	nanɯn	False	False
+2	다초점이	nanɯn	datsʰo.tzʌmi	datsʰoʣʌmi	False	False
+3	정말	datsʰoʣʌmi	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+4	좋아라고	ʣʌŋmaɭ	ʣoarago	.tzoarago	False	False
+5	생각하실지	ʣoarago	sɛŋgakʰaɕiɭ.tz	sɛŋgakʰaɕiɭ.tz	False	False
+6	모르겠지만	sɛŋgakʰaɕiɭ.tzi	morɯget̚.tziman	morɯget̚.tziman	False	False

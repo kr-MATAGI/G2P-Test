@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저	t͡ɕʌ	ʣʌ	ʣʌ	False	False
+1	이	i	i	i	True	True
+2	중력파	ʣuŋɲjʌk̚pʰa	ʣuŋɲjʌk̚pʰa	ʣuŋɲjʌk̚pʰa	True	True
+3	처프	tsʰʌpʰɯ	tsʰʌpʰɯ	tsʰʌpʰɯ	True	True
+4	신호	ɕinho	ɕinho	ɕinho	True	True
+5	가지고서	gaʣigosʌ	gaʣigosʌ	gaʣigosʌ	True	True
+6	만든	mandɯn	mandɯn	mandɯn	True	True
+7	음악이에요.	ɯmagiejo̞	ɯmagiejo̞	ɯmagiejo̞	True	True
+8	최초로	tsʰwetsʰoro	tsʰwetsʰoro	tsʰwetsʰoro	True	True

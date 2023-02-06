@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그럼	kɯrʌm	kɯrʌm	gɯrʌm	True	False
+1	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+2	객관성을	gɛk̚kʼwansʼʌŋɯɭ	gɛk̚kʼwansʌŋɯ	kɛk̚kʼwansʌŋɯ	False	False
+3	유지한다는	.juʣihandanɯn	.juʣihandanɯn	.juʣihandanɯn	True	True
+4	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+5	내	nɛ	nɛ	nɛ	True	True
+6	삶에	saɭme	saɭme	saɭme	True	True
+7	있어서	isʼʌsʌ	isʼʌsʌ	isʼʌsʌ	True	True
+8	비틀거릴	bitʰɯɭgʌriɭ	bitʰɯɭgʌriɭ	bitʰɯɭgʌriɭ	True	True
+9	때	tʼɛ	tʼɛ	tʼɛ	True	True
+10	중심을	ʣuŋɕimɯɭ	ʣuŋɕimɯɭ	ʣuŋɕimɯɭ	True	True
+11	잡아준	ʣabaʣun	ʣabaʣun	ʣabaʣun	True	True
+12	하나의	hanae	hanae	hanae	True	True
+13	축이	tsʰugi	tsʰugi	tsʰugi	True	True
+14	됩니다.	dwemɲida	dwemɲida	dwemɲida	True	True

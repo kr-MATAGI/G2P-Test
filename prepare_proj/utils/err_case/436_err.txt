@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네.	ne	ne	ne	True	True
+1	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+2	끈적	kʼɯnʣʌk̚kʼɯnʣʌk̚	kʼɯnʣʌk̚kʼɯn	kʼɯnʣʌk̚	False	False
+3	끈적	han	kʼɯnʣʌk̚kʼɯn	kʼɯnʣʌk̚	False	False
+4	한	gʌɭ	han	han	False	False
+5	걸	boɕiɭ	gʌɭ	gʌɭ	False	False
+6	보실	suga	boɕiɭ	boɕiɭ	False	False
+7	수가	it̚.tzjo̞	suga	suga	False	False

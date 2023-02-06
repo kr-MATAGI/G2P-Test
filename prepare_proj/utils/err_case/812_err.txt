@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러니까	kɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	True	False
+1	신문	ɕinmun	ɕinmun	ɕinmun	True	True
+2	기사로	gisaro	gisaro	kisaro	True	False
+3	만들기	mandɯɭgi	mandɯɭgi	mandɯɭgi	True	True
+4	딱	tʼak̚	tʼak̚	tʼak̚	True	True
+5	좋은	.tzoɯn	ʣoɯn	.tzoɯn	False	True

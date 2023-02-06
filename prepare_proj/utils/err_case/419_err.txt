@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	헬리코박터	esʌ	heɭʎ̟ikʰobak̚t	heɭʎ̟ikʰobak̚t	False	False
+2	균이	heɭʎ̟ikʰobak̚tʰʌ	gjuɲi	gjuɲi	False	False
+3	요소를	gjuɲi	jo̞sorɯɭ	jo̞sorɯɭ	False	False
+4	분해해서	jo̞sorɯɭ	bunhɛhɛsʌ	bunhɛhɛsʌ	False	False
+5	암모니아를	bunhɛhɛsʌ	ammoɲiarɯɭ	ammoɲiarɯɭ	False	False
+6	발생시키는	ammoɲiarɯɭ	baɭsʼɛŋɕikʰin	paɭsʼɛŋɕikʰin	False	False
+7	성질을	baɭsʼɛŋɕikʰinɯn	sʌŋʣirɯɭ	sʌŋʣirɯɭ	False	False
+8	이용한	sʌŋʣirɯɭ	ijo̞ŋhan	ijo̞ŋhan	False	False
+9	것으로	ijo̞ŋhan	gʌsɯro	gʌsɯro	False	False

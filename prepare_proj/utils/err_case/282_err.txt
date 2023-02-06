@@ -1,0 +1,26 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	uriga	kɯrɛsʌ	gɯrɛsʌ	False	False
+1	우주	apʰɯro	uʣu	uʣu	False	False
+2	개발	mwʌ	gɛbaɭ	kɛbaɭ	False	False
+3	초창기에	rokʰesɯɭ	tsʰotsʰaŋgie	tsʰotsʰaŋgie	False	False
+4	뭐	tʰago	mwʌ	mwʌ	False	False
+5	러시아에	uʣuro	rʌɕiae	rʌɕiae	False	False
+6	뭐	nagamjʌn	mwʌ	mwʌ	False	False
+7	콘스탄틴	ʌtʼʌ	kʰonsɯtʰantʰin	kʰonsɯtʰantʰin	False	False
+8	치올코프스키니	ɲiri	tsʰioɭkʰopʰɯs	tsʰioɭkʰopʰɯs	False	False
+9	아니면	sɛŋgigenɲi	aɲimjʌn	aɲimjʌn	False	False
+10	뭐	irʌn	mwʌ	mwʌ	False	False
+11	미국의	gʌt̚tʼɯrɯɭ	miguge	miguge	False	False
+12	뭐	ironʣʌk̚	mwʌ	mwʌ	False	False
+13	고다드니	noɲinɯn	godadɯɲi	kodadɯɲi	False	False
+14	독일의	maɲi	dogire	dogire	False	False
+15	뭐	hɛnnɯnde	mwʌ	mwʌ	False	False
+16	오베르티	gɯ	oberɯtʰi	oberɯtʰi	False	False
+17	이런	saramdɯrɯn	irʌn	irʌn	False	False
+18	사람들이	da	saramdɯri	saramdɯri	False	False
+19	인제	ʣom	inʣe	inʣe	False	False
+20	우리가	ʣʌŋɕin	uriga	uriga	False	False
+21	앞으로	nagan	apʰɯro	apʰɯro	False	False
+22	뭐	saramdɯɭlo	mwʌ	mwʌ	False	False
+23	로켓을	daŋɕi	nokʰesɯɭ	rokʰesɯɭ	False	False
+24	타고	jʌgjʌʣʌsʼʌjo̞	tʰago	tʰago	False	False

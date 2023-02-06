@@ -1,0 +1,25 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지방에	t͡ɕibaŋe	ʣibaŋe	ʣibaŋe	False	False
+1	분해	bunhɛ	bunhɛ	bunhɛ	True	True
+2	도움이	doumi	doumi	doumi	True	True
+3	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+4	게	ge	ge	ge	True	True
+5	또	tʼo	tʼo	tʼo	True	True
+6	착한	tsʰakʰan	tsʰakʰan	tsʰakʰan	True	True
+7	다이어트	daiʌtʰɯ	daiʌtʰɯ	daiʌtʰɯ	True	True
+8	호르몬	horɯmon	horɯmon	horɯmon	True	True
+9	중의	ʣuŋi	ʣuŋi	ʣuŋi	True	True
+10	하나인	hanain	hanain	hanain	True	True
+11	아디포넥틴이	adipʰonek̚tʰiɲi	adipʰonek̚tʰiɲi	adipʰonek̚tʰiɲi	True	True
+12	있는데	innɯnde	innɯnde	innɯnde	True	True
+13	아디포넥틴	adipʰonek̚tʰin	adipʰonek̚tʰin	adipʰonek̚tʰin	True	True
+14	역시	jʌk̚ɕʼi	jʌk̚ɕʼi	jʌk̚ɕʼi	True	True
+15	내장	nɛʣaŋ	nɛʣaŋ	nɛʣaŋ	True	True
+16	지방량이	ʣibaŋɲ.jaŋi	ʣibaŋɲ.jaŋi	ʣibaŋɲ.jaŋi	True	True
+17	점점	ʣʌmʣʌm	ʣʌmʣʌm	.tzʌm.tzʌm	True	False
+18	많아지면	manaʣimjʌn	manaʣimjʌn	manaʣimjʌn	True	True
+19	많아질수록	manaʣiɭsʼurok̚	manaʣiɭsʼurok̚	manaʣiɭsʼurok̚	True	True
+20	자기의	ʣagie	ʣagie	ʣagie	True	True
+21	기능이	ginɯŋi	ginɯŋi	kinɯŋi	True	False
+22	떨어지게	tʼʌrʌʣige	tʼʌrʌʣige	tʼʌrʌʣige	True	True
+23	됩니다.	dwemɲida	dwemɲida	dwemɲida	True	True

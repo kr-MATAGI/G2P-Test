@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그가	kɯga	gɯga	gɯga	False	False
+1	구성한	gusʌŋhan	gusʌŋhan	gusʌŋhan	True	True
+2	탱고	tʰɛŋgo	tʰɛŋgo	tʰɛŋgo	True	True
+3	전문	ʣʌnmun	ʣʌnmun	ʣʌnmun	True	True
+4	오케스트라는	okʰesɯtʰɯranɯn	okʰesɯtʰɯranɯn	okʰesɯtʰɯranɯn	True	True
+5	피아노	pʰiano	pʰiano	pʰiano	True	True
+6	바이올린	baioɭʎ̟in	baioɭʎ̟in	paioɭʎ̟in	True	False
+7	첼로	tsʰeɭlo	tsʰeɭlo	tsʰeɭlo	True	True
+8	베이스	beisɯ	beisɯ	peisɯ	True	False
+9	외에	wee	wee	wee	True	True
+10	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+11	중요한	ʣuŋjo̞han	ʣuŋjo̞han	ʣuŋjo̞han	True	True
+12	반도네온이	bandoneoɲi	bandoneoɲi	pandoneoɲi	True	False
+13	중심에	ʣuŋɕime	ʣuŋɕime	ʣuŋɕime	True	True
+14	포진해	pʰoʣinhɛ	pʰoʣinhɛ	pʰoʣinhɛ	True	True
+15	있죠.	it̚.tzjo̞	it̚.tzjo̞	it̚.tzjo̞	True	True

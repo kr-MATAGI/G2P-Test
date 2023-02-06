@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저도	t͡ɕʌdo	ʣʌdo	ʣʌdo	False	False
+1	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+2	역할	ɲjʌkʰaɭ	jʌkʰaɭ	jʌkʰaɭ	False	False
+3	잘해야	ʣaɭhɛ.ja	ʣaɭhɛ.ja	.tzaɭhɛ.ja	True	False
+4	되겠다고	dweget̚tʼago	dweget̚tʼago	dweget̚tʼago	True	True
+5	생각이	sɛŋgagi	sɛŋgagi	sɛŋgagi	True	True
+6	들구요.	dɯɭgujo̞	dɯɭgujo̞	dɯɭgujo̞	True	True

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	그다음	gɯdaɯm	kɯdaɯm	gɯdaɯm	False	True
+2	다음	daɯm	daɯm	daɯm	True	True
+3	질문은	ʣiɭmunɯn	ʣiɭmunɯn	.tziɭmunɯn	True	False
+4	선생님	sʌnsɛŋɲim	sʌnsɛŋɲim	sʌnsɛŋɲim	True	True
+5	사람은	saramɯn	saramɯn	saramɯn	True	True
+6	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+7	생겨나게	sɛŋgjʌnage	sɛŋgjʌnage	sɛŋgjʌnage	True	True
+8	되었나요.	dweʌnnajo̞	dweʌnnajo̞	dweʌnnajo̞	True	True

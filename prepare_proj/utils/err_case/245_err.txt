@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	티비	tʰibi	tʰibi	tʰibi	True	True
+1	책방	tsʰɛk̚pʼaŋ	tsʰɛk̚pʼaŋ	tsʰɛk̚pʼaŋ	True	True
+2	북소리	buk̚sʼori	buk̚sʼori	buk̚sʼori	True	True
+3	오늘은	onɯrɯn	onɯrɯn	onɯrɯn	True	True
+4	한	han	han	han	True	True
+5	시대를	ɕidɛrɯɭ	ɕidɛrɯɭ	ɕidɛrɯɭ	True	True
+6	풍미했던	pʰuŋmihɛt̚tʼʌn	pʰuŋmihɛt̚tʼʌ	pʰuŋmihɛt̚tʼʌ	False	False
+7	전설의	ʣʌnsʌre	ʣʌnsʌre	t͡ɕʌnsʌre	True	False
+8	팝가수들을	pʰap̚kʼasudɯrɯɭ	pʰap̚kʼasudɯrɯ	pʰap̚kʼasudɯrɯ	False	False
+9	먼저	mʌnʣʌ	mʌnʣʌ	mʌnʣʌ	True	True
+10	만나봤는데요.	mannabwannɯndejo̞	mannabwannɯndejo̞	mannabwannɯndejo̞	True	True

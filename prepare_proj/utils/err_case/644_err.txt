@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+2	보면	bomjʌn	bomjʌn	bomjʌn	True	True
+3	노벨상이	nobeɭsaŋi	nobeɭsaŋi	nobeɭsʼaŋi	True	False
+4	연말	jʌnmaɭ	jʌnmaɭ	jʌnmaɭ	True	True
+5	가요대상	gajo̞dɛsaŋ	gajo̞dɛsaŋ	kajo̞dɛsaŋ	True	False
+6	이래가지고	ɲirɛgaʣigo	irɛgaʣigo	irɛgaʣigo	False	False

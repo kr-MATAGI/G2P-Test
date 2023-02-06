@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	국경마다	guk̚kʼjʌŋmada	guk̚kʼjʌŋmada	guk̚kʼjʌŋmada	True	True
+2	다	da	da	ta	True	False
+3	어~	ʌ	ʌ	ʌp̚	True	False
+4	몇	esʌ	mjʌt̚	mjʌt̚	False	False
+5	번	mjʌt̚	bʌn	bʌn	False	False
+6	경험하고	pʼʌn	gjʌŋhʌmhago	kjʌŋhʌmhago	False	False
+7	나니까	gjʌŋhʌmhago	naɲikʼa	naɲikʼa	False	False
+8	재밌대요.	naɲikʼa	ʣɛmit̚tʼɛjo̞	ʣɛmit̚tʼɛjo̞	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	되풀이	twepʰuri	dwepʰuri	dwepʰuri	False	False
+1	야	.ja	.ja	.ja	True	True
+2	이게	ige	ige	ige	True	True
+3	역사는	jʌk̚sʼanɯn	jʌk̚sʼanɯn	jʌk̚sʼanɯn	True	True
+4	되풀이된다는	dwepʰuridwendanɯn	dwepʰuridwendanɯn	dwepʰuridwendanɯ	True	False
+5	말이	mari	mari	mari	True	True
+6	있잖아요.	it̚.tzanajo̞	it̚.tzanajo̞	it̚.tzanajo̞	True	True

@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리	uri	uri	uri	True	True
+1	북벤들	buk̚	buk̚	buk̚pʼendɯɭ	True	False
+2	이런	bendɯɭ	irʌn	irʌn	False	False
+3	조합은	irʌn	ʣohabɯn	ʣohabɯn	False	False
+4	또	ʣohabɯn	tʼo	tʼo	False	False
+5	이번	tʼo	ibʌn	ibʌn	False	False
+6	주가	ibʌn	ʣuga	ʣuga	False	False
+7	처음인거	ʣukʼa	tsʰʌɯmin	tsʰʌɯmingʌ	False	False
+8	같애요.	tsʰʌɯmin	gatʰɛjo̞	gatʰɛjo̞	False	False

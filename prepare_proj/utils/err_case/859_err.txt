@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	먼저	mʌnʣʌ	mʌnʣʌ	mʌnʣʌ	True	True
+1	고흐전은	gohɯ	gohɯʣʌnɯn	kohɯʣʌnɯn	False	False
+2	그가	ʣʌnɯn	gɯga	gɯga	False	False
+3	이	gɯga	i	i	False	False
+4	년간	i	ɲjʌngan	ɲjʌngan	False	False
+5	머물렀던	ɲjʌngan	mʌmuɭlʌt̚tʼʌn	mʌmuɭlʌt̚tʼʌn	False	False
+6	파리시절	mʌmuɭlʌt̚tʼʌn	pʰariɕiʣʌɭ	pʰariɕiʣʌɭ	False	False
+7	작품이	pʰari	ʣak̚pʰumi	ʣak̚pʰumi	False	False
+8	중심이	ɕiʣʌɭ	ʣuŋɕimi	ʣuŋɕimi	False	False
+9	된	ʣak̚pʰumi	dwen	dwen	False	False
+10	전시였는데요.	ʣuŋɕimi	ʣʌnɕijʌnnɯndej	t͡ɕʌnɕijʌnnɯn	False	False

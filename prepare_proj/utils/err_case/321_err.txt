@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	기타리스트는	gitʰarisɯtʰɯnɯn	gitʰarisɯtʰɯnɯ	kitʰarisɯtʰɯnɯ	False	False
+2	산부인과	sanbuinkʼwa	sanbuingwa	sanbuingwa	False	False
+3	의사였어요.	ɰisajʌsʼʌjo̞	ɰisajʌsʼʌjo̞	ɰisajʌsʼʌjo̞	True	True

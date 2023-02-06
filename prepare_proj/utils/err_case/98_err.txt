@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	뇌	nwe	nwe	nwe	True	True
+2	과학이나	gwahagina	gwahagina	kwahagina	True	False
+3	지능	ʣinɯŋ	ʣinɯŋ	.tzinɯŋ	True	False
+4	뭐	mwʌ	mwʌ	mwʌ	True	True
+5	이런	irʌn	irʌn	irʌn	True	True
+6	것에	gʌse	gʌse	gʌse	True	True
+7	조금이라도	ʣogɯmirado	ʣogɯmirado	ʣogɯmirado	True	True
+8	관심이	gwanɕimi	gwanɕimi	kwanɕimi	True	False
+9	있다면	it̚tʼamjʌn	it̚tʼamjʌn	it̚tʼamjʌn	True	True
+10	반드시	bandɯɕi	bandɯɕi	pandɯɕi	True	False
+11	보고싶을	bogo	bogoɕipʰɯɭ	bogoɕipʰɯɭ	False	False
+12	거	ɕipʰɯɭ	gʌ	gʌ	False	False
+13	같애요.	gʌ	gatʰɛjo̞	gatʰɛjo̞	False	False

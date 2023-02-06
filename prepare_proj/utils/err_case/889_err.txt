@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	직경이	ʣik̚kʼjʌŋi	ʣik̚kʼjʌŋi	ʣik̚kʼjʌŋi	True	True
+2	백육십	bɛŋɲjuk̚ɕʼip̚	bɛŋɲjuk̚ɕʼip	pɛŋɲjuk̚ɕʼip	False	False
+3	미터입니다.	mitʰʌimɲida	mitʰʌimɲida	mitʰʌimɲida	True	True

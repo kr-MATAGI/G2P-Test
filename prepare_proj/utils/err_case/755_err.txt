@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	근데	kɯnde	kɯnde	gɯnde	True	False
+1	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+2	충격을	tsʰuŋgjʌgɯɭ	tsʰuŋgjʌgɯɭ	tsʰuŋgjʌgɯɭ	True	True
+3	받았더라면	badat̚tʼʌramjʌn	badat̚tʼʌramjʌn	padat̚tʼʌramjʌn	True	False
+4	그	gɯ	gɯ	gɯ	True	True
+5	순간은	sunganɯn	sunganɯn	sunganɯn	True	True
+6	몇	mjʌt̚	mjʌt̚	mjʌt̚	True	True
+7	번	pʼʌn	bʌn	bʌn	False	False
+8	있는	innɯn	innɯn	innɯn	True	True
+9	거	gʌ	gʌ	gʌ	True	True
+10	같아요.	gatʰajo̞	gatʰajo̞	gatʰajo̞	True	True
+11	네.	ne	ne	ne	True	True

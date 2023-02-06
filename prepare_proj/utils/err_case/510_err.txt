@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	천구백오십년대	tsʰʌngubɛgoɕimɲjʌndɛ	tsʰʌngubɛgoɕim	tsʰʌngubɛgoɕim	False	False
+2	중반	ʣuŋban	ʣuŋban	ʣuŋban	True	True
+3	정도가	ʣʌŋdoga	ʣʌŋdoga	ʣʌŋdoga	True	True
+4	되면	dwemjʌn	dwemjʌn	dwemjʌn	True	True
+5	드디어	dɯdiʌ	dɯdiʌ	dɯdiʌ	True	True
+6	그레이스	gɯreisɯ	gɯreisɯ	kɯreisɯ	True	False
+7	호퍼가	hopʰʌga	hopʰʌga	hopʰʌga	True	True
+8	말하는	maɭhanɯn	maɭhanɯn	maɭhanɯn	True	True
+9	최고의	tsʰwegoe	tsʰwegoe	tsʰwegoi	True	False
+10	업적이라고	ʌp̚.tzʌgirago	ʌp̚.tzʌgirago	ʌp̚.tzʌgirago	True	True
+11	할	haɭ	haɭ	haɭ	True	True
+12	수	su	su	su	True	True
+13	있는	innɯn	innɯn	innɯn	True	True
+14	게	ge	ge	ge	True	True
+15	나오는데	naonɯnde	naonɯnde	naonɯnde	True	True
+16	우리	uri	uri	uri	True	True
+17	아까	akʼa	akʼa	akʼa	True	True
+18	코볼	kʰoboɭ	kʰoboɭ	kʰoboɭ	True	True
+19	이야기했었잖아요.	i.jagihɛsʼʌt̚.tzanajo̞	i.jagihɛsʼʌt̚.t	i.jagihɛsʼʌt̚.t	False	False
+20	코볼	kʰoboɭ	kʰoboɭ	kʰoboɭ	True	True

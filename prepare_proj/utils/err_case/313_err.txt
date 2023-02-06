@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	동화로만	toŋhwaroman	doŋhwaroman	doŋhwaroman	False	False
+1	알구	aɭgu	aɭgu	aɭgu	True	True
+2	있었던	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	True	True
+3	이	i	i	i	True	True
+4	걸리버여행기가	gʌɭʎ̟ibʌjʌhɛŋgiga	gʌɭʎ̟ibʌjʌhɛ	kʌɭʎ̟ibʌjʌhɛ	False	False
+5	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+6	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+7	많은	manɯn	manɯn	manɯn	True	True
+8	뜻과	tʼɯt̚kʼwa	tʼɯt̚kʼwa	tʼɯt̚kʼwa	True	True
+9	의미를	ɰimirɯɭ	ɰimirɯɭ	ɰimirɯɭ	True	True
+10	가지고	gaʣigo	gaʣigo	gaʣigo	True	True
+11	있었던	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	isʼʌt̚tʼʌn	True	True
+12	이야기였네요.	i.jagijʌnnejo̞	i.jagijʌnnejo̞	i.jagijʌnnejo̞	True	True

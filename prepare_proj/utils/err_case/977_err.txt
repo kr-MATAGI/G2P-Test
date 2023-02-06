@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	뭐	mwʌ	mwʌ	mwʌ	True	True
+1	이런	irʌn	irʌn	irʌn	True	True
+2	것들이	gʌt̚tʼɯri	gʌt̚tʼɯri	gʌt̚tʼɯri	True	True
+3	이	i	i	i	True	True
+4	작품이	ʣak̚pʰumi	ʣak̚pʰumi	ʣak̚pʰumi	True	True
+5	사랑이라는	saraŋɲiranɯn	saraŋɲiranɯn	saraŋiranɯn	True	False
+6	주제를	ʣuʣerɯɭ	ʣuʣerɯɭ	ʣuʣerɯɭ	True	True
+7	통해서	tʰoŋhɛsʌ	tʰoŋhɛsʌ	tʰoŋhɛsʌ	True	True
+8	보여주는	bojʌʣunɯn	bojʌʣunɯn	bojʌʣunɯn	True	True
+9	여러	ɲjʌrʌ	jʌrʌ	jʌrʌ	False	False
+10	가지	gaʣi	gaʣi	gaʣi	True	True
+11	현상들입니다.	hjʌnsaŋdɯrimɲida	hjʌnsaŋdɯrimɲid	hjʌnsaŋdɯrimɲid	False	False

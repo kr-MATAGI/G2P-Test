@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	iɭbongunhago	gɯ	gɯ	False	False
+1	길이	mat̚sʼʌ	giri	kiri	False	False
+2	끊겨가지고	sʼaumjʌnsʌ	kʼɯnkʼjʌgaʣigo	kʼɯngjʌgaʣigo	False	False
+3	뭐	mwʌ	mwʌ	mwʌ	True	True
+4	고립이	haru	goribi	koribi	False	False
+5	돼있는데	naʣʌɭ	dwɛinnɯnde	twɛinnɯnde	False	False
+6	민간인들끼리	bʌtʰigirɯɭ	mingaɲindɯɭkʼir	mingaɲindɯɭkʼir	False	False
+7	모여가지고	hago	mojʌgaʣigo	mojʌgaʣigo	False	False
+8	뭐	mwʌ	mwʌ	mwʌ	True	True
+9	니는	gɯrʌn	ɲinɯn	ɲinɯn	False	False
+10	그래도	hi	gɯrɛdo	gɯrɛdo	False	False
+11	좀	hihanhan	ʣom	ʣom	False	False
+12	덩치가	ongan	dʌŋtsʰiga	dʌŋtsʰiga	False	False
+13	좋으니까	mujo̞ŋdamdɯrɯɭ	ʣoɯɲikʼa	.tzoɯɲikʼa	False	False
+14	칼을	namgjʌt̚kʼʌdɯɲjo̞	kʰarɯɭ	kʰarɯɭ	False	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	거의	kʌe	gʌe	gʌe	False	False
+1	펴	pʰjʌ	pʰjʌ	pʰjʌ	True	True
+2	펴자마자	pʰjʌʣamaʣa	pʰjʌʣamaʣa	pʰjʌʣamaʣa	True	True
+3	끝까지	kʼɯt̚kʼaʣi	kʼɯt̚kʼaʣi	kʼɯt̚kʼaʣi	True	True
+4	읽을	iɭgɯɭ	iɭgɯɭ	iɭgɯɭ	True	True
+5	수	su	su	su	True	True
+6	있습니다.	it̚sʼɯmɲida	it̚sʼɯmɲida	it̚sʼɯmɲida	True	True

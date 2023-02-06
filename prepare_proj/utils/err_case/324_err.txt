@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	풀어갈	pʰurʌgaɭ	pʰurʌgaɭ	pʰurʌgaɭ	True	True
+1	문제는	munʣenɯn	munʣenɯn	munʣenɯn	True	True
+2	아닌	aɲin	aɲin	aɲin	True	True
+3	거	gʌ	gʌ	gʌ	True	True
+4	같고	gat̚kʼo	gat̚kʼo	gat̚kʼo	True	True
+5	어~	ʌ	ʌ	ʌp̚	True	False
+6	그래서	esʌ	kɯrɛsʌ	gɯrɛsʌ	False	False
+7	상당히	gɯrɛsʌ	saŋdaŋhi	saŋdaŋhi	False	False
+8	예민한	saŋdaŋhi	jeminhan	jeminhan	False	False
+9	다른	jeminhan	darɯn	darɯn	False	False
+10	것들을	darɯn	gʌt̚tʼɯrɯɭ	kʌt̚tʼɯrɯɭ	False	False
+11	수반하고	gʌt̚tʼɯrɯɭ	subanhago	subanhago	False	False
+12	있다란	subanhago	it̚tʼaran	it̚tʼaran	False	False
+13	생각이	it̚tʼaran	sɛŋgagi	sɛŋgagi	False	False
+14	들어요.	sɛŋgagi	dɯrʌjo̞	dɯrʌjo̞	False	False

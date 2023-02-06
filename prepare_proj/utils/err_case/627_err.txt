@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	인정받았다는	inʣʌŋbadat̚tʼanɯn	inʣʌŋbadat̚tʼa	inʣʌŋbadat̚tʼa	False	False
+1	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+2	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+3	중요한	ʣuŋjo̞han	ʣuŋjo̞han	ʣuŋjo̞han	True	True
+4	역할을	jʌkʰarɯɭ	jʌkʰarɯɭ	jʌkʰarɯɭ	True	True
+5	하지	haʣi	haʣi	haʣi	True	True
+6	않고선	ankʰosʌn	ankʰosʌn	ankʰosʌn	True	True
+7	불가능한	buɭganɯŋhan	buɭganɯŋhan	buɭganɯŋhan	True	True
+8	일입니다.	irimɲida	irimɲida	irimɲida	True	True

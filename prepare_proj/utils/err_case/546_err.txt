@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자	t͡ɕa	t͡ɕa	ʣa	True	False
+1	그런데	gɯrʌntʼe	kɯrʌntʼe	gɯrʌntʼe	False	True
+2	이	i	i	i	True	True
+3	공룡이랑	goŋɲjo̞ŋiraŋ	goŋɲjo̞ŋiraŋ	goŋɲjo̞ŋiraŋ	True	True
+4	실제로	ɕiɭ.tzero	ɕiɭ.tzero	ɕiɭ.tzero	True	True
+5	티라노사우노스랑	tʰiranosaunosɯraŋ	tʰiranosaunosɯra	tʰiranosaunosɯra	False	False
+6	싸우면요.	sʼaumjʌɲjo̞	sʼaumjʌɲjo̞	sʼaumjʌɲjo̞	True	True

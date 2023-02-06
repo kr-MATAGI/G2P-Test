@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	아~	a	a	ak̚	True	False
+1	열심히	esʌ	jʌɭɕʼimhi	jʌɭɕʼimhi	False	False
+2	설명하고	jʌɭɕʼimhi	sʌɭmjʌŋhago	sʌɭmjʌŋhago	False	False
+3	있군요.	sʌɭmjʌŋhago	it̚kʼuɲjo̞	it̚kʼuɲjo̞	False	False

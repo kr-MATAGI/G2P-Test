@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	예.	je	je	je	True	True
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	지금은	ʣigɯmɯn	ʣigɯmɯn	ʣigɯmɯn	True	True
+3	또	tʼo	tʼo	tʼo	True	True
+4	수술하실만한	susuɭhaɕiɭmanhan	susuɭhaɕiɭmanhan	susuɭhaɕiɭmanha	True	False
+5	전신적인	ʣʌnɕinʣʌgin	ʣʌnɕinʣʌgin	t͡ɕʌnɕinʣʌgin	True	False
+6	건강	gʌngaŋ	gʌngaŋ	gʌngaŋ	True	True
+7	상태가	saŋtʰɛga	saŋtʰɛga	saŋtʰɛga	True	True
+8	안	an	an	an	True	True
+9	되세요.	dwesejo̞	dwesejo̞	dwesejo̞	True	True

@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	분위기	esʌ	bunwigi	bunwigi	False	False
+2	좀	bunwigi	ʣom	ʣom	False	False
+3	달라지겠어요.	ʣom	daɭlaʣigesʼʌjo	taɭlaʣigesʼʌjo	False	False

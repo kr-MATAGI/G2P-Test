@@ -1,0 +1,27 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	작고	t͡ɕak̚kʼo	ʣak̚kʼo	ʣak̚kʼo	False	False
+1	보잘	boʣaɭkʼʌdʌp̚kʼo	boʣaɭ	boʣaɭ	False	False
+2	것	sasohan	gʌt̚	gʌt̚	False	False
+3	없고	gʌt̚tʼo	ʌp̚kʼo	ʌp̚kʼo	False	False
+4	사소한	daɕi	sasohan	sasohan	False	False
+5	것도	bomjʌnɯn	gʌt̚tʼo	gʌt̚tʼo	False	False
+6	다시	gɯgʌɕi	daɕi	daɕi	False	False
+7	보면은	gaʣigo	bomjʌnɯn	bomjʌnɯn	False	False
+8	그것이	innɯn	gɯgʌɕi	gɯgʌɕi	False	False
+9	가지고	gɯ	gaʣigo	gaʣigo	False	False
+10	있는	kʰɯn	innɯn	innɯn	False	False
+11	그	gʌt̚	gɯ	gɯ	False	False
+12	큰	mot̚.tziannɯn	kʰɯn	kʰɯn	False	False
+13	것	ʌtʼʌn	gʌt̚	gʌt̚	False	False
+14	못지않는	gatsʰiwa	mot̚.tziannɯn	mot̚.tziannɯn	False	False
+15	어떤	ɰimiwa	ʌtʼʌn	ʌtʼʌn	False	False
+16	가치와	tʼonɯn	gatsʰiwa	gatsʰiwa	False	False
+17	의미와	ujʌɭlo	ɰimiwa	ɰimiwa	False	False
+18	또는	ganɯmhaɭ	tʼonɯn	tʼonɯn	False	False
+19	우열로	su	ujʌɭlo	ujʌɭlo	False	False
+20	가늠할	ʌmnɯn	ganɯmhaɭ	kanɯmhaɭ	False	False
+21	수	gɯrʌn	su	su	False	False
+22	없는	ʌtʼʌn	ʌmnɯn	ʌmnɯn	False	False
+23	그런	ʣonʣɛe	gɯrʌn	gɯrʌn	False	False
+24	어떤	i.juga	ʌtʼʌn	ʌtʼʌn	False	False
+25	존재의	it̚tʼa	ʣonʣɛe	ʣonʣɛe	False	False

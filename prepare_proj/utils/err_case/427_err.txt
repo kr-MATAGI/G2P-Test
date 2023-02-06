@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	제가	t͡ɕega	ʣega	ʣega	False	False
+1	며칠	mjʌtsʰiɭ	mjʌtsʰiɭ	mjʌtsʰiɭ	True	True
+2	전에	ʣʌne	ʣʌne	ʣʌne	True	True
+3	술자리를	suɭ.tzarirɯɭ	suɭ.tzarirɯɭ	suɭ.tzarirɯɭ	True	True
+4	갔는데	gannɯnde	gannɯnde	kannɯnde	True	False
+5	어느	ʌnɯ	ʌnɯ	ʌnɯ	True	True
+6	술자리의	suɭ.tzarie	suɭ.tzarie	suɭ.tzarie	True	True
+7	주인께서	ʣuinkʼesʌ	ʣuinkʼesʌ	ʣuinkʼesʌ	True	True
+8	뒤에서	dwiesʌ	dwiesʌ	twiesʌ	True	False
+9	시간	ɕigan	ɕigan	ɕigan	True	True
+10	늦었는데	nɯʣʌnnɯnde	nɯʣʌnnɯnde	nɯʣʌnnɯnde	True	True
+11	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+12	지인들하고	ʣiindɯɭhago	ʣiindɯɭhago	.tziindɯɭhago	True	False
+13	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+14	책을	tsʰɛgɯɭ	tsʰɛgɯɭ	tsʰɛgɯɭ	True	True
+15	보고	bogo	bogo	bogo	True	True
+16	있는데	innɯnde	innɯnde	innɯnde	True	True
+17	그리스어	gɯrisɯʌ	gɯrisɯʌ	gɯrisɯʌ	True	True
+18	알파벳을	aɭpʰabesɯɭ	aɭpʰabesɯɭ	aɭpʰabesʼɯɭ	True	False
+19	공부하고	goŋbuhago	goŋbuhago	goŋbuhago	True	True
+20	계시더라고요.	gʲeɕidʌragojo̞	gʲeɕidʌragojo̞	gʲeɕidʌragojo̞	True	True

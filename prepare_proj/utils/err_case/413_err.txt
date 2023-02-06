@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	또	tʼo	tʼo	tʼo	True	True
+2	물론	muɭlon	muɭlon	muɭlon	True	True
+3	에너지가	enʌʣiga	enʌʣiga	enʌʣiga	True	True
+4	넘치고	nʌmtsʰigo	nʌmtsʰigo	nʌmtsʰigo	True	True
+5	지식과	ʣiɕik̚kʼwa	ʣiɕik̚kʼwa	ʣiɕik̚kʼwa	True	True
+6	시야가	ɕi.jaga	ɕi.jaga	ɕi.jaga	True	True
+7	널픈	nʌɭ	nʌɭpʰɯn	nʌɭpʰɯn	False	False
+8	넓은	pʰɯn	nʌɭbɯn	nʌɭbɯn	False	False
+9	전	nʌɭbɯn	ʣʌn	ʣʌn	False	False
+10	젊은이들의	ʣʌn	ʣʌɭmɯɲidɯre	t͡ɕʌɭmɯɲidɯr	False	False
+11	풍부한	ʣʌɭmɯɲidɯre	pʰuŋbuhan	pʰuŋbuhan	False	False
+12	인적	pʰuŋbuhan	inʣʌk̚	inʣʌk̚	False	False
+13	자원	inʣʌk̚	ʣawʌn	ʣawʌn	False	False
+14	이것도	ʣawʌn	igʌt̚tʼo	igʌt̚tʼo	False	False
+15	굉장한	igʌt̚tʼo	gweŋʣaŋhan	gweŋʣaŋhan	False	False
+16	강점입니다.	gweŋʣaŋhan	gaŋ.tzʌmimɲida	gaŋʣʌmimɲida	False	False

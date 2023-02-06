@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	증발하면	ʣɯŋbaɭhamjʌn	ʣɯŋbaɭhamjʌn	.tzɯŋbaɭhamjʌn	True	False
+2	그냥	gɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	True	True
+3	오	o	o	o	True	True
+4	호	ho	ho	ho	True	True
+5	블랙홀이	bɯɭlɛk̚hori	bɯɭlɛk̚hori	pɯɭlɛk̚hori	True	False
+6	호킹	hokʰiŋ	hokʰiŋ	hokʰiŋ	True	True
+7	복사로	bok̚sʼaro	bok̚sʼaro	bok̚sʼaro	True	True
+8	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+9	다	da	da	ta	True	False
+10	증발해버리면	ʣɯŋbaɭhɛbʌrimjʌn	ʣɯŋbaɭhɛbʌrim	.tzɯŋbaɭhɛbʌri	False	False

@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어	ʌ	ʌ	ʌ	True	True
+1	이천십사	itsʰʌnɕip̚sʼa	itsʰʌnɕip̚sʼa	itsʰʌnɕip̚sʼa	True	True
+2	년도에	ɲjʌndoe	ɲjʌndoe	ɲjʌndoe	True	True
+3	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+4	글로벌	gɯɭlobʌʎ̟	gɯɭlobʌɭ	gɯɭlobʌɭ	False	False
+5	리서치	risʌtsʰi	risʌtsʰi	risʌtsʰi	True	True
+6	회사에서	hwesaesʌ	hwesaesʌ	hwesaesʌ	True	True
+7	어	ʌ	ʌ	ʌ	True	True
+8	사람들에게	saramdɯrege	saramdɯrege	saramdɯrege	True	True
+9	가장	gaʣaŋ	gaʣaŋ	gaʣaŋ	True	True
+10	강력한	gaŋɲjʌkʰan	gaŋɲjʌkʰan	gaŋɲjʌkʰan	True	True
+11	영향력을	jʌŋh.jaŋɲjʌgɯɭ	jʌŋh.jaŋɲjʌgɯ	jʌŋh.jaŋɲjʌgɯ	False	False
+12	미치는	mitsʰinɯn	mitsʰinɯn	mitsʰinɯn	True	True
+13	브랜드	bɯrɛndɯ	bɯrɛndɯ	pɯrɛndɯ	True	False
+14	일	iɭ	iɭ	iɭ	True	True
+15	위부터	lwibutʰʌ	wibutʰʌ	wibutʰʌ	False	False
+16	백	bɛ	bɛk̚	bɛk̚	False	False
+17	위까지를	gwikʼaʣirɯɭ	wikʼaʣirɯɭ	wikʼaʣirɯɭ	False	False
+18	조사했었어요.	ʣosahɛsʼʌsʼʌjo̞	ʣosahɛsʼʌsʼʌj	ʣosahɛsʼʌsʼʌj	False	False

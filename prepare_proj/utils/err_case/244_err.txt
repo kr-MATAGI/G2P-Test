@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	오늘	onɯɭ	onɯɭ	onɯɭ	True	True
+1	좋은	ʣoɯn	ʣoɯn	.tzoɯn	True	False
+2	작품과	ʣak̚pʰumgwa	ʣak̚pʰumgwa	ʣak̚pʰumgwa	True	True
+3	이야기	i.jagi	i.jagi	i.jagi	True	True
+4	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+5	은희경	ɯnhigjʌŋ	ɯnhigjʌŋ	ɯnhigjʌŋ	True	True
+6	작가와	ʣak̚kʼawa	ʣak̚kʼawa	ʣak̚kʼawa	True	True
+7	나눠봤습니다.	nanwʌbwat̚sʼɯmɲida	nanwʌbwat̚sʼɯm	nanwʌbwat̚sʼɯm	False	False

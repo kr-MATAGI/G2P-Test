@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	생활을	sɛŋhwarɯɭ	sɛŋhwarɯɭ	sɛŋhwarɯɭ	True	True
+2	계속	gʲesok̚	gʲesok̚	gʲesok̚	True	True
+3	이어가다가	iʌgadaga	iʌgadaga	iʌgadaga	True	True
+4	천구백오십년에	tsʰʌngubɛgoɕimɲjʌne	tsʰʌngubɛgoɕim	tsʰʌngubɛgoɕim	False	False
+5	마인드라는	maindɯranɯn	maindɯranɯn	maindɯranɯn	True	True
+6	학술지에	hak̚sʼuɭʣie	hak̚sʼuɭ.tzie	hak̚sʼuɭ.tzie	False	False
+7	어~	ʌ	ʌ	ʌp̚	True	False
+8	논문을	esʌ	nonmunɯɭ	nonmunɯɭ	False	False
+9	하나를	nonmunɯɭ	hanarɯɭ	hanarɯɭ	False	False
+10	내는데	hanarɯɭ	nɛnɯnde	nɛnɯnde	False	False
+11	그	nɛnɯnde	gɯ	gɯ	False	False
+12	논문	gɯ	nonmun	nonmun	False	False
+13	제목이	nonmun	ʣemogi	t͡ɕemogi	False	False
+14	컴퓨팅	ʣemogi	kʰʌmpʰjutʰiŋ	kʰʌmpʰjutʰiŋ	False	False
+15	머신	kʰʌmpʰjutʰiŋ	mʌɕin	mʌɕin	False	False
+16	앤	mʌɕin	ɛn	ɛn	False	False
+17	인텔리전스	ɛn	intʰeɭʎ̟iʣʌns	intʰeɭʎ̟iʣʌns	False	False

@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	고	ko	go	go	False	False
+1	장면	ʣaŋmjʌn	ʣaŋmjʌn	ʣaŋmjʌn	True	True
+2	잠깐	ʣamkʼan	ʣamkʼan	ʣamkʼan	True	True
+3	읽어보겠습니다.	ɲiɭgʌboget̚sʼɯmɲida	iɭgʌboget̚sʼɯm	iɭgʌboget̚sʼɯm	False	False

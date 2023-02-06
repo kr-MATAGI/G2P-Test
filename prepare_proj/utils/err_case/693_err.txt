@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	유익균이	.juik̚kʼjuɲi	.juik̚kʼjuɲi	.juik̚kʼjuɲi	True	True
+1	무려	murjʌ	murjʌ	murjʌ	True	True
+2	십구	ɕip̚kʼu	ɕip̚kʼu	ɕip̚kʼu	True	True
+3	퍼센트	pʰʌsentʰɯ	pʰʌsentʰɯ	pʰʌsentʰɯ	True	True
+4	유해균이	.juhɛgjuɲi	.juhɛgjuɲi	.juhɛgjuɲi	True	True
+5	십일	ɕibiɭ	ɕibiɭ	ɕibiɭ	True	True
+6	퍼센트	pʰʌsentʰɯ	pʰʌsentʰɯ	pʰʌsentʰɯ	True	True
+7	나머지가	namʌʣiga	namʌʣiga	namʌʣiga	True	True
+8	철새균으로	tsʰʌɭsʼɛ	tsʰʌɭsɛgjunɯro	tsʰʌɭsʼɛgjunɯ	False	False
+9	유익균에	gjunɯro	.juik̚kʼjune	.juik̚kʼjune	False	False
+10	비율은	.juik̚kʼjune	bi.jurɯn	bi.jurɯn	False	False
+11	높아지고	bi.jurɯn	nopʰaʣigo	nopʰaʣigo	False	False
+12	유해균에	nopʰaʣigo	.juhɛgjune	.juhɛgjune	False	False
+13	비율은	.juhɛgjune	bi.jurɯn	bi.jurɯn	False	False
+14	낮아진	bi.jurɯn	naʣaʣin	naʣaʣin	False	False
+15	것으로	naʣaʣin	gʌsɯro	gʌsɯro	False	False
+16	나타났습니다.	gʌsɯro	natʰanat̚sʼɯmɲ	natʰanat̚sʼɯmɲ	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	드라마에서	tɯramaesʌ	dɯramaesʌ	dɯramaesʌ	False	False
+1	했다는	hɛt̚tʼanɯn	hɛt̚tʼanɯn	hɛt̚tʼanɯn	True	True
+2	왜냐면	wɛɲ.jamjʌn	wɛɲ.jamjʌn	wɛɲ.jamjʌn	True	True
+3	그럴	gɯrʌɭ	gɯrʌɭ	gɯrʌɭ	True	True
+4	정도로	ʣʌŋdoro	ʣʌŋdoro	.tzʌŋdoro	True	False

@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	프로젝트인데	pʰɯroʣek̚tʰɯinde	pʰɯroʣek̚tʰɯi	pʰɯroʣek̚tʰɯi	False	False
+1	지금	ʣigɯm	ʣigɯm	ʣigɯm	True	True
+2	아홉	ahop̚	ahop̚	ahop̚	True	True
+3	권	kwʌn	gwʌn	kwʌn	False	True
+4	정도가	ʣʌŋdoga	ʣʌŋdoga	ʣʌŋdoga	True	True
+5	나왔고	nawat̚kʼo	nawat̚kʼo	nawat̚kʼo	True	True
+6	여기는	jʌginɯn	jʌginɯn	jʌginɯn	True	True
+7	뭐	mwʌ	mwʌ	mwʌ	True	True
+8	한국	hanguk̚	hanguk̚	hanguk̚	True	True
+9	고전	kʼoʣʌn	goʣʌn	goʣʌn	False	False
+10	문학의	munhage	munhage	munhage	True	True
+11	에로스부터	erosɯbutʰʌ	erosɯbutʰʌ	erosɯbutʰʌ	True	True

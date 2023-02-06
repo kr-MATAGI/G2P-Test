@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	자~	t͡ɕa	t͡ɕa	ʣap̚	True	False
+1	이	esʌ	i	i	False	False
+2	어~	i	ʌ	ʌp̚	False	False
+3	행사	ʌ	hɛŋsa	hɛŋsa	False	False
+4	제가	esʌ	ʣega	ʣega	False	False
+5	발표하는	hɛŋsa	baɭpʰjo̞hanɯn	pʼaɭpʰjo̞hanɯn	False	False
+6	행사가	ʣega	hɛŋsaga	hɛŋsaga	False	False
+7	오월	baɭpʰjo̞hanɯn	owʌɭ	owʌɭ	False	False
+8	십칠일이었어요.	hɛŋsaga	ɕip̚tsʰiririʌs	ɕip̚tsʰiririʌs	False	False

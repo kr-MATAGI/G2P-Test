@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	부모는	pumonɯn	bumonɯn	bumonɯn	False	False
+1	그녀의	gɯɲjʌe	gɯɲjʌe	gɯɲjʌe	True	True
+2	예술	jesuɭ	jesuɭ	jesuɭ	True	True
+3	세계에	segʲee	segʲee	segʲee	True	True
+4	알게	aɭge	aɭge	aɭge	True	True
+5	모르게	morɯge	morɯge	morɯge	True	True
+6	영향을	jʌŋh.jaŋɯɭ	jʌŋh.jaŋɯɭ	jʌŋh.jaŋɯɭ	True	True
+7	미친	mitsʰin	mitsʰin	mitsʰin	True	True
+8	주역이고	ʣujʌgigo	ʣujʌgigo	ʣujʌgigo	True	True
+9	현재도	hjʌnʣɛdo	hjʌnʣɛdo	hjʌnʣɛdo	True	True
+10	작품의	ʣak̚pʰume	ʣak̚pʰume	ʣak̚pʰume	True	True
+11	모티브로	motʰibɯro	motʰibɯro	motʰibɯro	True	True
+12	등장하죠.	dɯŋ.tzaŋhaʣjo̞	dɯŋ.tzaŋhaʣjo̞	dɯŋʣaŋhaʣjo̞	True	False

@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	흐릿하게	hɯritʰage	hɯritʰage	hɯritʰage	True	True
+1	보이는	boinɯn	boinɯn	boinɯn	True	True
+2	이런	irʌn	irʌn	irʌn	True	True
+3	증상의	ʣɯŋsaŋe	ʣɯŋsaŋe	.tzɯŋsaŋe	True	False
+4	질환이	ʣiɭhwaɲi	ʣiɭhwaɲi	.tziɭhwaɲi	True	False
+5	아닌가	aɲinga	aɲinga	aɲinga	True	True
+6	싶거든요.	ɕip̚kʼʌdɯɲjo̞	ɕip̚kʼʌdɯɲjo	ɕip̚kʼʌdɯɲjo	False	False

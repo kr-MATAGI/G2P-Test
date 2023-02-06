@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그리고	kɯrigo	kɯrigo	gɯrigo	True	False
+1	자본주의	ʣabonʣui	ʣabonʣui	ʣabonʣui	True	True
+2	체제도	tsʰeʣedo	tsʰeʣedo	tsʰeʣedo	True	True
+3	기본적으로	gibonʣʌgɯro	gibonʣʌgɯro	kibonʣʌgɯro	True	False
+4	유지를	.juʣirɯɭ	.juʣihɛ	.juʣirɯɭ	False	True
+5	시킵니다.	ɕikʰimɲida	ɕikʰimɲida	ɕikʰimɲida	True	True

@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	이제	esʌ	iʣe	iʣe	False	False
+2	그	iʣe	gɯ	gɯ	False	False
+3	질문에	gɯ	ʣiɭmune	.tziɭmune	False	False
+4	답을	ʣiɭmune	dabɯɭ	dabɯɭ	False	False
+5	할려면은	dabɯɭ	haɭʎ̟jʌmjʌnɯn	haɭʎ̟jʌmjʌnɯn	False	False
+6	수학을	haɭʎ̟jʌmjʌnɯn	suhagɯɭ	suhagɯɭ	False	False
+7	배운다는	suhagɯɭ	bɛundanɯn	pɛundanɯn	False	False
+8	것은	bɛundanɯn	gʌsɯn	gʌsɯn	False	False
+9	무슨	gʌsɯn	musɯn	musɯn	False	False
+10	뜻으로	musɯn	tʼɯsɯro	tʼɯsʼɯro	False	False
+11	쓰시는지	tʼɯsɯro	sʼɯɕinɯnʣi	sʼɯɕinɯnʣi	False	False
+12	제가	sʼɯɕinɯnʣi	ʣega	ʣega	False	False
+13	먼저	ʣega	mʌnʣʌ	mʌnʣʌ	False	False
+14	알아야지	mʌnʣʌ	ara.jaʣi	ara.jaʣi	False	False
+15	될	ara.jaʣi	dweɭ	dweɭ	False	False
+16	거	dweɭ	gʌ	gʌ	False	False
+17	같애요.	gʌ	gatʰɛjo̞	gatʰɛjo̞	False	False

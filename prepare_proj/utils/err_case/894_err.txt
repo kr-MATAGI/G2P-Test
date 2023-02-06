@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	가만히	kamanhi	gamanhi	gamanhi	False	False
+1	생각해보면	sɛŋgakʰɛbomjʌn	sɛŋgakʰɛbomjʌn	sɛŋgakʰɛbomjʌn	True	True
+2	그래	gɯrɛ	gɯrɛ	gɯrɛ	True	True
+3	자	ʣa	t͡ɕa	ʣa	False	True
+4	참어	tsʰamʌ	tsʰamʌ	tsʰamʌ	True	True
+5	처음에는	tsʰʌɯmenɯn	tsʰʌɯmenɯn	tsʰʌɯmenɯn	True	True
+6	두	du	du	du	True	True
+7	개	gɛ	gɛ	gɛ	True	True
+8	줄게	ʣuɭge	ʣuɭge	ʣuɭge	True	True
+9	이	i	i	i	True	True
+10	뭐	mwʌ	mwʌ	mwʌ	True	True
+11	하는	hanɯn	hanɯn	hanɯn	True	True
+12	거에요.	gʌejo̞	gʌejo̞	gʌejo̞	True	True

@@ -1,0 +1,9 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그	kɯ	gɯ	gɯ	False	False
+1	당시에	daŋɕie	daŋɕie	daŋɕie	True	True
+2	어~	ʌ	ʌ	ʌp̚	True	False
+3	노동자	esʌ	nodoŋʣa	nodoŋʣa	False	False
+4	하루	nodoŋʣa	haru	haru	False	False
+5	임금이	haru	imgɯmi	imgɯmi	False	False
+6	일	imgɯmi	iɭ	iɭ	False	False
+7	리블이에요.	iʎ̟	ribɯriejo̞	ribɯriejo̞	False	False

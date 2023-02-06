@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	그렇고	esʌ	gɯrʌkʰo	gɯrʌkʰo	False	False
+2	그렇게	gɯrʌkʰo	gɯrʌkʰe	gɯrʌkʰe	False	False
+3	한	gɯrʌkʰe	han	han	False	False
+4	상황에서	han	saŋhwaŋesʌ	saŋhwaŋesʌ	False	False
+5	천구백삼십구년에	saŋhwaŋesʌ	tsʰʌngubɛk̚sʼa	tsʰʌngubɛk̚sʼa	False	False
+6	어~	tsʰʌngubɛk̚sʼamɕip̚kʼuɲjʌne	ʌ	ʌp̚	False	False
+7	폴란드를	ʌ	pʰoɭlandɯrɯɭ	pʰoɭlandɯrɯɭ	False	False
+8	서동	esʌ	sʌdoŋ	sʌdoŋ	False	False
+9	쪽에서는	pʰoɭlandɯrɯɭ	.tzogesʌnɯn	.tzogesʌnɯn	False	False
+10	러시아	sʌdoŋ	rʌɕia	rʌɕia	False	False
+11	소련이죠.	.tzogesʌnɯn	sorjʌɲiʣjo̞	sorjʌɲiʣjo̞	False	False
+12	당시에는	rʌɕia	daŋɕienɯn	daŋɕienɯn	False	False

@@ -1,0 +1,19 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	마음에	maɯme	maɯme	maɯme	True	True
+1	있는	innɯn	innɯn	innɯn	True	True
+2	틀을	tʰɯrɯɭ	tʰɯrɯɭ	tʰɯrɯɭ	True	True
+3	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+4	사용하는지에	sajo̞ŋhanɯnʣie	sajo̞ŋhanɯnʣie	sajo̞ŋhanɯnʣie	True	True
+5	따라서	tʼarasʌ	tʼarasʌ	tʼarasʌ	True	True
+6	우리가	uriga	uriga	uriga	True	True
+7	어떻게	ʌtʼʌkʰe	ʌtʼʌkʰe	ʌtʼʌkʰe	True	True
+8	사는지	sanɯnʣi	sanɯnʣi	sanɯnʣi	True	True
+9	결정되는	gjʌɭ.tzʌŋdwenɯn	gjʌɭ.tzʌŋdwenɯ	kjʌɭ.tzʌŋdwenɯ	False	False
+10	이런	irʌn	irʌn	irʌn	True	True
+11	입장을	ip̚.tzaŋɯɭ	ip̚.tzaŋɯɭ	ip̚.tzaŋɯɭ	True	True
+12	취하고	tsʰwihago	tsʰwihago	tsʰwihago	True	True
+13	있는	innɯn	innɯn	innɯn	True	True
+14	게	ge	ge	ge	True	True
+15	조금	ʣogɯm	ʣogɯm	ʣogɯm	True	True
+16	좋긴	ʣokʰin	ʣokʰin	.tzokʰin	True	False
+17	했었어요.	hɛsʼʌsʼʌjo̞	hɛsʼʌsʼʌjo̞	hɛsʼʌsʼʌjo̞	True	True

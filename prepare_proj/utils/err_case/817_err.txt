@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지금	t͡ɕigɯm	ʣigɯm	ʣigɯm	False	False
+1	사실	saɕiɭ	saɕiɭ	saɕiɭ	True	True
+2	제일	ʣeiɭ	ʣeiɭ	ʣeiɭ	True	True
+3	필요한	pʰirjo̞han	pʰirjo̞han	pʰirjo̞han	True	True
+4	것	gʌt̚	gʌt̚	gʌt̚	True	True
+5	중에	ʣuŋe	ʣuŋe	ʣuŋe	True	True
+6	하나가	hanaga	hanaga	hanaga	True	True
+7	그런	gɯrʌn	gɯrʌn	gɯrʌn	True	True
+8	덴	den	den	ten	True	False
+9	거	gʌ	gʌ	gʌ	True	True
+10	같은데	gatʰɯnde	gatʰɯnde	gatʰɯnde	True	True
+11	물론	muɭlon	muɭlon	muɭlon	True	True
+12	이제	iʣe	iʣe	iʣe	True	True
+13	산업	sanʌ	sanʌp̚	sanʌp̚	False	False
+14	현장에서	pʰjʌnʣaŋesʌ	hjʌnʣaŋesʌ	hjʌnʣaŋesʌ	False	False
+15	뭐	mwʌ	mwʌ	mwʌ	True	True
+16	무거운	mugʌun	mugʌun	mugʌun	True	True
+17	제품을	ʣepʰumɯɭ	ʣepʰumɯɭ	ʣepʰumɯɭ	True	True
+18	나른다거나	narɯndagʌna	narɯndagʌna	narɯndagʌna	True	True

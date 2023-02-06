@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	지금까지	t͡ɕigɯmkʼaʣi	ʣigɯmkʼaʣi	ʣigɯmkʼaʣi	False	False
+1	발견된	baɭgjʌndwen	baɭgjʌndwen	paɭgjʌndwen	True	False
+2	퀘이사	kʰweisa	kʰwiisa	kʰwiisa	False	False
+3	중에도	ʣuŋedo	ʣuŋedo	ʣuŋedo	True	True

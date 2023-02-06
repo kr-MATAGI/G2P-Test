@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저	t͡ɕʌ	ʣʌ	ʣʌ	False	False
+1	사실은	saɕirɯn	saɕirɯn	saɕirɯn	True	True
+2	저는	ʣʌnɯn	ʣʌnɯn	ʣʌnɯn	True	True
+3	이게	ige	ige	ige	True	True
+4	오다리가	odariga	odariga	odariga	True	True
+5	굉장히	gweŋʣaŋhi	gweŋʣaŋhi	gweŋʣaŋhi	True	True
+6	약간의	.jak̚kʼane	.jak̚kʼane	.jak̚kʼane	True	True
+7	저의	ʣʌi	ʣʌi	ʣʌi	True	True
+8	콤플렉스라서	kʰompʰɯɭlek̚sɯrasʌ	kʰompʰɯɭlek̚s	kʰompʰɯɭlek̚s	False	False

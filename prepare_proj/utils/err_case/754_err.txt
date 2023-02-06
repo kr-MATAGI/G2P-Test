@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이	i	i	i	True	True
+1	분이	buɲi	buɲi	buɲi	True	True
+2	이런	irʌn	irʌn	irʌn	True	True
+3	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+4	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+5	쉽게	ʃwip̚kʼe	ʃwip̚kʼe	ʃwip̚kʼe	True	True
+6	설명해주는	sʌɭmjʌŋhɛʣunɯn	sʌɭmjʌŋhɛʣun	sʌɭmjʌŋhɛʣun	False	False
+7	뭐	mwʌ	mwʌ	mwʌ	True	True
+8	교양서	gjo̞.jaŋsʌ	gjo̞.jaŋsʌ	kjo̞.jaŋsʌ	True	False
+9	이런	irʌn	irʌn	irʌn	True	True
+10	거	gʌ	gʌ	gʌ	True	True
+11	시리즈	ɕiriʣɯ	ɕiriʣɯ	ɕiriʣɯ	True	True
+12	많이	maɲi	maɲi	maɲi	True	True

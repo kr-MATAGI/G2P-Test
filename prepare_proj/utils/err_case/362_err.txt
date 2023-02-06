@@ -1,0 +1,27 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	나는	nanɯn	nanɯn	nanɯn	True	True
+1	카메라가	kʰameraga	kʰameraga	kʰameraga	True	True
+2	없으니까	ʌp̚sʼɯɲikʼa	ʌp̚sʼɯɲikʼa	ʌp̚sʼɯɲikʼa	True	True
+3	내	nɛ	nɛ	nɛ	True	True
+4	머리로	mʌriro	mʌriro	mʌriro	True	True
+5	기억을	giʌgɯɭ	giʌgɯɭ	kiʌgɯɭ	True	False
+6	해야지	hɛ.jaʣi	hɛ.jaʣi	hɛ.jaʣi	True	True
+7	이렇케	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+8	마음에	maɯme	maɯme	maɯme	True	True
+9	담아두시고	damaduɕigo	damaduɕigo	damaduɕigo	True	True
+10	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+11	아~	a	a	ak̚	True	False
+12	제가	esʌ	ʣega	ʣega	False	False
+13	생각을	ʣega	sɛŋgagɯɭ	sɛŋgagɯɭ	False	False
+14	해보니까	sɛŋgagɯɭ	hɛboɲikʼa	hɛboɲikʼa	False	False
+15	내	hɛboɲikʼa	nɛ	nɛ	False	False
+16	마음속에	nɛ	maɯmsʼoge	maɯmsoge	False	False
+17	이미	maɯmsʼoge	imi	imi	False	False
+18	있겠구나라고	imi	it̚kʼet̚kʼunara	it̚kʼet̚kʼunara	False	False
+19	생각을	it̚kʼet̚kʼunarago	sɛŋgagɯɭ	sɛŋgagɯɭ	False	False
+20	하니까	sɛŋgagɯɭ	haɲikʼa	haɲikʼa	False	False
+21	좀	haɲikʼa	ʣom	ʣom	False	False
+22	위로가	ʣom	wiroga	wiroga	False	False
+23	돼더라고요.	wiroga	dwɛdʌragojo̞	twɛdʌragojo̞	False	False
+24	사진은	dwɛdʌragojo̞	saʣinɯn	saʣinɯn	False	False
+25	아까웠지만	saʣinɯn	akʼawʌt̚.tziman	akʼawʌt̚.tziman	False	False

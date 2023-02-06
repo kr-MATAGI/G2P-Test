@@ -1,0 +1,11 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그~	kɯ	gɯ	gɯp̚	False	False
+1	쿠르드	esʌ	kʰurɯdɯ	kʰurɯdɯ	False	False
+2	괴델이	kʰurɯdɯ	kʰwederi	kwederi	False	False
+3	처음에	gwedeɭi	tsʰʌɯme	tsʰʌɯme	False	False
+4	시간	tsʰʌɯme	ɕigan	ɕigan	False	False
+5	여행이	ɕigan	jʌhɛŋi	jʌhɛŋi	False	False
+6	가능하다는	ɲjʌhɛŋi	ganɯŋhadanɯn	kanɯŋhadanɯn	False	False
+7	해를	ganɯŋhadanɯn	hɛrɯɭ	hɛrɯɭ	False	False
+8	발견을	hɛrɯɭ	baɭgjʌnɯɭ	paɭgjʌnɯɭ	False	False
+9	했고	baɭgjʌnɯɭ	hɛt̚kʼo	hɛt̚kʼo	False	False

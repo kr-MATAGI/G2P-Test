@@ -1,0 +1,24 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	뭐	mwʌ	mwʌ	mwʌ	True	True
+2	하나	hana	hana	hana	True	True
+3	역관들	jʌk̚kʼwandɯɭ	jʌk̚kʼwandɯɭ	jʌk̚kʼwandɯɭ	True	True
+4	외국하고	wegukʰago	wegukʰago	wegukʰago	True	True
+5	무역	mujʌk̚	mujʌk̚	mujʌk̚	True	True
+6	이제	iʣe	iʣe	iʣe	True	True
+7	중국하고	ʣuŋgukʰago	ʣuŋgukʰago	ʣuŋgukʰago	True	True
+8	특히	tʰɯkʰi	tʰɯkʰi	tʰɯkʰi	True	True
+9	무역하면은	mujʌkʰamjʌnɯn	mujʌkʰamjʌnɯn	mujʌkʰamjʌnɯn	True	True
+10	그	gɯ	gɯ	gɯ	True	True
+11	외국을	wegugɯɭ	wegugɯɭ	wegugɯɭ	True	True
+12	왔다	wat̚tʼa	wat̚tʼa	wat̚tʼa	True	True
+13	갔다	gat̚tʼa	gat̚tʼa	gat̚tʼa	True	True
+14	하믄	hamɯn	hamɯn	hamɯn	True	True
+15	또	tʼo	tʼo	tʼo	True	True
+16	외국에	weguge	weguge	weguge	True	True
+17	그~	gɯ	gɯ	gɯp̚	True	False
+18	어디	esʌ	ʌdi	ʌdi	False	False
+19	여러	ʌdi	jʌrʌ	jʌrʌ	False	False
+20	재료	jʌrʌ	ʣɛrjo̞	ʣɛrjo̞	False	False
+21	식재료니	ʣɛrjo̞	ɕik̚.tzɛrjo̞ɲi	ɕik̚.tzɛrjo̞ɲi	False	False
+22	뭐xxx니	ɕik̚.tzɛrjo̞ɲi	mwʌxxx	mwʌxxxɲi	False	False

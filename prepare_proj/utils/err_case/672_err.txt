@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어	ʌ	ʌ	ʌ	True	True
+1	베토벤에게	betʰobenege	betʰobenege	petʰobenege	True	False
+2	거울과	gʌuɭgwa	gʌuɭgwa	gʌuɭgwa	True	True
+3	같은	gatʰɯ	gatʰɯn	gatʰɯn	False	False
+4	인물이거든요.	ɲinmurigʌdɯɲjo̞	inmurigʌdɯɲjo̞	inmurigʌdɯɲjo̞	False	False

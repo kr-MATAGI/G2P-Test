@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어떤	ʌtʼʌn	ʌtʼʌn	ʌtʼʌn	True	True
+1	연결	ɲjʌngjʌɭ	jʌngjʌɭ	jʌngjʌɭ	False	False
+2	고리가	goriga	goriga	koriga	True	False
+3	붙었다	butʰʌt̚tʼa	butʰʌt̚tʼa	butʰʌt̚tʼa	True	True
+4	끊어졌다	kʼɯnʌʣʌt̚tʼa	kʼɯnʌʣʌt̚tʼa	kʼɯnʌʣʌt̚tʼa	True	True
+5	하는	hanɯn	hanɯn	hanɯn	True	True
+6	거야.	gʌ.ja	gʌ.ja	gʌ.ja	True	True

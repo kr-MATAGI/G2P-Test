@@ -1,0 +1,7 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그냥	kɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	False	False
+1	경험적으로만	gjʌŋhʌmʣʌgɯroman	gjʌŋhʌmʣʌgɯro	kjʌŋhʌmʣʌgɯro	False	False
+2	모든	modɯn	modɯn	modɯn	True	True
+3	게	ge	ge	ge	True	True
+4	결정되지	gjʌɭ.tzʌŋdweʣi	gjʌɭ.tzʌŋdweʣi	kjʌɭ.tzʌŋdweʣi	True	False
+5	않아요.	anajo̞	anajo̞	anajo̞	True	True

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	계속	kʲesok̚	gʲesok̚	gʲesok̚	False	False
+1	먹게	mʌk̚kʼe	mʌk̚kʼe	mʌk̚kʼe	True	True
+2	되는	dwenɯn	dwenɯn	dwenɯn	True	True
+3	식품이	ɕik̚pʰumi	ɕik̚pʰumi	ɕik̚pʰumi	True	True
+4	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

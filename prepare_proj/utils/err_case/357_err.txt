@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	네네.	nene	nene	nene	True	True
+1	너무	nʌmu	nʌmu	nʌmu	True	True
+2	균일하면	gjuɲiɭhamjʌ	gjuɲiɭhamjʌn	gjuɲiɭhamjʌn	False	False
+3	안생기는데	nan	ansɛŋginɯnde	ansɛŋginɯnde	False	False
+4	그때	sɛŋginɯnde	gɯtʼɛ	gɯtʼɛ	False	False
+5	그러면	gɯtʼɛ	kɯrʌmjʌn	gɯrʌmjʌn	False	False
+6	그	gɯrʌmjʌn	gɯ	gɯ	False	False
+7	균일하지	gɯ	gjuɲiɭhaʣi	gjuɲiɭhaʣi	False	False
+8	않은	gjuɲiɭhaʣi	anɯn	anɯn	False	False
+9	그런	anɯn	gɯrʌn	gɯrʌn	False	False
+10	흠들이	gɯrʌn	hɯmdɯri	hɯmdɯri	False	False
+11	왜	hɯmdɯri	wɛ	wɛ	False	False
+12	생겼냐	wɛ	sɛŋgjʌnɲ.ja	sɛŋgjʌnɲ.ja	False	False

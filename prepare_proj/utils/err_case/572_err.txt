@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그냥	kɯɲ.jaŋ	gɯɲ.jaŋ	gɯɲ.jaŋ	False	False
+1	입자로	ip̚.tzaro	ip̚.tzaro	ip̚.tzaro	True	True
+2	다	da	da	ta	True	False
+3	설명할려는	sʌɭmjʌŋhaɭʎ̟jʌnɯn	sʌɭmjʌŋhaɭʎ̟	sʌɭmjʌŋhaɭʎ̟	False	False
+4	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

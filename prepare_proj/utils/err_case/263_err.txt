@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	사는	esʌ	sanɯn	sanɯn	False	False
+2	이유도	sanɯn	ɲi.judo	i.judo	False	False
+3	그렇고	ɲi.judo	gɯrʌkʰo	gɯrʌkʰo	False	False
+4	살아가는	gɯrʌkʰo	saraganɯn	saraganɯn	False	False
+5	이유	saraganɯn	i.ju	i.ju	False	False
+6	뭐	ɲi.ju	mwʌ	mwʌ	False	False
+7	다	mwʌ	da	ta	False	False
+8	사랑이다.	da	saraŋɲida	saraŋida	False	False

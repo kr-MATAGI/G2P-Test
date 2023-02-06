@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그런	kɯrʌn	gɯrʌn	gɯrʌn	False	False
+1	식으로	ɕigɯro	ɕigɯro	ɕigɯro	True	True
+2	대답을	dɛdabɯɭ	dɛdabɯɭ	tɛdabɯɭ	True	False
+3	한	han	han	han	True	True
+4	거예요.	gʌjejo̞	gʌjejo̞	gʌjejo̞	True	True

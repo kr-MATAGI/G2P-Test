@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어쨌든	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	ʌ.tzɛt̚tʼɯn	True	True
+1	어느	ʌnɯ	ʌnɯ	ʌnɯ	True	True
+2	쪽에서는	.tzogesʌnɯn	.tzogesʌnɯn	.tzogesʌnɯn	True	True
+3	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+4	망해	maŋhɛ	maŋhɛ	maŋhɛ	True	True
+5	버리는	bʌrinɯn	bʌrinɯn	pʌrinɯn	True	False
+6	이	i	i	i	True	True
+7	화성	hwasʌŋ	hwasʌŋ	hwasʌŋ	True	True
+8	가는	ganɯn	ganɯn	ganɯn	True	True
+9	길	giɭ	giɭ	kiɭ	True	False
+10	어느	ʌnɯ	ʌnɯ	ʌnɯ	True	True
+11	쪽에서는	.tzogesʌnɯn	.tzogesʌnɯn	.tzogesʌnɯn	True	True
+12	또	tʼo	tʼo	tʼo	True	True
+13	xxx있고	xxx	xxx	xxxit̚kʼo	True	False

@@ -1,0 +1,22 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	커리큘럼에	kʰʌrikʰjuɭlʌme	kʰʌrikʰjuɭlʌme	kʰʌrikʰjurʌme	True	False
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+2	아까	akʼa	akʼa	akʼa	True	True
+3	얘기한	jɛgihan	jɛgihan	jɛgihan	True	True
+4	것처럼	gʌt̚tsʰʌrʌm	gʌt̚tsʰʌrʌm	kʌt̚tsʰʌrʌm	True	False
+5	사람들이	saramdɯri	saramdɯri	saramdɯri	True	True
+6	자연으로부터	ʣajʌnɯrobutʰʌ	ʣajʌnɯrobutʰʌ	t͡ɕajʌnɯrobutʰ	True	False
+7	삶과	samkʼwa	samkʼwa	saɭkʼwa	True	False
+8	지혜에	ʣihʲee	ʣihʲee	ʣihʲee	True	True
+9	의존하기	ɰiʣonhagi	ɰiʣonhagi	ɰiʣonhagi	True	True
+10	땜에	tʼɛme	tʼɛme	tʼɛme	True	True
+11	부탄은	butʰanɯn	butʰanɯn	butʰanɯn	True	True
+12	모든	modɯn	modɯn	modɯn	True	True
+13	커리큘럼에	kʰʌrikʰjuɭlʌme	kʰʌrikʰjuɭlʌme	kʰʌrikʰjurʌme	True	False
+14	자연과	ʣajʌngwa	ʣajʌngwa	.tzajʌngwa	True	False
+15	접촉돼	ʣʌp̚tsʰok̚tʼwɛ	ʣʌp̚tsʰok̚tʼw	ʣʌp̚tsʰok̚tʼw	False	False
+16	있는	innɯn	innɯn	innɯn	True	True
+17	게	ge	ge	ge	True	True
+18	다	da	da	ta	True	False
+19	들어가	dɯrʌga	dɯrʌga	dɯrʌga	True	True
+20	있어요.	isʼʌjo̞	isʼʌjo̞	isʼʌjo̞	True	True

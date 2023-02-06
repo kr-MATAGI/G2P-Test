@@ -1,0 +1,20 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그거는	kɯgʌnɯn	gɯgʌnɯn	gɯgʌnɯn	False	False
+1	그	gɯ	gɯ	gɯ	True	True
+2	사람이	sarami	sarami	sarami	True	True
+3	그런	gɯrʌ	gɯrʌn	gɯrʌn	False	False
+4	의학	nɰihak̚	ɰihak̚	ɰihak̚	False	False
+5	지식을	.tziɕigɯɭ	ʣiɕigɯɭ	ʣiɕigɯɭ	False	False
+6	갖고	gat̚kʼo	gat̚kʼo	gat̚kʼo	True	True
+7	있기	it̚kʼi	it̚kʼi	it̚kʼi	True	True
+8	때문에	tʼɛmune	tʼɛmune	tʼɛmune	True	True
+9	망막에	maŋmage	maŋmage	maŋmage	True	True
+10	맺	mɛt̚	mɛt̚	mɛt̚	True	True
+11	맺힌	mɛtsʰin	mɛtsʰin	mɛtʰin	True	False
+12	그~	gɯ	gɯ	gɯp̚	True	False
+13	비친	esʌ	bitsʰin	bitsʰin	False	False
+14	상은	bitsʰin	saŋɯn	saŋɯn	False	False
+15	똑같지만	saŋɯn	tʼok̚kʼat̚.tzim	tʼok̚kʼat̚.tzim	False	False
+16	달리	tʼok̚kʼat̚.tziman	daɭʎ̟i	taɭʎ̟i	False	False
+17	보인다는	daɭʎ̟i	boindanɯn	boindanɯn	False	False
+18	거죠.	boindanɯn	gʌʣjo̞	gʌʣjo̞	False	False

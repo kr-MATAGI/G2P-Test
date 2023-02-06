@@ -1,0 +1,12 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	니체는	ɲitsʰenɯn	ɲitsʰenɯn	ɲitsʰenɯn	True	True
+1	책에서	tsʰɛgesʌ	tsʰɛgesʌ	tsʰɛgesʌ	True	True
+2	초인에	tsʰoine	tsʰoine	tsʰoine	True	True
+3	도달하기	dodaɭhagi	dodaɭhagi	dodaɭhagi	True	True
+4	위한	wihan	wihan	wihan	True	True
+5	인간	ingan	ingan	ingan	True	True
+6	정신의	ʣʌŋɕine	ʣʌŋɕine	t͡ɕʌŋɕine	True	False
+7	세	se	se	se	True	True
+8	단계를	dangʲerɯɭ	dangʲerɯɭ	dangʲerɯɭ	True	True
+9	이렇게	irʌkʰe	irʌkʰe	irʌkʰe	True	True
+10	표현합니다.	pʰjo̞hjʌnhamɲida	pʰjo̞hjʌnhamɲid	pʰjo̞hjʌnhamɲid	False	False

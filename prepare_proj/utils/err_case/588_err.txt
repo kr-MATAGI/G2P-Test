@@ -1,0 +1,10 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저걸	t͡ɕʌgʌɭ	ʣʌgʌɭ	ʣʌgʌɭ	False	False
+1	쓰고	sʼɯgo	sʼɯgo	sʼɯgo	True	True
+2	있을	isʼɯɭ	isʼɯɭ	isʼɯɭ	True	True
+3	수도	sudo	sudo	sudo	True	True
+4	어~	ʌ	ʌ	ʌp̚	True	False
+5	그	esʌ	gɯ	gɯ	False	False
+6	개연성은	gɯ	gɛjʌnsʌŋɯn	kɛjʌnsʌŋɯn	False	False
+7	있는	gɛjʌnsʼʌŋɯn	innɯn	innɯn	False	False
+8	거죠.	innɯn	gʌʣjo̞	gʌʣjo̞	False	False

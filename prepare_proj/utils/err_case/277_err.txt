@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	장영실이	t͡ɕaŋjʌŋɕiɭi	ʣaŋjʌŋɕiɭi	ʣaŋjʌŋɕiri	False	False
+1	대부분	dɛbubun	dɛbubun	tɛbubun	True	False
+2	다	da	da	ta	True	False
+3	먼저	mʌnʣʌ	mʌnʣʌ	mʌnʣʌ	True	True
+4	나옵니다.	naomɲida	naomɲida	naomɲida	True	True

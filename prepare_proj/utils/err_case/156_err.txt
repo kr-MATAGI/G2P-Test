@@ -1,0 +1,4 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그게	kɯge	gɯge	gɯge	False	False
+1	천구백이십오년의	tsʰʌngubɛgiɕiboɲjʌne	tsʰʌngubɛgiɕibo	tsʰʌngubɛgiɕibo	False	False
+2	상황이죠.	saŋhwaŋiʣjo̞	saŋhwaŋiʣjo̞	saŋhwaŋiʣjo̞	True	True

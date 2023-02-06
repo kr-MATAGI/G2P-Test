@@ -1,0 +1,13 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이명수	imjʌŋsu	imjʌŋsu	imjʌŋsu	True	True
+1	작가는	ʣak̚kʼanɯn	ʣak̚kʼanɯn	ʣak̚kʼanɯn	True	True
+2	아내와	anɛwa	anɛwa	anɛwa	True	True
+3	함께	hamkʼe	hamkʼe	hamkʼe	True	True
+4	심적으로	ɕim.tzʌgɯro	ɕim.tzʌgɯro	ɕimʣʌgɯro	True	False
+5	괴로워하는	gwerowʌhanɯn	gwerowʌhanɯn	kwerowʌhanɯn	True	False
+6	사람들을	saramdɯrɯɭ	saramdɯrɯɭ	saramdɯrɯɭ	True	True
+7	위한	wihan	wihan	wihan	True	True
+8	여러	jʌrʌ	jʌrʌ	jʌrʌ	True	True
+9	프로그램을	pʰɯrogɯrɛmɯɭ	pʰɯrogɯrɛmɯɭ	pʰɯrogɯrɛmɯɭ	True	True
+10	만들어	mandɯrʌ	mandɯrʌ	mandɯrʌ	True	True
+11	진행해왔습니다.	ʣinhɛŋhɛwat̚sʼɯmɲida	ʣinhɛŋhɛwat̚s	t͡ɕinhɛŋhɛwat	False	False

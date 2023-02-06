@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	가끔씩	kakʼɯmɕʼiŋ	gakʼɯmɕʼik̚	kakʼɯmɕʼik̚	False	False
+1	이렇게	ɲirʌkʰe	irʌkʰe	irʌkʰe	False	False
+2	과학적	gwahak̚.tzʌk̚	gwahak̚.tzʌk̚	kwahak̚.tzʌk̚	True	False
+3	사건이나	sakʼʌɲina	sakʼʌɲina	sakʼʌɲina	True	True
+4	뉴스	ɲjusɯ	ɲjusɯ	ɲjusɯ	True	True
+5	나올	naoɭ	naoɭ	naoɭ	True	True
+6	때	tʼɛ	tʼɛ	tʼɛ	True	True
+7	저한테	ʣʌhantʰe	ʣʌhantʰe	ʣʌhantʰe	True	True
+8	메시지를	meɕiʣirɯɭ	meɕiʣirɯɭ	meɕiʣirɯɭ	True	True
+9	주시고	ʣuɕigo	ʣuɕigo	ʣuɕigo	True	True
+10	물어보시는	murʌboɕinɯn	murʌboɕinɯn	murʌboɕinɯn	True	True
+11	분들이	bundɯri	bundɯri	bundɯri	True	True
+12	계신데	gʲeɕinde	gʲeɕinde	gʲeɕinde	True	True
+13	대부분	dɛbubun	dɛbubun	tɛbubun	True	False
+14	금시초문이에요.	gɯmɕitsʰomuɲiejo̞	gɯmɕitsʰomuɲiej	kɯmɕitsʰomuɲiej	False	False

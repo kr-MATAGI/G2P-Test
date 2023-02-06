@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그쵸.	kɯtsʰjo̞	gɯtsʰjo̞	gɯtsʰjo̞	False	False
+1	모성을	mosʌŋɯɭ	mosʌŋɯɭ	mosʌŋɯɭ	True	True
+2	얘기해야	jɛgihɛ.ja	jɛgihɛ.ja	jɛgihɛ.ja	True	True
+3	되는데	dwenɯnde	dwenɯnde	dwenɯnde	True	True

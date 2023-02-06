@@ -1,0 +1,5 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	어~	ʌ	ʌ	ʌp̚	True	False
+1	그런	esʌ	gɯrʌn	gɯrʌn	False	False
+2	시대이기도	gɯrʌn	ɕidɛigido	ɕidɛigido	False	False
+3	하고요.	ɕidɛigido	hagojo̞	hagojo̞	False	False

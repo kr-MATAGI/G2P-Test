@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	저도	t͡ɕʌdo	ʣʌdo	ʣʌdo	False	False
+1	영국에서	jʌŋgugesʌ	jʌŋgugesʌ	jʌŋgugesʌ	True	True
+2	딱	tʼak̚	tʼak̚	tʼak̚	True	True
+3	일년을	iʎ̟	iʎ̟	iɭʎ̟jʌnɯɭ	True	False
+4	살았는데	rjʌnɯɭ	sarannɯnde	sarannɯnde	False	False

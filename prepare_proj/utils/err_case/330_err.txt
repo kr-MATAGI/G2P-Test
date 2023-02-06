@@ -1,0 +1,15 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	석조	sʌk̚.tzo	sʌk̚.tzo	sʌk̚.tzo	True	True
+1	건물	gʌnmuɭ	gʌnmuɭ	kʌnmuɭ	True	False
+2	위주로	lwiʣuro	wiʣuro	wiʣuro	False	False
+3	역사를	jʌk̚sʼarɯɭ	jʌk̚sʼarɯɭ	jʌk̚sʼarɯɭ	True	True
+4	재해석하지만	ʣɛhɛsʌkʰaʣiman	ʣɛhɛsʌkʰaʣima	t͡ɕɛhɛsʌkʰaʣ	False	False
+5	목조	mok̚.tzo	mok̚.tzo	mok̚.tzo	True	True
+6	건물이	gʌnmuri	gʌnmuri	kʌnmuri	True	False
+7	있었든	isʼʌt̚tʼɯn	isʼʌt̚tʼɯn	isʼʌt̚tʼɯn	True	True
+8	것을	gʌsɯɭ	gʌsɯɭ	gʌsɯɭ	True	True
+9	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+10	확장	hwak̚.tzaŋ	hwak̚.tzaŋ	hwak̚.tzaŋ	True	True
+11	시켜서	ɕikʰjʌsʌ	ɕikʰjʌsʌ	ɕikʰjʌsʌ	True	True
+12	역사로	jʌk̚sʼaro	jʌk̚sʼaro	jʌk̚sʼaro	True	True
+13	서술하잖아요.	sʌsuɭhaʣanajo̞	sʌsuɭhaʣanajo̞	sʌsuɭhaʣanajo̞	True	True

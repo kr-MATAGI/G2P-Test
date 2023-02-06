@@ -1,0 +1,8 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	이정도로	i	iʣʌŋdoro	iʣʌŋdoro	False	False
+1	역사가	ʣʌŋdoro	jʌk̚sʼaga	jʌk̚sʼaga	False	False
+2	있는	jʌk̚sʼaga	innɯn	innɯn	False	False
+3	곳이고	innɯn	goɕigo	goɕigo	False	False
+4	물론이제폭력혁명을	goɕigo	muɭloɲi	muɭloɲiʣepʰoŋ	False	False
+5	추구하지	muɭlon	tsʰuguhaʣi	tsʰuguhaʣi	False	False
+6	않구요.	iʣe	ankʰujo̞	ankʰujo̞	False	False

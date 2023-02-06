@@ -1,0 +1,16 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그래서	kɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	True	False
+1	제가	ʣega	ʣega	ʣega	True	True
+2	저~	ʣʌ	ʣʌ	ʣʌp̚	True	False
+3	일본	esʌ	iɭbon	iɭbon	False	False
+4	갔을	iɭbon	gasʼɯɭ	gasʼɯɭ	False	False
+5	때	gasʼɯɭ	tʼɛ	tʼɛ	False	False
+6	그~	tʼɛ	gɯ	gɯp̚	False	False
+7	하유부사호	gɯ	ha.jubusaho	ha.jubusaho	False	False
+8	갖고	esʌ	gat̚kʼo	gat̚kʼo	False	False
+9	온	ha	on	on	False	False
+10	눈곱만	.jubu	nungomman	nungomman	False	False
+11	한	saho	han	han	False	False
+12	정말	gat̚kʼo	ʣʌŋmaɭ	.tzʌŋmaɭ	False	False
+13	눈곱	on	nungop̚	nungop̚	False	False
+14	만해요.	nungommanhan	manhɛjo̞	manhɛjo̞	False	False

@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리를	urirɯɭ	urirɯɭ	urirɯɭ	True	True
+1	기준으로	kʼiʣunɯro	giʣunɯro	kiʣunɯro	False	False
+2	또	tʼo	tʼo	tʼo	True	True
+3	보기	bogi	bogi	bogi	True	True
+4	때문이잖아요.	tʼɛmuɲiʣanajo̞	tʼɛmuɲiʣanajo̞	tʼɛmuɲiʣanajo̞	True	True

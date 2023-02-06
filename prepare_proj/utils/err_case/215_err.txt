@@ -1,0 +1,18 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	또	tʼo	tʼo	tʼo	True	True
+1	어~	ʌ	ʌ	ʌp̚	True	False
+2	이	esʌ	i	i	False	False
+3	실제	i	ɕiɭ.tze	ɕiɭ.tze	False	False
+4	윤동주	ɕiɭ.tze	.jundoŋʣu	.jundoŋʣu	False	False
+5	시인의	.jundoŋʣu	ɕiine	ɕiine	False	False
+6	시비가	ɕiine	ɕibiga	ɕibiga	False	False
+7	일본에	ɕibiga	iɭbone	iɭbone	False	False
+8	그~	iɭbone	gɯ	gɯp̚	False	False
+9	뭐~	gɯ	mwʌ	mwʌ	False	False
+10	그~	esʌ	gɯ	gɯp̚	False	False
+11	설립이	mwʌ	sʌɭʎ̟ibi	sʌɭʎ̟ibi	False	False
+12	추진	esʌ	tsʰuʣin	tsʰuʣin	False	False
+13	중이다	gɯ	ʣuŋida	ʣuŋida	False	False
+14	이런	esʌ	irʌn	irʌn	False	False
+15	이야기를	sʌɭʎ̟ibi	i.jagirɯɭ	i.jagirɯɭ	False	False
+16	들으셨나봐요.	tsʰuʣin	dɯrɯsjʌnnabwajo	dɯrɯsjʌnnabwajo	False	False

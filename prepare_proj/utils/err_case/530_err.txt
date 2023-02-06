@@ -1,0 +1,6 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	요거는	jo̞gʌnɯn	jo̞gʌnɯn	jo̞gʌnɯn	True	True
+1	또	tʼo	tʼo	tʼo	True	True
+2	제	ʣe	ʣe	ʣe	True	True
+3	머릿속의	mʌrisʼoge	mʌrit̚sʼoge	mʌrit̚sʼoge	False	False
+4	지도고	ʣidogo	ʣidogo	.tzidogo	True	False

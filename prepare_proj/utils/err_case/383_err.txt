@@ -1,0 +1,14 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그랬을	kɯrɛsʼɯɭ	gɯrɛsʼɯɭ	gɯrɛsʼɯɭ	False	False
+1	때	tʼɛ	tʼɛ	tʼɛ	True	True
+2	이거를	igʌrɯɭ	igʌrɯɭ	igʌrɯɭ	True	True
+3	제대로	ʣedɛro	ʣedɛro	.tzedɛro	True	False
+4	계승해서	gʲesɯŋhɛsʌ	gʲesɯŋhɛsʌ	gʲesɯŋhɛsʌ	True	True
+5	더	dʌ	dʌ	dʌ	True	True
+6	빠르고	pʼarɯgo	pʼarɯgo	pʼarɯgo	True	True
+7	확실하게	hwak̚ɕʼiɭhage	hwak̚ɕʼiɭhage	hwak̚ɕʼiɭhage	True	True
+8	발전시키는	baɭ.tzʌnɕikʰinɯn	baɭ.tzʌnɕikʰin	paɭ.tzʌnɕikʰin	False	False
+9	거는	gʌnɯn	gʌnɯn	gʌnɯn	True	True
+10	기계가	gigʲega	gigʲega	kigʲega	True	False
+11	나을지도	naɯɭ.tzido	naɯɭ.tzido	naɯɭ.tzido	True	True
+12	모른다.	morɯnda	morɯnda	morɯnda	True	True

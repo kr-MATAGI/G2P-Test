@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	그러한	kɯrʌhan	gɯrʌhan	gɯrʌhan	False	False
+1	개념을	gɛɲjʌmɯɭ	gɛɲjʌmɯɭ	kɛɲjʌmɯɭ	True	False
+2	이제	iʣe	iʣe	iʣe	True	True
+3	처음	tsʰʌɯm	tsʰʌɯm	tsʰʌɯm	True	True
+4	발견을	baɭgjʌnɯɭ	baɭgjʌnɯɭ	paɭgjʌnɯɭ	True	False
+5	하고	hago	hago	hago	True	True
+6	논문을	nonmunɯɭ	nonmunɯɭ	nonmunɯɭ	True	True
+7	이제	iʣe	iʣe	iʣe	True	True
+8	빨리	pʼaɭʎ̟i	pʼaɭʎ̟i	pʼaɭʎ̟i	True	True
+9	제출을	ʣetsʰurɯɭ	ʣetsʰurɯɭ	ʣetsʰurɯɭ	True	True
+10	했던	hɛt̚tʼʌn	hɛt̚tʼʌn	hɛt̚tʼʌn	True	True
+11	게	ge	ge	ge	True	True
+12	아마	ama	ama	ama	True	True
+13	중요하지	ʣuŋjo̞haʣi	ʣuŋjo̞haʣi	ʣuŋjo̞haʣi	True	True
+14	않았을까라는	anasʼɯɭkʼaranɯn	anasʼɯɭkʼaranɯ	anasʼɯɭkʼaranɯ	False	False
+15	생각을	sɛŋgagɯɭ	sɛŋgagɯɭ	sɛŋgagɯɭ	True	True

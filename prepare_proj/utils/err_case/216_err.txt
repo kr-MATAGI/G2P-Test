@@ -1,0 +1,17 @@
+word	ipa	word_pred	sent_pred	is_word_wrong	is_sent_wrong
+0	우리	uri	uri	uri	True	True
+1	콘텐츠를	kʰontʰentsʰɯrɯɭ	kʰontʰentsʰɯrɯ	kʰontʰentsʰɯrɯ	False	False
+2	찾아야되겠다라는	tsʰaʣa.ja	tsʰaʣa.jadweget̚	tsʰaʣa.jadweget̚	False	False
+3	게	dweget̚tʼa	ge	ge	False	False
+4	사실	ranɯn	saɕiɭ	saɕiɭ	False	False
+5	우리	ge	uri	uri	False	False
+6	서울시립xx단의	saɕiɭ	sʌuɭɕirip̚kʼxt	sʌuɭɕʼirip̚kʰ	False	False
+7	그	uri	gɯ	gɯ	False	False
+8	의문이기도	sʌuɭ	ɰimuɲigido	ɰimuɲigido	False	False
+9	해서	ɕirip̚	hɛsʌ	hɛsʌ	False	False
+10	그	xx	gɯ	gɯ	False	False
+11	서울의	dane	sʌure	sʌure	False	False
+12	달이라는	gɯ	dariranɯn	tariranɯn	False	False
+13	작품	ɰimuɲigido	ʣak̚pʰum	ʣak̚pʰum	False	False
+14	선택을	hɛsʌ	sʌntʰɛgɯɭ	sʌntʰɛgɯɭ	False	False
+15	했구요.	gɯ	hɛt̚kʼujo̞	hɛt̚kʼujo̞	False	False
