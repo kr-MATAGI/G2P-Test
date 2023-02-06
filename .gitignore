@@ -7,4 +7,5 @@ results/
 
 ### corpus
 *.json
-prepare_proj/data/corpus/NIKL/only_text/nikl_only_text.txt
+
+prepare_proj/data/corpus/NIKL/*

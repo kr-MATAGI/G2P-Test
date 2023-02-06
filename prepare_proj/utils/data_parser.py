@@ -86,7 +86,7 @@ class NiklParser:
         self.src_file_list = os.listdir(src_dir)
         print(f"[NiklParser][__init__] src_dir - size: {len(self.src_file_list)}, list: {self.src_file_list}")
 
-    def parse_text(self, data_split_size: int=10000):
+    def parse_text(self, data_split_size: int=20000):
         all_text = []
         for f_idx, file_name in enumerate(self.src_file_list):
             full_path = self.src_dir + "/" + file_name
@@ -124,8 +124,37 @@ class NiklParser:
                 f.write(src_item + "\n")
             print(f"[NIKLParser][save_txt] Complete - Save.size: {len(src_data)}")
 
+    def extract_data_from_converted_results(self, src_dir_path: str, save_path: str, target_size: int):
+        '''
+            모두의 말뭉치 -> 부산대 발음변환기에서 변환된 파일만을 가지고 일정 데이터 추출
+        '''
+        print(f"[extract_data_from_converted_results] src_dir_path: {src_dir_path}")
+
+        # Load Results
+        result_file_list = os.listdir(src_dir_path)
+        print(f"[extract_data_from_converted_results] result_file_list size: {len(result_file_list)}\n{result_file_list}")
+
+        all_result_data = []
+        for file_name in result_file_list:
+            with open(src_dir_path+"/"+file_name, mode="r", encoding="utf-8") as f:
+                inner_file_data = f.readlines()
+                all_result_data.extend(inner_file_data)
+        print(f"[extract_data_from_converted_results] all_result_data size: {len(all_result_data)}\n{all_result_data[:5]}")
+        all_result_data = random.choices(population=all_result_data, k=10000)
+        print(f"[extract_data_from_converted_results] rand.choices.size: {target_size}\n{all_result_data[:5]}")
+
+        # Save
+        with open(save_path, mode="w", encoding="utf-8") as f:
+            for shuffled_data in all_result_data:
+                f.write(shuffled_data)
+            print(f"[extract_data_from_converted_results] Complete Save ! : {save_path}")
+
 ### MAIN ###
 if __name__ == '__main__':
     nikl_parser = NiklParser(src_dir="../data/corpus/NIKL/SXNE2102203310")
-    nikl_forms = nikl_parser.parse_text()
-    nikl_parser.save_text(src_data=nikl_forms, save_path="../data/corpus/NIKL/only_text/nikl_only_text.txt")
+    # nikl_forms = nikl_parser.parse_text()
+    # nikl_parser.save_text(src_data=nikl_forms, save_path="../data/corpus/NIKL/only_text/nikl_only_text.txt")
+    nikl_parser.extract_data_from_converted_results(src_dir_path="../data/corpus/NIKL/nikl_ipa_converted/results",
+                                                    save_path="../data/corpus/NIKL/for_byT5.txt",
+                                                    target_size=10000)
+
