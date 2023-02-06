@@ -1,11 +1,12 @@
 from transformers import T5ForConditionalGeneration, AutoTokenizer
 from utils.data_parser import SIG_parser, NiklParser
-from utils.convert_pronun import ConvertPronun
 
 import argparse
 import torch
 import os
 import json
+
+import pickle
 
 from dataclasses import dataclass
 from attrdict import AttrDict
@@ -88,21 +89,23 @@ if __name__ == '__main__':
 
     nikl_parser = NiklParser(src_dir="")  # For Load Dataset
     _, _, test_data = nikl_parser.load_nikl_data(target_path="data/NIKL/for_byT5.txt")
-    pred_buffer = [] # [ (idx, sent, ipa, pred, conv_pred) ]
+    pred_buffer = [] # [ (idx, sent, ipa, phones) ]
     for t_idx, item in enumerate(test_data):
+        if 0 == (t_idx % 50):
+            print(t_idx, "is processing...")
         sent = item["word"].split(" ")
         ipa = item["ipa"].split(" ")
         kor_pron = item["pron"]
 
-        sent = ["<kor>: " + i for i in sent]
-        print("sent:\n", sent)
-        out = tokenizer(sent, padding=True, add_special_tokens=False, return_tensors='pt')
+        conv_sent = ["<kor>: " + i for i in sent]
+        out = tokenizer(conv_sent, padding=True, add_special_tokens=False, return_tensors='pt')
         preds = model.generate(**out, num_beams=1)  # We do not find beam search helpful. Greedy decoding is enough.
         phones = tokenizer.batch_decode(preds.tolist(), skip_special_tokens=True)
-
-        print("phones:\n", phones)
-        print("ipa:\n", ipa)
-
+        pred_buffer.append((t_idx, sent, ipa, phones, ipa==phones))
+    # Save pickle
+    with open("./sents_unit_result.pkl", mode="wb") as f:
+        pickle.dump(pred_buffer, f)
+        print("len>", len(pred_buffer))
     exit()
 
     is_nikl = True
