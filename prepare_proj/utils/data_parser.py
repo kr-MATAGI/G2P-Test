@@ -1,6 +1,8 @@
 import os.path
 import pandas as pd
+import json
 from datasets import Dataset
+from typing import List
 
 class SIG_parser:
     def __init__(self, src_dir: str):
@@ -70,13 +72,54 @@ class SIG_parser:
         return Dataset.from_pandas(data)
 
 
+#### NIKL Parser
+#============================================================
+class NiklParser:
+#============================================================
+    def __init__(self, src_dir: str):
+        print(f"[NiklParser][__init__] src_dir: {src_dir}")
+        if not os.path.exists(src_dir):
+            raise Exception("Not Existed")
+        self.src_dir = src_dir
+        self.src_file_list = os.listdir(src_dir)
+        print(f"[NiklParser][__init__] src_dir - size: {len(self.src_file_list)}, list: {self.src_file_list}")
+
+    def parse_text(self):
+        all_text = []
+        for f_idx, file_name in enumerate(self.src_file_list):
+            full_path = self.src_dir + "/" + file_name
+            print(f"[NiklParser][parse_text] full_path: {full_path}")
+
+            json_data = None
+            with open(full_path, mode="r", encoding="utf-8") as json_f:
+                json_data = json.load(json_f)
+            print(f"[NIKLParser][parse_text] {file_name}.size: {len(json_data)}")
+
+            file_text = []
+            doc_obj = json_data["document"]
+            for doc_item in doc_obj:
+                sent_arr = doc_item["sentence"]
+                for sent_obj in sent_arr:
+                    form = sent_obj["form"]
+                    if 15 >= len(form) :
+                        continue
+                    file_text.append(form)
+            print(f"[NIKLParser][parse_text] all_text.size: {len(file_text)}")
+            all_text.extend(file_text)
+        print(f"[NIKLParser][parse_text] all_text.size: {len(all_text)}")
+
+        return all_text
+
+    def save_text(self, src_data: List[str], save_path: str):
+        print(f"[NIKLParser][save_text] save_path: {save_path}")
+
+        with open(save_path, mode="w", encoding="utf-8") as f:
+            for src_item in src_data:
+                f.write(src_item + "\n")
+            print(f"[NIKLParser][save_txt] Complete - Save.size: {len(src_data)}")
+
 ### MAIN ###
 if __name__ == '__main__':
-    sig_parser = SIG_parser(src_dir='../data/en/sigmorphon')
-
-    # tsv_to_txt 변환
-    for path in sig_parser.data_list:
-        txt_file = sig_parser.tsv_to_txt(path=sig_parser.src_dir+"/"+path)
-    print("[SIGMORPHON_Parser][__init__] finish")
-
-
+    nikl_parser = NiklParser(src_dir="../data/corpus/NIKL/SXNE2102203310")
+    nikl_forms = nikl_parser.parse_text()
+    nikl_parser.save_text(src_data=nikl_forms, save_path="../data/corpus/NIKL/only_text/nikl_only_text.txt")
