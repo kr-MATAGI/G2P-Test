@@ -1,3 +1,4 @@
+import os
 import pickle
 import evaluate
 
@@ -18,7 +19,6 @@ def check_wer_score(pkl_path: str):
 
     wer_score = wer_metric.compute(predictions=preds, references=ans)
     print(wer_score, len(ans))
-
 
 def compare_preds_sent_and_word(sent_pkl_path: str, word_pkl_path: str):
     sent_results, word_results = None, None
@@ -43,6 +43,10 @@ def compare_preds_sent_and_word(sent_pkl_path: str, word_pkl_path: str):
                 for p_i, (w, i, w_p, s_p) in enumerate(zip(word, ipa, word_pred, sent_pred)):
                     f.write(str(p_i)+"\t"+w+"\t"+i+"\t"+w_p+"\t"+s_p+"\t"+str(w_p==i)+"\t"+str(s_p==i)+"\n")
 
+def print_err_word_wrong_case(err_dir_path: str):
+    file_list = os.listdir(err_dir_path)
+    print(file_list)
+
 ### MAIN ###
 if "__main__" == __name__:
     print("byT5 결과 분석")
@@ -50,5 +54,6 @@ if "__main__" == __name__:
     # check_wer_score(pkl_path="../sents_unit_result.pkl")
     # check_wer_score(pkl_path="../word_unit_result.pkl")
 
-    compare_preds_sent_and_word(sent_pkl_path="../sent_unit_result.pkl",
-                                word_pkl_path="../word_unit_result.pkl")
+    # compare_preds_sent_and_word(sent_pkl_path="../sent_unit_result.pkl",
+    #                             word_pkl_path="../word_unit_result.pkl")
+    print_err_word_wrong_case(err_dir_path="./err_case")
