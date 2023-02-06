@@ -1,0 +1,324 @@
+file_index
+idx, word, ans, word_pred, sent_pred, is_word_wrong, is_sent_wrong
+
+130
+12	한자리에	hanʣarie	han.tzarie	hanʣarie	False	True
+
+84
+0	게시판을	keɕipʰanɯɭ	geɕipʰanɯɭ	keɕipʰanɯɭ	False	True
+
+783
+0	대령	tɛrjʌŋ	dɛrjʌŋ	tɛrjʌŋ	False	True
+
+958
+8	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+559
+0	곽재우	kwak̚.tzɛu	gwak̚.tzɛu	kwak̚.tzɛu	False	True
+
+701
+0	과연	kwajʌn	gwajʌn	kwajʌn	False	True
+
+370
+4	로켓을	rokʰesɯɭ	nokʰesɯɭ	rokʰesɯɭ	False	True
+
+5
+0	결국에는	kjʌɭgugenɯn	gjʌɭgugenɯn	kjʌɭgugenɯn	False	True
+
+39
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+155
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+673
+2	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+
+423
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+311
+8	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+853
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+853
+5	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+972
+5	그다음	gɯdaɯm	kɯdaɯm	gɯdaɯm	False	True
+
+330
+9	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+717
+0	방향이	paŋh.jaŋi	baŋh.jaŋi	paŋh.jaŋi	False	True
+
+749
+6	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+
+685
+0	가루를	karurɯɭ	garurɯɭ	karurɯɭ	False	True
+
+520
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+89
+17	정보	.tzʌŋbo	ʣʌŋbo	.tzʌŋbo	False	True
+
+300
+0	갈릴레오	kaɭʎ̟iɭleo	gaɭʎ̟iɭleo	kaɭʎ̟iɭleo	False	True
+
+388
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+13
+4	유지를	.juʣirɯɭ	.juʣihɛ	.juʣirɯɭ	False	True
+
+640
+0	대부분의	tɛbubune	dɛbubune	tɛbubune	False	True
+
+202
+3	권	kwʌn	gwʌn	kwʌn	False	True
+
+145
+0	그렇게까지	kɯrʌkʰekʼaʣi	gɯrʌkʰekʼaʣi	kɯrʌkʰekʼaʣi	False	True
+
+451
+1	그분은	gɯbunɯn	kɯbunɯn	gɯbunɯn	False	True
+
+613
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+613
+4	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+613
+11	힛	hit̚	hin	hit̚	False	True
+
+932
+13	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+190
+0	봐가지고는	pwagaʣigonɯn	bwagaʣigonɯn	pwagaʣigonɯn	False	True
+
+173
+13	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+592
+0	고야라는	ko.jaranɯn	go.jaranɯn	ko.jaranɯn	False	True
+
+142
+14	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+819
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+112
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+430
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+898
+2	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+870
+1	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+
+131
+6	휘몰아친	hwimoratsʰin	hwimoɭatsʰin	hwimoratsʰin	False	True
+
+581
+3	긁는	gɯŋnɯn	gɯɭlɯn	gɯŋnɯn	False	True
+
+137
+1	그런지에	gɯrʌnʣie	kɯrʌnʣie	gɯrʌnʣie	False	True
+
+410
+1	류신은	rjuɕinɯn	ɕinɯn	rjuɕinɯn	False	True
+
+319
+11	이론으로	ironɯro	ɲironɯro	ironɯro	False	True
+
+812
+5	좋은	.tzoɯn	ʣoɯn	.tzoɯn	False	True
+
+424
+0	글쓰기는	kɯɭsʼɯginɯn	gɯɭsʼɯginɯn	kɯɭsʼɯginɯn	False	True
+
+418
+20	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+761
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+761
+2	그로부터	gɯrobutʰʌ	kɯrobutʰʌ	gɯrobutʰʌ	False	True
+
+964
+16	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+
+574
+5	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+
+212
+5	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+
+183
+6	라면이	ramjʌɲi	namjʌɲi	ramjʌɲi	False	True
+
+542
+0	돈이	toɲi	doɲi	toɲi	False	True
+
+758
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+720
+2	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+29
+0	돈	ton	don	ton	False	True
+
+912
+0	그래야지	kɯrɛ.jaʣi	gɯrɛ.jaʣi	kɯrɛ.jaʣi	False	True
+
+303
+0	기자들이	kiʣadɯri	giʣadɯri	kiʣadɯri	False	True
+
+842
+2	로봇이	roboɕi	noboɕi	roboɕi	False	True
+
+842
+5	로봇이	roboɕi	noboɕi	roboɕi	False	True
+
+743
+0	과거에	kwagʌe	gwagʌe	kwagʌe	False	True
+
+910
+0	다	ta	da	ta	False	True
+
+560
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+894
+3	자	ʣa	t͡ɕa	ʣa	False	True
+
+708
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+556
+2	맥커너히도	mɛk̚kʰʌnʌhido	mɛk̚	mɛk̚kʰʌnʌhido	False	True
+
+181
+0	경기에	kjʌŋgie	gjʌŋgie	kjʌŋgie	False	True
+
+852
+6	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+
+891
+4	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+
+647
+2	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+172
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+659
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+822
+3	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+823
+1	그러니까	gɯrʌɲikʼa	kɯrʌɲikʼa	gɯrʌɲikʼa	False	True
+
+823
+3	근까	gɯnkʼa	kɯnkʼa	gɯnkʼa	False	True
+
+229
+2	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+
+121
+8	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+985
+2	분들일수록	bundɯriɭsʼurok̚	bundɯriɭsurok̚	bundɯriɭsʼurok̚	False	True
+
+382
+1	그다음	gɯdaɯm	kɯdaɯm	gɯdaɯm	False	True
+
+838
+0	관측을	kwantsʰɯgɯɭ	gwantsʰɯgɯɭ	kwantsʰɯgɯɭ	False	True
+
+838
+5	이론을	ironɯɭ	ɲironɯɭ	ironɯɭ	False	True
+
+945
+4	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+336
+1	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+372
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+834
+4	그러면서	gɯrʌmjʌnsʌ	kɯrʌmjʌnsʌ	gɯrʌmjʌnsʌ	False	True
+
+187
+12	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+606
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+527
+4	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+341
+0	김연아	kimjʌna	gimjʌna	kimjʌna	False	True
+
+482
+2	능가하는	nɯŋgahanɯn	nɯŋkʼahanɯn	nɯŋgahanɯn	False	True
+
+546
+1	그런데	gɯrʌntʼe	kɯrʌntʼe	gɯrʌntʼe	False	True
+
+401
+2	근데	gɯnde	kɯnde	gɯnde	False	True
+
+362
+10	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+295
+0	글쓰기는	kɯɭsʼɯginɯn	gɯɭsʼɯginɯn	kɯɭsʼɯginɯn	False	True
+
+151
+10	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+878
+0	과학과	kwahak̚kʼwa	gwahak̚kʼwa	kwahak̚kʼwa	False	True
+
+409
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+409
+8	그렇지만	gɯrʌtsʰiman	kɯrʌtsʰiman	gɯrʌtsʰiman	False	True
+
+760
+0	기간	kigan	gigan	kigan	False	True
+
+115
+2	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+76
+1	로켓이나	rokʰeɕina	nokʰeɕina	rokʰeɕina	False	True
+
+385
+1	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+86
+1	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+

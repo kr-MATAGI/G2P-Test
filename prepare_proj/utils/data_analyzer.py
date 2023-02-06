@@ -45,7 +45,27 @@ def compare_preds_sent_and_word(sent_pkl_path: str, word_pkl_path: str):
 
 def print_err_word_wrong_case(err_dir_path: str):
     file_list = os.listdir(err_dir_path)
-    print(file_list)
+
+    all_err = []
+    for file_name in file_list:
+        file_idx = file_name.split("_")[0]
+        full_path = err_dir_path+"/"+file_name
+        with open(full_path, mode="r", encoding="utf-8") as f:
+            lines = f.readlines()[1:]
+            lines = [x.replace("\n", "") for x in lines]
+            for line in lines:
+                sp_line = line.split("\t")
+                if "False" == sp_line[-2] and "True" == sp_line[-1]:
+                    all_err.append((file_idx, line))
+    # Write
+    with open("extract_err_case.txt", mode="w", encoding="utf-8") as f:
+        f.write("file_index\n")
+        f.write("idx, word, ans, word_pred, sent_pred, is_word_wrong, is_sent_wrong\n\n")
+
+        for err in all_err:
+            file_idx, content = err[0], "\t".join(err[1].split("\t"))
+            f.write(str(file_idx)+"\n")
+            f.write(content+"\n\n")
 
 ### MAIN ###
 if "__main__" == __name__:
