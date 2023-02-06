@@ -1,0 +1,83 @@
+file_index
+idx, word, ans, word_pred, sent_pred, is_word_wrong, is_sent_wrong
+
+560
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+
+112
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+
+115
+2	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+
+121
+8	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+130
+12	한자리에	hanʣarie	han.tzarie	hanʣarie	False	True
+
+
+131
+6	휘몰아친	hwimoratsʰin	hwimoɭatsʰin	hwimoratsʰin	False	True
+
+
+137
+1	그런지에	gɯrʌnʣie	kɯrʌnʣie	gɯrʌnʣie	False	True
+
+
+13
+4	유지를	.juʣirɯɭ	.juʣihɛ	.juʣirɯɭ	False	True
+
+
+142
+14	그래서	gɯrɛsʌ	kɯrɛsʌ	gɯrɛsʌ	False	True
+
+
+145
+0	그렇게까지	kɯrʌkʰekʼaʣi	gɯrʌkʰekʼaʣi	kɯrʌkʰekʼaʣi	False	True
+
+
+151
+10	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+
+172
+1	근데	gɯnde	kɯnde	gɯnde	False	True
+
+
+173
+13	그리고	gɯrigo	kɯrigo	gɯrigo	False	True
+
+181
+0	경기에	kjʌŋgie	gjʌŋgie	kjʌŋgie	False	Tru
+
+
+183
+6	라면이	ramjʌɲi	namjʌɲi	ramjʌɲi	False	True
+
+187
+12	그니까	gɯɲikʼa	kɯɲikʼa	gɯɲikʼa	False	True
+
+190
+0	봐가지고는	pwagaʣigonɯn	bwagaʣigonɯn	pwagaʣigonɯn	False	True
+
+202
+3	권	kwʌn	gwʌn	kwʌn	False	True
+
+
+212
+5	그러면	gɯrʌmjʌn	kɯrʌmjʌn	gɯrʌmjʌn	False	True
+
+229
+2	그까	gɯkʼa	kɯkʼa	gɯkʼa	False	True
+
+
+295
+0	글쓰기는	kɯɭsʼɯginɯn	gɯɭsʼɯginɯn	kɯɭsʼɯginɯn	False	True
+
+
+29
+0	돈	ton	don	ton	False	True
