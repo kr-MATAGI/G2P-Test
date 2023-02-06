@@ -1,5 +1,6 @@
 from transformers import T5ForConditionalGeneration, AutoTokenizer
 from utils.data_parser import SIG_parser, NiklParser
+from utils.convert_pronun import ConvertPronun
 
 import argparse
 import torch
@@ -84,6 +85,24 @@ if __name__ == '__main__':
     # 단어와 문장에서 오류 비교 하기 위해 모델
     model = T5ForConditionalGeneration.from_pretrained(args.checkpoint)
     tokenizer = AutoTokenizer.from_pretrained('google/byt5-small')
+
+    nikl_parser = NiklParser(src_dir="")  # For Load Dataset
+    _, _, test_data = nikl_parser.load_nikl_data(target_path="data/NIKL/for_byT5.txt")
+    pred_buffer = [] # [ (idx, sent, ipa, pred, conv_pred) ]
+    for t_idx, item in enumerate(test_data):
+        sent = item["word"].split(" ")
+        ipa = item["ipa"].split(" ")
+        kor_pron = item["pron"]
+
+        sent = ["<kor>: " + i for i in sent]
+        print("sent:\n", sent)
+        out = tokenizer(sent, padding=True, add_special_tokens=False, return_tensors='pt')
+        preds = model.generate(**out, num_beams=1)  # We do not find beam search helpful. Greedy decoding is enough.
+        phones = tokenizer.batch_decode(preds.tolist(), skip_special_tokens=True)
+
+        print("phones:\n", phones)
+        print("ipa:\n", ipa)
+
     exit()
 
     is_nikl = True
