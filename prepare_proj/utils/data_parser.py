@@ -160,11 +160,15 @@ class NiklParser:
         all_word_ipa_pair = [] # [ (word, ipa) ]
         for nikl_data in all_dataset:
             sent, ipa, kor_pron = nikl_data.split("\t")
-            sent = sent.split(" ")
-            sent = ["<" + lang + ">: " + x for x in sent]
-            ipa = ipa.split(" ")
-            for s, i in zip(sent, ipa):
-                all_word_ipa_pair.append((s, i))
+            # sent = sent.split(" ")
+            # sent = ["<" + lang + ">: " + x for x in sent]
+            # ipa = ipa.split(" ")
+            # pron = kor_pron.split(" ")
+            # for s, i, p in zip(sent, ipa, pron):
+            #     all_word_ipa_pair.append((s, i, p))
+            # sent, ipa, kor_pron = nikl_data.split("\t")
+            all_word_ipa_pair.append((sent, ipa, kor_pron))
+
         print(f"[NiklParser][load_nikl_data] all_word_ipa_pair.size: {len(all_word_ipa_pair)}")
 
         split_size = 0.1
@@ -176,26 +180,30 @@ class NiklParser:
 
         train_word, dev_word, test_word = [x[0] for x in train_pairs], [x[0] for x in dev_pairs], [x[0] for x in test_pairs]
         train_ipa, dev_ipa, test_ipa = [x[1] for x in train_pairs], [x[1] for x in dev_pairs], [x[1] for x in test_pairs]
+        train_pron, dev_pron, test_pron = [x[2] for x in train_pairs], [x[2] for x in dev_pairs], [x[2] for x in test_pairs]
         print(f"[NiklParser][load_nikl_data] word - train/dev/test.size: {len(train_word)}/{len(dev_word)}/{len(test_word)}")
         print(f"[NiklParser][load_nikl_data] ipa - train/dev/test.size: {len(train_ipa)}/{len(dev_ipa)}/{len(test_ipa)}")
+        print(f"[NiklParser][load_nikl_data] pron - train/dev/test.size: {len(train_pron)}/{len(dev_pron)}/{len(test_pron)}")
 
         train_df = pd.DataFrame()
         train_df["word"] = train_word
         train_df["ipa"] = train_ipa
+        train_df["pron"] = train_pron
 
         dev_df = pd.DataFrame()
         dev_df["word"] = dev_word
         dev_df["ipa"] = dev_ipa
+        dev_df["pron"] = dev_pron
 
         test_df = pd.DataFrame()
         test_df["word"] = test_word
         test_df["ipa"] = test_ipa
+        test_df["pron"] = test_pron
 
         train_dataset = Dataset.from_pandas(train_df)
         dev_dataset = Dataset.from_pandas(dev_df)
         test_dataset = Dataset.from_pandas(test_df)
         return train_dataset, dev_dataset, test_dataset
-
 
 ### MAIN ###
 if __name__ == '__main__':
@@ -206,4 +214,5 @@ if __name__ == '__main__':
     #                                                 save_path="../data/corpus/NIKL/for_byT5.txt",
     #                                                 target_size=10000)
 
-    nikl_parser.load_nikl_data(target_path='../data/corpus/NIKL/for_byT5.txt')
+    train_dataset, dev_dataset, test_dataset = nikl_parser.load_nikl_data(target_path='../data/corpus/NIKL/for_byT5.txt')
+    print(test_dataset[:10]["pron"])

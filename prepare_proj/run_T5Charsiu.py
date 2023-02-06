@@ -81,6 +81,11 @@ if __name__ == '__main__':
     cer_metric = load_metric("cer") # character error rate
     wer_metric = load_metric("wer")
 
+    # 단어와 문장에서 오류 비교 하기 위해 모델
+    model = T5ForConditionalGeneration.from_pretrained(args.checkpoint)
+    tokenizer = AutoTokenizer.from_pretrained('google/byt5-small')
+    exit()
+
     is_nikl = True
     if args.train:
         if not is_nikl:
@@ -178,3 +183,4 @@ if __name__ == '__main__':
         print(eval_results)
         with open(os.path.join(args.output_dir, 'results'), 'w') as out:
             out.write('%s\t%s\t%s\n'%(args.language,eval_results['eval_cer'], eval_results['eval_wer']))
+
