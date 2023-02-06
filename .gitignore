@@ -7,3 +7,4 @@ results/
 
 ### corpus
 *.json
+prepare_proj/data/corpus/NIKL/only_text
