@@ -12,13 +12,16 @@ def check_wer_score(pkl_path: str):
 
     ans = []
     preds = []
+    print(len(results))
+    calc_count = 0
     for item in results:
-        if len(item[-3]) == len(item[-2]):
-            ans.extend(item[-3])
-            preds.extend(item[-2])
+        if len(item[2]) == len(item[3]):
+            ans.extend(item[2])
+            preds.extend(item[3])
+            calc_count += 1
 
     wer_score = wer_metric.compute(predictions=preds, references=ans)
-    print(wer_score, len(ans))
+    print(wer_score, calc_count)
 
 def compare_preds_sent_and_word(sent_pkl_path: str, word_pkl_path: str):
     sent_results, word_results = None, None
@@ -71,9 +74,9 @@ def print_err_word_wrong_case(err_dir_path: str):
 if "__main__" == __name__:
     print("byT5 결과 분석")
 
-    # check_wer_score(pkl_path="../sents_unit_result.pkl")
-    # check_wer_score(pkl_path="../word_unit_result.pkl")
+    check_wer_score(pkl_path="../sent_unit_result.pkl")
+    check_wer_score(pkl_path="../word_unit_result.pkl")
 
     # compare_preds_sent_and_word(sent_pkl_path="../sent_unit_result.pkl",
     #                             word_pkl_path="../word_unit_result.pkl")
-    print_err_word_wrong_case(err_dir_path="./err_case")
+    # print_err_word_wrong_case(err_dir_path="./err_case")
