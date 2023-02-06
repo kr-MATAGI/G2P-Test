@@ -139,10 +139,16 @@ if __name__ == '__main__':
         trainer.save_model(args.output_dir)
 
     if args.evaluate:
-        sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
-        test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
-        test_dataset = test_data.map(prepare_pron_dataset)
-
+        if not is_nikl:
+            sig_parser = SIG_parser(src_dir='./data/en/sigmorphon')
+            test_data = sig_parser.sig_data_load(target_lang="eng_us", mode="test")
+            test_dataset = test_data.map(prepare_pron_dataset)
+        else:
+            nikl_parser = NiklParser(src_dir="")  # For Load Dataset
+            train_data, dev_data, test_data = nikl_parser.load_nikl_data(target_path="data/NIKL/for_byT5.txt")
+            train_dataset = train_data.map(prepare_ipa_dataset)
+            dev_dataset = dev_data.map(prepare_ipa_dataset)
+            test_dataset = test_data.map(prepare_ipa_dataset)
         tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
