@@ -159,9 +159,12 @@ class NiklParser:
 
         all_word_ipa_pair = [] # [ (word, ipa) ]
         for nikl_data in all_dataset:
-            word, ipa, kor_pron = nikl_data.split("\t")
-            word = "<" + lang + ">:" + word
-            all_word_ipa_pair.append((word, ipa, kor_pron))
+            sent, ipa, kor_pron = nikl_data.split("\t")
+            sent = sent.split(" ")
+            sent = ["<" + lang + ">: " + x for x in sent]
+            ipa = ipa.split(" ")
+            for s, i in zip(sent, ipa):
+                all_word_ipa_pair.append((s, i))
         print(f"[NiklParser][load_nikl_data] all_word_ipa_pair.size: {len(all_word_ipa_pair)}")
 
         split_size = 0.1
