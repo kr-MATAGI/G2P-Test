@@ -149,12 +149,58 @@ class NiklParser:
                 f.write(shuffled_data)
             print(f"[extract_data_from_converted_results] Complete Save ! : {save_path}")
 
+    def load_nikl_data(self, target_path: str):
+        # Load
+        all_dataset = None
+        print(f"[NiklParser][load_nikl_data] target_path: {target_path}")
+        with open(target_path, mode="r", encoding="utf-8") as f:
+            all_dataset = f.readlines()
+            all_dataset = [x.replace("\n", "") for x in all_dataset]
+        print(f"[NiklParser][load_nikl_data] all_dataset.size: {len(all_dataset)}")
+
+        all_word_ipa_pair = [] # [ (word, ipa) ]
+        for nikl_data in all_dataset:
+            word, ipa, kor_pron = nikl_data.split("\t")
+            all_word_ipa_pair.append((word, ipa, kor_pron))
+        print(f"[NiklParser][load_nikl_data] all_word_ipa_pair.size: {len(all_word_ipa_pair)}")
+
+        split_size = 0.1
+        dev_end_idx = int(len(all_word_ipa_pair) * (split_size * 8))
+        train_pairs = all_word_ipa_pair[:dev_end_idx]
+        dev_pairs = all_word_ipa_pair[dev_end_idx:int(dev_end_idx+len(all_word_ipa_pair)*split_size)]
+        test_pairs = all_word_ipa_pair[int(dev_end_idx+len(all_word_ipa_pair)*split_size):]
+        print(f"[NiklParser][load_nikl_data] train/dev/test.size: {len(train_pairs)}/{len(dev_pairs)}/{len(test_pairs)}")
+
+        train_word, dev_word, test_word = [x[0] for x in train_pairs], [x[0] for x in dev_pairs], [x[0] for x in test_pairs]
+        train_ipa, dev_ipa, test_ipa = [x[1] for x in train_pairs], [x[1] for x in dev_pairs], [x[1] for x in test_pairs]
+        print(f"[NiklParser][load_nikl_data] word - train/dev/test.size: {len(train_word)}/{len(dev_word)}/{len(test_word)}")
+        print(f"[NiklParser][load_nikl_data] ipa - train/dev/test.size: {len(train_ipa)}/{len(dev_ipa)}/{len(test_ipa)}")
+
+        train_df = pd.DataFrame()
+        train_df["word"] = train_word
+        train_df["ipa"] = train_ipa
+
+        dev_df = pd.DataFrame()
+        dev_df["word"] = dev_word
+        dev_df["ipa"] = dev_ipa
+
+        test_df = pd.DataFrame()
+        test_df["word"] = test_word
+        test_df["ipa"] = test_ipa
+
+        train_dataset = Dataset.from_pandas(train_df)
+        dev_dataset = Dataset.from_pandas(dev_df)
+        test_dataset = Dataset.from_pandas(test_df)
+        return train_dataset, dev_dataset, test_dataset
+
+
 ### MAIN ###
 if __name__ == '__main__':
     nikl_parser = NiklParser(src_dir="../data/corpus/NIKL/SXNE2102203310")
     # nikl_forms = nikl_parser.parse_text()
     # nikl_parser.save_text(src_data=nikl_forms, save_path="../data/corpus/NIKL/only_text/nikl_only_text.txt")
-    nikl_parser.extract_data_from_converted_results(src_dir_path="../data/corpus/NIKL/nikl_ipa_converted/results",
-                                                    save_path="../data/corpus/NIKL/for_byT5.txt",
-                                                    target_size=10000)
+    # nikl_parser.extract_data_from_converted_results(src_dir_path="../data/corpus/NIKL/nikl_ipa_converted/results",
+    #                                                 save_path="../data/corpus/NIKL/for_byT5.txt",
+    #                                                 target_size=10000)
 
+    nikl_parser.load_nikl_data(target_path='../data/corpus/NIKL/for_byT5.txt')
