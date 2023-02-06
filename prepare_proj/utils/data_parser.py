@@ -1,6 +1,8 @@
 import os.path
 import pandas as pd
 import json
+import random
+
 from datasets import Dataset
 from typing import List
 
@@ -84,7 +86,7 @@ class NiklParser:
         self.src_file_list = os.listdir(src_dir)
         print(f"[NiklParser][__init__] src_dir - size: {len(self.src_file_list)}, list: {self.src_file_list}")
 
-    def parse_text(self):
+    def parse_text(self, data_split_size: int=10000):
         all_text = []
         for f_idx, file_name in enumerate(self.src_file_list):
             full_path = self.src_dir + "/" + file_name
@@ -107,6 +109,10 @@ class NiklParser:
             print(f"[NIKLParser][parse_text] all_text.size: {len(file_text)}")
             all_text.extend(file_text)
         print(f"[NIKLParser][parse_text] all_text.size: {len(all_text)}")
+
+        if 0 < data_split_size:
+            random.shuffle(all_text)
+            all_text = all_text[:data_split_size]
 
         return all_text
 
