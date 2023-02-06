@@ -97,7 +97,6 @@ if __name__ == '__main__':
             dev_dataset = dev_data.map(prepare_ipa_dataset)
             test_dataset = test_data.map(prepare_ipa_dataset)
 
-
         tokenizer = AutoTokenizer.from_pretrained("google/byt5-small")
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 

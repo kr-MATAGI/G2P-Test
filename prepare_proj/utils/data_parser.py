@@ -148,7 +148,7 @@ class NiklParser:
                 f.write(shuffled_data)
             print(f"[extract_data_from_converted_results] Complete Save ! : {save_path}")
 
-    def load_nikl_data(self, target_path: str):
+    def load_nikl_data(self, target_path: str, lang: str="kor"):
         # Load
         all_dataset = None
         print(f"[NiklParser][load_nikl_data] target_path: {target_path}")
@@ -160,6 +160,7 @@ class NiklParser:
         all_word_ipa_pair = [] # [ (word, ipa) ]
         for nikl_data in all_dataset:
             word, ipa, kor_pron = nikl_data.split("\t")
+            word = "<" + lang + ">:" + word
             all_word_ipa_pair.append((word, ipa, kor_pron))
         print(f"[NiklParser][load_nikl_data] all_word_ipa_pair.size: {len(all_word_ipa_pair)}")
 

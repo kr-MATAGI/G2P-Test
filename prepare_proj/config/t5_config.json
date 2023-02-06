@@ -1,10 +1,11 @@
 {
   "model": "byt5",
-  "language": "en-us",
+  "language": "kor",
   "model_name": "charsiu/g2p_multilingual_byT5_tiny_16_layers_100",
   "output_dir": "./results/byt5",
+  "checkpoint": "./results/byt5",
   "train": true,
-  "evaluate": false,
+  "evaluate": true,
   "train_batch_size": 16,
   "eval_batch_size": 64,
   "learning_rate": 1e-4,
