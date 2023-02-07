@@ -206,4 +206,3 @@ if __name__ == '__main__':
         print(eval_results)
         with open(os.path.join(args.output_dir, 'results'), 'w') as out:
             out.write('%s\t%s\t%s\n'%(args.language,eval_results['eval_cer'], eval_results['eval_wer']))
-

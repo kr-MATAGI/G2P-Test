@@ -53,19 +53,89 @@ def print_err_word_wrong_case(err_dir_path: str):
         with open(full_path, mode="r", encoding="utf-8") as f:
             lines = f.readlines()[1:]
             lines = [x.replace("\n", "") for x in lines]
+            sent = []
+
             for line in lines:
                 sp_line = line.split("\t")
-                if "False" == sp_line[-2] and "True" == sp_line[-1]:
-                    all_err.append((file_idx, line))
+                sent.append(sp_line[1])
+
+            for line in lines:
+                sp_line = line.split("\t")
+                if sp_line[3] != sp_line[4]:
+                    all_err.append((file_idx, line, " ".join(sent)))
     # Write
-    with open("extract_err_case.txt", mode="w", encoding="utf-8") as f:
+    with open("diff_pred_case.txt", mode="w", encoding="utf-8") as f:
         f.write("file_index\n")
         f.write("idx, word, ans, word_pred, sent_pred, is_word_wrong, is_sent_wrong\n\n")
 
         for err in all_err:
             file_idx, content = err[0], "\t".join(err[1].split("\t"))
             f.write(str(file_idx)+"\n")
+            f.write(err[-1]+"\n")
             f.write(content+"\n\n")
+
+def eojoel_diff_ipa_checking(src_path: str):
+    all_eojeols = []
+    with open(src_path, mode="rb") as f:
+        all_eojeols = pickle.load(f)
+    print(len(all_eojeols[0]), all_eojeols[0])
+
+    eojeol_dict = {}
+    for idx, item in enumerate(all_eojeols):
+        eojeol_list = item[1]
+        for e_idx, eojeol in enumerate(eojeol_list):
+            if eojeol not in eojeol_dict.keys():
+                eojeol_dict[eojeol] = [item[3][e_idx]]
+            else:
+                if item[3][e_idx] not in eojeol_dict[eojeol]:
+                    eojeol_dict[eojeol].append(item[3][e_idx])
+
+    eojeol_count = len(eojeol_dict.keys())
+    ipa_count = 0
+    for k, v in eojeol_dict.items():
+        ipa_count += len(v)
+        if 2 <= len(v):
+            print(k, ":", v)
+    print("eojeol_cnt: ", eojeol_count, "ipa_cnt: ", ipa_count, "ipa/eojeol: ", ipa_count/eojeol_count)
+
+def nikl_corpus_compare_word_and_ipa(src_path: str):
+    all_nikl_data = []
+    with open(src_path, mode="r", encoding="utf-8") as f:
+        all_nikl_data = f.readlines()
+        all_nikl_data = [x.replace("\n", "") for x in all_nikl_data]
+
+    print(len(all_nikl_data))
+    eojeol_dict = {}
+    count = 0
+    for nikl_data in all_nikl_data:
+        sent, ipa_sent, kor_pron = nikl_data.split("\t")
+        ipa_sent = ipa_sent.replace(" esʌ ", " ")
+        sp_sent = sent.split(" ")
+        sp_ipa = ipa_sent.split(" ")
+        if len(sp_sent) != len(sp_ipa):
+            # print(sp_sent)
+            # print(sp_ipa)
+            # input()
+            count += 1
+            continue
+
+        for word, ipa in zip(sp_sent, sp_ipa):
+            if word not in eojeol_dict.keys():
+                eojeol_dict[word] = [ipa]
+            else:
+                if ipa not in eojeol_dict[word]:
+                    eojeol_dict[word].append(ipa)
+
+    eojeol_cnt = len(eojeol_dict.keys())
+    ipa_cnt = 0
+    for k, v in eojeol_dict.items():
+        ipa_cnt += len(v)
+        if 2 <= len(v):
+            print(k, ":", v)
+    print("eojeol_cnt: ", eojeol_cnt, "ipa_cnt: ", ipa_cnt, "ipa_cnt/eojeol_cnt:", ipa_cnt/eojeol_cnt)
+    print(count)
+
+
 
 ### MAIN ###
 if "__main__" == __name__:
@@ -76,4 +146,7 @@ if "__main__" == __name__:
 
     # compare_preds_sent_and_word(sent_pkl_path="../sent_unit_result.pkl",
     #                             word_pkl_path="../word_unit_result.pkl")
-    print_err_word_wrong_case(err_dir_path="./err_case")
+    # print_err_word_wrong_case(err_dir_path="./err_case")
+
+    # eojoel_diff_ipa_checking("../sent_unit_result.pkl")
+    nikl_corpus_compare_word_and_ipa(src_path="../data/NIKL/for_byT5.txt")
