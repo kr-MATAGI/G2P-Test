@@ -1,0 +1,42 @@
+데이터 파일은 따로 요청 부탁드립니다.
+```
+- NIKL
+    - for_byT5.txt
+- kr:
+    - ipa-dict
+        - ko.txt
+    - pronunciation
+        - pronunciation_edit_ko_CMUDict.txt
+        - pronunciation_kor_dev.tsv
+        - pronunciation_kor_test.tsv
+        - pronunciation_kor_train.tsv
+    - sigmorphon
+        - hang_narrow_filtered.txt
+        - kor_dev.tsv
+        - kor_test.tsv
+        - kor_train.tsv
+        - sigmorphon_fixed_list.txt
+        - wikipron_without_sigmorphon.txt
+    - dictionary.txt
+    - g2p_dictionary.txt
+    - save_pnu_preds_1.txt
+    - save_pnu_preds_2.txt
+- kcc:
+    - test_kor_src_data.pkl
+    - test_kor_tgt_data.pkl
+- en:
+    - CMUDict
+        - cmudict-0.7b-ipa.txt
+        - edit_en_CMUDict.txt
+    - ipa-dict
+        - en_US.txt
+    - nettalk
+        - dietterich-correction-to-nettalk
+        - nettalk.data
+        - nettalk.list
+        - nettalk.names
+    - sigmorphon
+        - eng_us_dev.tsv
+        - eng_us_test.tsv
+        - eng_us_train.tsv
+```
